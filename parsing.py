@@ -45,15 +45,15 @@ def main():
 
     # create a list of directories to loop through
     clothing_dirs = [
-        dir.clothing_accessories,
-        dir.clothing_bags,
-        dir.clothing_bottoms,
-        dir.clothing_dresses,
-        dir.clothing_hats,
-        dir.clothing_shoes,
-        dir.clothing_socks,
-        dir.clothing_tops,
-        dir.clothing_umbrellas
+        #dir.clothing_accessories,
+        #dir.clothing_bags,
+        #dir.clothing_bottoms,
+        #dir.clothing_dresses,
+        #dir.clothing_hats, // problem
+        #dir.clothing_shoes,
+        #dir.clothing_socks, // problem
+        #dir.clothing_tops, // problem
+        #dir.clothing_umbrellas
     ]
 
     clothing_sources = ["sister", "label", "kick"]
@@ -70,7 +70,7 @@ def main():
             new_key = key.lower().replace(" ", "_")
             new_value = []
 
-            image_links = value["variationImageLinks"]
+            image_links = value["variationImageLinks"] if "variationImageLinks" in value else None
             buy_price = value["priceBuy"]
             sell_price = value["priceSell"]
             sources = []
@@ -91,27 +91,27 @@ def main():
                     sources.append(source)
 
             
+            if "variations" in value:
+                for index, item in enumerate(value["variations"]):
+                    variant = {}
+                    # set image name and dir to save in
+                    image_name = new_key + "_" + item.lower().replace(" ", "_") + ".png"
 
-            for index, item in enumerate(value["variations"]):
-                variant = {}
-                # set image name and dir to save in
-                image_name = new_key + "_" + item.lower().replace(" ", "_") + ".png"
+                    # download images from the web
+                    if not os.path.exists(clothing_category_image_dir):
+                        os.makedirs(clothing_category_image_dir)
+                    urllib.request.urlretrieve(image_links[index], clothing_category_image_dir + image_name)
 
-                # download images from the web
-                if not os.path.exists(clothing_category_image_dir):
-                    os.makedirs(clothing_category_image_dir)
-                urllib.request.urlretrieve(image_links[index], clothing_category_image_dir + image_name)
-
-                # set the variant name and image name in the new dictionary
-                variant["variant"] = item
-                variant["image_uri"] = image_name
-                variant["sources"] = sources
-                variant["name"] = {
-                        "name-USen": key.lower(),
-                    }
-                variant["buy-price"] = buy_price
-                variant["sell-price"] = sell_price
-                new_value.append(variant)
+                    # set the variant name and image name in the new dictionary
+                    variant["variant"] = item
+                    variant["image_uri"] = image_name
+                    variant["sources"] = sources
+                    variant["name"] = {
+                            "name-USen": key.lower(),
+                        }
+                    variant["buy-price"] = buy_price
+                    variant["sell-price"] = sell_price
+                    new_value.append(variant)
 
             if len(new_value) == 0:
                 variant = {}
