@@ -1,6 +1,9 @@
 import json
+from urllib.error import HTTPError
 import urllib.request
 import os
+import re
+import unidecode
 
 class dir: # globals
     cwd = os.getcwd() + "/"
@@ -45,15 +48,15 @@ def main():
 
     # create a list of directories to loop through
     clothing_dirs = [
-        #dir.clothing_accessories,
-        #dir.clothing_bags,
-        #dir.clothing_bottoms,
-        #dir.clothing_dresses,
-        #dir.clothing_hats, // problem
-        #dir.clothing_shoes,
-        #dir.clothing_socks, // problem
-        #dir.clothing_tops, // problem
-        #dir.clothing_umbrellas
+        dir.clothing_accessories,
+        dir.clothing_bags,
+        dir.clothing_bottoms,
+        dir.clothing_dresses,
+        dir.clothing_hats,
+        dir.clothing_shoes,
+        dir.clothing_socks,
+        dir.clothing_tops,
+        dir.clothing_umbrellas
     ]
 
     clothing_sources = ["sister", "label", "kick"]
@@ -66,13 +69,27 @@ def main():
         with open(dir.cwd + dir.clothing + d[1]) as f:
             data = json.load(f)
 
-        for key, value in data.items():
+        for k, value in data.items():
+            # get the cross reference data for better accuracy
+            key = unidecode.unidecode(k)
+            alter_key = key.lower().replace("-", "_").replace(" ", "_")
+            cross_reference_key = re.sub(r'[^\w]', '', alter_key).replace("_", "-").replace("--", "-")
+            
+            error = False
+            try:
+                with open(dir.cwd + "items/" + cross_reference_key + ".json") as f:
+                    cross_reference = json.load(f)
+            except FileNotFoundError as err:
+                error = True
+
+            cross_reference_data = cross_reference["games"]["nh"] if not error else {}
+
             new_key = key.lower().replace(" ", "_")
             new_value = []
 
             image_links = value["variationImageLinks"] if "variationImageLinks" in value else None
-            buy_price = value["priceBuy"]
-            sell_price = value["priceSell"]
+            buy_price = cross_reference_data["buyPrices"][0]["value"] if "buyPrices" in cross_reference_data else value["priceBuy"]
+            sell_price = cross_reference_data["sellPrice"]["value"] if "sellPrice" in cross_reference_data else value["priceSell"]
             sources = []
 
             # get list of source name
@@ -95,13 +112,18 @@ def main():
                 for index, item in enumerate(value["variations"]):
                     variant = {}
                     # set image name and dir to save in
-                    image_name = new_key + "_" + item.lower().replace(" ", "_") + ".png"
+                    image_name = new_key + "_" + item.lower().replace(",", "").replace(" ", "_") + ".png"
 
                     # download images from the web
                     if not os.path.exists(clothing_category_image_dir):
                         os.makedirs(clothing_category_image_dir)
-                    urllib.request.urlretrieve(image_links[index], clothing_category_image_dir + image_name)
-
+                    try:
+                        urllib.request.urlretrieve(image_links[index], clothing_category_image_dir + image_name)
+                    except HTTPError as err:
+                        print(image_links[index])
+                    except IndexError as err:
+                        print(new_key)
+                        
                     # set the variant name and image name in the new dictionary
                     variant["variant"] = item
                     variant["image_uri"] = image_name
@@ -120,7 +142,13 @@ def main():
                 # download images from the web
                 if not os.path.exists(clothing_category_image_dir):
                     os.makedirs(clothing_category_image_dir)
-                urllib.request.urlretrieve(value["imageLink"], clothing_category_image_dir + image_name)
+                
+                try:
+                    urllib.request.urlretrieve(value["imageLink"], clothing_category_image_dir + image_name)
+                except HTTPError as err:
+                    print(image_links[index])
+                except IndexError as err:
+                    print(new_key)
 
                 variant["variant"] = None
                 variant["image_uri"] = image_name

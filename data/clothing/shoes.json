@@ -1,0 +1,5478 @@
+{
+    "antique_boots": [
+        {
+            "variant": "Black",
+            "image_uri": "antique_boots_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "antique boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "antique_boots_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "antique boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Greige",
+            "image_uri": "antique_boots_greige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "antique boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        }
+    ],
+    "armor_shoes": [
+        {
+            "variant": null,
+            "image_uri": "armor_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "armor shoes"
+            },
+            "buy-price": 12000,
+            "sell-price": 3000
+        }
+    ],
+    "babouches": [
+        {
+            "variant": "Yellow",
+            "image_uri": "babouches_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "babouches_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Mint",
+            "image_uri": "babouches_mint.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Red",
+            "image_uri": "babouches_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "babouches_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "babouches_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "babouches_orange.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "babouches_gray.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "babouches"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        }
+    ],
+    "ballet_slippers": [
+        {
+            "variant": "Pink",
+            "image_uri": "ballet_slippers_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "Mint",
+            "image_uri": "ballet_slippers_mint.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "ballet_slippers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "ballet_slippers_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "Black",
+            "image_uri": "ballet_slippers_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "White",
+            "image_uri": "ballet_slippers_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "ballet_slippers_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        },
+        {
+            "variant": "Red",
+            "image_uri": "ballet_slippers_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "ballet slippers"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        }
+    ],
+    "basketball_shoes": [
+        {
+            "variant": "Red",
+            "image_uri": "basketball_shoes_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "basketball_shoes_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "basketball_shoes_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Green",
+            "image_uri": "basketball_shoes_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "basketball_shoes_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "basketball_shoes_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "basketball_shoes_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "basketball_shoes_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "basketball shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        }
+    ],
+    "beaded_sandals": [
+        {
+            "variant": "Orange",
+            "image_uri": "beaded_sandals_orange.png",
+            "sources": [],
+            "name": {
+                "name-USen": "beaded sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "beaded_sandals_purple.png",
+            "sources": [],
+            "name": {
+                "name-USen": "beaded sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "beaded_sandals_yellow.png",
+            "sources": [],
+            "name": {
+                "name-USen": "beaded sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Red",
+            "image_uri": "beaded_sandals_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "beaded sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Green",
+            "image_uri": "beaded_sandals_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "beaded sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "beaded_sandals_beige.png",
+            "sources": [],
+            "name": {
+                "name-USen": "beaded sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        }
+    ],
+    "boots": [
+        {
+            "variant": "Green",
+            "image_uri": "boots_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "boots"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Black",
+            "image_uri": "boots_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "boots"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "boots_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "boots"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Red",
+            "image_uri": "boots_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "boots"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Olive",
+            "image_uri": "boots_olive.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "boots"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        }
+    ],
+    "business_shoes": [
+        {
+            "variant": "Black",
+            "image_uri": "business_shoes_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "business shoes"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "business_shoes_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "business shoes"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        }
+    ],
+    "cleats": [
+        {
+            "variant": "Blue",
+            "image_uri": "cleats_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "cleats_light_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Red",
+            "image_uri": "cleats_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "cleats_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Black",
+            "image_uri": "cleats_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "cleats_orange.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Green",
+            "image_uri": "cleats_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "cleats_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "cleats"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        }
+    ],
+    "comfy_sandals": [
+        {
+            "variant": "Brown",
+            "image_uri": "comfy_sandals_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "White",
+            "image_uri": "comfy_sandals_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Green",
+            "image_uri": "comfy_sandals_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "comfy_sandals_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Red",
+            "image_uri": "comfy_sandals_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "comfy_sandals_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "comfy_sandals_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "comfy_sandals_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "comfy sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        }
+    ],
+    "cowboy_boots": [
+        {
+            "variant": "Brown",
+            "image_uri": "cowboy_boots_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cowboy boots"
+            },
+            "buy-price": 2380,
+            "sell-price": 595
+        },
+        {
+            "variant": "Black",
+            "image_uri": "cowboy_boots_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cowboy boots"
+            },
+            "buy-price": 2380,
+            "sell-price": 595
+        },
+        {
+            "variant": "Ivory",
+            "image_uri": "cowboy_boots_ivory.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cowboy boots"
+            },
+            "buy-price": 2380,
+            "sell-price": 595
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "cowboy_boots_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cowboy boots"
+            },
+            "buy-price": 2380,
+            "sell-price": 595
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "cowboy_boots_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cowboy boots"
+            },
+            "buy-price": 2380,
+            "sell-price": 595
+        }
+    ],
+    "cross-belt_sandals": [
+        {
+            "variant": "Green",
+            "image_uri": "cross-belt_sandals_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "cross-belt sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "cross-belt_sandals_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "cross-belt sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "cross-belt_sandals_gray.png",
+            "sources": [],
+            "name": {
+                "name-USen": "cross-belt sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "cross-belt_sandals_brown.png",
+            "sources": [],
+            "name": {
+                "name-USen": "cross-belt sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Black",
+            "image_uri": "cross-belt_sandals_black.png",
+            "sources": [],
+            "name": {
+                "name-USen": "cross-belt sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "cross-belt_sandals_purple.png",
+            "sources": [],
+            "name": {
+                "name-USen": "cross-belt sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        }
+    ],
+    "cute_sneakers": [
+        {
+            "variant": "Light blue",
+            "image_uri": "cute_sneakers_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cute sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Green",
+            "image_uri": "cute_sneakers_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cute sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "cute_sneakers_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cute sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "cute_sneakers_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cute sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "cute_sneakers_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cute sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "cute_sneakers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "cute sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        }
+    ],
+    "dal_slippers": [
+        {
+            "variant": null,
+            "image_uri": "dal_slippers.png",
+            "sources": [
+                "Mail from Dodo Airlines"
+            ],
+            "name": {
+                "name-USen": "dal slippers"
+            },
+            "buy-price": -1,
+            "sell-price": 1010
+        }
+    ],
+    "earth-egg_shoes": [
+        {
+            "variant": null,
+            "image_uri": "earth-egg_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "earth-egg shoes"
+            },
+            "buy-price": -1,
+            "sell-price": 800
+        }
+    ],
+    "embroidered_shoes": [
+        {
+            "variant": "Red",
+            "image_uri": "embroidered_shoes_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "embroidered shoes"
+            },
+            "buy-price": 2100,
+            "sell-price": 525
+        },
+        {
+            "variant": "White",
+            "image_uri": "embroidered_shoes_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "embroidered shoes"
+            },
+            "buy-price": 2100,
+            "sell-price": 525
+        },
+        {
+            "variant": "Black",
+            "image_uri": "embroidered_shoes_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "embroidered shoes"
+            },
+            "buy-price": 2100,
+            "sell-price": 525
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "embroidered_shoes_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "embroidered shoes"
+            },
+            "buy-price": 2100,
+            "sell-price": 525
+        }
+    ],
+    "faux-fur_ankle_booties": [
+        {
+            "variant": "Olive",
+            "image_uri": "faux-fur_ankle_booties_olive.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-fur ankle booties"
+            },
+            "buy-price": 1450,
+            "sell-price": 362
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "faux-fur_ankle_booties_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-fur ankle booties"
+            },
+            "buy-price": 1450,
+            "sell-price": 362
+        },
+        {
+            "variant": "Ruby red",
+            "image_uri": "faux-fur_ankle_booties_ruby_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-fur ankle booties"
+            },
+            "buy-price": 1450,
+            "sell-price": 362
+        },
+        {
+            "variant": "Navy blue",
+            "image_uri": "faux-fur_ankle_booties_navy_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-fur ankle booties"
+            },
+            "buy-price": 1450,
+            "sell-price": 362
+        }
+    ],
+    "faux-shearling_boots": [
+        {
+            "variant": "Beige",
+            "image_uri": "faux-shearling_boots_beige.png",
+            "sources": [],
+            "name": {
+                "name-USen": "faux-shearling boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "faux-shearling_boots_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "faux-shearling boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Green",
+            "image_uri": "faux-shearling_boots_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "faux-shearling boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Black",
+            "image_uri": "faux-shearling_boots_black.png",
+            "sources": [],
+            "name": {
+                "name-USen": "faux-shearling boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "faux-shearling_boots_gray.png",
+            "sources": [],
+            "name": {
+                "name-USen": "faux-shearling boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        }
+    ],
+    "faux-suede_sneakers": [
+        {
+            "variant": "Berry red",
+            "image_uri": "faux-suede_sneakers_berry_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "faux-suede_sneakers_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "faux-suede_sneakers_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Green",
+            "image_uri": "faux-suede_sneakers_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "faux-suede_sneakers_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Navy blue",
+            "image_uri": "faux-suede_sneakers_navy_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "faux-suede_sneakers_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "faux-suede_sneakers_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "faux-suede sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        }
+    ],
+    "flip-flops": [
+        {
+            "variant": "Blue",
+            "image_uri": "flip-flops_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Green",
+            "image_uri": "flip-flops_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "flip-flops_yellow.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "White",
+            "image_uri": "flip-flops_white.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "flip-flops_orange.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "flip-flops_light_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "flip-flops_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Red",
+            "image_uri": "flip-flops_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "flip-flops"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        }
+    ],
+    "flower_sandals": [
+        {
+            "variant": "Yellow",
+            "image_uri": "flower_sandals_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "flower_sandals_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Green",
+            "image_uri": "flower_sandals_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "flower_sandals_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "flower_sandals_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "Black",
+            "image_uri": "flower_sandals_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        },
+        {
+            "variant": "White",
+            "image_uri": "flower_sandals_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "flower sandals"
+            },
+            "buy-price": 1200,
+            "sell-price": 300
+        }
+    ],
+    "ghillie_brogues": [
+        {
+            "variant": "Brown",
+            "image_uri": "ghillie_brogues_brown.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "ghillie brogues"
+            },
+            "buy-price": 2340,
+            "sell-price": 585
+        },
+        {
+            "variant": "Black",
+            "image_uri": "ghillie_brogues_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "ghillie brogues"
+            },
+            "buy-price": 2340,
+            "sell-price": 585
+        },
+        {
+            "variant": "White",
+            "image_uri": "ghillie_brogues_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "ghillie brogues"
+            },
+            "buy-price": 2340,
+            "sell-price": 585
+        }
+    ],
+    "gladiator_sandals": [
+        {
+            "variant": "Brown",
+            "image_uri": "gladiator_sandals_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "gladiator sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Black",
+            "image_uri": "gladiator_sandals_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "gladiator sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Red",
+            "image_uri": "gladiator_sandals_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "gladiator sandals"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        }
+    ],
+    "gold-armor_shoes": [
+        {
+            "variant": null,
+            "image_uri": "gold-armor_shoes.png",
+            "sources": [],
+            "name": {
+                "name-USen": "gold-armor shoes"
+            },
+            "buy-price": 160000,
+            "sell-price": 40000
+        }
+    ],
+    "hi-tech_sneakers": [
+        {
+            "variant": "Orange",
+            "image_uri": "hi-tech_sneakers_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "hi-tech sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "hi-tech_sneakers_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "hi-tech sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Green",
+            "image_uri": "hi-tech_sneakers_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "hi-tech sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "hi-tech_sneakers_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "hi-tech sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "hi-tech_sneakers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "hi-tech sneakers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        }
+    ],
+    "high-tops": [
+        {
+            "variant": "Gray",
+            "image_uri": "high-tops_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "high-tops_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Green",
+            "image_uri": "high-tops_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "high-tops_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "high-tops_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Red",
+            "image_uri": "high-tops_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "high-tops_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "White",
+            "image_uri": "high-tops_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "high-tops"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        }
+    ],
+    "house_slippers": [
+        {
+            "variant": "Gray",
+            "image_uri": "house_slippers_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Navy blue",
+            "image_uri": "house_slippers_navy_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "house_slippers_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "house_slippers_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Green",
+            "image_uri": "house_slippers_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "house_slippers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Red",
+            "image_uri": "house_slippers_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "house_slippers_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "house slippers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        }
+    ],
+    "jester's_shoes": [
+        {
+            "variant": "Purple",
+            "image_uri": "jester's_shoes_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "jester's shoes"
+            },
+            "buy-price": 1900,
+            "sell-price": 475
+        },
+        {
+            "variant": "Black",
+            "image_uri": "jester's_shoes_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "jester's shoes"
+            },
+            "buy-price": 1900,
+            "sell-price": 475
+        },
+        {
+            "variant": "Red",
+            "image_uri": "jester's_shoes_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "jester's shoes"
+            },
+            "buy-price": 1900,
+            "sell-price": 475
+        },
+        {
+            "variant": "Green",
+            "image_uri": "jester's_shoes_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "jester's shoes"
+            },
+            "buy-price": 1900,
+            "sell-price": 475
+        }
+    ],
+    "kiddie_sneakers": [
+        {
+            "variant": "Red",
+            "image_uri": "kiddie_sneakers_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kiddie sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "kiddie_sneakers_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kiddie sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Green",
+            "image_uri": "kiddie_sneakers_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kiddie sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "kiddie_sneakers_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kiddie sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Silver",
+            "image_uri": "kiddie_sneakers_silver.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kiddie sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Black",
+            "image_uri": "kiddie_sneakers_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kiddie sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        }
+    ],
+    "kimono_sandals": [
+        {
+            "variant": "Black",
+            "image_uri": "kimono_sandals_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Red",
+            "image_uri": "kimono_sandals_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "kimono_sandals_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Dark blue",
+            "image_uri": "kimono_sandals_dark_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "kimono_sandals_gray.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "kimono_sandals_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "kimono_sandals_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Green",
+            "image_uri": "kimono_sandals_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kimono sandals"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        }
+    ],
+    "kung-fu_shoes": [
+        {
+            "variant": null,
+            "image_uri": "kung-fu_shoes.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "kung-fu shoes"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        }
+    ],
+    "labelle_pumps": [
+        {
+            "variant": "Twilight",
+            "image_uri": "labelle_pumps_twilight.png",
+            "sources": [
+                "Able SistersLabel"
+            ],
+            "name": {
+                "name-USen": "labelle pumps"
+            },
+            "buy-price": 3500,
+            "sell-price": 875
+        },
+        {
+            "variant": "Midnight",
+            "image_uri": "labelle_pumps_midnight.png",
+            "sources": [
+                "Able SistersLabel"
+            ],
+            "name": {
+                "name-USen": "labelle pumps"
+            },
+            "buy-price": 3500,
+            "sell-price": 875
+        },
+        {
+            "variant": "Passion",
+            "image_uri": "labelle_pumps_passion.png",
+            "sources": [
+                "Able SistersLabel"
+            ],
+            "name": {
+                "name-USen": "labelle pumps"
+            },
+            "buy-price": 3500,
+            "sell-price": 875
+        },
+        {
+            "variant": "Ocean",
+            "image_uri": "labelle_pumps_ocean.png",
+            "sources": [
+                "Able SistersLabel"
+            ],
+            "name": {
+                "name-USen": "labelle pumps"
+            },
+            "buy-price": 3500,
+            "sell-price": 875
+        },
+        {
+            "variant": "Sunset",
+            "image_uri": "labelle_pumps_sunset.png",
+            "sources": [
+                "Able SistersLabel"
+            ],
+            "name": {
+                "name-USen": "labelle pumps"
+            },
+            "buy-price": 3500,
+            "sell-price": 875
+        },
+        {
+            "variant": "Love",
+            "image_uri": "labelle_pumps_love.png",
+            "sources": [
+                "Able SistersLabel"
+            ],
+            "name": {
+                "name-USen": "labelle pumps"
+            },
+            "buy-price": 3500,
+            "sell-price": 875
+        }
+    ],
+    "labelle_sneakers": [
+        {
+            "variant": "Twilight",
+            "image_uri": "labelle_sneakers_twilight.png",
+            "sources": [],
+            "name": {
+                "name-USen": "labelle sneakers"
+            },
+            "buy-price": 3300,
+            "sell-price": 825
+        },
+        {
+            "variant": "Midnight",
+            "image_uri": "labelle_sneakers_midnight.png",
+            "sources": [],
+            "name": {
+                "name-USen": "labelle sneakers"
+            },
+            "buy-price": 3300,
+            "sell-price": 825
+        },
+        {
+            "variant": "Passion",
+            "image_uri": "labelle_sneakers_passion.png",
+            "sources": [],
+            "name": {
+                "name-USen": "labelle sneakers"
+            },
+            "buy-price": 3300,
+            "sell-price": 825
+        },
+        {
+            "variant": "Ocean",
+            "image_uri": "labelle_sneakers_ocean.png",
+            "sources": [],
+            "name": {
+                "name-USen": "labelle sneakers"
+            },
+            "buy-price": 3300,
+            "sell-price": 825
+        },
+        {
+            "variant": "Sunset",
+            "image_uri": "labelle_sneakers_sunset.png",
+            "sources": [],
+            "name": {
+                "name-USen": "labelle sneakers"
+            },
+            "buy-price": 3300,
+            "sell-price": 825
+        },
+        {
+            "variant": "Love",
+            "image_uri": "labelle_sneakers_love.png",
+            "sources": [],
+            "name": {
+                "name-USen": "labelle sneakers"
+            },
+            "buy-price": 3300,
+            "sell-price": 825
+        }
+    ],
+    "lace-up_boots": [
+        {
+            "variant": "Black",
+            "image_uri": "lace-up_boots_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "lace-up boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "White",
+            "image_uri": "lace-up_boots_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "lace-up boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "lace-up_boots_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "lace-up boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Red",
+            "image_uri": "lace-up_boots_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "lace-up boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        }
+    ],
+    "leaf-egg_shoes": [
+        {
+            "variant": null,
+            "image_uri": "leaf-egg_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "leaf-egg shoes"
+            },
+            "buy-price": -1,
+            "sell-price": 800
+        }
+    ],
+    "leopard_pumps": [
+        {
+            "variant": "Beige",
+            "image_uri": "leopard_pumps_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "leopard pumps"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "leopard_pumps_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "leopard pumps"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "leopard_pumps_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "leopard pumps"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Green",
+            "image_uri": "leopard_pumps_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "leopard pumps"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "leopard_pumps_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "leopard pumps"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "leopard_pumps_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "leopard pumps"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        }
+    ],
+    "loafers": [
+        {
+            "variant": "Brown",
+            "image_uri": "loafers_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Black",
+            "image_uri": "loafers_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "White",
+            "image_uri": "loafers_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "loafers_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "loafers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "loafers_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Red",
+            "image_uri": "loafers_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "loafers"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        }
+    ],
+    "mage's_booties": [
+        {
+            "variant": "Black",
+            "image_uri": "mage's_booties_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "mage's booties"
+            },
+            "buy-price": 1550,
+            "sell-price": 387
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "mage's_booties_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "mage's booties"
+            },
+            "buy-price": 1550,
+            "sell-price": 387
+        },
+        {
+            "variant": "White",
+            "image_uri": "mage's_booties_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "mage's booties"
+            },
+            "buy-price": 1550,
+            "sell-price": 387
+        },
+        {
+            "variant": "Red",
+            "image_uri": "mage's_booties_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "mage's booties"
+            },
+            "buy-price": 1550,
+            "sell-price": 387
+        }
+    ],
+    "mary_janes": [
+        {
+            "variant": "Black",
+            "image_uri": "mary_janes_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Red",
+            "image_uri": "mary_janes_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "White",
+            "image_uri": "mary_janes_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "mary_janes_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "mary_janes_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "mary_janes_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Green",
+            "image_uri": "mary_janes_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "mary_janes_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "mary janes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        }
+    ],
+    "moccasin_boots": [
+        {
+            "variant": "Camel",
+            "image_uri": "moccasin_boots_camel.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        },
+        {
+            "variant": "Olive",
+            "image_uri": "moccasin_boots_olive.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "moccasin_boots_beige.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "moccasin_boots_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        },
+        {
+            "variant": "Black",
+            "image_uri": "moccasin_boots_black.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "moccasin_boots_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "moccasin_boots_orange.png",
+            "sources": [],
+            "name": {
+                "name-USen": "moccasin boots"
+            },
+            "buy-price": 1120,
+            "sell-price": 280
+        }
+    ],
+    "moccasins": [
+        {
+            "variant": "Camel",
+            "image_uri": "moccasins_camel.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Red",
+            "image_uri": "moccasins_red.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "moccasins_light_blue.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "White",
+            "image_uri": "moccasins_white.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "moccasins_pink.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "moccasins_gray.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Black",
+            "image_uri": "moccasins_black.png",
+            "sources": [
+                "Able SistersKicks"
+            ],
+            "name": {
+                "name-USen": "moccasins"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        }
+    ],
+    "nook_inc._slippers": [
+        {
+            "variant": null,
+            "image_uri": "nook_inc._slippers.png",
+            "sources": [
+                "Nook Stop"
+            ],
+            "name": {
+                "name-USen": "nook inc. slippers"
+            },
+            "buy-price": 400,
+            "sell-price": 2000
+        }
+    ],
+    "outdoor_sandals": [
+        {
+            "variant": "Green",
+            "image_uri": "outdoor_sandals_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "Red",
+            "image_uri": "outdoor_sandals_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "outdoor_sandals_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "outdoor_sandals_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "outdoor_sandals_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "outdoor_sandals_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "White",
+            "image_uri": "outdoor_sandals_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        },
+        {
+            "variant": "Black",
+            "image_uri": "outdoor_sandals_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "outdoor sandals"
+            },
+            "buy-price": 630,
+            "sell-price": 157
+        }
+    ],
+    "paw_slippers": [
+        {
+            "variant": "Pink",
+            "image_uri": "paw_slippers_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "paw slippers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "paw_slippers_brown.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "paw slippers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "White",
+            "image_uri": "paw_slippers_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "paw slippers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "paw_slippers_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "paw slippers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Black",
+            "image_uri": "paw_slippers_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "paw slippers"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        }
+    ],
+    "pleather_ankle_booties": [
+        {
+            "variant": "Brown",
+            "image_uri": "pleather_ankle_booties_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather ankle booties"
+            },
+            "buy-price": 1280,
+            "sell-price": 320
+        },
+        {
+            "variant": "Black",
+            "image_uri": "pleather_ankle_booties_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather ankle booties"
+            },
+            "buy-price": 1280,
+            "sell-price": 320
+        },
+        {
+            "variant": "Green",
+            "image_uri": "pleather_ankle_booties_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather ankle booties"
+            },
+            "buy-price": 1280,
+            "sell-price": 320
+        },
+        {
+            "variant": "Mustard",
+            "image_uri": "pleather_ankle_booties_mustard.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather ankle booties"
+            },
+            "buy-price": 1280,
+            "sell-price": 320
+        }
+    ],
+    "pleather_sneakers": [
+        {
+            "variant": "White",
+            "image_uri": "pleather_sneakers_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Black",
+            "image_uri": "pleather_sneakers_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Red",
+            "image_uri": "pleather_sneakers_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "pleather_sneakers_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "pleather_sneakers_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Green",
+            "image_uri": "pleather_sneakers_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "pleather_sneakers_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "pleather_sneakers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pleather sneakers"
+            },
+            "buy-price": 700,
+            "sell-price": 175
+        }
+    ],
+    "pom-pom_boots": [
+        {
+            "variant": "Red",
+            "image_uri": "pom-pom_boots_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "pom-pom_boots_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Black",
+            "image_uri": "pom-pom_boots_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "pom-pom_boots_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "pom-pom_boots_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "pom-pom_boots_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        },
+        {
+            "variant": "Green",
+            "image_uri": "pom-pom_boots_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "pom-pom boots"
+            },
+            "buy-price": 1600,
+            "sell-price": 400
+        }
+    ],
+    "power_boots": [
+        {
+            "variant": "Red",
+            "image_uri": "power_boots_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "power boots"
+            },
+            "buy-price": 3150,
+            "sell-price": 787
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "power_boots_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "power boots"
+            },
+            "buy-price": 3150,
+            "sell-price": 787
+        },
+        {
+            "variant": "Green",
+            "image_uri": "power_boots_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "power boots"
+            },
+            "buy-price": 3150,
+            "sell-price": 787
+        },
+        {
+            "variant": "Black",
+            "image_uri": "power_boots_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "power boots"
+            },
+            "buy-price": 3150,
+            "sell-price": 787
+        }
+    ],
+    "rain_boots": [
+        {
+            "variant": "Black",
+            "image_uri": "rain_boots_black.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Red",
+            "image_uri": "rain_boots_red.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "rain_boots_pink.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "rain_boots_yellow.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Green",
+            "image_uri": "rain_boots_green.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "rain_boots_blue.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "rain_boots_purple.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "rain_boots_beige.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rain boots"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        }
+    ],
+    "recycled_boots": [
+        {
+            "variant": null,
+            "image_uri": "recycled_boots.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "recycled boots"
+            },
+            "buy-price": -1,
+            "sell-price": 40
+        }
+    ],
+    "restroom_slippers": [
+        {
+            "variant": "Navy blue",
+            "image_uri": "restroom_slippers_navy_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "restroom slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Red",
+            "image_uri": "restroom_slippers_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "restroom slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Green",
+            "image_uri": "restroom_slippers_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "restroom slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "restroom_slippers_light_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "restroom slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "restroom_slippers_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "restroom slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        }
+    ],
+    "ribbon_sandals": [
+        {
+            "variant": "Blue",
+            "image_uri": "ribbon_sandals_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "White",
+            "image_uri": "ribbon_sandals_white.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "ribbon_sandals_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "ribbon_sandals_yellow.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Green",
+            "image_uri": "ribbon_sandals_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Berry red",
+            "image_uri": "ribbon_sandals_berry_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Black",
+            "image_uri": "ribbon_sandals_black.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "ribbon_sandals_beige.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ribbon sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        }
+    ],
+    "rubber-toe_high_tops": [
+        {
+            "variant": "Blue",
+            "image_uri": "rubber-toe_high_tops_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Olive",
+            "image_uri": "rubber-toe_high_tops_olive.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "rubber-toe_high_tops_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "rubber-toe_high_tops_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Berry red",
+            "image_uri": "rubber-toe_high_tops_berry_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Coral",
+            "image_uri": "rubber-toe_high_tops_coral.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Ivory",
+            "image_uri": "rubber-toe_high_tops_ivory.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        },
+        {
+            "variant": "Black",
+            "image_uri": "rubber-toe_high_tops_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "rubber-toe high tops"
+            },
+            "buy-price": 1260,
+            "sell-price": 315
+        }
+    ],
+    "rubber-toe_sneakers": [
+        {
+            "variant": "Purple",
+            "image_uri": "rubber-toe_sneakers_purple.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Green",
+            "image_uri": "rubber-toe_sneakers_green.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "rubber-toe_sneakers_yellow.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "rubber-toe_sneakers_light_blue.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Red",
+            "image_uri": "rubber-toe_sneakers_red.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "rubber-toe_sneakers_pink.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "rubber-toe_sneakers_blue.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Black",
+            "image_uri": "rubber-toe_sneakers_black.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "rubber-toe sneakers"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        }
+    ],
+    "samurai_greaves": [
+        {
+            "variant": "Red",
+            "image_uri": "samurai_greaves_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "samurai greaves"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Black",
+            "image_uri": "samurai_greaves_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "samurai greaves"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "samurai_greaves_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "samurai greaves"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "White",
+            "image_uri": "samurai_greaves_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "samurai greaves"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Golden yellow",
+            "image_uri": "samurai_greaves_golden_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "samurai greaves"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        }
+    ],
+    "shiny_bow_platform_shoes": [
+        {
+            "variant": "Pink",
+            "image_uri": "shiny_bow_platform_shoes_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        },
+        {
+            "variant": "Black",
+            "image_uri": "shiny_bow_platform_shoes_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        },
+        {
+            "variant": "Red",
+            "image_uri": "shiny_bow_platform_shoes_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "shiny_bow_platform_shoes_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "shiny_bow_platform_shoes_light_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        },
+        {
+            "variant": "White",
+            "image_uri": "shiny_bow_platform_shoes_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        },
+        {
+            "variant": "Light purple",
+            "image_uri": "shiny_bow_platform_shoes_light_purple.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "shiny bow platform shoes"
+            },
+            "buy-price": 2400,
+            "sell-price": 600
+        }
+    ],
+    "shower_sandals": [
+        {
+            "variant": "Black",
+            "image_uri": "shower_sandals_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "shower sandals"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "White",
+            "image_uri": "shower_sandals_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "shower sandals"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Gold",
+            "image_uri": "shower_sandals_gold.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "shower sandals"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Red",
+            "image_uri": "shower_sandals_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "shower sandals"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "shower_sandals_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "shower sandals"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        }
+    ],
+    "ski_boots": [
+        {
+            "variant": "White",
+            "image_uri": "ski_boots_white.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ski boots"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "ski_boots_orange.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ski boots"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Red",
+            "image_uri": "ski_boots_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ski boots"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Lime",
+            "image_uri": "ski_boots_lime.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ski boots"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "ski_boots_light_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ski boots"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "ski_boots_purple.png",
+            "sources": [],
+            "name": {
+                "name-USen": "ski boots"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        }
+    ],
+    "sky-egg_shoes": [
+        {
+            "variant": null,
+            "image_uri": "sky-egg_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "sky-egg shoes"
+            },
+            "buy-price": -1,
+            "sell-price": 800
+        }
+    ],
+    "slip-on_loafers": [
+        {
+            "variant": "Yellow",
+            "image_uri": "slip-on_loafers_yellow.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Red",
+            "image_uri": "slip-on_loafers_red.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "slip-on_loafers_blue.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Green",
+            "image_uri": "slip-on_loafers_green.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Black",
+            "image_uri": "slip-on_loafers_black.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "slip-on_loafers_light_blue.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "White",
+            "image_uri": "slip-on_loafers_white.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "slip-on_loafers_beige.png",
+            "sources": [
+                "Able Sisters Nook Stop"
+            ],
+            "name": {
+                "name-USen": "slip-on loafers"
+            },
+            "buy-price": 490,
+            "sell-price": 122
+        }
+    ],
+    "slip-on_sandals": [
+        {
+            "variant": "Light blue",
+            "image_uri": "slip-on_sandals_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Lime",
+            "image_uri": "slip-on_sandals_lime.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Black",
+            "image_uri": "slip-on_sandals_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "slip-on_sandals_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Navy blue",
+            "image_uri": "slip-on_sandals_navy_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Red",
+            "image_uri": "slip-on_sandals_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "slip-on_sandals_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "slip-on_sandals_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "slip-on sandals"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        }
+    ],
+    "slip-on_school_shoes": [
+        {
+            "variant": "Red",
+            "image_uri": "slip-on_school_shoes_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "slip-on school shoes"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "slip-on_school_shoes_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "slip-on school shoes"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Green",
+            "image_uri": "slip-on_school_shoes_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "slip-on school shoes"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "slip-on_school_shoes_yellow.png",
+            "sources": [],
+            "name": {
+                "name-USen": "slip-on school shoes"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "slip-on_school_shoes_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "slip-on school shoes"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        }
+    ],
+    "slippers": [
+        {
+            "variant": "Gray",
+            "image_uri": "slippers_gray.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Black",
+            "image_uri": "slippers_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "White",
+            "image_uri": "slippers_white.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "slippers_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Green",
+            "image_uri": "slippers_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "slippers_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Red",
+            "image_uri": "slippers_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "slippers_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "slippers"
+            },
+            "buy-price": 350,
+            "sell-price": 87
+        }
+    ],
+    "space_boots": [
+        {
+            "variant": null,
+            "image_uri": "space_boots.png",
+            "sources": [],
+            "name": {
+                "name-USen": "space boots"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        }
+    ],
+    "sporty_sandals": [
+        {
+            "variant": "Red",
+            "image_uri": "sporty_sandals_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Olive",
+            "image_uri": "sporty_sandals_olive.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "sporty_sandals_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "sporty_sandals_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Green",
+            "image_uri": "sporty_sandals_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "sporty_sandals_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "sporty_sandals_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "sporty_sandals_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "sporty sandals"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        }
+    ],
+    "steel-toed_boots": [
+        {
+            "variant": "Brown",
+            "image_uri": "steel-toed_boots_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "steel-toed boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "steel-toed_boots_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "steel-toed boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Green",
+            "image_uri": "steel-toed_boots_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "steel-toed boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Black",
+            "image_uri": "steel-toed_boots_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "steel-toed boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Red",
+            "image_uri": "steel-toed_boots_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "steel-toed boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "steel-toed_boots_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "steel-toed boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        }
+    ],
+    "stone-egg_shoes": [
+        {
+            "variant": null,
+            "image_uri": "stone-egg_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "stone-egg shoes"
+            },
+            "buy-price": -1,
+            "sell-price": 800
+        }
+    ],
+    "strappy_heels": [
+        {
+            "variant": "Red",
+            "image_uri": "strappy_heels_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "strappy_heels_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Gold",
+            "image_uri": "strappy_heels_gold.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Silver",
+            "image_uri": "strappy_heels_silver.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Black",
+            "image_uri": "strappy_heels_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "strappy_heels_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Green",
+            "image_uri": "strappy_heels_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "strappy_heels_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "strappy heels"
+            },
+            "buy-price": 1560,
+            "sell-price": 390
+        }
+    ],
+    "traditional_flower_shoes": [
+        {
+            "variant": "Red",
+            "image_uri": "traditional_flower_shoes_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "traditional flower shoes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "traditional_flower_shoes_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "traditional flower shoes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "traditional_flower_shoes_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "traditional flower shoes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "traditional_flower_shoes_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "traditional flower shoes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        },
+        {
+            "variant": "Lime",
+            "image_uri": "traditional_flower_shoes_lime.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "traditional flower shoes"
+            },
+            "buy-price": 1800,
+            "sell-price": 450
+        }
+    ],
+    "trekking_shoes": [
+        {
+            "variant": "Orange",
+            "image_uri": "trekking_shoes_orange.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Black",
+            "image_uri": "trekking_shoes_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "trekking_shoes_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "trekking_shoes_light_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "trekking_shoes_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "trekking_shoes_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "White",
+            "image_uri": "trekking_shoes_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "trekking_shoes_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "trekking shoes"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        }
+    ],
+    "vinyl_round-toed_pumps": [
+        {
+            "variant": "Beige",
+            "image_uri": "vinyl_round-toed_pumps_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "vinyl round-toed pumps"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Mint",
+            "image_uri": "vinyl_round-toed_pumps_mint.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "vinyl round-toed pumps"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "vinyl_round-toed_pumps_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "vinyl round-toed pumps"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "vinyl_round-toed_pumps_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "vinyl round-toed pumps"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "White",
+            "image_uri": "vinyl_round-toed_pumps_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "vinyl round-toed pumps"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        },
+        {
+            "variant": "Black",
+            "image_uri": "vinyl_round-toed_pumps_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "vinyl round-toed pumps"
+            },
+            "buy-price": 1500,
+            "sell-price": 375
+        }
+    ],
+    "visual-punk_boots": [
+        {
+            "variant": null,
+            "image_uri": "visual-punk_boots.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "visual-punk boots"
+            },
+            "buy-price": 2200,
+            "sell-price": 550
+        }
+    ],
+    "velour_boots": [
+        {
+            "variant": "Ruby red",
+            "image_uri": "velour_boots_ruby_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "velour boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "velour_boots_gray.png",
+            "sources": [],
+            "name": {
+                "name-USen": "velour boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "velour_boots_brown.png",
+            "sources": [],
+            "name": {
+                "name-USen": "velour boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "velour_boots_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "velour boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Mustard",
+            "image_uri": "velour_boots_mustard.png",
+            "sources": [],
+            "name": {
+                "name-USen": "velour boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        }
+    ],
+    "walking_shoes": [
+        {
+            "variant": "Pink",
+            "image_uri": "walking_shoes_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "walking shoes"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Beige",
+            "image_uri": "walking_shoes_beige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "walking shoes"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        },
+        {
+            "variant": "Red",
+            "image_uri": "walking_shoes_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "walking shoes"
+            },
+            "buy-price": 560,
+            "sell-price": 140
+        }
+    ],
+    "water-egg_shoes": [
+        {
+            "variant": null,
+            "image_uri": "water-egg_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "water-egg shoes"
+            },
+            "buy-price": -1,
+            "sell-price": 800
+        }
+    ],
+    "water_sandals": [
+        {
+            "variant": "Pink",
+            "image_uri": "water_sandals_pink.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Navy blue",
+            "image_uri": "water_sandals_navy_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Red",
+            "image_uri": "water_sandals_red.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "water_sandals_light_blue.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "water_sandals_orange.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "water_sandals_purple.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Green",
+            "image_uri": "water_sandals_green.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "water_sandals_yellow.png",
+            "sources": [],
+            "name": {
+                "name-USen": "water sandals"
+            },
+            "buy-price": 1040,
+            "sell-price": 260
+        }
+    ],
+    "water_shoes": [
+        {
+            "variant": "Pink",
+            "image_uri": "water_shoes_pink.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Light blue",
+            "image_uri": "water_shoes_light_blue.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Orange",
+            "image_uri": "water_shoes_orange.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Green",
+            "image_uri": "water_shoes_green.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Navy blue",
+            "image_uri": "water_shoes_navy_blue.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "water_shoes_yellow.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Red",
+            "image_uri": "water_shoes_red.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Black,",
+            "image_uri": "water_shoes_black.png",
+            "sources": [
+                "Nook StopAble Sisters"
+            ],
+            "name": {
+                "name-USen": "water shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        }
+    ],
+    "wedding_pumps": [
+        {
+            "variant": null,
+            "image_uri": "wedding_pumps.png",
+            "sources": [
+                "Wedding Season"
+            ],
+            "name": {
+                "name-USen": "wedding pumps"
+            },
+            "buy-price": 3000,
+            "sell-price": 750
+        }
+    ],
+    "wedding_shoes": [
+        {
+            "variant": null,
+            "image_uri": "wedding_shoes.png",
+            "sources": [
+                "Wedding Season"
+            ],
+            "name": {
+                "name-USen": "wedding shoes"
+            },
+            "buy-price": 3000,
+            "sell-price": 750
+        }
+    ],
+    "wingtip_shoes": [
+        {
+            "variant": "Black & white",
+            "image_uri": "wingtip_shoes_black_&_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "wingtip_shoes_brown.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Greige",
+            "image_uri": "wingtip_shoes_greige.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Green",
+            "image_uri": "wingtip_shoes_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "wingtip_shoes_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Berry red",
+            "image_uri": "wingtip_shoes_berry_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        },
+        {
+            "variant": "Black",
+            "image_uri": "wingtip_shoes_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "wingtip shoes"
+            },
+            "buy-price": 900,
+            "sell-price": 225
+        }
+    ],
+    "winklepickers": [
+        {
+            "variant": "Red",
+            "image_uri": "winklepickers_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "winklepickers"
+            },
+            "buy-price": 910,
+            "sell-price": 227
+        },
+        {
+            "variant": "White",
+            "image_uri": "winklepickers_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "winklepickers"
+            },
+            "buy-price": 910,
+            "sell-price": 227
+        },
+        {
+            "variant": "Black",
+            "image_uri": "winklepickers_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "winklepickers"
+            },
+            "buy-price": 910,
+            "sell-price": 227
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "winklepickers_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "winklepickers"
+            },
+            "buy-price": 910,
+            "sell-price": 227
+        }
+    ],
+    "wood-egg_shoes": [
+        {
+            "variant": null,
+            "image_uri": "wood-egg_shoes.png",
+            "sources": [
+                "DIY Recipes"
+            ],
+            "name": {
+                "name-USen": "wood-egg shoes"
+            },
+            "buy-price": -1,
+            "sell-price": 800
+        }
+    ],
+    "wooden_clogs": [
+        {
+            "variant": "Yellow",
+            "image_uri": "wooden_clogs_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wooden clogs"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "wooden_clogs_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wooden clogs"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Red",
+            "image_uri": "wooden_clogs_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wooden clogs"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Green",
+            "image_uri": "wooden_clogs_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wooden clogs"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        },
+        {
+            "variant": "Brown",
+            "image_uri": "wooden_clogs_brown.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wooden clogs"
+            },
+            "buy-price": 1300,
+            "sell-price": 325
+        }
+    ],
+    "work_boots": [
+        {
+            "variant": "Red",
+            "image_uri": "work_boots_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Purple",
+            "image_uri": "work_boots_purple.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "work_boots_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "work_boots_yellow.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "White",
+            "image_uri": "work_boots_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "work_boots_blue.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Green",
+            "image_uri": "work_boots_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        },
+        {
+            "variant": "Gray",
+            "image_uri": "work_boots_gray.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "work boots"
+            },
+            "buy-price": 1920,
+            "sell-price": 480
+        }
+    ],
+    "wrestling_shoes": [
+        {
+            "variant": "Red",
+            "image_uri": "wrestling_shoes_red.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wrestling shoes"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Blue",
+            "image_uri": "wrestling_shoes_blue.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wrestling shoes"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Green",
+            "image_uri": "wrestling_shoes_green.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wrestling shoes"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "wrestling_shoes_pink.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wrestling shoes"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Black",
+            "image_uri": "wrestling_shoes_black.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wrestling shoes"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        },
+        {
+            "variant": "Yellow",
+            "image_uri": "wrestling_shoes_yellow.png",
+            "sources": [
+                "Kicks"
+            ],
+            "name": {
+                "name-USen": "wrestling shoes"
+            },
+            "buy-price": 1080,
+            "sell-price": 270
+        }
+    ],
+    "zap_boots": [
+        {
+            "variant": null,
+            "image_uri": "zap_boots.png",
+            "sources": [],
+            "name": {
+                "name-USen": "zap boots"
+            },
+            "buy-price": 2640,
+            "sell-price": 660
+        }
+    ],
+    "zori": [
+        {
+            "variant": "Black",
+            "image_uri": "zori_black.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Gold",
+            "image_uri": "zori_gold.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Pink",
+            "image_uri": "zori_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Light pink",
+            "image_uri": "zori_light_pink.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Green",
+            "image_uri": "zori_green.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "White",
+            "image_uri": "zori_white.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Aqua",
+            "image_uri": "zori_aqua.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        },
+        {
+            "variant": "Red",
+            "image_uri": "zori_red.png",
+            "sources": [
+                "Able Sisters"
+            ],
+            "name": {
+                "name-USen": "zori"
+            },
+            "buy-price": 4300,
+            "sell-price": 1075
+        }
+    ]
+}
