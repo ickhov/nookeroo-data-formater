@@ -1,8 +1,8 @@
 {
-    "3d_glasses": [
+    "3d-glasses": [
         {
             "variant": "White",
-            "image_uri": "3d_glasses_white.png",
+            "image_uri": "3d-glasses-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -14,7 +14,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "3d_glasses_black.png",
+            "image_uri": "3d-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -53,10 +53,10 @@
             "sell-price": 122
         }
     ],
-    "birthday_shades": [
+    "birthday-shades": [
         {
             "variant": "Yellow",
-            "image_uri": "birthday_shades_yellow.png",
+            "image_uri": "birthday-shades-yellow.png",
             "sources": [
                 "Birthday"
             ],
@@ -68,7 +68,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "birthday_shades_pink.png",
+            "image_uri": "birthday-shades-pink.png",
             "sources": [
                 "Birthday"
             ],
@@ -80,7 +80,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "birthday_shades_red.png",
+            "image_uri": "birthday-shades-red.png",
             "sources": [
                 "Birthday"
             ],
@@ -92,7 +92,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "birthday_shades_blue.png",
+            "image_uri": "birthday-shades-blue.png",
             "sources": [
                 "Birthday"
             ],
@@ -103,10 +103,10 @@
             "sell-price": 620
         }
     ],
-    "bottom-rimmed_glasses": [
+    "bottom-rimmed-glasses": [
         {
             "variant": "Black",
-            "image_uri": "bottom-rimmed_glasses_black.png",
+            "image_uri": "bottom-rimmed-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -118,7 +118,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "bottom-rimmed_glasses_red.png",
+            "image_uri": "bottom-rimmed-glasses-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -130,7 +130,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "bottom-rimmed_glasses_pink.png",
+            "image_uri": "bottom-rimmed-glasses-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -142,7 +142,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "bottom-rimmed_glasses_yellow.png",
+            "image_uri": "bottom-rimmed-glasses-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -154,7 +154,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "bottom-rimmed_glasses_green.png",
+            "image_uri": "bottom-rimmed-glasses-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -166,7 +166,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "bottom-rimmed_glasses_blue.png",
+            "image_uri": "bottom-rimmed-glasses-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -178,7 +178,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "bottom-rimmed_glasses_purple.png",
+            "image_uri": "bottom-rimmed-glasses-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -189,10 +189,10 @@
             "sell-price": 275
         }
     ],
-    "browline_glasses": [
+    "browline-glasses": [
         {
             "variant": "Black",
-            "image_uri": "browline_glasses_black.png",
+            "image_uri": "browline-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -204,7 +204,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "browline_glasses_gray.png",
+            "image_uri": "browline-glasses-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -216,7 +216,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "browline_glasses_brown.png",
+            "image_uri": "browline-glasses-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -228,7 +228,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "browline_glasses_green.png",
+            "image_uri": "browline-glasses-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -242,7 +242,7 @@
     "bubblegum": [
         {
             "variant": "Pink",
-            "image_uri": "bubblegum_pink.png",
+            "image_uri": "bubblegum-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -254,7 +254,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "bubblegum_green.png",
+            "image_uri": "bubblegum-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -266,7 +266,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "bubblegum_blue.png",
+            "image_uri": "bubblegum-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -278,7 +278,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "bubblegum_yellow.png",
+            "image_uri": "bubblegum-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -290,7 +290,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "bubblegum_white.png",
+            "image_uri": "bubblegum-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -301,10 +301,10 @@
             "sell-price": 35
         }
     ],
-    "bunny_nose": [
+    "bunny-nose": [
         {
             "variant": "White",
-            "image_uri": "bunny_nose_white.png",
+            "image_uri": "bunny-nose-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -316,7 +316,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "bunny_nose_pink.png",
+            "image_uri": "bunny-nose-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -328,7 +328,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "bunny_nose_yellow.png",
+            "image_uri": "bunny-nose-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -339,10 +339,10 @@
             "sell-price": 140
         }
     ],
-    "butterfly_shades": [
+    "butterfly-shades": [
         {
             "variant": "Blue",
-            "image_uri": "butterfly_shades_blue.png",
+            "image_uri": "butterfly-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -354,7 +354,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "butterfly_shades_brown.png",
+            "image_uri": "butterfly-shades-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -366,7 +366,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "butterfly_shades_red.png",
+            "image_uri": "butterfly-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -377,10 +377,10 @@
             "sell-price": 260
         }
     ],
-    "candy-skull_mask": [
+    "candy-skull-mask": [
         {
             "variant": "Purple",
-            "image_uri": "candy-skull_mask_purple.png",
+            "image_uri": "candy-skull-mask-purple.png",
             "sources": [
                 "Gulliver"
             ],
@@ -392,7 +392,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "candy-skull_mask_orange.png",
+            "image_uri": "candy-skull-mask-orange.png",
             "sources": [
                 "Gulliver"
             ],
@@ -404,7 +404,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "candy-skull_mask_blue.png",
+            "image_uri": "candy-skull-mask-blue.png",
             "sources": [
                 "Gulliver"
             ],
@@ -415,10 +415,10 @@
             "sell-price": 800
         }
     ],
-    "cat_nose": [
+    "cat-nose": [
         {
             "variant": "White",
-            "image_uri": "cat_nose_white.png",
+            "image_uri": "cat-nose-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -430,7 +430,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "cat_nose_navy_blue.png",
+            "image_uri": "cat-nose-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -442,7 +442,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "cat_nose_brown.png",
+            "image_uri": "cat-nose-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -453,10 +453,10 @@
             "sell-price": 140
         }
     ],
-    "cucumber_pack": [
+    "cucumber-pack": [
         {
             "variant": null,
-            "image_uri": "cucumber_pack.png",
+            "image_uri": "cucumber-pack.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -467,10 +467,10 @@
             "sell-price": 122
         }
     ],
-    "curly_mustache": [
+    "curly-mustache": [
         {
             "variant": null,
-            "image_uri": "curly_mustache.png",
+            "image_uri": "curly-mustache.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -481,10 +481,10 @@
             "sell-price": 175
         }
     ],
-    "cyber_shades": [
+    "cyber-shades": [
         {
             "variant": "Red",
-            "image_uri": "cyber_shades_red.png",
+            "image_uri": "cyber-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -496,7 +496,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "cyber_shades_yellow.png",
+            "image_uri": "cyber-shades-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -508,7 +508,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "cyber_shades_black.png",
+            "image_uri": "cyber-shades-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -520,7 +520,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "cyber_shades_green.png",
+            "image_uri": "cyber-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -532,7 +532,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "cyber_shades_silver.png",
+            "image_uri": "cyber-shades-silver.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -544,7 +544,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "cyber_shades_purple.png",
+            "image_uri": "cyber-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -555,10 +555,10 @@
             "sell-price": 325
         }
     ],
-    "dal_eye_mask": [
+    "dal-eye-mask": [
         {
             "variant": null,
-            "image_uri": "dal_eye_mask.png",
+            "image_uri": "dal-eye-mask.png",
             "sources": [
                 "Mail from Dodo Airlines"
             ],
@@ -569,10 +569,10 @@
             "sell-price": 1010
         }
     ],
-    "dal_sunglasses": [
+    "dal-sunglasses": [
         {
             "variant": null,
-            "image_uri": "dal_sunglasses.png",
+            "image_uri": "dal-sunglasses.png",
             "sources": [],
             "name": {
                 "name-USen": "dal sunglasses"
@@ -581,10 +581,10 @@
             "sell-price": 1010
         }
     ],
-    "doctor's_mask": [
+    "doctor's-mask": [
         {
             "variant": null,
-            "image_uri": "doctor's_mask.png",
+            "image_uri": "doctor's-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -595,10 +595,10 @@
             "sell-price": 35
         }
     ],
-    "dog_nose": [
+    "dog-nose": [
         {
             "variant": "Beige",
-            "image_uri": "dog_nose_beige.png",
+            "image_uri": "dog-nose-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -610,7 +610,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "dog_nose_white.png",
+            "image_uri": "dog-nose-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -622,7 +622,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "dog_nose_black.png",
+            "image_uri": "dog-nose-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -633,10 +633,10 @@
             "sell-price": 140
         }
     ],
-    "double-bridge_glasses": [
+    "double-bridge-glasses": [
         {
             "variant": "Gold",
-            "image_uri": "double-bridge_glasses_gold.png",
+            "image_uri": "double-bridge-glasses-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -648,7 +648,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "double-bridge_glasses_silver.png",
+            "image_uri": "double-bridge-glasses-silver.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -660,7 +660,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "double-bridge_glasses_blue.png",
+            "image_uri": "double-bridge-glasses-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -672,7 +672,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "double-bridge_glasses_purple.png",
+            "image_uri": "double-bridge-glasses-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -683,10 +683,10 @@
             "sell-price": 275
         }
     ],
-    "drinking-straw_glasses": [
+    "drinking-straw-glasses": [
         {
             "variant": "Green",
-            "image_uri": "drinking-straw_glasses_green.png",
+            "image_uri": "drinking-straw-glasses-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -698,7 +698,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "drinking-straw_glasses_pink.png",
+            "image_uri": "drinking-straw-glasses-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -710,7 +710,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "drinking-straw_glasses_white.png",
+            "image_uri": "drinking-straw-glasses-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -722,7 +722,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "drinking-straw_glasses_blue.png",
+            "image_uri": "drinking-straw-glasses-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -733,10 +733,10 @@
             "sell-price": 140
         }
     ],
-    "eye_mask": [
+    "eye-mask": [
         {
             "variant": "Gray",
-            "image_uri": "eye_mask_gray.png",
+            "image_uri": "eye-mask-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -748,7 +748,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "eye_mask_red.png",
+            "image_uri": "eye-mask-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -760,7 +760,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "eye_mask_pink.png",
+            "image_uri": "eye-mask-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -772,7 +772,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "eye_mask_orange.png",
+            "image_uri": "eye-mask-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -784,7 +784,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "eye_mask_green.png",
+            "image_uri": "eye-mask-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -796,7 +796,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "eye_mask_blue.png",
+            "image_uri": "eye-mask-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -807,10 +807,10 @@
             "sell-price": 140
         }
     ],
-    "eye_patch": [
+    "eye-patch": [
         {
             "variant": null,
-            "image_uri": "eye_patch.png",
+            "image_uri": "eye-patch.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -821,10 +821,10 @@
             "sell-price": 35
         }
     ],
-    "facial_mask": [
+    "facial-mask": [
         {
             "variant": null,
-            "image_uri": "facial_mask.png",
+            "image_uri": "facial-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -835,10 +835,10 @@
             "sell-price": 140
         }
     ],
-    "fake_nose": [
+    "fake-nose": [
         {
             "variant": null,
-            "image_uri": "fake_nose.png",
+            "image_uri": "fake-nose.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -849,10 +849,10 @@
             "sell-price": 122
         }
     ],
-    "flower_sunglasses": [
+    "flower-sunglasses": [
         {
             "variant": "Red",
-            "image_uri": "flower_sunglasses_red.png",
+            "image_uri": "flower-sunglasses-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -864,7 +864,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "flower_sunglasses_orange.png",
+            "image_uri": "flower-sunglasses-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -876,7 +876,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "flower_sunglasses_green.png",
+            "image_uri": "flower-sunglasses-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -888,7 +888,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "flower_sunglasses_blue.png",
+            "image_uri": "flower-sunglasses-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -900,7 +900,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "flower_sunglasses_purple.png",
+            "image_uri": "flower-sunglasses-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -911,10 +911,10 @@
             "sell-price": 192
         }
     ],
-    "food_mess": [
+    "food-mess": [
         {
             "variant": null,
-            "image_uri": "food_mess.png",
+            "image_uri": "food-mess.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -925,10 +925,10 @@
             "sell-price": 122
         }
     ],
-    "funny_glasses": [
+    "funny-glasses": [
         {
             "variant": "Brown",
-            "image_uri": "funny_glasses_brown.png",
+            "image_uri": "funny-glasses-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -940,7 +940,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "funny_glasses_blue.png",
+            "image_uri": "funny-glasses-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -952,7 +952,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "funny_glasses_pink.png",
+            "image_uri": "funny-glasses-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -963,10 +963,10 @@
             "sell-price": 275
         }
     ],
-    "gas_mask": [
+    "gas-mask": [
         {
             "variant": "Black",
-            "image_uri": "gas_mask_black.png",
+            "image_uri": "gas-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -978,7 +978,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "gas_mask_avocado.png",
+            "image_uri": "gas-mask-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -989,10 +989,10 @@
             "sell-price": 275
         }
     ],
-    "glass-bottle_glasses": [
+    "glass-bottle-glasses": [
         {
             "variant": null,
-            "image_uri": "glass-bottle_glasses.png",
+            "image_uri": "glass-bottle-glasses.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1020,7 +1020,7 @@
     "goggles": [
         {
             "variant": "Red",
-            "image_uri": "goggles_red.png",
+            "image_uri": "goggles-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1032,7 +1032,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "goggles_black.png",
+            "image_uri": "goggles-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1044,7 +1044,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "goggles_blue.png",
+            "image_uri": "goggles-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1056,7 +1056,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "goggles_green.png",
+            "image_uri": "goggles-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1068,7 +1068,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "goggles_pink.png",
+            "image_uri": "goggles-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1080,7 +1080,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "goggles_purple.png",
+            "image_uri": "goggles-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1091,10 +1091,10 @@
             "sell-price": 140
         }
     ],
-    "handlebar_mustache": [
+    "handlebar-mustache": [
         {
             "variant": null,
-            "image_uri": "handlebar_mustache.png",
+            "image_uri": "handlebar-mustache.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1105,10 +1105,10 @@
             "sell-price": 280
         }
     ],
-    "heart_shades": [
+    "heart-shades": [
         {
             "variant": "Pink",
-            "image_uri": "heart_shades_pink.png",
+            "image_uri": "heart-shades-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1120,7 +1120,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "heart_shades_yellow.png",
+            "image_uri": "heart-shades-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1132,7 +1132,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "heart_shades_purple.png",
+            "image_uri": "heart-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1144,7 +1144,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "heart_shades_green.png",
+            "image_uri": "heart-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1156,7 +1156,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "heart_shades_blue.png",
+            "image_uri": "heart-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1181,10 +1181,10 @@
             "sell-price": 500
         }
     ],
-    "jester's_mask": [
+    "jester's-mask": [
         {
             "variant": "Black",
-            "image_uri": "jester's_mask_black.png",
+            "image_uri": "jester's-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1196,7 +1196,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "jester's_mask_red.png",
+            "image_uri": "jester's-mask-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1208,7 +1208,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "jester's_mask_green.png",
+            "image_uri": "jester's-mask-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1220,7 +1220,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "jester's_mask_blue.png",
+            "image_uri": "jester's-mask-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1231,10 +1231,10 @@
             "sell-price": 440
         }
     ],
-    "labelle_sunglasses": [
+    "labelle-sunglasses": [
         {
             "variant": "Twilight",
-            "image_uri": "labelle_sunglasses_twilight.png",
+            "image_uri": "labelle-sunglasses-twilight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1246,7 +1246,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_sunglasses_ocean.png",
+            "image_uri": "labelle-sunglasses-ocean.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1258,7 +1258,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_sunglasses_sunset.png",
+            "image_uri": "labelle-sunglasses-sunset.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1270,7 +1270,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_sunglasses_passion.png",
+            "image_uri": "labelle-sunglasses-passion.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1282,7 +1282,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_sunglasses_love.png",
+            "image_uri": "labelle-sunglasses-love.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1294,7 +1294,7 @@
         },
         {
             "variant": "Midnight",
-            "image_uri": "labelle_sunglasses_midnight.png",
+            "image_uri": "labelle-sunglasses-midnight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1305,10 +1305,10 @@
             "sell-price": 500
         }
     ],
-    "ladder_shades": [
+    "ladder-shades": [
         {
             "variant": "Red",
-            "image_uri": "ladder_shades_red.png",
+            "image_uri": "ladder-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1320,7 +1320,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "ladder_shades_yellow.png",
+            "image_uri": "ladder-shades-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1332,7 +1332,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ladder_shades_pink.png",
+            "image_uri": "ladder-shades-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1344,7 +1344,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "ladder_shades_green.png",
+            "image_uri": "ladder-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1356,7 +1356,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "ladder_shades_gold.png",
+            "image_uri": "ladder-shades-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1368,7 +1368,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "ladder_shades_blue.png",
+            "image_uri": "ladder-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1393,10 +1393,10 @@
             "sell-price": 100
         }
     ],
-    "masquerade_mask": [
+    "masquerade-mask": [
         {
             "variant": "Black",
-            "image_uri": "masquerade_mask_black.png",
+            "image_uri": "masquerade-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1408,7 +1408,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "masquerade_mask_red.png",
+            "image_uri": "masquerade-mask-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1420,7 +1420,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "masquerade_mask_purple.png",
+            "image_uri": "masquerade-mask-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1432,7 +1432,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "masquerade_mask_gold.png",
+            "image_uri": "masquerade-mask-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1444,7 +1444,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "masquerade_mask_green.png",
+            "image_uri": "masquerade-mask-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1456,7 +1456,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "masquerade_mask_blue.png",
+            "image_uri": "masquerade-mask-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1470,7 +1470,7 @@
     "monocle": [
         {
             "variant": "Black",
-            "image_uri": "monocle_black.png",
+            "image_uri": "monocle-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1482,7 +1482,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "monocle_gold.png",
+            "image_uri": "monocle-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1494,7 +1494,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "monocle_silver.png",
+            "image_uri": "monocle-silver.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1505,10 +1505,10 @@
             "sell-price": 275
         }
     ],
-    "night-vision_goggles": [
+    "night-vision-goggles": [
         {
             "variant": null,
-            "image_uri": "night-vision_goggles.png",
+            "image_uri": "night-vision-goggles.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1519,10 +1519,10 @@
             "sell-price": 390
         }
     ],
-    "nook_inc._eye_mask": [
+    "nook-inc.-eye-mask": [
         {
             "variant": null,
-            "image_uri": "nook_inc._eye_mask.png",
+            "image_uri": "nook-inc.-eye-mask.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -1533,10 +1533,10 @@
             "sell-price": 2000
         }
     ],
-    "nose_drip": [
+    "nose-drip": [
         {
             "variant": null,
-            "image_uri": "nose_drip.png",
+            "image_uri": "nose-drip.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1547,10 +1547,10 @@
             "sell-price": 122
         }
     ],
-    "octagonal_glasses": [
+    "octagonal-glasses": [
         {
             "variant": "Gray",
-            "image_uri": "octagonal_glasses_gray.png",
+            "image_uri": "octagonal-glasses-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1562,7 +1562,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "octagonal_glasses_purple.png",
+            "image_uri": "octagonal-glasses-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1574,7 +1574,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "octagonal_glasses_green.png",
+            "image_uri": "octagonal-glasses-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1586,7 +1586,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "octagonal_glasses_gold.png",
+            "image_uri": "octagonal-glasses-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1598,7 +1598,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "octagonal_glasses_black.png",
+            "image_uri": "octagonal-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1609,10 +1609,10 @@
             "sell-price": 275
         }
     ],
-    "oval_glasses": [
+    "oval-glasses": [
         {
             "variant": "Green",
-            "image_uri": "oval_glasses_green.png",
+            "image_uri": "oval-glasses-green.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1624,7 +1624,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "oval_glasses_purple.png",
+            "image_uri": "oval-glasses-purple.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1636,7 +1636,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "oval_glasses_blue.png",
+            "image_uri": "oval-glasses-blue.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1648,7 +1648,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "oval_glasses_mustard.png",
+            "image_uri": "oval-glasses-mustard.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1660,7 +1660,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "oval_glasses_orange.png",
+            "image_uri": "oval-glasses-orange.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1672,7 +1672,7 @@
         },
         {
             "variant": "Magenta",
-            "image_uri": "oval_glasses_magenta.png",
+            "image_uri": "oval-glasses-magenta.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1684,7 +1684,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "oval_glasses_black.png",
+            "image_uri": "oval-glasses-black.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -1698,7 +1698,7 @@
     "pacifier": [
         {
             "variant": "Baby mint",
-            "image_uri": "pacifier_baby_mint.png",
+            "image_uri": "pacifier-baby-mint.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1710,7 +1710,7 @@
         },
         {
             "variant": "Baby gray",
-            "image_uri": "pacifier_baby_gray.png",
+            "image_uri": "pacifier-baby-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1722,7 +1722,7 @@
         },
         {
             "variant": "Baby pink",
-            "image_uri": "pacifier_baby_pink.png",
+            "image_uri": "pacifier-baby-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1734,7 +1734,7 @@
         },
         {
             "variant": "Baby yellow",
-            "image_uri": "pacifier_baby_yellow.png",
+            "image_uri": "pacifier-baby-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1746,7 +1746,7 @@
         },
         {
             "variant": "Baby orange",
-            "image_uri": "pacifier_baby_orange.png",
+            "image_uri": "pacifier-baby-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1758,7 +1758,7 @@
         },
         {
             "variant": "Baby blue",
-            "image_uri": "pacifier_baby_blue.png",
+            "image_uri": "pacifier-baby-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1770,7 +1770,7 @@
         },
         {
             "variant": "Baby green",
-            "image_uri": "pacifier_baby_green.png",
+            "image_uri": "pacifier-baby-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1782,7 +1782,7 @@
         },
         {
             "variant": "Baby purple",
-            "image_uri": "pacifier_baby_purple.png",
+            "image_uri": "pacifier-baby-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1793,10 +1793,10 @@
             "sell-price": 140
         }
     ],
-    "pig_nose": [
+    "pig-nose": [
         {
             "variant": null,
-            "image_uri": "pig_nose.png",
+            "image_uri": "pig-nose.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1807,10 +1807,10 @@
             "sell-price": 140
         }
     ],
-    "pilot_shades": [
+    "pilot-shades": [
         {
             "variant": "Black",
-            "image_uri": "pilot_shades_black.png",
+            "image_uri": "pilot-shades-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1822,7 +1822,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "pilot_shades_gold.png",
+            "image_uri": "pilot-shades-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1833,10 +1833,10 @@
             "sell-price": 325
         }
     ],
-    "pixel_shades": [
+    "pixel-shades": [
         {
             "variant": "Black",
-            "image_uri": "pixel_shades_black.png",
+            "image_uri": "pixel-shades-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1848,7 +1848,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "pixel_shades_blue.png",
+            "image_uri": "pixel-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1860,7 +1860,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "pixel_shades_green.png",
+            "image_uri": "pixel-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1872,7 +1872,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "pixel_shades_red.png",
+            "image_uri": "pixel-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1883,10 +1883,10 @@
             "sell-price": 330
         }
     ],
-    "pleather_mask": [
+    "pleather-mask": [
         {
             "variant": null,
-            "image_uri": "pleather_mask.png",
+            "image_uri": "pleather-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1897,10 +1897,10 @@
             "sell-price": 192
         }
     ],
-    "post-op_patch": [
+    "post-op-patch": [
         {
             "variant": null,
-            "image_uri": "post-op_patch.png",
+            "image_uri": "post-op-patch.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1911,10 +1911,10 @@
             "sell-price": 122
         }
     ],
-    "privacy_mask": [
+    "privacy-mask": [
         {
             "variant": null,
-            "image_uri": "privacy_mask.png",
+            "image_uri": "privacy-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1939,10 +1939,10 @@
             "sell-price": 140
         }
     ],
-    "retro_shades": [
+    "retro-shades": [
         {
             "variant": "Yellow",
-            "image_uri": "retro_shades_yellow.png",
+            "image_uri": "retro-shades-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1954,7 +1954,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "retro_shades_gray.png",
+            "image_uri": "retro-shades-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1966,7 +1966,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "retro_shades_blue.png",
+            "image_uri": "retro-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1978,7 +1978,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "retro_shades_green.png",
+            "image_uri": "retro-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1990,7 +1990,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "retro_shades_purple.png",
+            "image_uri": "retro-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2002,7 +2002,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "retro_shades_red.png",
+            "image_uri": "retro-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2013,10 +2013,10 @@
             "sell-price": 390
         }
     ],
-    "rhinestone_shades": [
+    "rhinestone-shades": [
         {
             "variant": "Red",
-            "image_uri": "rhinestone_shades_red.png",
+            "image_uri": "rhinestone-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2028,7 +2028,7 @@
         },
         {
             "variant": "Ochre",
-            "image_uri": "rhinestone_shades_ochre.png",
+            "image_uri": "rhinestone-shades-ochre.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2040,7 +2040,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "rhinestone_shades_purple.png",
+            "image_uri": "rhinestone-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2051,10 +2051,10 @@
             "sell-price": 260
         }
     ],
-    "rimmed_glasses": [
+    "rimmed-glasses": [
         {
             "variant": "Black",
-            "image_uri": "rimmed_glasses_black.png",
+            "image_uri": "rimmed-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2066,7 +2066,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "rimmed_glasses_gray.png",
+            "image_uri": "rimmed-glasses-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2078,7 +2078,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "rimmed_glasses_brown.png",
+            "image_uri": "rimmed-glasses-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2090,7 +2090,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "rimmed_glasses_gold.png",
+            "image_uri": "rimmed-glasses-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2102,7 +2102,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "rimmed_glasses_purple.png",
+            "image_uri": "rimmed-glasses-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2113,10 +2113,10 @@
             "sell-price": 157
         }
     ],
-    "round_shades": [
+    "round-shades": [
         {
             "variant": "Black",
-            "image_uri": "round_shades_black.png",
+            "image_uri": "round-shades-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2128,7 +2128,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "round_shades_green.png",
+            "image_uri": "round-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2140,7 +2140,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "round_shades_blue.png",
+            "image_uri": "round-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2152,7 +2152,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "round_shades_yellow.png",
+            "image_uri": "round-shades-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2164,7 +2164,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "round_shades_pink.png",
+            "image_uri": "round-shades-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2176,7 +2176,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "round_shades_red.png",
+            "image_uri": "round-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2188,7 +2188,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "round_shades_white.png",
+            "image_uri": "round-shades-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2200,7 +2200,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "round_shades_purple.png",
+            "image_uri": "round-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2211,10 +2211,10 @@
             "sell-price": 390
         }
     ],
-    "round_tinted_shades": [
+    "round-tinted-shades": [
         {
             "variant": "Brown",
-            "image_uri": "round_tinted_shades_brown.png",
+            "image_uri": "round-tinted-shades-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2226,7 +2226,7 @@
         },
         {
             "variant": "Dark brown",
-            "image_uri": "round_tinted_shades_dark_brown.png",
+            "image_uri": "round-tinted-shades-dark-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2238,7 +2238,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "round_tinted_shades_green.png",
+            "image_uri": "round-tinted-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2250,7 +2250,7 @@
         },
         {
             "variant": "Light brown",
-            "image_uri": "round_tinted_shades_light_brown.png",
+            "image_uri": "round-tinted-shades-light-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2261,10 +2261,10 @@
             "sell-price": 220
         }
     ],
-    "rounded_beard": [
+    "rounded-beard": [
         {
             "variant": null,
-            "image_uri": "rounded_beard.png",
+            "image_uri": "rounded-beard.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2275,10 +2275,10 @@
             "sell-price": 245
         }
     ],
-    "shattered_glasses": [
+    "shattered-glasses": [
         {
             "variant": null,
-            "image_uri": "shattered_glasses.png",
+            "image_uri": "shattered-glasses.png",
             "sources": [
                 "Recycle Box"
             ],
@@ -2289,10 +2289,10 @@
             "sell-price": 10
         }
     ],
-    "ski_goggles": [
+    "ski-goggles": [
         {
             "variant": "Yellow",
-            "image_uri": "ski_goggles_yellow.png",
+            "image_uri": "ski-goggles-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2304,7 +2304,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "ski_goggles_purple.png",
+            "image_uri": "ski-goggles-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2316,7 +2316,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ski_goggles_pink.png",
+            "image_uri": "ski-goggles-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2328,7 +2328,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "ski_goggles_green.png",
+            "image_uri": "ski-goggles-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2340,7 +2340,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "ski_goggles_orange.png",
+            "image_uri": "ski-goggles-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2352,7 +2352,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "ski_goggles_white.png",
+            "image_uri": "ski-goggles-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2363,10 +2363,10 @@
             "sell-price": 245
         }
     ],
-    "sporty_shades": [
+    "sporty-shades": [
         {
             "variant": "Black",
-            "image_uri": "sporty_shades_black.png",
+            "image_uri": "sporty-shades-black.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -2378,7 +2378,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "sporty_shades_pink.png",
+            "image_uri": "sporty-shades-pink.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -2390,7 +2390,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "sporty_shades_lime.png",
+            "image_uri": "sporty-shades-lime.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -2402,7 +2402,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "sporty_shades_light_blue.png",
+            "image_uri": "sporty-shades-light-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -2414,7 +2414,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "sporty_shades_white.png",
+            "image_uri": "sporty-shades-white.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -2425,10 +2425,10 @@
             "sell-price": 325
         }
     ],
-    "square_glasses": [
+    "square-glasses": [
         {
             "variant": "Gray",
-            "image_uri": "square_glasses_gray.png",
+            "image_uri": "square-glasses-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2440,7 +2440,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "square_glasses_black.png",
+            "image_uri": "square-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2452,7 +2452,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "square_glasses_blue.png",
+            "image_uri": "square-glasses-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2464,7 +2464,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "square_glasses_brown.png",
+            "image_uri": "square-glasses-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2475,10 +2475,10 @@
             "sell-price": 220
         }
     ],
-    "stache_&_glasses": [
+    "stache-&-glasses": [
         {
             "variant": "Black",
-            "image_uri": "stache_&_glasses_black.png",
+            "image_uri": "stache-&-glasses-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2490,7 +2490,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "stache_&_glasses_red.png",
+            "image_uri": "stache-&-glasses-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2501,10 +2501,10 @@
             "sell-price": 192
         }
     ],
-    "star_shades": [
+    "star-shades": [
         {
             "variant": "Yellow",
-            "image_uri": "star_shades_yellow.png",
+            "image_uri": "star-shades-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2516,7 +2516,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "star_shades_blue.png",
+            "image_uri": "star-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2528,7 +2528,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "star_shades_green.png",
+            "image_uri": "star-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2540,7 +2540,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "star_shades_pink.png",
+            "image_uri": "star-shades-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2552,7 +2552,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "star_shades_purple.png",
+            "image_uri": "star-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2563,10 +2563,10 @@
             "sell-price": 220
         }
     ],
-    "steampunk_glasses": [
+    "steampunk-glasses": [
         {
             "variant": "Green",
-            "image_uri": "steampunk_glasses_green.png",
+            "image_uri": "steampunk-glasses-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2578,7 +2578,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "steampunk_glasses_purple.png",
+            "image_uri": "steampunk-glasses-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2589,10 +2589,10 @@
             "sell-price": 325
         }
     ],
-    "sticky_rice": [
+    "sticky-rice": [
         {
             "variant": null,
-            "image_uri": "sticky_rice.png",
+            "image_uri": "sticky-rice.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2603,10 +2603,10 @@
             "sell-price": 122
         }
     ],
-    "superhero_mask": [
+    "superhero-mask": [
         {
             "variant": null,
-            "image_uri": "superhero_mask.png",
+            "image_uri": "superhero-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2617,10 +2617,10 @@
             "sell-price": 260
         }
     ],
-    "tiny_shades": [
+    "tiny-shades": [
         {
             "variant": "Berry red",
-            "image_uri": "tiny_shades_berry_red.png",
+            "image_uri": "tiny-shades-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2632,7 +2632,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "tiny_shades_gold.png",
+            "image_uri": "tiny-shades-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2644,7 +2644,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "tiny_shades_black.png",
+            "image_uri": "tiny-shades-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2655,10 +2655,10 @@
             "sell-price": 275
         }
     ],
-    "tortoise_specs": [
+    "tortoise-specs": [
         {
             "variant": "Black",
-            "image_uri": "tortoise_specs_black.png",
+            "image_uri": "tortoise-specs-black.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -2670,7 +2670,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "tortoise_specs_brown.png",
+            "image_uri": "tortoise-specs-brown.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -2682,7 +2682,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "tortoise_specs_beige.png",
+            "image_uri": "tortoise-specs-beige.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -2693,10 +2693,10 @@
             "sell-price": 260
         }
     ],
-    "triangle_shades": [
+    "triangle-shades": [
         {
             "variant": "Red",
-            "image_uri": "triangle_shades_red.png",
+            "image_uri": "triangle-shades-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2708,7 +2708,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "triangle_shades_white.png",
+            "image_uri": "triangle-shades-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2720,7 +2720,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "triangle_shades_black.png",
+            "image_uri": "triangle-shades-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2732,7 +2732,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "triangle_shades_orange.png",
+            "image_uri": "triangle-shades-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2744,7 +2744,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "triangle_shades_green.png",
+            "image_uri": "triangle-shades-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2756,7 +2756,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "triangle_shades_blue.png",
+            "image_uri": "triangle-shades-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2768,7 +2768,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "triangle_shades_purple.png",
+            "image_uri": "triangle-shades-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2779,10 +2779,10 @@
             "sell-price": 220
         }
     ],
-    "wooden-frame_glasses": [
+    "wooden-frame-glasses": [
         {
             "variant": "Brown",
-            "image_uri": "wooden-frame_glasses_brown.png",
+            "image_uri": "wooden-frame-glasses-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2794,7 +2794,7 @@
         },
         {
             "variant": "Dark brown",
-            "image_uri": "wooden-frame_glasses_dark_brown.png",
+            "image_uri": "wooden-frame-glasses-dark-brown.png",
             "sources": [
                 "Able Sisters"
             ],

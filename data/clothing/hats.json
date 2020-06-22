@@ -1,8 +1,8 @@
 {
-    "acorn_knit_cap": [
+    "acorn-knit-cap": [
         {
             "variant": "Chestnut",
-            "image_uri": "acorn_knit_cap_chestnut.png",
+            "image_uri": "acorn-knit-cap-chestnut.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -14,7 +14,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "acorn_knit_cap_mustard.png",
+            "image_uri": "acorn-knit-cap-mustard.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -26,7 +26,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "acorn_knit_cap_avocado.png",
+            "image_uri": "acorn-knit-cap-avocado.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -38,7 +38,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "acorn_knit_cap_berry_red.png",
+            "image_uri": "acorn-knit-cap-berry-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -50,7 +50,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "acorn_knit_cap_navy_blue.png",
+            "image_uri": "acorn-knit-cap-navy-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -62,7 +62,7 @@
         },
         {
             "variant": "Cream",
-            "image_uri": "acorn_knit_cap_cream.png",
+            "image_uri": "acorn-knit-cap-cream.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -73,10 +73,10 @@
             "sell-price": 220
         }
     ],
-    "alpinist_hat": [
+    "alpinist-hat": [
         {
             "variant": "Green",
-            "image_uri": "alpinist_hat_green.png",
+            "image_uri": "alpinist-hat-green.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -88,7 +88,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "alpinist_hat_blue.png",
+            "image_uri": "alpinist-hat-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -100,7 +100,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "alpinist_hat_red.png",
+            "image_uri": "alpinist-hat-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -111,10 +111,10 @@
             "sell-price": 500
         }
     ],
-    "ancient_administrator_hat": [
+    "ancient-administrator-hat": [
         {
             "variant": null,
-            "image_uri": "ancient_administrator_hat.png",
+            "image_uri": "ancient-administrator-hat.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -125,10 +125,10 @@
             "sell-price": 800
         }
     ],
-    "apple_hat": [
+    "apple-hat": [
         {
             "variant": null,
-            "image_uri": "apple_hat.png",
+            "image_uri": "apple-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -139,10 +139,10 @@
             "sell-price": 1000
         }
     ],
-    "aran-knit_cap": [
+    "aran-knit-cap": [
         {
             "variant": "White",
-            "image_uri": "aran-knit_cap_white.png",
+            "image_uri": "aran-knit-cap-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -154,7 +154,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "aran-knit_cap_red.png",
+            "image_uri": "aran-knit-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -166,7 +166,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "aran-knit_cap_blue.png",
+            "image_uri": "aran-knit-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -178,7 +178,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "aran-knit_cap_green.png",
+            "image_uri": "aran-knit-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -189,10 +189,10 @@
             "sell-price": 220
         }
     ],
-    "baby's_hat": [
+    "baby's-hat": [
         {
             "variant": "Baby mint",
-            "image_uri": "baby's_hat_baby_mint.png",
+            "image_uri": "baby's-hat-baby-mint.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -204,7 +204,7 @@
         },
         {
             "variant": "Baby purple",
-            "image_uri": "baby's_hat_baby_purple.png",
+            "image_uri": "baby's-hat-baby-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -216,7 +216,7 @@
         },
         {
             "variant": "Baby yellow",
-            "image_uri": "baby's_hat_baby_yellow.png",
+            "image_uri": "baby's-hat-baby-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -228,7 +228,7 @@
         },
         {
             "variant": "Baby green",
-            "image_uri": "baby's_hat_baby_green.png",
+            "image_uri": "baby's-hat-baby-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -240,7 +240,7 @@
         },
         {
             "variant": "Baby pink",
-            "image_uri": "baby's_hat_baby_pink.png",
+            "image_uri": "baby's-hat-baby-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -252,7 +252,7 @@
         },
         {
             "variant": "Baby gray",
-            "image_uri": "baby's_hat_baby_gray.png",
+            "image_uri": "baby's-hat-baby-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -264,7 +264,7 @@
         },
         {
             "variant": "Baby blue",
-            "image_uri": "baby's_hat_baby_blue.png",
+            "image_uri": "baby's-hat-baby-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -276,7 +276,7 @@
         },
         {
             "variant": "Baby orange",
-            "image_uri": "baby's_hat_baby_orange.png",
+            "image_uri": "baby's-hat-baby-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -287,10 +287,10 @@
             "sell-price": 140
         }
     ],
-    "balloon_hat": [
+    "balloon-hat": [
         {
             "variant": "Rainbow",
-            "image_uri": "balloon_hat_rainbow.png",
+            "image_uri": "balloon-hat-rainbow.png",
             "sources": [
                 "VillagerAble Sisters"
             ],
@@ -302,7 +302,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "balloon_hat_orange.png",
+            "image_uri": "balloon-hat-orange.png",
             "sources": [
                 "VillagerAble Sisters"
             ],
@@ -314,7 +314,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "balloon_hat_blue.png",
+            "image_uri": "balloon-hat-blue.png",
             "sources": [
                 "VillagerAble Sisters"
             ],
@@ -326,7 +326,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "balloon_hat_green.png",
+            "image_uri": "balloon-hat-green.png",
             "sources": [
                 "VillagerAble Sisters"
             ],
@@ -337,10 +337,10 @@
             "sell-price": 280
         }
     ],
-    "bamboo_hat": [
+    "bamboo-hat": [
         {
             "variant": null,
-            "image_uri": "bamboo_hat.png",
+            "image_uri": "bamboo-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -365,10 +365,10 @@
             "sell-price": 122
         }
     ],
-    "baseball_cap": [
+    "baseball-cap": [
         {
             "variant": "Red",
-            "image_uri": "baseball_cap_red.png",
+            "image_uri": "baseball-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -380,7 +380,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "baseball_cap_navy_blue.png",
+            "image_uri": "baseball-cap-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -392,7 +392,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "baseball_cap_green.png",
+            "image_uri": "baseball-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -404,7 +404,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "baseball_cap_orange.png",
+            "image_uri": "baseball-cap-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -416,7 +416,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "baseball_cap_yellow.png",
+            "image_uri": "baseball-cap-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -427,10 +427,10 @@
             "sell-price": 210
         }
     ],
-    "batter's_helmet": [
+    "batter's-helmet": [
         {
             "variant": "Red",
-            "image_uri": "batter's_helmet_red.png",
+            "image_uri": "batter's-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -442,7 +442,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "batter's_helmet_navy_blue.png",
+            "image_uri": "batter's-helmet-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -454,7 +454,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "batter's_helmet_green.png",
+            "image_uri": "batter's-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -466,7 +466,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "batter's_helmet_orange.png",
+            "image_uri": "batter's-helmet-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -478,7 +478,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "batter's_helmet_yellow.png",
+            "image_uri": "batter's-helmet-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -489,10 +489,10 @@
             "sell-price": 260
         }
     ],
-    "bear_cap": [
+    "bear-cap": [
         {
             "variant": "Brown",
-            "image_uri": "bear_cap_brown.png",
+            "image_uri": "bear-cap-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -504,7 +504,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "bear_cap_black.png",
+            "image_uri": "bear-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -516,7 +516,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "bear_cap_pink.png",
+            "image_uri": "bear-cap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -528,7 +528,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "bear_cap_blue.png",
+            "image_uri": "bear-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -542,7 +542,7 @@
     "beret": [
         {
             "variant": "Berry red",
-            "image_uri": "beret_berry_red.png",
+            "image_uri": "beret-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -554,7 +554,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "beret_blue.png",
+            "image_uri": "beret-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -566,7 +566,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "beret_green.png",
+            "image_uri": "beret-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -578,7 +578,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "beret_mustard.png",
+            "image_uri": "beret-mustard.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -590,7 +590,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "beret_gray.png",
+            "image_uri": "beret-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -602,7 +602,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "beret_white.png",
+            "image_uri": "beret-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -613,10 +613,10 @@
             "sell-price": 220
         }
     ],
-    "bicycle_helmet": [
+    "bicycle-helmet": [
         {
             "variant": "Blue",
-            "image_uri": "bicycle_helmet_blue.png",
+            "image_uri": "bicycle-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -628,7 +628,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "bicycle_helmet_navy_blue.png",
+            "image_uri": "bicycle-helmet-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -640,7 +640,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "bicycle_helmet_red.png",
+            "image_uri": "bicycle-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -652,7 +652,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "bicycle_helmet_lime.png",
+            "image_uri": "bicycle-helmet-lime.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -664,7 +664,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "bicycle_helmet_green.png",
+            "image_uri": "bicycle-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -676,7 +676,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "bicycle_helmet_orange.png",
+            "image_uri": "bicycle-helmet-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -688,7 +688,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "bicycle_helmet_purple.png",
+            "image_uri": "bicycle-helmet-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -700,7 +700,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "bicycle_helmet_pink.png",
+            "image_uri": "bicycle-helmet-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -711,10 +711,10 @@
             "sell-price": 275
         }
     ],
-    "birthday_hat": [
+    "birthday-hat": [
         {
             "variant": "Blue",
-            "image_uri": "birthday_hat_blue.png",
+            "image_uri": "birthday-hat-blue.png",
             "sources": [
                 "Birthday"
             ],
@@ -726,7 +726,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "birthday_hat_yellow.png",
+            "image_uri": "birthday-hat-yellow.png",
             "sources": [
                 "Birthday"
             ],
@@ -738,7 +738,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "birthday_hat_pink.png",
+            "image_uri": "birthday-hat-pink.png",
             "sources": [
                 "Birthday"
             ],
@@ -749,10 +749,10 @@
             "sell-price": 600
         }
     ],
-    "bowler_hat_with_ribbon": [
+    "bowler-hat-with-ribbon": [
         {
             "variant": "Blue",
-            "image_uri": "bowler_hat_with_ribbon_blue.png",
+            "image_uri": "bowler-hat-with-ribbon-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -764,7 +764,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "bowler_hat_with_ribbon_beige.png",
+            "image_uri": "bowler-hat-with-ribbon-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -776,7 +776,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "bowler_hat_with_ribbon_green.png",
+            "image_uri": "bowler-hat-with-ribbon-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -788,7 +788,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "bowler_hat_with_ribbon_red.png",
+            "image_uri": "bowler-hat-with-ribbon-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -800,7 +800,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "bowler_hat_with_ribbon_pink.png",
+            "image_uri": "bowler-hat-with-ribbon-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -811,10 +811,10 @@
             "sell-price": 275
         }
     ],
-    "bridal_veil": [
+    "bridal-veil": [
         {
             "variant": null,
-            "image_uri": "bridal_veil.png",
+            "image_uri": "bridal-veil.png",
             "sources": [
                 "Wedding Season"
             ],
@@ -825,10 +825,10 @@
             "sell-price": 1150
         }
     ],
-    "bun_wig": [
+    "bun-wig": [
         {
             "variant": "Pink",
-            "image_uri": "bun_wig_pink.png",
+            "image_uri": "bun-wig-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -840,7 +840,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "bun_wig_blue.png",
+            "image_uri": "bun-wig-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -852,7 +852,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "bun_wig_mustard.png",
+            "image_uri": "bun-wig-mustard.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -864,7 +864,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "bun_wig_white.png",
+            "image_uri": "bun-wig-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -876,7 +876,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "bun_wig_purple.png",
+            "image_uri": "bun-wig-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -888,7 +888,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "bun_wig_green.png",
+            "image_uri": "bun-wig-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -900,7 +900,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "bun_wig_orange.png",
+            "image_uri": "bun-wig-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -911,10 +911,10 @@
             "sell-price": 350
         }
     ],
-    "bunny_day_crown": [
+    "bunny-day-crown": [
         {
             "variant": null,
-            "image_uri": "bunny_day_crown.png",
+            "image_uri": "bunny-day-crown.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -925,10 +925,10 @@
             "sell-price": 2400
         }
     ],
-    "bunny_ears": [
+    "bunny-ears": [
         {
             "variant": "Black",
-            "image_uri": "bunny_ears_black.png",
+            "image_uri": "bunny-ears-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -940,7 +940,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "bunny_ears_pink.png",
+            "image_uri": "bunny-ears-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -952,7 +952,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "bunny_ears_red.png",
+            "image_uri": "bunny-ears-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -964,7 +964,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "bunny_ears_light_blue.png",
+            "image_uri": "bunny-ears-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -975,10 +975,10 @@
             "sell-price": 280
         }
     ],
-    "bunny_hood": [
+    "bunny-hood": [
         {
             "variant": "Pink",
-            "image_uri": "bunny_hood_pink.png",
+            "image_uri": "bunny-hood-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -990,7 +990,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "bunny_hood_yellow.png",
+            "image_uri": "bunny-hood-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1002,7 +1002,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "bunny_hood_white.png",
+            "image_uri": "bunny-hood-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1013,10 +1013,10 @@
             "sell-price": 280
         }
     ],
-    "captain's_hat": [
+    "captain's-hat": [
         {
             "variant": null,
-            "image_uri": "captain's_hat.png",
+            "image_uri": "captain's-hat.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1027,10 +1027,10 @@
             "sell-price": 420
         }
     ],
-    "cat_cap": [
+    "cat-cap": [
         {
             "variant": "Navy blue",
-            "image_uri": "cat_cap_navy_blue.png",
+            "image_uri": "cat-cap-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1042,7 +1042,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "cat_cap_brown.png",
+            "image_uri": "cat-cap-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1054,7 +1054,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "cat_cap_white.png",
+            "image_uri": "cat-cap-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1065,10 +1065,10 @@
             "sell-price": 245
         }
     ],
-    "catcher's_mask": [
+    "catcher's-mask": [
         {
             "variant": "Red",
-            "image_uri": "catcher's_mask_red.png",
+            "image_uri": "catcher's-mask-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1080,7 +1080,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "catcher's_mask_navy_blue.png",
+            "image_uri": "catcher's-mask-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1092,7 +1092,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "catcher's_mask_green.png",
+            "image_uri": "catcher's-mask-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1104,7 +1104,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "catcher's_mask_orange.png",
+            "image_uri": "catcher's-mask-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1116,7 +1116,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "catcher's_mask_yellow.png",
+            "image_uri": "catcher's-mask-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1127,10 +1127,10 @@
             "sell-price": 390
         }
     ],
-    "cavalier_hat": [
+    "cavalier-hat": [
         {
             "variant": "Blue",
-            "image_uri": "cavalier_hat_blue.png",
+            "image_uri": "cavalier-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1142,7 +1142,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "cavalier_hat_red.png",
+            "image_uri": "cavalier-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1154,7 +1154,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "cavalier_hat_green.png",
+            "image_uri": "cavalier-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1165,10 +1165,10 @@
             "sell-price": 400
         }
     ],
-    "chef's_hat": [
+    "chef's-hat": [
         {
             "variant": null,
-            "image_uri": "chef's_hat.png",
+            "image_uri": "chef's-hat.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1179,10 +1179,10 @@
             "sell-price": 210
         }
     ],
-    "cherry_hat": [
+    "cherry-hat": [
         {
             "variant": null,
-            "image_uri": "cherry_hat.png",
+            "image_uri": "cherry-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1193,10 +1193,10 @@
             "sell-price": 1000
         }
     ],
-    "coin_headpiece": [
+    "coin-headpiece": [
         {
             "variant": null,
-            "image_uri": "coin_headpiece.png",
+            "image_uri": "coin-headpiece.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -1207,10 +1207,10 @@
             "sell-price": 1350
         }
     ],
-    "colorful_striped_knit_cap": [
+    "colorful-striped-knit-cap": [
         {
             "variant": "Red",
-            "image_uri": "colorful_striped_knit_cap_red.png",
+            "image_uri": "colorful-striped-knit-cap-red.png",
             "sources": [],
             "name": {
                 "name-USen": "colorful striped knit cap"
@@ -1220,7 +1220,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "colorful_striped_knit_cap_blue.png",
+            "image_uri": "colorful-striped-knit-cap-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "colorful striped knit cap"
@@ -1230,7 +1230,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "colorful_striped_knit_cap_green.png",
+            "image_uri": "colorful-striped-knit-cap-green.png",
             "sources": [],
             "name": {
                 "name-USen": "colorful striped knit cap"
@@ -1240,7 +1240,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "colorful_striped_knit_cap_yellow.png",
+            "image_uri": "colorful-striped-knit-cap-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "colorful striped knit cap"
@@ -1250,7 +1250,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "colorful_striped_knit_cap_purple.png",
+            "image_uri": "colorful-striped-knit-cap-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "colorful striped knit cap"
@@ -1260,7 +1260,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "colorful_striped_knit_cap_light_blue.png",
+            "image_uri": "colorful-striped-knit-cap-light-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "colorful striped knit cap"
@@ -1269,10 +1269,10 @@
             "sell-price": 220
         }
     ],
-    "combat_helmet": [
+    "combat-helmet": [
         {
             "variant": "Avocado",
-            "image_uri": "combat_helmet_avocado.png",
+            "image_uri": "combat-helmet-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1284,7 +1284,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "combat_helmet_brown.png",
+            "image_uri": "combat-helmet-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1295,10 +1295,10 @@
             "sell-price": 280
         }
     ],
-    "composer's_wig": [
+    "composer's-wig": [
         {
             "variant": null,
-            "image_uri": "composer's_wig.png",
+            "image_uri": "composer's-wig.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1309,10 +1309,10 @@
             "sell-price": 420
         }
     ],
-    "cool_pansy_crown": [
+    "cool-pansy-crown": [
         {
             "variant": null,
-            "image_uri": "cool_pansy_crown.png",
+            "image_uri": "cool-pansy-crown.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1323,10 +1323,10 @@
             "sell-price": 960
         }
     ],
-    "cosmos_crown": [
+    "cosmos-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "cosmos_crown_colorful.png",
+            "image_uri": "cosmos-crown-colorful.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1338,7 +1338,7 @@
         },
         {
             "variant": "Lovely",
-            "image_uri": "cosmos_crown_lovely.png",
+            "image_uri": "cosmos-crown-lovely.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1350,7 +1350,7 @@
         },
         {
             "variant": "Dark",
-            "image_uri": "cosmos_crown_dark.png",
+            "image_uri": "cosmos-crown-dark.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1375,10 +1375,10 @@
             "sell-price": 250000
         }
     ],
-    "cycling_cap": [
+    "cycling-cap": [
         {
             "variant": "Blue",
-            "image_uri": "cycling_cap_blue.png",
+            "image_uri": "cycling-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1390,7 +1390,7 @@
         },
         {
             "variant": "Black & blue",
-            "image_uri": "cycling_cap_black_&_blue.png",
+            "image_uri": "cycling-cap-black-&-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1402,7 +1402,7 @@
         },
         {
             "variant": "Black & red",
-            "image_uri": "cycling_cap_black_&_red.png",
+            "image_uri": "cycling-cap-black-&-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1414,7 +1414,7 @@
         },
         {
             "variant": "Yellow & avocado",
-            "image_uri": "cycling_cap_yellow_&_avocado.png",
+            "image_uri": "cycling-cap-yellow-&-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1426,7 +1426,7 @@
         },
         {
             "variant": "Red & green",
-            "image_uri": "cycling_cap_red_&_green.png",
+            "image_uri": "cycling-cap-red-&-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1438,7 +1438,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "cycling_cap_red.png",
+            "image_uri": "cycling-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1450,7 +1450,7 @@
         },
         {
             "variant": "Lime & purple",
-            "image_uri": "cycling_cap_lime_&_purple.png",
+            "image_uri": "cycling-cap-lime-&-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1462,7 +1462,7 @@
         },
         {
             "variant": "Blue & purple",
-            "image_uri": "cycling_cap_blue_&_purple.png",
+            "image_uri": "cycling-cap-blue-&-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1473,10 +1473,10 @@
             "sell-price": 275
         }
     ],
-    "dal_cap": [
+    "dal-cap": [
         {
             "variant": null,
-            "image_uri": "dal_cap.png",
+            "image_uri": "dal-cap.png",
             "sources": [],
             "name": {
                 "name-USen": "dal cap"
@@ -1485,10 +1485,10 @@
             "sell-price": 1010
         }
     ],
-    "dandy_hat": [
+    "dandy-hat": [
         {
             "variant": "Camel",
-            "image_uri": "dandy_hat_camel.png",
+            "image_uri": "dandy-hat-camel.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1500,7 +1500,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "dandy_hat_blue.png",
+            "image_uri": "dandy-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1512,7 +1512,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "dandy_hat_green.png",
+            "image_uri": "dandy-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1524,7 +1524,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "dandy_hat_purple.png",
+            "image_uri": "dandy-hat-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1536,7 +1536,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "dandy_hat_gray.png",
+            "image_uri": "dandy-hat-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1548,7 +1548,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "dandy_hat_white.png",
+            "image_uri": "dandy-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1559,10 +1559,10 @@
             "sell-price": 275
         }
     ],
-    "denim_cap": [
+    "denim-cap": [
         {
             "variant": "Blue",
-            "image_uri": "denim_cap_blue.png",
+            "image_uri": "denim-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1574,7 +1574,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "denim_cap_light_blue.png",
+            "image_uri": "denim-cap-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1586,7 +1586,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "denim_cap_black.png",
+            "image_uri": "denim-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1598,7 +1598,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "denim_cap_white.png",
+            "image_uri": "denim-cap-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1609,10 +1609,10 @@
             "sell-price": 192
         }
     ],
-    "detective_hat": [
+    "detective-hat": [
         {
             "variant": "Brown",
-            "image_uri": "detective_hat_brown.png",
+            "image_uri": "detective-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1624,7 +1624,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "detective_hat_gray.png",
+            "image_uri": "detective-hat-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1636,7 +1636,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "detective_hat_beige.png",
+            "image_uri": "detective-hat-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1647,10 +1647,10 @@
             "sell-price": 525
         }
     ],
-    "dj_cap": [
+    "dj-cap": [
         {
             "variant": "Blue",
-            "image_uri": "dj_cap_blue.png",
+            "image_uri": "dj-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1662,7 +1662,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "dj_cap_pink.png",
+            "image_uri": "dj-cap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1674,7 +1674,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "dj_cap_orange.png",
+            "image_uri": "dj-cap-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1686,7 +1686,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "dj_cap_black.png",
+            "image_uri": "dj-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1700,7 +1700,7 @@
     "do-rag": [
         {
             "variant": "Yellow",
-            "image_uri": "do-rag_yellow.png",
+            "image_uri": "do-rag-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1712,7 +1712,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "do-rag_blue.png",
+            "image_uri": "do-rag-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1724,7 +1724,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "do-rag_red.png",
+            "image_uri": "do-rag-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1736,7 +1736,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "do-rag_pink.png",
+            "image_uri": "do-rag-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1748,7 +1748,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "do-rag_black.png",
+            "image_uri": "do-rag-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1760,7 +1760,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "do-rag_purple.png",
+            "image_uri": "do-rag-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1772,7 +1772,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "do-rag_green.png",
+            "image_uri": "do-rag-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1784,7 +1784,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "do-rag_beige.png",
+            "image_uri": "do-rag-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1795,10 +1795,10 @@
             "sell-price": 140
         }
     ],
-    "dotted_shower_cap": [
+    "dotted-shower-cap": [
         {
             "variant": "Pink",
-            "image_uri": "dotted_shower_cap_pink.png",
+            "image_uri": "dotted-shower-cap-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "dotted shower cap"
@@ -1808,7 +1808,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "dotted_shower_cap_blue.png",
+            "image_uri": "dotted-shower-cap-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "dotted shower cap"
@@ -1817,10 +1817,10 @@
             "sell-price": 140
         }
     ],
-    "earth-egg_shell": [
+    "earth-egg-shell": [
         {
             "variant": null,
-            "image_uri": "earth-egg_shell.png",
+            "image_uri": "earth-egg-shell.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1831,10 +1831,10 @@
             "sell-price": 800
         }
     ],
-    "egg_party_hat": [
+    "egg-party-hat": [
         {
             "variant": null,
-            "image_uri": "egg_party_hat.png",
+            "image_uri": "egg-party-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1859,10 +1859,10 @@
             "sell-price": 140
         }
     ],
-    "elder_mask": [
+    "elder-mask": [
         {
             "variant": null,
-            "image_uri": "elder_mask.png",
+            "image_uri": "elder-mask.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -1873,10 +1873,10 @@
             "sell-price": 1500
         }
     ],
-    "elegant_hat": [
+    "elegant-hat": [
         {
             "variant": "Purple",
-            "image_uri": "elegant_hat_purple.png",
+            "image_uri": "elegant-hat-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1888,7 +1888,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "elegant_hat_green.png",
+            "image_uri": "elegant-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1900,7 +1900,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "elegant_hat_red.png",
+            "image_uri": "elegant-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1912,7 +1912,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "elegant_hat_white.png",
+            "image_uri": "elegant-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1924,7 +1924,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "elegant_hat_black.png",
+            "image_uri": "elegant-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1935,10 +1935,10 @@
             "sell-price": 525
         }
     ],
-    "explorer's_hat": [
+    "explorer's-hat": [
         {
             "variant": "Camel",
-            "image_uri": "explorer's_hat_camel.png",
+            "image_uri": "explorer's-hat-camel.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1950,7 +1950,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "explorer's_hat_avocado.png",
+            "image_uri": "explorer's-hat-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1962,7 +1962,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "explorer's_hat_beige.png",
+            "image_uri": "explorer's-hat-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1974,7 +1974,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "explorer's_hat_blue.png",
+            "image_uri": "explorer's-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1985,10 +1985,10 @@
             "sell-price": 260
         }
     ],
-    "fairy-tale_hood": [
+    "fairy-tale-hood": [
         {
             "variant": "Red",
-            "image_uri": "fairy-tale_hood_red.png",
+            "image_uri": "fairy-tale-hood-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2000,7 +2000,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "fairy-tale_hood_pink.png",
+            "image_uri": "fairy-tale-hood-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2012,7 +2012,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "fairy-tale_hood_yellow.png",
+            "image_uri": "fairy-tale-hood-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2024,7 +2024,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "fairy-tale_hood_green.png",
+            "image_uri": "fairy-tale-hood-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2036,7 +2036,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "fairy-tale_hood_blue.png",
+            "image_uri": "fairy-tale-hood-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2048,7 +2048,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "fairy-tale_hood_light_blue.png",
+            "image_uri": "fairy-tale-hood-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2060,7 +2060,7 @@
         },
         {
             "variant": "Light green",
-            "image_uri": "fairy-tale_hood_light_green.png",
+            "image_uri": "fairy-tale-hood-light-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2072,7 +2072,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "fairy-tale_hood_orange.png",
+            "image_uri": "fairy-tale-hood-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2083,10 +2083,10 @@
             "sell-price": 390
         }
     ],
-    "faux-fur_hat": [
+    "faux-fur-hat": [
         {
             "variant": "Beige",
-            "image_uri": "faux-fur_hat_beige.png",
+            "image_uri": "faux-fur-hat-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2098,7 +2098,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "faux-fur_hat_brown.png",
+            "image_uri": "faux-fur-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2110,7 +2110,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "faux-fur_hat_gray.png",
+            "image_uri": "faux-fur-hat-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2122,7 +2122,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "faux-fur_hat_black.png",
+            "image_uri": "faux-fur-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2134,7 +2134,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "faux-fur_hat_pink.png",
+            "image_uri": "faux-fur-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2146,7 +2146,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "faux-fur_hat_white.png",
+            "image_uri": "faux-fur-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2158,7 +2158,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "faux-fur_hat_red.png",
+            "image_uri": "faux-fur-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2172,7 +2172,7 @@
     "fedora": [
         {
             "variant": "Beige",
-            "image_uri": "fedora_beige.png",
+            "image_uri": "fedora-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2184,7 +2184,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "fedora_black.png",
+            "image_uri": "fedora-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2196,7 +2196,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "fedora_green.png",
+            "image_uri": "fedora-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2208,7 +2208,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "fedora_gray.png",
+            "image_uri": "fedora-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2220,7 +2220,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "fedora_white.png",
+            "image_uri": "fedora-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2232,7 +2232,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "fedora_red.png",
+            "image_uri": "fedora-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2243,10 +2243,10 @@
             "sell-price": 275
         }
     ],
-    "firefighter's_hat": [
+    "firefighter's-hat": [
         {
             "variant": "Black",
-            "image_uri": "firefighter's_hat_black.png",
+            "image_uri": "firefighter's-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2258,7 +2258,7 @@
         },
         {
             "variant": "Flame orange",
-            "image_uri": "firefighter's_hat_flame_orange.png",
+            "image_uri": "firefighter's-hat-flame-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2270,7 +2270,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "firefighter's_hat_brown.png",
+            "image_uri": "firefighter's-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2282,7 +2282,7 @@
         },
         {
             "variant": "Lime yellow",
-            "image_uri": "firefighter's_hat_lime_yellow.png",
+            "image_uri": "firefighter's-hat-lime-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2294,7 +2294,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "firefighter's_hat_avocado.png",
+            "image_uri": "firefighter's-hat-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2305,10 +2305,10 @@
             "sell-price": 420
         }
     ],
-    "flashy_hairpin": [
+    "flashy-hairpin": [
         {
             "variant": "Pink",
-            "image_uri": "flashy_hairpin_pink.png",
+            "image_uri": "flashy-hairpin-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2320,7 +2320,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "flashy_hairpin_blue.png",
+            "image_uri": "flashy-hairpin-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2332,7 +2332,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "flashy_hairpin_black.png",
+            "image_uri": "flashy-hairpin-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2344,7 +2344,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "flashy_hairpin_purple.png",
+            "image_uri": "flashy-hairpin-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2356,7 +2356,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "flashy_hairpin_orange.png",
+            "image_uri": "flashy-hairpin-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2368,7 +2368,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "flashy_hairpin_green.png",
+            "image_uri": "flashy-hairpin-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2380,7 +2380,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "flashy_hairpin_white.png",
+            "image_uri": "flashy-hairpin-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2391,10 +2391,10 @@
             "sell-price": 585
         }
     ],
-    "floral_hairpin": [
+    "floral-hairpin": [
         {
             "variant": "Pink",
-            "image_uri": "floral_hairpin_pink.png",
+            "image_uri": "floral-hairpin-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2406,7 +2406,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "floral_hairpin_blue.png",
+            "image_uri": "floral-hairpin-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2418,7 +2418,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "floral_hairpin_green.png",
+            "image_uri": "floral-hairpin-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2430,7 +2430,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "floral_hairpin_yellow.png",
+            "image_uri": "floral-hairpin-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2442,7 +2442,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "floral_hairpin_purple.png",
+            "image_uri": "floral-hairpin-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2453,10 +2453,10 @@
             "sell-price": 122
         }
     ],
-    "football_helmet": [
+    "football-helmet": [
         {
             "variant": "Green",
-            "image_uri": "football_helmet_green.png",
+            "image_uri": "football-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2468,7 +2468,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "football_helmet_white.png",
+            "image_uri": "football-helmet-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2480,7 +2480,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "football_helmet_yellow.png",
+            "image_uri": "football-helmet-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2492,7 +2492,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "football_helmet_berry_red.png",
+            "image_uri": "football-helmet-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2504,7 +2504,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "football_helmet_blue.png",
+            "image_uri": "football-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2516,7 +2516,7 @@
         },
         {
             "variant": "Turquoise",
-            "image_uri": "football_helmet_turquoise.png",
+            "image_uri": "football-helmet-turquoise.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2528,7 +2528,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "football_helmet_red.png",
+            "image_uri": "football-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2540,7 +2540,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "football_helmet_black.png",
+            "image_uri": "football-helmet-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2551,10 +2551,10 @@
             "sell-price": 360
         }
     ],
-    "fox_mask": [
+    "fox-mask": [
         {
             "variant": "White",
-            "image_uri": "fox_mask_white.png",
+            "image_uri": "fox-mask-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2566,7 +2566,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "fox_mask_black.png",
+            "image_uri": "fox-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2577,10 +2577,10 @@
             "sell-price": 350
         }
     ],
-    "frog_cap": [
+    "frog-cap": [
         {
             "variant": "Green",
-            "image_uri": "frog_cap_green.png",
+            "image_uri": "frog-cap-green.png",
             "sources": [],
             "name": {
                 "name-USen": "frog cap"
@@ -2590,7 +2590,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "frog_cap_blue.png",
+            "image_uri": "frog-cap-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "frog cap"
@@ -2600,7 +2600,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "frog_cap_red.png",
+            "image_uri": "frog-cap-red.png",
             "sources": [],
             "name": {
                 "name-USen": "frog cap"
@@ -2610,7 +2610,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "frog_cap_yellow.png",
+            "image_uri": "frog-cap-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "frog cap"
@@ -2619,10 +2619,10 @@
             "sell-price": 280
         }
     ],
-    "frugal_hat": [
+    "frugal-hat": [
         {
             "variant": "Brown",
-            "image_uri": "frugal_hat_brown.png",
+            "image_uri": "frugal-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2634,7 +2634,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "frugal_hat_green.png",
+            "image_uri": "frugal-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2646,7 +2646,7 @@
         },
         {
             "variant": "Blue-gray",
-            "image_uri": "frugal_hat_blue-gray.png",
+            "image_uri": "frugal-hat-blue-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2657,10 +2657,10 @@
             "sell-price": 87
         }
     ],
-    "geisha_wig": [
+    "geisha-wig": [
         {
             "variant": "Red",
-            "image_uri": "geisha_wig_red.png",
+            "image_uri": "geisha-wig-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2672,7 +2672,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "geisha_wig_pink.png",
+            "image_uri": "geisha-wig-pink.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2684,7 +2684,7 @@
         },
         {
             "variant": "Golden yellow",
-            "image_uri": "geisha_wig_golden_yellow.png",
+            "image_uri": "geisha-wig-golden-yellow.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2696,7 +2696,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "geisha_wig_green.png",
+            "image_uri": "geisha-wig-green.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2708,7 +2708,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "geisha_wig_blue.png",
+            "image_uri": "geisha-wig-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2720,7 +2720,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "geisha_wig_purple.png",
+            "image_uri": "geisha-wig-purple.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2732,7 +2732,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "geisha_wig_black.png",
+            "image_uri": "geisha-wig-black.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -2743,10 +2743,10 @@
             "sell-price": 1350
         }
     ],
-    "giant_ribbon": [
+    "giant-ribbon": [
         {
             "variant": "Red",
-            "image_uri": "giant_ribbon_red.png",
+            "image_uri": "giant-ribbon-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2758,7 +2758,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "giant_ribbon_green.png",
+            "image_uri": "giant-ribbon-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2770,7 +2770,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "giant_ribbon_blue.png",
+            "image_uri": "giant-ribbon-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2782,7 +2782,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "giant_ribbon_yellow.png",
+            "image_uri": "giant-ribbon-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2794,7 +2794,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "giant_ribbon_orange.png",
+            "image_uri": "giant-ribbon-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2806,7 +2806,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "giant_ribbon_pink.png",
+            "image_uri": "giant-ribbon-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2818,7 +2818,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "giant_ribbon_white.png",
+            "image_uri": "giant-ribbon-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2830,7 +2830,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "giant_ribbon_black.png",
+            "image_uri": "giant-ribbon-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2855,10 +2855,10 @@
             "sell-price": 330
         }
     ],
-    "gold_helmet": [
+    "gold-helmet": [
         {
             "variant": null,
-            "image_uri": "gold_helmet.png",
+            "image_uri": "gold-helmet.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -2869,10 +2869,10 @@
             "sell-price": 50000
         }
     ],
-    "gothic_headdress": [
+    "gothic-headdress": [
         {
             "variant": "Purple",
-            "image_uri": "gothic_headdress_purple.png",
+            "image_uri": "gothic-headdress-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2884,7 +2884,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "gothic_headdress_black.png",
+            "image_uri": "gothic-headdress-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2896,7 +2896,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "gothic_headdress_red.png",
+            "image_uri": "gothic-headdress-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2908,7 +2908,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "gothic_headdress_pink.png",
+            "image_uri": "gothic-headdress-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2920,7 +2920,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "gothic_headdress_blue.png",
+            "image_uri": "gothic-headdress-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2932,7 +2932,7 @@
         },
         {
             "variant": "Light purple",
-            "image_uri": "gothic_headdress_light_purple.png",
+            "image_uri": "gothic-headdress-light-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2943,10 +2943,10 @@
             "sell-price": 280
         }
     ],
-    "grape_hat": [
+    "grape-hat": [
         {
             "variant": null,
-            "image_uri": "grape_hat.png",
+            "image_uri": "grape-hat.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2971,10 +2971,10 @@
             "sell-price": 555
         }
     ],
-    "handmade_crown": [
+    "handmade-crown": [
         {
             "variant": null,
-            "image_uri": "handmade_crown.png",
+            "image_uri": "handmade-crown.png",
             "sources": [
                 "International Chidren's Day"
             ],
@@ -2988,7 +2988,7 @@
     "headband": [
         {
             "variant": "Pink",
-            "image_uri": "headband_pink.png",
+            "image_uri": "headband-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3000,7 +3000,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "headband_blue.png",
+            "image_uri": "headband-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3012,7 +3012,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "headband_purple.png",
+            "image_uri": "headband-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3024,7 +3024,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "headband_green.png",
+            "image_uri": "headband-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3038,7 +3038,7 @@
     "headgear": [
         {
             "variant": "Red",
-            "image_uri": "headgear_red.png",
+            "image_uri": "headgear-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3050,7 +3050,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "headgear_blue.png",
+            "image_uri": "headgear-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3062,7 +3062,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "headgear_green.png",
+            "image_uri": "headgear-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3087,10 +3087,10 @@
             "sell-price": 122
         }
     ],
-    "heart_hairpin": [
+    "heart-hairpin": [
         {
             "variant": "Black",
-            "image_uri": "heart_hairpin_black.png",
+            "image_uri": "heart-hairpin-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3102,7 +3102,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "heart_hairpin_red.png",
+            "image_uri": "heart-hairpin-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3114,7 +3114,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "heart_hairpin_pink.png",
+            "image_uri": "heart-hairpin-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3126,7 +3126,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "heart_hairpin_green.png",
+            "image_uri": "heart-hairpin-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3138,7 +3138,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "heart_hairpin_blue.png",
+            "image_uri": "heart-hairpin-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3149,10 +3149,10 @@
             "sell-price": 175
         }
     ],
-    "helmet_with_goggles": [
+    "helmet-with-goggles": [
         {
             "variant": "Pink",
-            "image_uri": "helmet_with_goggles_pink.png",
+            "image_uri": "helmet-with-goggles-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3164,7 +3164,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "helmet_with_goggles_green.png",
+            "image_uri": "helmet-with-goggles-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3176,7 +3176,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "helmet_with_goggles_purple.png",
+            "image_uri": "helmet-with-goggles-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3188,7 +3188,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "helmet_with_goggles_blue.png",
+            "image_uri": "helmet-with-goggles-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3200,7 +3200,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "helmet_with_goggles_red.png",
+            "image_uri": "helmet-with-goggles-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3212,7 +3212,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "helmet_with_goggles_light_blue.png",
+            "image_uri": "helmet-with-goggles-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3224,7 +3224,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "helmet_with_goggles_black.png",
+            "image_uri": "helmet-with-goggles-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3236,7 +3236,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "helmet_with_goggles_yellow.png",
+            "image_uri": "helmet-with-goggles-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3247,10 +3247,10 @@
             "sell-price": 275
         }
     ],
-    "hibiscus_hairpin": [
+    "hibiscus-hairpin": [
         {
             "variant": "Red",
-            "image_uri": "hibiscus_hairpin_red.png",
+            "image_uri": "hibiscus-hairpin-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3262,7 +3262,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "hibiscus_hairpin_yellow.png",
+            "image_uri": "hibiscus-hairpin-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3274,7 +3274,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "hibiscus_hairpin_white.png",
+            "image_uri": "hibiscus-hairpin-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3286,7 +3286,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "hibiscus_hairpin_pink.png",
+            "image_uri": "hibiscus-hairpin-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3297,10 +3297,10 @@
             "sell-price": 140
         }
     ],
-    "hockey_mask": [
+    "hockey-mask": [
         {
             "variant": null,
-            "image_uri": "hockey_mask.png",
+            "image_uri": "hockey-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3311,10 +3311,10 @@
             "sell-price": 360
         }
     ],
-    "hot-dog_hood": [
+    "hot-dog-hood": [
         {
             "variant": null,
-            "image_uri": "hot-dog_hood.png",
+            "image_uri": "hot-dog-hood.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3325,10 +3325,10 @@
             "sell-price": 140
         }
     ],
-    "hyacinth_crown": [
+    "hyacinth-crown": [
         {
             "variant": "Red",
-            "image_uri": "hyacinth_crown_red.png",
+            "image_uri": "hyacinth-crown-red.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3340,7 +3340,7 @@
         },
         {
             "variant": "Cool",
-            "image_uri": "hyacinth_crown_cool.png",
+            "image_uri": "hyacinth-crown-cool.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3352,7 +3352,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "hyacinth_crown_purple.png",
+            "image_uri": "hyacinth-crown-purple.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3363,10 +3363,10 @@
             "sell-price": 640
         }
     ],
-    "imitation_cow_skull": [
+    "imitation-cow-skull": [
         {
             "variant": null,
-            "image_uri": "imitation_cow_skull.png",
+            "image_uri": "imitation-cow-skull.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3377,10 +3377,10 @@
             "sell-price": 280
         }
     ],
-    "imp_hood": [
+    "imp-hood": [
         {
             "variant": "Black",
-            "image_uri": "imp_hood_black.png",
+            "image_uri": "imp-hood-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3392,7 +3392,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "imp_hood_red.png",
+            "image_uri": "imp-hood-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3403,10 +3403,10 @@
             "sell-price": 440
         }
     ],
-    "jester's_cap": [
+    "jester's-cap": [
         {
             "variant": "Purple & yellow",
-            "image_uri": "jester's_cap_purple_&_yellow.png",
+            "image_uri": "jester's-cap-purple-&-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3418,7 +3418,7 @@
         },
         {
             "variant": "Black & white",
-            "image_uri": "jester's_cap_black_&_white.png",
+            "image_uri": "jester's-cap-black-&-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3430,7 +3430,7 @@
         },
         {
             "variant": "Red & blue",
-            "image_uri": "jester's_cap_red_&_blue.png",
+            "image_uri": "jester's-cap-red-&-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3442,7 +3442,7 @@
         },
         {
             "variant": "Green & red",
-            "image_uri": "jester's_cap_green_&_red.png",
+            "image_uri": "jester's-cap-green-&-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3453,10 +3453,10 @@
             "sell-price": 475
         }
     ],
-    "jockey's_helmet": [
+    "jockey's-helmet": [
         {
             "variant": "Pink",
-            "image_uri": "jockey's_helmet_pink.png",
+            "image_uri": "jockey's-helmet-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3468,7 +3468,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "jockey's_helmet_orange.png",
+            "image_uri": "jockey's-helmet-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3480,7 +3480,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "jockey's_helmet_green.png",
+            "image_uri": "jockey's-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3492,7 +3492,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "jockey's_helmet_yellow.png",
+            "image_uri": "jockey's-helmet-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3504,7 +3504,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "jockey's_helmet_blue.png",
+            "image_uri": "jockey's-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3516,7 +3516,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "jockey's_helmet_red.png",
+            "image_uri": "jockey's-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3528,7 +3528,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "jockey's_helmet_black.png",
+            "image_uri": "jockey's-helmet-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3540,7 +3540,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "jockey's_helmet_white.png",
+            "image_uri": "jockey's-helmet-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3554,7 +3554,7 @@
     "kaffiyeh": [
         {
             "variant": "Red",
-            "image_uri": "kaffiyeh_red.png",
+            "image_uri": "kaffiyeh-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -3566,7 +3566,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "kaffiyeh_black.png",
+            "image_uri": "kaffiyeh-black.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -3578,7 +3578,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "kaffiyeh_white.png",
+            "image_uri": "kaffiyeh-white.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -3589,10 +3589,10 @@
             "sell-price": 800
         }
     ],
-    "kappa_cap": [
+    "kappa-cap": [
         {
             "variant": "Green",
-            "image_uri": "kappa_cap_green.png",
+            "image_uri": "kappa-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3604,7 +3604,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "kappa_cap_pink.png",
+            "image_uri": "kappa-cap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3615,10 +3615,10 @@
             "sell-price": 245
         }
     ],
-    "kiwi_hat": [
+    "kiwi-hat": [
         {
             "variant": null,
-            "image_uri": "kiwi_hat.png",
+            "image_uri": "kiwi-hat.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3629,10 +3629,10 @@
             "sell-price": 192
         }
     ],
-    "knight's_helmet": [
+    "knight's-helmet": [
         {
             "variant": null,
-            "image_uri": "knight's_helmet.png",
+            "image_uri": "knight's-helmet.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3643,10 +3643,10 @@
             "sell-price": 3750
         }
     ],
-    "knit_cap_with_earflaps": [
+    "knit-cap-with-earflaps": [
         {
             "variant": "Beige",
-            "image_uri": "knit_cap_with_earflaps_beige.png",
+            "image_uri": "knit-cap-with-earflaps-beige.png",
             "sources": [
                 ""
             ],
@@ -3658,7 +3658,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "knit_cap_with_earflaps_blue.png",
+            "image_uri": "knit-cap-with-earflaps-blue.png",
             "sources": [
                 ""
             ],
@@ -3670,7 +3670,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "knit_cap_with_earflaps_pink.png",
+            "image_uri": "knit-cap-with-earflaps-pink.png",
             "sources": [
                 ""
             ],
@@ -3682,7 +3682,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "knit_cap_with_earflaps_green.png",
+            "image_uri": "knit-cap-with-earflaps-green.png",
             "sources": [
                 ""
             ],
@@ -3694,7 +3694,7 @@
         },
         {
             "variant": "Ruby red",
-            "image_uri": "knit_cap_with_earflaps_ruby_red.png",
+            "image_uri": "knit-cap-with-earflaps-ruby-red.png",
             "sources": [
                 ""
             ],
@@ -3706,7 +3706,7 @@
         },
         {
             "variant": "Moss green",
-            "image_uri": "knit_cap_with_earflaps_moss_green.png",
+            "image_uri": "knit-cap-with-earflaps-moss-green.png",
             "sources": [
                 ""
             ],
@@ -3718,7 +3718,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "knit_cap_with_earflaps_gray.png",
+            "image_uri": "knit-cap-with-earflaps-gray.png",
             "sources": [
                 ""
             ],
@@ -3729,10 +3729,10 @@
             "sell-price": 250
         }
     ],
-    "knit_hat": [
+    "knit-hat": [
         {
             "variant": "Black",
-            "image_uri": "knit_hat_black.png",
+            "image_uri": "knit-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3744,7 +3744,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "knit_hat_white.png",
+            "image_uri": "knit-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3756,7 +3756,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "knit_hat_gray.png",
+            "image_uri": "knit-hat-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3768,7 +3768,7 @@
         },
         {
             "variant": "Ochre",
-            "image_uri": "knit_hat_ochre.png",
+            "image_uri": "knit-hat-ochre.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3780,7 +3780,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "knit_hat_red.png",
+            "image_uri": "knit-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3792,7 +3792,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "knit_hat_blue.png",
+            "image_uri": "knit-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3804,7 +3804,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "knit_hat_green.png",
+            "image_uri": "knit-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3816,7 +3816,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "knit_hat_pink.png",
+            "image_uri": "knit-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3827,10 +3827,10 @@
             "sell-price": 140
         }
     ],
-    "labelle_cap": [
+    "labelle-cap": [
         {
             "variant": "Twilight",
-            "image_uri": "labelle_cap_twilight.png",
+            "image_uri": "labelle-cap-twilight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3842,7 +3842,7 @@
         },
         {
             "variant": "Midnight",
-            "image_uri": "labelle_cap_midnight.png",
+            "image_uri": "labelle-cap-midnight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3854,7 +3854,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_cap_passion.png",
+            "image_uri": "labelle-cap-passion.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3866,7 +3866,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_cap_ocean.png",
+            "image_uri": "labelle-cap-ocean.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3878,7 +3878,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_cap_sunset.png",
+            "image_uri": "labelle-cap-sunset.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3890,7 +3890,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_cap_love.png",
+            "image_uri": "labelle-cap-love.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3901,10 +3901,10 @@
             "sell-price": 600
         }
     ],
-    "labelle_hat": [
+    "labelle-hat": [
         {
             "variant": "Twilight",
-            "image_uri": "labelle_hat_twilight.png",
+            "image_uri": "labelle-hat-twilight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3916,7 +3916,7 @@
         },
         {
             "variant": "Midnight",
-            "image_uri": "labelle_hat_midnight.png",
+            "image_uri": "labelle-hat-midnight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3928,7 +3928,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_hat_passion.png",
+            "image_uri": "labelle-hat-passion.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3940,7 +3940,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_hat_ocean.png",
+            "image_uri": "labelle-hat-ocean.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3952,7 +3952,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_hat_sunset.png",
+            "image_uri": "labelle-hat-sunset.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3964,7 +3964,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_hat_love.png",
+            "image_uri": "labelle-hat-love.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -3975,10 +3975,10 @@
             "sell-price": 625
         }
     ],
-    "leaf-egg_shell": [
+    "leaf-egg-shell": [
         {
             "variant": null,
-            "image_uri": "leaf-egg_shell.png",
+            "image_uri": "leaf-egg-shell.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3989,10 +3989,10 @@
             "sell-price": 800
         }
     ],
-    "leaf_mask": [
+    "leaf-mask": [
         {
             "variant": null,
-            "image_uri": "leaf_mask.png",
+            "image_uri": "leaf-mask.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4003,10 +4003,10 @@
             "sell-price": 200
         }
     ],
-    "lettered_cap": [
+    "lettered-cap": [
         {
             "variant": "Red",
-            "image_uri": "lettered_cap_red.png",
+            "image_uri": "lettered-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4018,7 +4018,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "lettered_cap_beige.png",
+            "image_uri": "lettered-cap-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4030,7 +4030,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "lettered_cap_olive.png",
+            "image_uri": "lettered-cap-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4041,10 +4041,10 @@
             "sell-price": 140
         }
     ],
-    "lily_crown": [
+    "lily-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "lily_crown_colorful.png",
+            "image_uri": "lily-crown-colorful.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4056,7 +4056,7 @@
         },
         {
             "variant": "Cute",
-            "image_uri": "lily_crown_cute.png",
+            "image_uri": "lily-crown-cute.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4068,7 +4068,7 @@
         },
         {
             "variant": "Dark",
-            "image_uri": "lily_crown_dark.png",
+            "image_uri": "lily-crown-dark.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4079,10 +4079,10 @@
             "sell-price": 480
         }
     ],
-    "mage's_hat": [
+    "mage's-hat": [
         {
             "variant": "Black",
-            "image_uri": "mage's_hat_black.png",
+            "image_uri": "mage's-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4094,7 +4094,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "mage's_hat_blue.png",
+            "image_uri": "mage's-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4106,7 +4106,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "mage's_hat_white.png",
+            "image_uri": "mage's-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4118,7 +4118,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "mage's_hat_red.png",
+            "image_uri": "mage's-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4132,7 +4132,7 @@
     "matanpushi": [
         {
             "variant": "Blue",
-            "image_uri": "matanpushi_blue.png",
+            "image_uri": "matanpushi-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4144,7 +4144,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "matanpushi_brown.png",
+            "image_uri": "matanpushi-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4156,7 +4156,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "matanpushi_red.png",
+            "image_uri": "matanpushi-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4167,10 +4167,10 @@
             "sell-price": 220
         }
     ],
-    "matronly_bun": [
+    "matronly-bun": [
         {
             "variant": null,
-            "image_uri": "matronly_bun.png",
+            "image_uri": "matronly-bun.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4181,10 +4181,10 @@
             "sell-price": 320
         }
     ],
-    "mesh_cap": [
+    "mesh-cap": [
         {
             "variant": "Purple",
-            "image_uri": "mesh_cap_purple.png",
+            "image_uri": "mesh-cap-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4196,7 +4196,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "mesh_cap_red.png",
+            "image_uri": "mesh-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4208,7 +4208,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "mesh_cap_pink.png",
+            "image_uri": "mesh-cap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4220,7 +4220,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "mesh_cap_green.png",
+            "image_uri": "mesh-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4232,7 +4232,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "mesh_cap_orange.png",
+            "image_uri": "mesh-cap-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4244,7 +4244,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "mesh_cap_yellow.png",
+            "image_uri": "mesh-cap-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4256,7 +4256,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "mesh_cap_black.png",
+            "image_uri": "mesh-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4267,10 +4267,10 @@
             "sell-price": 140
         }
     ],
-    "milkmaid_hat": [
+    "milkmaid-hat": [
         {
             "variant": null,
-            "image_uri": "milkmaid_hat.png",
+            "image_uri": "milkmaid-hat.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -4281,10 +4281,10 @@
             "sell-price": 800
         }
     ],
-    "mohawk_wig": [
+    "mohawk-wig": [
         {
             "variant": null,
-            "image_uri": "mohawk_wig.png",
+            "image_uri": "mohawk-wig.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4295,10 +4295,10 @@
             "sell-price": 320
         }
     ],
-    "mum_crown": [
+    "mum-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "mum_crown_colorful.png",
+            "image_uri": "mum-crown-colorful.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4310,7 +4310,7 @@
         },
         {
             "variant": "Chic",
-            "image_uri": "mum_crown_chic.png",
+            "image_uri": "mum-crown-chic.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4322,7 +4322,7 @@
         },
         {
             "variant": "Simple",
-            "image_uri": "mum_crown_simple.png",
+            "image_uri": "mum-crown-simple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4333,10 +4333,10 @@
             "sell-price": 480
         }
     ],
-    "mummy_mask": [
+    "mummy-mask": [
         {
             "variant": null,
-            "image_uri": "mummy_mask.png",
+            "image_uri": "mummy-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4347,10 +4347,10 @@
             "sell-price": 245
         }
     ],
-    "new_year's_hat": [
+    "new-year's-hat": [
         {
             "variant": "Red",
-            "image_uri": "new_year's_hat_red.png",
+            "image_uri": "new-year's-hat-red.png",
             "sources": [
                 "New Years"
             ],
@@ -4362,7 +4362,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "new_year's_hat_blue.png",
+            "image_uri": "new-year's-hat-blue.png",
             "sources": [
                 "New Years"
             ],
@@ -4374,7 +4374,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "new_year's_hat_yellow.png",
+            "image_uri": "new-year's-hat-yellow.png",
             "sources": [
                 "New Years"
             ],
@@ -4386,7 +4386,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "new_year's_hat_green.png",
+            "image_uri": "new-year's-hat-green.png",
             "sources": [
                 "New Years"
             ],
@@ -4398,7 +4398,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "new_year's_hat_orange.png",
+            "image_uri": "new-year's-hat-orange.png",
             "sources": [
                 "New Years"
             ],
@@ -4410,7 +4410,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "new_year's_hat_purple.png",
+            "image_uri": "new-year's-hat-purple.png",
             "sources": [
                 "New Years"
             ],
@@ -4422,7 +4422,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "new_year's_hat_pink.png",
+            "image_uri": "new-year's-hat-pink.png",
             "sources": [
                 "New Years"
             ],
@@ -4434,7 +4434,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "new_year's_hat_light_blue.png",
+            "image_uri": "new-year's-hat-light-blue.png",
             "sources": [
                 "New Years"
             ],
@@ -4445,10 +4445,10 @@
             "sell-price": 125
         }
     ],
-    "new_year's_silk_hat": [
+    "new-year's-silk-hat": [
         {
             "variant": "Red",
-            "image_uri": "new_year's_silk_hat_red.png",
+            "image_uri": "new-year's-silk-hat-red.png",
             "sources": [
                 "New Years"
             ],
@@ -4460,7 +4460,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "new_year's_silk_hat_blue.png",
+            "image_uri": "new-year's-silk-hat-blue.png",
             "sources": [
                 "New Years"
             ],
@@ -4472,7 +4472,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "new_year's_silk_hat_yellow.png",
+            "image_uri": "new-year's-silk-hat-yellow.png",
             "sources": [
                 "New Years"
             ],
@@ -4484,7 +4484,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "new_year's_silk_hat_green.png",
+            "image_uri": "new-year's-silk-hat-green.png",
             "sources": [
                 "New Years"
             ],
@@ -4496,7 +4496,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "new_year's_silk_hat_orange.png",
+            "image_uri": "new-year's-silk-hat-orange.png",
             "sources": [
                 "New Years"
             ],
@@ -4508,7 +4508,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "new_year's_silk_hat_purple.png",
+            "image_uri": "new-year's-silk-hat-purple.png",
             "sources": [
                 "New Years"
             ],
@@ -4520,7 +4520,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "new_year's_silk_hat_pink.png",
+            "image_uri": "new-year's-silk-hat-pink.png",
             "sources": [
                 "New Years"
             ],
@@ -4532,7 +4532,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "new_year's_silk_hat_light_blue.png",
+            "image_uri": "new-year's-silk-hat-light-blue.png",
             "sources": [
                 "New Years"
             ],
@@ -4543,10 +4543,10 @@
             "sell-price": 125
         }
     ],
-    "ninja_hood": [
+    "ninja-hood": [
         {
             "variant": "Dark blue",
-            "image_uri": "ninja_hood_dark_blue.png",
+            "image_uri": "ninja-hood-dark-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4558,7 +4558,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "ninja_hood_gray.png",
+            "image_uri": "ninja-hood-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4570,7 +4570,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "ninja_hood_red.png",
+            "image_uri": "ninja-hood-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4582,7 +4582,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "ninja_hood_purple.png",
+            "image_uri": "ninja-hood-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4594,7 +4594,7 @@
         },
         {
             "variant": "Aqua",
-            "image_uri": "ninja_hood_aqua.png",
+            "image_uri": "ninja-hood-aqua.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4606,7 +4606,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "ninja_hood_green.png",
+            "image_uri": "ninja-hood-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4618,7 +4618,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "ninja_hood_yellow.png",
+            "image_uri": "ninja-hood-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4630,7 +4630,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "ninja_hood_orange.png",
+            "image_uri": "ninja-hood-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4641,10 +4641,10 @@
             "sell-price": 350
         }
     ],
-    "noh_mask": [
+    "noh-mask": [
         {
             "variant": null,
-            "image_uri": "noh_mask.png",
+            "image_uri": "noh-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4655,10 +4655,10 @@
             "sell-price": 600
         }
     ],
-    "nook_inc._bandanna": [
+    "nook-inc.-bandanna": [
         {
             "variant": null,
-            "image_uri": "nook_inc._bandanna.png",
+            "image_uri": "nook-inc.-bandanna.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -4669,10 +4669,10 @@
             "sell-price": 2500
         }
     ],
-    "nook_inc._cap": [
+    "nook-inc.-cap": [
         {
             "variant": null,
-            "image_uri": "nook_inc._cap.png",
+            "image_uri": "nook-inc.-cap.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -4683,10 +4683,10 @@
             "sell-price": 2500
         }
     ],
-    "nurse's_cap": [
+    "nurse's-cap": [
         {
             "variant": "Pink",
-            "image_uri": "nurse's_cap_pink.png",
+            "image_uri": "nurse's-cap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4698,7 +4698,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "nurse's_cap_white.png",
+            "image_uri": "nurse's-cap-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4710,7 +4710,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "nurse's_cap_blue.png",
+            "image_uri": "nurse's-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4721,10 +4721,10 @@
             "sell-price": 420
         }
     ],
-    "ok_motors_cap": [
+    "ok-motors-cap": [
         {
             "variant": null,
-            "image_uri": "ok_motors_cap.png",
+            "image_uri": "ok-motors-cap.png",
             "sources": [
                 "Pocket Camp"
             ],
@@ -4735,10 +4735,10 @@
             "sell-price": 192
         }
     ],
-    "orange_hat": [
+    "orange-hat": [
         {
             "variant": null,
-            "image_uri": "orange_hat.png",
+            "image_uri": "orange-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4749,10 +4749,10 @@
             "sell-price": 1000
         }
     ],
-    "outback_hat": [
+    "outback-hat": [
         {
             "variant": "Brown",
-            "image_uri": "outback_hat_brown.png",
+            "image_uri": "outback-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4764,7 +4764,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "outback_hat_beige.png",
+            "image_uri": "outback-hat-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4776,7 +4776,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "outback_hat_red.png",
+            "image_uri": "outback-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4788,7 +4788,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "outback_hat_pink.png",
+            "image_uri": "outback-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4800,7 +4800,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "outback_hat_white.png",
+            "image_uri": "outback-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4811,10 +4811,10 @@
             "sell-price": 390
         }
     ],
-    "outdoor_hat": [
+    "outdoor-hat": [
         {
             "variant": "Orange",
-            "image_uri": "outdoor_hat_orange.png",
+            "image_uri": "outdoor-hat-orange.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4826,7 +4826,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "outdoor_hat_blue.png",
+            "image_uri": "outdoor-hat-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4838,7 +4838,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "outdoor_hat_purple.png",
+            "image_uri": "outdoor-hat-purple.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4850,7 +4850,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "outdoor_hat_red.png",
+            "image_uri": "outdoor-hat-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4862,7 +4862,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "outdoor_hat_yellow.png",
+            "image_uri": "outdoor-hat-yellow.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4874,7 +4874,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "outdoor_hat_light_blue.png",
+            "image_uri": "outdoor-hat-light-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4886,7 +4886,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "outdoor_hat_green.png",
+            "image_uri": "outdoor-hat-green.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4898,7 +4898,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "outdoor_hat_beige.png",
+            "image_uri": "outdoor-hat-beige.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4909,10 +4909,10 @@
             "sell-price": 275
         }
     ],
-    "paintball_mask": [
+    "paintball-mask": [
         {
             "variant": "Black",
-            "image_uri": "paintball_mask_black.png",
+            "image_uri": "paintball-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4924,7 +4924,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "paintball_mask_white.png",
+            "image_uri": "paintball-mask-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4936,7 +4936,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "paintball_mask_olive.png",
+            "image_uri": "paintball-mask-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4948,7 +4948,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "paintball_mask_yellow.png",
+            "image_uri": "paintball-mask-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4959,10 +4959,10 @@
             "sell-price": 260
         }
     ],
-    "paisley_bandanna": [
+    "paisley-bandanna": [
         {
             "variant": "Red",
-            "image_uri": "paisley_bandanna_red.png",
+            "image_uri": "paisley-bandanna-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4974,7 +4974,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "paisley_bandanna_blue.png",
+            "image_uri": "paisley-bandanna-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4986,7 +4986,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "paisley_bandanna_yellow.png",
+            "image_uri": "paisley-bandanna-yellow.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -4998,7 +4998,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "paisley_bandanna_black.png",
+            "image_uri": "paisley-bandanna-black.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -5010,7 +5010,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "paisley_bandanna_green.png",
+            "image_uri": "paisley-bandanna-green.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -5022,7 +5022,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "paisley_bandanna_orange.png",
+            "image_uri": "paisley-bandanna-orange.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -5034,7 +5034,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "paisley_bandanna_pink.png",
+            "image_uri": "paisley-bandanna-pink.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -5046,7 +5046,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "paisley_bandanna_purple.png",
+            "image_uri": "paisley-bandanna-purple.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -5057,10 +5057,10 @@
             "sell-price": 175
         }
     ],
-    "pansy_crown": [
+    "pansy-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "pansy_crown_colorful.png",
+            "image_uri": "pansy-crown-colorful.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5072,7 +5072,7 @@
         },
         {
             "variant": "Cool",
-            "image_uri": "pansy_crown_cool.png",
+            "image_uri": "pansy-crown-cool.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5084,7 +5084,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "pansy_crown_purple.png",
+            "image_uri": "pansy-crown-purple.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5095,10 +5095,10 @@
             "sell-price": 480
         }
     ],
-    "paper_bag": [
+    "paper-bag": [
         {
             "variant": null,
-            "image_uri": "paper_bag.png",
+            "image_uri": "paper-bag.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5109,10 +5109,10 @@
             "sell-price": 35
         }
     ],
-    "paperboy_cap": [
+    "paperboy-cap": [
         {
             "variant": "Brown",
-            "image_uri": "paperboy_cap_brown.png",
+            "image_uri": "paperboy-cap-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5124,7 +5124,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "paperboy_cap_gray.png",
+            "image_uri": "paperboy-cap-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5136,7 +5136,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "paperboy_cap_green.png",
+            "image_uri": "paperboy-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5148,7 +5148,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "paperboy_cap_blue.png",
+            "image_uri": "paperboy-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5160,7 +5160,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "paperboy_cap_red.png",
+            "image_uri": "paperboy-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5171,10 +5171,10 @@
             "sell-price": 367
         }
     ],
-    "patchwork_tulip_hat": [
+    "patchwork-tulip-hat": [
         {
             "variant": "Pink",
-            "image_uri": "patchwork_tulip_hat_pink.png",
+            "image_uri": "patchwork-tulip-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5186,7 +5186,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "patchwork_tulip_hat_blue.png",
+            "image_uri": "patchwork-tulip-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5198,7 +5198,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "patchwork_tulip_hat_yellow.png",
+            "image_uri": "patchwork-tulip-hat-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5209,10 +5209,10 @@
             "sell-price": 420
         }
     ],
-    "peach_hat": [
+    "peach-hat": [
         {
             "variant": null,
-            "image_uri": "peach_hat.png",
+            "image_uri": "peach-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5223,10 +5223,10 @@
             "sell-price": 1000
         }
     ],
-    "pear_hat": [
+    "pear-hat": [
         {
             "variant": null,
-            "image_uri": "pear_hat.png",
+            "image_uri": "pear-hat.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5251,10 +5251,10 @@
             "sell-price": 800
         }
     ],
-    "pilot's_cap": [
+    "pilot's-cap": [
         {
             "variant": "Brown",
-            "image_uri": "pilot's_cap_brown.png",
+            "image_uri": "pilot's-cap-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5266,7 +5266,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "pilot's_cap_black.png",
+            "image_uri": "pilot's-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5278,7 +5278,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "pilot's_cap_avocado.png",
+            "image_uri": "pilot's-cap-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5289,10 +5289,10 @@
             "sell-price": 280
         }
     ],
-    "pilot's_hat": [
+    "pilot's-hat": [
         {
             "variant": "Navy blue",
-            "image_uri": "pilot's_hat_navy_blue.png",
+            "image_uri": "pilot's-hat-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5304,7 +5304,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "pilot's_hat_black.png",
+            "image_uri": "pilot's-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5316,7 +5316,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "pilot's_hat_light_blue.png",
+            "image_uri": "pilot's-hat-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5327,10 +5327,10 @@
             "sell-price": 420
         }
     ],
-    "pineapple_cap": [
+    "pineapple-cap": [
         {
             "variant": null,
-            "image_uri": "pineapple_cap.png",
+            "image_uri": "pineapple-cap.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5341,10 +5341,10 @@
             "sell-price": 175
         }
     ],
-    "plain_cap": [
+    "plain-cap": [
         {
             "variant": "Gray",
-            "image_uri": "plain_cap_gray.png",
+            "image_uri": "plain-cap-gray.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5356,7 +5356,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "plain_cap_beige.png",
+            "image_uri": "plain-cap-beige.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5368,7 +5368,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "plain_cap_red.png",
+            "image_uri": "plain-cap-red.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5380,7 +5380,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "plain_cap_blue.png",
+            "image_uri": "plain-cap-blue.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5392,7 +5392,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "plain_cap_green.png",
+            "image_uri": "plain-cap-green.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5403,10 +5403,10 @@
             "sell-price": 140
         }
     ],
-    "police_cap": [
+    "police-cap": [
         {
             "variant": null,
-            "image_uri": "police_cap.png",
+            "image_uri": "police-cap.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5417,10 +5417,10 @@
             "sell-price": 420
         }
     ],
-    "pom_casquette": [
+    "pom-casquette": [
         {
             "variant": "Brown",
-            "image_uri": "pom_casquette_brown.png",
+            "image_uri": "pom-casquette-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5432,7 +5432,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "pom_casquette_white.png",
+            "image_uri": "pom-casquette-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5444,7 +5444,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "pom_casquette_red.png",
+            "image_uri": "pom-casquette-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5456,7 +5456,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "pom_casquette_green.png",
+            "image_uri": "pom-casquette-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5468,7 +5468,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "pom_casquette_blue.png",
+            "image_uri": "pom-casquette-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5480,7 +5480,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "pom_casquette_gray.png",
+            "image_uri": "pom-casquette-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5491,10 +5491,10 @@
             "sell-price": 220
         }
     ],
-    "pompadour_wig": [
+    "pompadour-wig": [
         {
             "variant": null,
-            "image_uri": "pompadour_wig.png",
+            "image_uri": "pompadour-wig.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5505,10 +5505,10 @@
             "sell-price": 320
         }
     ],
-    "power_helmet": [
+    "power-helmet": [
         {
             "variant": "Red",
-            "image_uri": "power_helmet_red.png",
+            "image_uri": "power-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5520,7 +5520,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "power_helmet_blue.png",
+            "image_uri": "power-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5532,7 +5532,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "power_helmet_green.png",
+            "image_uri": "power-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5544,7 +5544,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "power_helmet_black.png",
+            "image_uri": "power-helmet-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5555,10 +5555,10 @@
             "sell-price": 805
         }
     ],
-    "racing_helmet": [
+    "racing-helmet": [
         {
             "variant": "Red",
-            "image_uri": "racing_helmet_red.png",
+            "image_uri": "racing-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5570,7 +5570,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "racing_helmet_white.png",
+            "image_uri": "racing-helmet-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5582,7 +5582,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "racing_helmet_black.png",
+            "image_uri": "racing-helmet-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5594,7 +5594,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "racing_helmet_blue.png",
+            "image_uri": "racing-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5606,7 +5606,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "racing_helmet_pink.png",
+            "image_uri": "racing-helmet-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5618,7 +5618,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "racing_helmet_green.png",
+            "image_uri": "racing-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5630,7 +5630,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "racing_helmet_purple.png",
+            "image_uri": "racing-helmet-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5642,7 +5642,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "racing_helmet_light_blue.png",
+            "image_uri": "racing-helmet-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5653,10 +5653,10 @@
             "sell-price": 260
         }
     ],
-    "rain_hat": [
+    "rain-hat": [
         {
             "variant": "Yellow",
-            "image_uri": "rain_hat_yellow.png",
+            "image_uri": "rain-hat-yellow.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5668,7 +5668,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "rain_hat_green.png",
+            "image_uri": "rain-hat-green.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5680,7 +5680,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "rain_hat_pink.png",
+            "image_uri": "rain-hat-pink.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5692,7 +5692,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "rain_hat_blue.png",
+            "image_uri": "rain-hat-blue.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5704,7 +5704,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "rain_hat_red.png",
+            "image_uri": "rain-hat-red.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5716,7 +5716,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "rain_hat_black.png",
+            "image_uri": "rain-hat-black.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5728,7 +5728,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "rain_hat_purple.png",
+            "image_uri": "rain-hat-purple.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5740,7 +5740,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "rain_hat_beige.png",
+            "image_uri": "rain-hat-beige.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -5754,7 +5754,7 @@
     "ribbon": [
         {
             "variant": "Green",
-            "image_uri": "ribbon_green.png",
+            "image_uri": "ribbon-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5766,7 +5766,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "ribbon_red.png",
+            "image_uri": "ribbon-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5778,7 +5778,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "ribbon_blue.png",
+            "image_uri": "ribbon-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5790,7 +5790,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "ribbon_yellow.png",
+            "image_uri": "ribbon-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5802,7 +5802,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "ribbon_orange.png",
+            "image_uri": "ribbon-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5814,7 +5814,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ribbon_pink.png",
+            "image_uri": "ribbon-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5826,7 +5826,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "ribbon_white.png",
+            "image_uri": "ribbon-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5838,7 +5838,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ribbon_black.png",
+            "image_uri": "ribbon-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5849,10 +5849,10 @@
             "sell-price": 122
         }
     ],
-    "ribboned_garden_hat": [
+    "ribboned-garden-hat": [
         {
             "variant": "Blue",
-            "image_uri": "ribboned_garden_hat_blue.png",
+            "image_uri": "ribboned-garden-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5864,7 +5864,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ribboned_garden_hat_pink.png",
+            "image_uri": "ribboned-garden-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5876,7 +5876,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ribboned_garden_hat_black.png",
+            "image_uri": "ribboned-garden-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5888,7 +5888,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "ribboned_garden_hat_brown.png",
+            "image_uri": "ribboned-garden-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5899,10 +5899,10 @@
             "sell-price": 175
         }
     ],
-    "ribboned_straw_hat": [
+    "ribboned-straw-hat": [
         {
             "variant": "Light blue",
-            "image_uri": "ribboned_straw_hat_light_blue.png",
+            "image_uri": "ribboned-straw-hat-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5914,7 +5914,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ribboned_straw_hat_pink.png",
+            "image_uri": "ribboned-straw-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5926,7 +5926,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ribboned_straw_hat_black.png",
+            "image_uri": "ribboned-straw-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5937,10 +5937,10 @@
             "sell-price": 122
         }
     ],
-    "rose_crown": [
+    "rose-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "rose_crown_colorful.png",
+            "image_uri": "rose-crown-colorful.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5952,7 +5952,7 @@
         },
         {
             "variant": "Cute",
-            "image_uri": "rose_crown_cute.png",
+            "image_uri": "rose-crown-cute.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5964,7 +5964,7 @@
         },
         {
             "variant": "Chic",
-            "image_uri": "rose_crown_chic.png",
+            "image_uri": "rose-crown-chic.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5976,7 +5976,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "rose_crown_blue.png",
+            "image_uri": "rose-crown-blue.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5988,7 +5988,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "rose_crown_gold.png",
+            "image_uri": "rose-crown-gold.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5999,10 +5999,10 @@
             "sell-price": 480
         }
     ],
-    "royal_crown": [
+    "royal-crown": [
         {
             "variant": null,
-            "image_uri": "royal_crown.png",
+            "image_uri": "royal-crown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6013,10 +6013,10 @@
             "sell-price": 300000
         }
     ],
-    "safety_helmet": [
+    "safety-helmet": [
         {
             "variant": "Yellow",
-            "image_uri": "safety_helmet_yellow.png",
+            "image_uri": "safety-helmet-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6028,7 +6028,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "safety_helmet_blue.png",
+            "image_uri": "safety-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6040,7 +6040,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "safety_helmet_orange.png",
+            "image_uri": "safety-helmet-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6052,7 +6052,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "safety_helmet_green.png",
+            "image_uri": "safety-helmet-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6064,7 +6064,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "safety_helmet_black.png",
+            "image_uri": "safety-helmet-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6075,10 +6075,10 @@
             "sell-price": 192
         }
     ],
-    "sailor's_hat": [
+    "sailor's-hat": [
         {
             "variant": "White",
-            "image_uri": "sailor's_hat_white.png",
+            "image_uri": "sailor's-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6090,7 +6090,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "sailor's_hat_navy_blue.png",
+            "image_uri": "sailor's-hat-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6102,7 +6102,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "sailor's_hat_blue.png",
+            "image_uri": "sailor's-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6113,10 +6113,10 @@
             "sell-price": 420
         }
     ],
-    "samurai_helmet": [
+    "samurai-helmet": [
         {
             "variant": "Red",
-            "image_uri": "samurai_helmet_red.png",
+            "image_uri": "samurai-helmet-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6128,7 +6128,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "samurai_helmet_black.png",
+            "image_uri": "samurai-helmet-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6140,7 +6140,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "samurai_helmet_blue.png",
+            "image_uri": "samurai-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6152,7 +6152,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "samurai_helmet_white.png",
+            "image_uri": "samurai-helmet-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6164,7 +6164,7 @@
         },
         {
             "variant": "Golden yellow",
-            "image_uri": "samurai_helmet_golden_yellow.png",
+            "image_uri": "samurai-helmet-golden-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6175,10 +6175,10 @@
             "sell-price": 1470
         }
     ],
-    "samurai_wig": [
+    "samurai-wig": [
         {
             "variant": null,
-            "image_uri": "samurai_wig.png",
+            "image_uri": "samurai-wig.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6189,10 +6189,10 @@
             "sell-price": 800
         }
     ],
-    "scholar's_hat": [
+    "scholar's-hat": [
         {
             "variant": "Red",
-            "image_uri": "scholar's_hat_red.png",
+            "image_uri": "scholar's-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6204,7 +6204,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "scholar's_hat_green.png",
+            "image_uri": "scholar's-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6216,7 +6216,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "scholar's_hat_blue.png",
+            "image_uri": "scholar's-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6228,7 +6228,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "scholar's_hat_yellow.png",
+            "image_uri": "scholar's-hat-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6239,10 +6239,10 @@
             "sell-price": 752
         }
     ],
-    "school_hat": [
+    "school-hat": [
         {
             "variant": "Yellow",
-            "image_uri": "school_hat_yellow.png",
+            "image_uri": "school-hat-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6254,7 +6254,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "school_hat_navy_blue.png",
+            "image_uri": "school-hat-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6265,10 +6265,10 @@
             "sell-price": 140
         }
     ],
-    "shallow_knit_cap": [
+    "shallow-knit-cap": [
         {
             "variant": "Green",
-            "image_uri": "shallow_knit_cap_green.png",
+            "image_uri": "shallow-knit-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6280,7 +6280,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "shallow_knit_cap_beige.png",
+            "image_uri": "shallow-knit-cap-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6292,7 +6292,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "shallow_knit_cap_navy_blue.png",
+            "image_uri": "shallow-knit-cap-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6304,7 +6304,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "shallow_knit_cap_red.png",
+            "image_uri": "shallow-knit-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6316,7 +6316,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "shallow_knit_cap_purple.png",
+            "image_uri": "shallow-knit-cap-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6328,7 +6328,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "shallow_knit_cap_gray.png",
+            "image_uri": "shallow-knit-cap-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6340,7 +6340,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "shallow_knit_cap_brown.png",
+            "image_uri": "shallow-knit-cap-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6351,10 +6351,10 @@
             "sell-price": 140
         }
     ],
-    "sheep_hood": [
+    "sheep-hood": [
         {
             "variant": "White",
-            "image_uri": "sheep_hood_white.png",
+            "image_uri": "sheep-hood-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6366,7 +6366,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "sheep_hood_pink.png",
+            "image_uri": "sheep-hood-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6378,7 +6378,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "sheep_hood_light_blue.png",
+            "image_uri": "sheep-hood-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6390,7 +6390,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "sheep_hood_brown.png",
+            "image_uri": "sheep-hood-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6401,10 +6401,10 @@
             "sell-price": 245
         }
     ],
-    "silk_hat": [
+    "silk-hat": [
         {
             "variant": "Green",
-            "image_uri": "silk_hat_green.png",
+            "image_uri": "silk-hat-green.png",
             "sources": [],
             "name": {
                 "name-USen": "silk hat"
@@ -6414,7 +6414,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "silk_hat_blue.png",
+            "image_uri": "silk-hat-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "silk hat"
@@ -6424,7 +6424,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "silk_hat_yellow.png",
+            "image_uri": "silk-hat-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "silk hat"
@@ -6434,7 +6434,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "silk_hat_black.png",
+            "image_uri": "silk-hat-black.png",
             "sources": [],
             "name": {
                 "name-USen": "silk hat"
@@ -6443,10 +6443,10 @@
             "sell-price": 500
         }
     ],
-    "skateboarding_helmet": [
+    "skateboarding-helmet": [
         {
             "variant": "Orange",
-            "image_uri": "skateboarding_helmet_orange.png",
+            "image_uri": "skateboarding-helmet-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6458,7 +6458,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "skateboarding_helmet_olive.png",
+            "image_uri": "skateboarding-helmet-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6470,7 +6470,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "skateboarding_helmet_gray.png",
+            "image_uri": "skateboarding-helmet-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6482,7 +6482,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "skateboarding_helmet_white.png",
+            "image_uri": "skateboarding-helmet-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6494,7 +6494,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "skateboarding_helmet_light_blue.png",
+            "image_uri": "skateboarding-helmet-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6505,10 +6505,10 @@
             "sell-price": 220
         }
     ],
-    "skeleton_hood": [
+    "skeleton-hood": [
         {
             "variant": null,
-            "image_uri": "skeleton_hood.png",
+            "image_uri": "skeleton-hood.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6519,10 +6519,10 @@
             "sell-price": 350
         }
     ],
-    "ski_mask": [
+    "ski-mask": [
         {
             "variant": "Green",
-            "image_uri": "ski_mask_green.png",
+            "image_uri": "ski-mask-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6534,7 +6534,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ski_mask_black.png",
+            "image_uri": "ski-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6546,7 +6546,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "ski_mask_lime.png",
+            "image_uri": "ski-mask-lime.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6558,7 +6558,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "ski_mask_red.png",
+            "image_uri": "ski-mask-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6570,7 +6570,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "ski_mask_blue.png",
+            "image_uri": "ski-mask-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6581,10 +6581,10 @@
             "sell-price": 140
         }
     ],
-    "sky-egg_shell": [
+    "sky-egg-shell": [
         {
             "variant": null,
-            "image_uri": "sky-egg_shell.png",
+            "image_uri": "sky-egg-shell.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -6595,10 +6595,10 @@
             "sell-price": 800
         }
     ],
-    "small_silk_hat": [
+    "small-silk-hat": [
         {
             "variant": "Purple",
-            "image_uri": "small_silk_hat_purple.png",
+            "image_uri": "small-silk-hat-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6610,7 +6610,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "small_silk_hat_black.png",
+            "image_uri": "small-silk-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6622,7 +6622,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "small_silk_hat_red.png",
+            "image_uri": "small-silk-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6633,10 +6633,10 @@
             "sell-price": 455
         }
     ],
-    "snowperson_head": [
+    "snowperson-head": [
         {
             "variant": null,
-            "image_uri": "snowperson_head.png",
+            "image_uri": "snowperson-head.png",
             "sources": [],
             "name": {
                 "name-USen": "snowperson head"
@@ -6645,10 +6645,10 @@
             "sell-price": 7000
         }
     ],
-    "snowy_knit_cap": [
+    "snowy-knit-cap": [
         {
             "variant": "Blue",
-            "image_uri": "snowy_knit_cap_blue.png",
+            "image_uri": "snowy-knit-cap-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6658,7 +6658,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "snowy_knit_cap_black.png",
+            "image_uri": "snowy-knit-cap-black.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6668,7 +6668,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "snowy_knit_cap_brown.png",
+            "image_uri": "snowy-knit-cap-brown.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6678,7 +6678,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "snowy_knit_cap_pink.png",
+            "image_uri": "snowy-knit-cap-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6688,7 +6688,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "snowy_knit_cap_green.png",
+            "image_uri": "snowy-knit-cap-green.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6698,7 +6698,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "snowy_knit_cap_orange.png",
+            "image_uri": "snowy-knit-cap-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6708,7 +6708,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "snowy_knit_cap_red.png",
+            "image_uri": "snowy-knit-cap-red.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6718,7 +6718,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "snowy_knit_cap_white.png",
+            "image_uri": "snowy-knit-cap-white.png",
             "sources": [],
             "name": {
                 "name-USen": "snowy knit cap"
@@ -6727,10 +6727,10 @@
             "sell-price": 175
         }
     ],
-    "soft-serve_hat": [
+    "soft-serve-hat": [
         {
             "variant": "Vanilla",
-            "image_uri": "soft-serve_hat_vanilla.png",
+            "image_uri": "soft-serve-hat-vanilla.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6740,7 +6740,7 @@
         },
         {
             "variant": "Chocolate",
-            "image_uri": "soft-serve_hat_chocolate.png",
+            "image_uri": "soft-serve-hat-chocolate.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6750,7 +6750,7 @@
         },
         {
             "variant": "Gold leaf",
-            "image_uri": "soft-serve_hat_gold_leaf.png",
+            "image_uri": "soft-serve-hat-gold-leaf.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6760,7 +6760,7 @@
         },
         {
             "variant": "Strawberry",
-            "image_uri": "soft-serve_hat_strawberry.png",
+            "image_uri": "soft-serve-hat-strawberry.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6770,7 +6770,7 @@
         },
         {
             "variant": "Green tea",
-            "image_uri": "soft-serve_hat_green_tea.png",
+            "image_uri": "soft-serve-hat-green-tea.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6780,7 +6780,7 @@
         },
         {
             "variant": "Pale sky",
-            "image_uri": "soft-serve_hat_pale_sky.png",
+            "image_uri": "soft-serve-hat-pale-sky.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6790,7 +6790,7 @@
         },
         {
             "variant": "Purple sweet potato",
-            "image_uri": "soft-serve_hat_purple_sweet_potato.png",
+            "image_uri": "soft-serve-hat-purple-sweet-potato.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6800,7 +6800,7 @@
         },
         {
             "variant": "Black sesame",
-            "image_uri": "soft-serve_hat_black_sesame.png",
+            "image_uri": "soft-serve-hat-black-sesame.png",
             "sources": [],
             "name": {
                 "name-USen": "soft-serve hat"
@@ -6812,7 +6812,7 @@
     "sombrero": [
         {
             "variant": "Natural & red",
-            "image_uri": "sombrero_natural_&_red.png",
+            "image_uri": "sombrero-natural-&-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6824,7 +6824,7 @@
         },
         {
             "variant": "Natural & green",
-            "image_uri": "sombrero_natural_&_green.png",
+            "image_uri": "sombrero-natural-&-green.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6836,7 +6836,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "sombrero_navy_blue.png",
+            "image_uri": "sombrero-navy-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6848,7 +6848,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "sombrero_green.png",
+            "image_uri": "sombrero-green.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6860,7 +6860,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "sombrero_white.png",
+            "image_uri": "sombrero-white.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6872,7 +6872,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "sombrero_red.png",
+            "image_uri": "sombrero-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6884,7 +6884,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "sombrero_blue.png",
+            "image_uri": "sombrero-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6896,7 +6896,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "sombrero_orange.png",
+            "image_uri": "sombrero-orange.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -6907,10 +6907,10 @@
             "sell-price": 500
         }
     ],
-    "space_helmet": [
+    "space-helmet": [
         {
             "variant": null,
-            "image_uri": "space_helmet.png",
+            "image_uri": "space-helmet.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6921,10 +6921,10 @@
             "sell-price": 1075
         }
     ],
-    "sports_cap": [
+    "sports-cap": [
         {
             "variant": "Red",
-            "image_uri": "sports_cap_red.png",
+            "image_uri": "sports-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6936,7 +6936,7 @@
         },
         {
             "variant": "White & red",
-            "image_uri": "sports_cap_white_&_red.png",
+            "image_uri": "sports-cap-white-&-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6948,7 +6948,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "sports_cap_blue.png",
+            "image_uri": "sports-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6960,7 +6960,7 @@
         },
         {
             "variant": "White & blue",
-            "image_uri": "sports_cap_white_&_blue.png",
+            "image_uri": "sports-cap-white-&-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6971,10 +6971,10 @@
             "sell-price": 140
         }
     ],
-    "stagehand_hat": [
+    "stagehand-hat": [
         {
             "variant": null,
-            "image_uri": "stagehand_hat.png",
+            "image_uri": "stagehand-hat.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -6985,10 +6985,10 @@
             "sell-price": 245
         }
     ],
-    "star_hairpin": [
+    "star-hairpin": [
         {
             "variant": "Yellow",
-            "image_uri": "star_hairpin_yellow.png",
+            "image_uri": "star-hairpin-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7000,7 +7000,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "star_hairpin_pink.png",
+            "image_uri": "star-hairpin-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7012,7 +7012,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "star_hairpin_purple.png",
+            "image_uri": "star-hairpin-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7024,7 +7024,7 @@
         },
         {
             "variant": "Mint",
-            "image_uri": "star_hairpin_mint.png",
+            "image_uri": "star-hairpin-mint.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7036,7 +7036,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "star_hairpin_black.png",
+            "image_uri": "star-hairpin-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7047,10 +7047,10 @@
             "sell-price": 87
         }
     ],
-    "star_head": [
+    "star-head": [
         {
             "variant": null,
-            "image_uri": "star_head.png",
+            "image_uri": "star-head.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -7061,10 +7061,10 @@
             "sell-price": 2500
         }
     ],
-    "stone-egg_shell": [
+    "stone-egg-shell": [
         {
             "variant": null,
-            "image_uri": "stone-egg_shell.png",
+            "image_uri": "stone-egg-shell.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -7075,10 +7075,10 @@
             "sell-price": 800
         }
     ],
-    "straw_boater": [
+    "straw-boater": [
         {
             "variant": "Cream",
-            "image_uri": "straw_boater_cream.png",
+            "image_uri": "straw-boater-cream.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7090,7 +7090,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "straw_boater_beige.png",
+            "image_uri": "straw-boater-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7102,7 +7102,7 @@
         },
         {
             "variant": "Light brown",
-            "image_uri": "straw_boater_light_brown.png",
+            "image_uri": "straw-boater-light-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7114,7 +7114,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "straw_boater_brown.png",
+            "image_uri": "straw-boater-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7126,7 +7126,7 @@
         },
         {
             "variant": "Dark brown",
-            "image_uri": "straw_boater_dark_brown.png",
+            "image_uri": "straw-boater-dark-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7138,7 +7138,7 @@
         },
         {
             "variant": "Monotone",
-            "image_uri": "straw_boater_monotone.png",
+            "image_uri": "straw-boater-monotone.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7150,7 +7150,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "straw_boater_light_blue.png",
+            "image_uri": "straw-boater-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7162,7 +7162,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "straw_boater_pink.png",
+            "image_uri": "straw-boater-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7173,10 +7173,10 @@
             "sell-price": 175
         }
     ],
-    "straw_hat": [
+    "straw-hat": [
         {
             "variant": "Brown",
-            "image_uri": "straw_hat_brown.png",
+            "image_uri": "straw-hat-brown.png",
             "sources": [],
             "name": {
                 "name-USen": "straw hat"
@@ -7186,7 +7186,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "straw_hat_blue.png",
+            "image_uri": "straw-hat-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "straw hat"
@@ -7196,7 +7196,7 @@
         },
         {
             "variant": "Red\nBrown",
-            "image_uri": "straw_hat_red\nbrown.png",
+            "image_uri": "straw-hat-red\nbrown.png",
             "sources": [],
             "name": {
                 "name-USen": "straw hat"
@@ -7205,10 +7205,10 @@
             "sell-price": 122
         }
     ],
-    "straw_umbrella_hat": [
+    "straw-umbrella-hat": [
         {
             "variant": null,
-            "image_uri": "straw_umbrella_hat.png",
+            "image_uri": "straw-umbrella-hat.png",
             "sources": [],
             "name": {
                 "name-USen": "straw umbrella hat"
@@ -7217,10 +7217,10 @@
             "sell-price": 200
         }
     ],
-    "strawberry_hat": [
+    "strawberry-hat": [
         {
             "variant": null,
-            "image_uri": "strawberry_hat.png",
+            "image_uri": "strawberry-hat.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7231,10 +7231,10 @@
             "sell-price": 175
         }
     ],
-    "student_cap": [
+    "student-cap": [
         {
             "variant": "Black",
-            "image_uri": "student_cap_black.png",
+            "image_uri": "student-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7246,7 +7246,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "student_cap_berry_red.png",
+            "image_uri": "student-cap-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7258,7 +7258,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "student_cap_green.png",
+            "image_uri": "student-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7270,7 +7270,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "student_cap_white.png",
+            "image_uri": "student-cap-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7282,7 +7282,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "student_cap_purple.png",
+            "image_uri": "student-cap-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7294,7 +7294,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "student_cap_gray.png",
+            "image_uri": "student-cap-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7306,7 +7306,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "student_cap_blue.png",
+            "image_uri": "student-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7317,10 +7317,10 @@
             "sell-price": 260
         }
     ],
-    "summer_solstice_crown": [
+    "summer-solstice-crown": [
         {
             "variant": null,
-            "image_uri": "summer_solstice_crown.png",
+            "image_uri": "summer-solstice-crown.png",
             "sources": [
                 "Summer Solstice Festival"
             ],
@@ -7331,10 +7331,10 @@
             "sell-price": 390
         }
     ],
-    "sushi_chef_hat": [
+    "sushi-chef-hat": [
         {
             "variant": "White",
-            "image_uri": "sushi_chef_hat_white.png",
+            "image_uri": "sushi-chef-hat-white.png",
             "sources": [],
             "name": {
                 "name-USen": "sushi chef hat"
@@ -7344,7 +7344,7 @@
         },
         {
             "variant": "Dark blue",
-            "image_uri": "sushi_chef_hat_dark_blue.png",
+            "image_uri": "sushi-chef-hat-dark-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "sushi chef hat"
@@ -7353,10 +7353,10 @@
             "sell-price": 220
         }
     ],
-    "swimming_cap": [
+    "swimming-cap": [
         {
             "variant": "Yellow",
-            "image_uri": "swimming_cap_yellow.png",
+            "image_uri": "swimming-cap-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7368,7 +7368,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "swimming_cap_light_blue.png",
+            "image_uri": "swimming-cap-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7380,7 +7380,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "swimming_cap_red.png",
+            "image_uri": "swimming-cap-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7392,7 +7392,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "swimming_cap_white.png",
+            "image_uri": "swimming-cap-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7404,7 +7404,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "swimming_cap_black.png",
+            "image_uri": "swimming-cap-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7416,7 +7416,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "swimming_cap_blue.png",
+            "image_uri": "swimming-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7428,7 +7428,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "swimming_cap_pink.png",
+            "image_uri": "swimming-cap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7440,7 +7440,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "swimming_cap_green.png",
+            "image_uri": "swimming-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7454,7 +7454,7 @@
     "tam-o'-shanter": [
         {
             "variant": "Red",
-            "image_uri": "tam-o'-shanter_red.png",
+            "image_uri": "tam-o'-shanter-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7466,7 +7466,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "tam-o'-shanter_gray.png",
+            "image_uri": "tam-o'-shanter-gray.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7478,7 +7478,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "tam-o'-shanter_blue.png",
+            "image_uri": "tam-o'-shanter-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7490,7 +7490,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "tam-o'-shanter_green.png",
+            "image_uri": "tam-o'-shanter-green.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7501,10 +7501,10 @@
             "sell-price": 500
         }
     ],
-    "terry-cloth_do-rag": [
+    "terry-cloth-do-rag": [
         {
             "variant": "White",
-            "image_uri": "terry-cloth_do-rag_white.png",
+            "image_uri": "terry-cloth-do-rag-white.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -7516,7 +7516,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "terry-cloth_do-rag_black.png",
+            "image_uri": "terry-cloth-do-rag-black.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -7528,7 +7528,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "terry-cloth_do-rag_blue.png",
+            "image_uri": "terry-cloth-do-rag-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -7540,7 +7540,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "terry-cloth_do-rag_brown.png",
+            "image_uri": "terry-cloth-do-rag-brown.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -7552,7 +7552,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "terry-cloth_do-rag_yellow.png",
+            "image_uri": "terry-cloth-do-rag-yellow.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -7564,7 +7564,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "terry-cloth_do-rag_berry_red.png",
+            "image_uri": "terry-cloth-do-rag-berry-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -7575,10 +7575,10 @@
             "sell-price": 122
         }
     ],
-    "terry-cloth_nightcap": [
+    "terry-cloth-nightcap": [
         {
             "variant": "Light blue",
-            "image_uri": "terry-cloth_nightcap_light_blue.png",
+            "image_uri": "terry-cloth-nightcap-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7590,7 +7590,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "terry-cloth_nightcap_blue.png",
+            "image_uri": "terry-cloth-nightcap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7602,7 +7602,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "terry-cloth_nightcap_green.png",
+            "image_uri": "terry-cloth-nightcap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7614,7 +7614,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "terry-cloth_nightcap_orange.png",
+            "image_uri": "terry-cloth-nightcap-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7626,7 +7626,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "terry-cloth_nightcap_pink.png",
+            "image_uri": "terry-cloth-nightcap-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7638,7 +7638,7 @@
         },
         {
             "variant": "Cream",
-            "image_uri": "terry-cloth_nightcap_cream.png",
+            "image_uri": "terry-cloth-nightcap-cream.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7650,7 +7650,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "terry-cloth_nightcap_purple.png",
+            "image_uri": "terry-cloth-nightcap-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7662,7 +7662,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "terry-cloth_nightcap_lime.png",
+            "image_uri": "terry-cloth-nightcap-lime.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7676,7 +7676,7 @@
     "tiara": [
         {
             "variant": "Silver",
-            "image_uri": "tiara_silver.png",
+            "image_uri": "tiara-silver.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7688,7 +7688,7 @@
         },
         {
             "variant": "Rose gold",
-            "image_uri": "tiara_rose_gold.png",
+            "image_uri": "tiara-rose-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7700,7 +7700,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "tiara_gold.png",
+            "image_uri": "tiara-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7711,10 +7711,10 @@
             "sell-price": 1075
         }
     ],
-    "tiara_hair": [
+    "tiara-hair": [
         {
             "variant": "Silver",
-            "image_uri": "tiara_hair_silver.png",
+            "image_uri": "tiara-hair-silver.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7726,7 +7726,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "tiara_hair_gold.png",
+            "image_uri": "tiara-hair-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7738,7 +7738,7 @@
         },
         {
             "variant": "Rose gold",
-            "image_uri": "tiara_hair_rose_gold.png",
+            "image_uri": "tiara-hair-rose-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7749,10 +7749,10 @@
             "sell-price": 735
         }
     ],
-    "top_hat": [
+    "top-hat": [
         {
             "variant": "Black",
-            "image_uri": "top_hat_black.png",
+            "image_uri": "top-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7764,7 +7764,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "top_hat_white.png",
+            "image_uri": "top-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7776,7 +7776,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "top_hat_brown.png",
+            "image_uri": "top-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7788,7 +7788,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "top_hat_purple.png",
+            "image_uri": "top-hat-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7800,7 +7800,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "top_hat_red.png",
+            "image_uri": "top-hat-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7812,7 +7812,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "top_hat_blue.png",
+            "image_uri": "top-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7823,10 +7823,10 @@
             "sell-price": 525
         }
     ],
-    "tropical_hat": [
+    "tropical-hat": [
         {
             "variant": "Mint",
-            "image_uri": "tropical_hat_mint.png",
+            "image_uri": "tropical-hat-mint.png",
             "sources": [],
             "name": {
                 "name-USen": "tropical hat"
@@ -7836,7 +7836,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "tropical_hat_white.png",
+            "image_uri": "tropical-hat-white.png",
             "sources": [],
             "name": {
                 "name-USen": "tropical hat"
@@ -7846,7 +7846,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "tropical_hat_blue.png",
+            "image_uri": "tropical-hat-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "tropical hat"
@@ -7856,7 +7856,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "tropical_hat_yellow.png",
+            "image_uri": "tropical-hat-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "tropical hat"
@@ -7866,7 +7866,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "tropical_hat_pink.png",
+            "image_uri": "tropical-hat-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "tropical hat"
@@ -7878,7 +7878,7 @@
     "tubeteika": [
         {
             "variant": "Red",
-            "image_uri": "tubeteika_red.png",
+            "image_uri": "tubeteika-red.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7890,7 +7890,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "tubeteika_blue.png",
+            "image_uri": "tubeteika-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7902,7 +7902,7 @@
         },
         {
             "variant": "Camel",
-            "image_uri": "tubeteika_camel.png",
+            "image_uri": "tubeteika-camel.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7914,7 +7914,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "tubeteika_purple.png",
+            "image_uri": "tubeteika-purple.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -7925,10 +7925,10 @@
             "sell-price": 500
         }
     ],
-    "tulip_crown": [
+    "tulip-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "tulip_crown_colorful.png",
+            "image_uri": "tulip-crown-colorful.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -7940,7 +7940,7 @@
         },
         {
             "variant": "Chic",
-            "image_uri": "tulip_crown_chic.png",
+            "image_uri": "tulip-crown-chic.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -7952,7 +7952,7 @@
         },
         {
             "variant": "Dark",
-            "image_uri": "tulip_crown_dark.png",
+            "image_uri": "tulip-crown-dark.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -7963,10 +7963,10 @@
             "sell-price": 400
         }
     ],
-    "tulip_hat": [
+    "tulip-hat": [
         {
             "variant": "Orange",
-            "image_uri": "tulip_hat_orange.png",
+            "image_uri": "tulip-hat-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7978,7 +7978,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "tulip_hat_brown.png",
+            "image_uri": "tulip-hat-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -7990,7 +7990,7 @@
         },
         {
             "variant": "Camel",
-            "image_uri": "tulip_hat_camel.png",
+            "image_uri": "tulip-hat-camel.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8004,7 +8004,7 @@
     "turban": [
         {
             "variant": "Purple",
-            "image_uri": "turban_purple.png",
+            "image_uri": "turban-purple.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8016,7 +8016,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "turban_blue.png",
+            "image_uri": "turban-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8028,7 +8028,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "turban_pink.png",
+            "image_uri": "turban-pink.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8040,7 +8040,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "turban_yellow.png",
+            "image_uri": "turban-yellow.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8051,10 +8051,10 @@
             "sell-price": 800
         }
     ],
-    "tweed_cap": [
+    "tweed-cap": [
         {
             "variant": "Brown",
-            "image_uri": "tweed_cap_brown.png",
+            "image_uri": "tweed-cap-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8066,7 +8066,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "tweed_cap_blue.png",
+            "image_uri": "tweed-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8078,7 +8078,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "tweed_cap_green.png",
+            "image_uri": "tweed-cap-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8092,7 +8092,7 @@
     "veil": [
         {
             "variant": "Pink",
-            "image_uri": "veil_pink.png",
+            "image_uri": "veil-pink.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8104,7 +8104,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "veil_yellow.png",
+            "image_uri": "veil-yellow.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8116,7 +8116,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "veil_blue.png",
+            "image_uri": "veil-blue.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8128,7 +8128,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "veil_purple.png",
+            "image_uri": "veil-purple.png",
             "sources": [
                 "Mail from Gulliver"
             ],
@@ -8139,10 +8139,10 @@
             "sell-price": 800
         }
     ],
-    "veiled_gardening_hat": [
+    "veiled-gardening-hat": [
         {
             "variant": "Orange",
-            "image_uri": "veiled_gardening_hat_orange.png",
+            "image_uri": "veiled-gardening-hat-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8154,7 +8154,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "veiled_gardening_hat_green.png",
+            "image_uri": "veiled-gardening-hat-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8166,7 +8166,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "veiled_gardening_hat_pink.png",
+            "image_uri": "veiled-gardening-hat-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8178,7 +8178,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "veiled_gardening_hat_blue.png",
+            "image_uri": "veiled-gardening-hat-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8190,7 +8190,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "veiled_gardening_hat_purple.png",
+            "image_uri": "veiled-gardening-hat-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8201,10 +8201,10 @@
             "sell-price": 140
         }
     ],
-    "viking_helmet": [
+    "viking-helmet": [
         {
             "variant": "Brown",
-            "image_uri": "viking_helmet_brown.png",
+            "image_uri": "viking-helmet-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8216,7 +8216,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "viking_helmet_blue.png",
+            "image_uri": "viking-helmet-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8228,7 +8228,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "viking_helmet_gray.png",
+            "image_uri": "viking-helmet-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8239,10 +8239,10 @@
             "sell-price": 525
         }
     ],
-    "visual-punk_wig": [
+    "visual-punk-wig": [
         {
             "variant": null,
-            "image_uri": "visual-punk_wig.png",
+            "image_uri": "visual-punk-wig.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8253,10 +8253,10 @@
             "sell-price": 350
         }
     ],
-    "water-egg_shell": [
+    "water-egg-shell": [
         {
             "variant": null,
-            "image_uri": "water-egg_shell.png",
+            "image_uri": "water-egg-shell.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -8267,10 +8267,10 @@
             "sell-price": 800
         }
     ],
-    "watermelon_hat": [
+    "watermelon-hat": [
         {
             "variant": null,
-            "image_uri": "watermelon_hat.png",
+            "image_uri": "watermelon-hat.png",
             "sources": [],
             "name": {
                 "name-USen": "watermelon hat"
@@ -8279,10 +8279,10 @@
             "sell-price": 245
         }
     ],
-    "welding_mask": [
+    "welding-mask": [
         {
             "variant": null,
-            "image_uri": "welding_mask.png",
+            "image_uri": "welding-mask.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8293,10 +8293,10 @@
             "sell-price": 260
         }
     ],
-    "wide-brim_straw_hat": [
+    "wide-brim-straw-hat": [
         {
             "variant": "White",
-            "image_uri": "wide-brim_straw_hat_white.png",
+            "image_uri": "wide-brim-straw-hat-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8308,7 +8308,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "wide-brim_straw_hat_black.png",
+            "image_uri": "wide-brim-straw-hat-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8320,7 +8320,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "wide-brim_straw_hat_beige.png",
+            "image_uri": "wide-brim-straw-hat-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8331,10 +8331,10 @@
             "sell-price": 330
         }
     ],
-    "windflower_crown": [
+    "windflower-crown": [
         {
             "variant": "Colorful",
-            "image_uri": "windflower_crown_colorful.png",
+            "image_uri": "windflower-crown-colorful.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -8346,7 +8346,7 @@
         },
         {
             "variant": "Cool",
-            "image_uri": "windflower_crown_cool.png",
+            "image_uri": "windflower-crown-cool.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -8358,7 +8358,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "windflower_crown_purple.png",
+            "image_uri": "windflower-crown-purple.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -8369,10 +8369,10 @@
             "sell-price": 480
         }
     ],
-    "wizard's_cap": [
+    "wizard's-cap": [
         {
             "variant": "Blue",
-            "image_uri": "wizard's_cap_blue.png",
+            "image_uri": "wizard's-cap-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8384,7 +8384,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "wizard's_cap_purple.png",
+            "image_uri": "wizard's-cap-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8395,10 +8395,10 @@
             "sell-price": 220
         }
     ],
-    "wood-egg_shell": [
+    "wood-egg-shell": [
         {
             "variant": null,
-            "image_uri": "wood-egg_shell.png",
+            "image_uri": "wood-egg-shell.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -8409,10 +8409,10 @@
             "sell-price": 800
         }
     ],
-    "wrestling_mask": [
+    "wrestling-mask": [
         {
             "variant": "Red",
-            "image_uri": "wrestling_mask_red.png",
+            "image_uri": "wrestling-mask-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8424,7 +8424,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "wrestling_mask_blue.png",
+            "image_uri": "wrestling-mask-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8436,7 +8436,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "wrestling_mask_green.png",
+            "image_uri": "wrestling-mask-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8448,7 +8448,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "wrestling_mask_pink.png",
+            "image_uri": "wrestling-mask-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8460,7 +8460,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "wrestling_mask_black.png",
+            "image_uri": "wrestling-mask-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8472,7 +8472,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "wrestling_mask_yellow.png",
+            "image_uri": "wrestling-mask-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8483,10 +8483,10 @@
             "sell-price": 280
         }
     ],
-    "zap_helmet": [
+    "zap-helmet": [
         {
             "variant": "Pink",
-            "image_uri": "zap_helmet_pink.png",
+            "image_uri": "zap-helmet-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8496,7 +8496,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "zap_helmet_blue.png",
+            "image_uri": "zap-helmet-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8506,7 +8506,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "zap_helmet_green.png",
+            "image_uri": "zap-helmet-green.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8516,7 +8516,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "zap_helmet_red.png",
+            "image_uri": "zap-helmet-red.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8526,7 +8526,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "zap_helmet_yellow.png",
+            "image_uri": "zap-helmet-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8536,7 +8536,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "zap_helmet_black.png",
+            "image_uri": "zap-helmet-black.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8546,7 +8546,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "zap_helmet_silver.png",
+            "image_uri": "zap-helmet-silver.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8556,7 +8556,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "zap_helmet_white.png",
+            "image_uri": "zap-helmet-white.png",
             "sources": [],
             "name": {
                 "name-USen": "zap helmet"
@@ -8565,10 +8565,10 @@
             "sell-price": 400
         }
     ],
-    "zen_hair_clip": [
+    "zen-hair-clip": [
         {
             "variant": "Red",
-            "image_uri": "zen_hair_clip_red.png",
+            "image_uri": "zen-hair-clip-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8580,7 +8580,7 @@
         },
         {
             "variant": "Aqua",
-            "image_uri": "zen_hair_clip_aqua.png",
+            "image_uri": "zen-hair-clip-aqua.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8592,7 +8592,7 @@
         },
         {
             "variant": "Dark blue",
-            "image_uri": "zen_hair_clip_dark_blue.png",
+            "image_uri": "zen-hair-clip-dark-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8604,7 +8604,7 @@
         },
         {
             "variant": "Golden yellow",
-            "image_uri": "zen_hair_clip_golden_yellow.png",
+            "image_uri": "zen-hair-clip-golden-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8616,7 +8616,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "zen_hair_clip_purple.png",
+            "image_uri": "zen-hair-clip-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8628,7 +8628,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "zen_hair_clip_pink.png",
+            "image_uri": "zen-hair-clip-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8640,7 +8640,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "zen_hair_clip_green.png",
+            "image_uri": "zen-hair-clip-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -8652,7 +8652,7 @@
         },
         {
             "variant": "Sky blue",
-            "image_uri": "zen_hair_clip_sky_blue.png",
+            "image_uri": "zen-hair-clip-sky-blue.png",
             "sources": [
                 "Able Sisters"
             ],

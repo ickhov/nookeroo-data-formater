@@ -1,8 +1,8 @@
 {
-    "apple_umbrella": [
+    "apple-umbrella": [
         {
             "variant": null,
-            "image_uri": "apple_umbrella.png",
+            "image_uri": "apple-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -13,10 +13,10 @@
             "sell-price": 1400
         }
     ],
-    "bat_umbrella": [
+    "bat-umbrella": [
         {
             "variant": null,
-            "image_uri": "bat_umbrella.png",
+            "image_uri": "bat-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -27,10 +27,10 @@
             "sell-price": 210
         }
     ],
-    "beach_umbrella": [
+    "beach-umbrella": [
         {
             "variant": null,
-            "image_uri": "beach_umbrella.png",
+            "image_uri": "beach-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -41,10 +41,10 @@
             "sell-price": 192
         }
     ],
-    "bear_umbrella": [
+    "bear-umbrella": [
         {
             "variant": null,
-            "image_uri": "bear_umbrella.png",
+            "image_uri": "bear-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -55,10 +55,10 @@
             "sell-price": 392
         }
     ],
-    "black_chic_umbrella": [
+    "black-chic-umbrella": [
         {
             "variant": null,
-            "image_uri": "black_chic_umbrella.png",
+            "image_uri": "black-chic-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -69,10 +69,10 @@
             "sell-price": 405
         }
     ],
-    "black_lace_umbrella": [
+    "black-lace-umbrella": [
         {
             "variant": null,
-            "image_uri": "black_lace_umbrella.png",
+            "image_uri": "black-lace-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -83,10 +83,10 @@
             "sell-price": 187
         }
     ],
-    "blue_dot_parasol": [
+    "blue-dot-parasol": [
         {
             "variant": null,
-            "image_uri": "blue_dot_parasol.png",
+            "image_uri": "blue-dot-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -97,10 +97,10 @@
             "sell-price": 187
         }
     ],
-    "blue_shiny-bows_parasol": [
+    "blue-shiny-bows-parasol": [
         {
             "variant": null,
-            "image_uri": "blue_shiny-bows_parasol.png",
+            "image_uri": "blue-shiny-bows-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -111,10 +111,10 @@
             "sell-price": 405
         }
     ],
-    "blue_umbrella": [
+    "blue-umbrella": [
         {
             "variant": null,
-            "image_uri": "blue_umbrella.png",
+            "image_uri": "blue-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -125,10 +125,10 @@
             "sell-price": 192
         }
     ],
-    "busted_umbrella": [
+    "busted-umbrella": [
         {
             "variant": null,
-            "image_uri": "busted_umbrella.png",
+            "image_uri": "busted-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -139,10 +139,10 @@
             "sell-price": 392
         }
     ],
-    "camo_umbrella": [
+    "camo-umbrella": [
         {
             "variant": null,
-            "image_uri": "camo_umbrella.png",
+            "image_uri": "camo-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -153,10 +153,10 @@
             "sell-price": 162
         }
     ],
-    "candy_umbrella": [
+    "candy-umbrella": [
         {
             "variant": null,
-            "image_uri": "candy_umbrella.png",
+            "image_uri": "candy-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -167,10 +167,10 @@
             "sell-price": 192
         }
     ],
-    "cherry_umbrella": [
+    "cherry-umbrella": [
         {
             "variant": null,
-            "image_uri": "cherry_umbrella.png",
+            "image_uri": "cherry-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -181,10 +181,10 @@
             "sell-price": 1400
         }
     ],
-    "cherry-blossom_umbrella": [
+    "cherry-blossom-umbrella": [
         {
             "variant": null,
-            "image_uri": "cherry-blossom_umbrella.png",
+            "image_uri": "cherry-blossom-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -195,10 +195,10 @@
             "sell-price": 2800
         }
     ],
-    "dal_umbrella": [
+    "dal-umbrella": [
         {
             "variant": null,
-            "image_uri": "dal_umbrella.png",
+            "image_uri": "dal-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -209,10 +209,10 @@
             "sell-price": 1010
         }
     ],
-    "eggy_parasol": [
+    "eggy-parasol": [
         {
             "variant": null,
-            "image_uri": "eggy_parasol.png",
+            "image_uri": "eggy-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -223,10 +223,10 @@
             "sell-price": 187
         }
     ],
-    "exquisite_parasol": [
+    "exquisite-parasol": [
         {
             "variant": null,
-            "image_uri": "exquisite_parasol.png",
+            "image_uri": "exquisite-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -237,10 +237,10 @@
             "sell-price": 417
         }
     ],
-    "fairy-tale_umbrella": [
+    "fairy-tale-umbrella": [
         {
             "variant": null,
-            "image_uri": "fairy-tale_umbrella.png",
+            "image_uri": "fairy-tale-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -251,10 +251,10 @@
             "sell-price": 205
         }
     ],
-    "fish_umbrella": [
+    "fish-umbrella": [
         {
             "variant": null,
-            "image_uri": "fish_umbrella.png",
+            "image_uri": "fish-umbrella.png",
             "sources": [
                 "Fishing Tourney reward from C.J."
             ],
@@ -265,10 +265,10 @@
             "sell-price": 80
         }
     ],
-    "frog_umbrella": [
+    "frog-umbrella": [
         {
             "variant": null,
-            "image_uri": "frog_umbrella.png",
+            "image_uri": "frog-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -279,10 +279,10 @@
             "sell-price": 392
         }
     ],
-    "gelato_umbrella": [
+    "gelato-umbrella": [
         {
             "variant": null,
-            "image_uri": "gelato_umbrella.png",
+            "image_uri": "gelato-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -293,10 +293,10 @@
             "sell-price": 187
         }
     ],
-    "ghost_umbrella": [
+    "ghost-umbrella": [
         {
             "variant": null,
-            "image_uri": "ghost_umbrella.png",
+            "image_uri": "ghost-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -307,10 +307,10 @@
             "sell-price": 417
         }
     ],
-    "grape_umbrella": [
+    "grape-umbrella": [
         {
             "variant": null,
-            "image_uri": "grape_umbrella.png",
+            "image_uri": "grape-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -321,10 +321,10 @@
             "sell-price": 387
         }
     ],
-    "green_umbrella": [
+    "green-umbrella": [
         {
             "variant": null,
-            "image_uri": "green_umbrella.png",
+            "image_uri": "green-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -335,10 +335,10 @@
             "sell-price": 192
         }
     ],
-    "green_chic_umbrella": [
+    "green-chic-umbrella": [
         {
             "variant": null,
-            "image_uri": "green_chic_umbrella.png",
+            "image_uri": "green-chic-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -349,10 +349,10 @@
             "sell-price": 405
         }
     ],
-    "hydrangea_umbrella": [
+    "hydrangea-umbrella": [
         {
             "variant": null,
-            "image_uri": "hydrangea_umbrella.png",
+            "image_uri": "hydrangea-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -363,10 +363,10 @@
             "sell-price": 187
         }
     ],
-    "kabuki_umbrella": [
+    "kabuki-umbrella": [
         {
             "variant": null,
-            "image_uri": "kabuki_umbrella.png",
+            "image_uri": "kabuki-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -377,10 +377,10 @@
             "sell-price": 417
         }
     ],
-    "kiwi_umbrella": [
+    "kiwi-umbrella": [
         {
             "variant": null,
-            "image_uri": "kiwi_umbrella.png",
+            "image_uri": "kiwi-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -391,10 +391,10 @@
             "sell-price": 387
         }
     ],
-    "lacy_parasol": [
+    "lacy-parasol": [
         {
             "variant": null,
-            "image_uri": "lacy_parasol.png",
+            "image_uri": "lacy-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -405,10 +405,10 @@
             "sell-price": 387
         }
     ],
-    "ladybug_umbrella": [
+    "ladybug-umbrella": [
         {
             "variant": null,
-            "image_uri": "ladybug_umbrella.png",
+            "image_uri": "ladybug-umbrella.png",
             "sources": [
                 "Bug-off reward"
             ],
@@ -419,10 +419,10 @@
             "sell-price": 80
         }
     ],
-    "leaf_umbrella": [
+    "leaf-umbrella": [
         {
             "variant": null,
-            "image_uri": "leaf_umbrella.png",
+            "image_uri": "leaf-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -433,10 +433,10 @@
             "sell-price": 300
         }
     ],
-    "lemon_umbrella": [
+    "lemon-umbrella": [
         {
             "variant": null,
-            "image_uri": "lemon_umbrella.png",
+            "image_uri": "lemon-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -447,10 +447,10 @@
             "sell-price": 192
         }
     ],
-    "logo_umbrella": [
+    "logo-umbrella": [
         {
             "variant": null,
-            "image_uri": "logo_umbrella.png",
+            "image_uri": "logo-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -461,10 +461,10 @@
             "sell-price": 162
         }
     ],
-    "maple-leaf_umbrella": [
+    "maple-leaf-umbrella": [
         {
             "variant": null,
-            "image_uri": "maple-leaf_umbrella.png",
+            "image_uri": "maple-leaf-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -475,10 +475,10 @@
             "sell-price": 2800
         }
     ],
-    "melon_umbrella": [
+    "melon-umbrella": [
         {
             "variant": null,
-            "image_uri": "melon_umbrella.png",
+            "image_uri": "melon-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -489,10 +489,10 @@
             "sell-price": 192
         }
     ],
-    "mini-flower-print_umbrella": [
+    "mini-flower-print-umbrella": [
         {
             "variant": null,
-            "image_uri": "mini-flower-print_umbrella.png",
+            "image_uri": "mini-flower-print-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -503,10 +503,10 @@
             "sell-price": 187
         }
     ],
-    "mint_umbrella": [
+    "mint-umbrella": [
         {
             "variant": null,
-            "image_uri": "mint_umbrella.png",
+            "image_uri": "mint-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -517,10 +517,10 @@
             "sell-price": 192
         }
     ],
-    "mush_umbrella": [
+    "mush-umbrella": [
         {
             "variant": null,
-            "image_uri": "mush_umbrella.png",
+            "image_uri": "mush-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -531,10 +531,10 @@
             "sell-price": 1200
         }
     ],
-    "nook_inc._umbrella": [
+    "nook-inc.-umbrella": [
         {
             "variant": null,
-            "image_uri": "nook_inc._umbrella.png",
+            "image_uri": "nook-inc.-umbrella.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -545,10 +545,10 @@
             "sell-price": 3500
         }
     ],
-    "orange_umbrella": [
+    "orange-umbrella": [
         {
             "variant": null,
-            "image_uri": "orange_umbrella.png",
+            "image_uri": "orange-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -559,10 +559,10 @@
             "sell-price": 1400
         }
     ],
-    "panda_umbrella": [
+    "panda-umbrella": [
         {
             "variant": null,
-            "image_uri": "panda_umbrella.png",
+            "image_uri": "panda-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -573,10 +573,10 @@
             "sell-price": 392
         }
     ],
-    "paper_parasol": [
+    "paper-parasol": [
         {
             "variant": null,
-            "image_uri": "paper_parasol.png",
+            "image_uri": "paper-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -587,10 +587,10 @@
             "sell-price": 217
         }
     ],
-    "patterned_vinyl_umbrella": [
+    "patterned-vinyl-umbrella": [
         {
             "variant": null,
-            "image_uri": "patterned_vinyl_umbrella.png",
+            "image_uri": "patterned-vinyl-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -601,10 +601,10 @@
             "sell-price": 187
         }
     ],
-    "peach_umbrella": [
+    "peach-umbrella": [
         {
             "variant": null,
-            "image_uri": "peach_umbrella.png",
+            "image_uri": "peach-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -615,10 +615,10 @@
             "sell-price": 1400
         }
     ],
-    "pear_umbrella": [
+    "pear-umbrella": [
         {
             "variant": null,
-            "image_uri": "pear_umbrella.png",
+            "image_uri": "pear-umbrella.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -629,10 +629,10 @@
             "sell-price": 1400
         }
     ],
-    "petal_parasol": [
+    "petal-parasol": [
         {
             "variant": null,
-            "image_uri": "petal_parasol.png",
+            "image_uri": "petal-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -643,10 +643,10 @@
             "sell-price": 397
         }
     ],
-    "picnic_umbrella": [
+    "picnic-umbrella": [
         {
             "variant": null,
-            "image_uri": "picnic_umbrella.png",
+            "image_uri": "picnic-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -657,10 +657,10 @@
             "sell-price": 192
         }
     ],
-    "pineapple_umbrella": [
+    "pineapple-umbrella": [
         {
             "variant": null,
-            "image_uri": "pineapple_umbrella.png",
+            "image_uri": "pineapple-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -671,10 +671,10 @@
             "sell-price": 387
         }
     ],
-    "pink_shiny-bows_parasol": [
+    "pink-shiny-bows-parasol": [
         {
             "variant": null,
-            "image_uri": "pink_shiny-bows_parasol.png",
+            "image_uri": "pink-shiny-bows-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -685,10 +685,10 @@
             "sell-price": 405
         }
     ],
-    "pink_umbrella": [
+    "pink-umbrella": [
         {
             "variant": null,
-            "image_uri": "pink_umbrella.png",
+            "image_uri": "pink-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -699,10 +699,10 @@
             "sell-price": 192
         }
     ],
-    "purple_chic_umbrella": [
+    "purple-chic-umbrella": [
         {
             "variant": null,
-            "image_uri": "purple_chic_umbrella.png",
+            "image_uri": "purple-chic-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -713,10 +713,10 @@
             "sell-price": 405
         }
     ],
-    "purple_shiny-bows_parasol": [
+    "purple-shiny-bows-parasol": [
         {
             "variant": null,
-            "image_uri": "purple_shiny-bows_parasol.png",
+            "image_uri": "purple-shiny-bows-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -727,10 +727,10 @@
             "sell-price": 405
         }
     ],
-    "rainbow_umbrella": [
+    "rainbow-umbrella": [
         {
             "variant": null,
-            "image_uri": "rainbow_umbrella.png",
+            "image_uri": "rainbow-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -741,10 +741,10 @@
             "sell-price": 210
         }
     ],
-    "raindrop_umbrella": [
+    "raindrop-umbrella": [
         {
             "variant": null,
-            "image_uri": "raindrop_umbrella.png",
+            "image_uri": "raindrop-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -755,10 +755,10 @@
             "sell-price": 187
         }
     ],
-    "red_umbrella": [
+    "red-umbrella": [
         {
             "variant": null,
-            "image_uri": "red_umbrella.png",
+            "image_uri": "red-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -769,10 +769,10 @@
             "sell-price": 192
         }
     ],
-    "red_chic_umbrella": [
+    "red-chic-umbrella": [
         {
             "variant": null,
-            "image_uri": "red_chic_umbrella.png",
+            "image_uri": "red-chic-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -783,10 +783,10 @@
             "sell-price": 405
         }
     ],
-    "snowflake_umbrella": [
+    "snowflake-umbrella": [
         {
             "variant": null,
-            "image_uri": "snowflake_umbrella.png",
+            "image_uri": "snowflake-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -797,10 +797,10 @@
             "sell-price": 387
         }
     ],
-    "spider_umbrella": [
+    "spider-umbrella": [
         {
             "variant": null,
-            "image_uri": "spider_umbrella.png",
+            "image_uri": "spider-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -811,10 +811,10 @@
             "sell-price": 210
         }
     ],
-    "strawberry_umbrella": [
+    "strawberry-umbrella": [
         {
             "variant": null,
-            "image_uri": "strawberry_umbrella.png",
+            "image_uri": "strawberry-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -825,10 +825,10 @@
             "sell-price": 387
         }
     ],
-    "striped_umbrella": [
+    "striped-umbrella": [
         {
             "variant": null,
-            "image_uri": "striped_umbrella.png",
+            "image_uri": "striped-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -839,10 +839,10 @@
             "sell-price": 187
         }
     ],
-    "sunny_parasol": [
+    "sunny-parasol": [
         {
             "variant": null,
-            "image_uri": "sunny_parasol.png",
+            "image_uri": "sunny-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -853,10 +853,10 @@
             "sell-price": 187
         }
     ],
-    "tartan-check_umbrella": [
+    "tartan-check-umbrella": [
         {
             "variant": null,
-            "image_uri": "tartan-check_umbrella.png",
+            "image_uri": "tartan-check-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -867,10 +867,10 @@
             "sell-price": 187
         }
     ],
-    "toad_parasol": [
+    "toad-parasol": [
         {
             "variant": null,
-            "image_uri": "toad_parasol.png",
+            "image_uri": "toad-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -881,10 +881,10 @@
             "sell-price": 187
         }
     ],
-    "two-tone_umbrella": [
+    "two-tone-umbrella": [
         {
             "variant": null,
-            "image_uri": "two-tone_umbrella.png",
+            "image_uri": "two-tone-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -895,10 +895,10 @@
             "sell-price": 192
         }
     ],
-    "vinyl_umbrella": [
+    "vinyl-umbrella": [
         {
             "variant": null,
-            "image_uri": "vinyl_umbrella.png",
+            "image_uri": "vinyl-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -909,10 +909,10 @@
             "sell-price": 192
         }
     ],
-    "watermelon_umbrella": [
+    "watermelon-umbrella": [
         {
             "variant": null,
-            "image_uri": "watermelon_umbrella.png",
+            "image_uri": "watermelon-umbrella.png",
             "sources": [
                 "Nook's Cranny"
             ],
@@ -923,10 +923,10 @@
             "sell-price": 387
         }
     ],
-    "white_shiny-bows_parasol": [
+    "white-shiny-bows-parasol": [
         {
             "variant": null,
-            "image_uri": "white_shiny-bows_parasol.png",
+            "image_uri": "white-shiny-bows-parasol.png",
             "sources": [
                 "Nook's Cranny"
             ],

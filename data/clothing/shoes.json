@@ -1,8 +1,8 @@
 {
-    "antique_boots": [
+    "antique-boots": [
         {
             "variant": "Black",
-            "image_uri": "antique_boots_black.png",
+            "image_uri": "antique-boots-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -14,7 +14,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "antique_boots_brown.png",
+            "image_uri": "antique-boots-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -26,7 +26,7 @@
         },
         {
             "variant": "Greige",
-            "image_uri": "antique_boots_greige.png",
+            "image_uri": "antique-boots-greige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -37,10 +37,10 @@
             "sell-price": 660
         }
     ],
-    "armor_shoes": [
+    "armor-shoes": [
         {
             "variant": null,
-            "image_uri": "armor_shoes.png",
+            "image_uri": "armor-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -54,7 +54,7 @@
     "babouches": [
         {
             "variant": "Yellow",
-            "image_uri": "babouches_yellow.png",
+            "image_uri": "babouches-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -66,7 +66,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "babouches_blue.png",
+            "image_uri": "babouches-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -78,7 +78,7 @@
         },
         {
             "variant": "Mint",
-            "image_uri": "babouches_mint.png",
+            "image_uri": "babouches-mint.png",
             "sources": [
                 "Kicks"
             ],
@@ -90,7 +90,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "babouches_red.png",
+            "image_uri": "babouches-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -102,7 +102,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "babouches_purple.png",
+            "image_uri": "babouches-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -114,7 +114,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "babouches_pink.png",
+            "image_uri": "babouches-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -126,7 +126,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "babouches_orange.png",
+            "image_uri": "babouches-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -138,7 +138,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "babouches_gray.png",
+            "image_uri": "babouches-gray.png",
             "sources": [
                 "Kicks"
             ],
@@ -149,10 +149,10 @@
             "sell-price": 140
         }
     ],
-    "ballet_slippers": [
+    "ballet-slippers": [
         {
             "variant": "Pink",
-            "image_uri": "ballet_slippers_pink.png",
+            "image_uri": "ballet-slippers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -164,7 +164,7 @@
         },
         {
             "variant": "Mint",
-            "image_uri": "ballet_slippers_mint.png",
+            "image_uri": "ballet-slippers-mint.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -176,7 +176,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "ballet_slippers_blue.png",
+            "image_uri": "ballet-slippers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -188,7 +188,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "ballet_slippers_purple.png",
+            "image_uri": "ballet-slippers-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -200,7 +200,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ballet_slippers_black.png",
+            "image_uri": "ballet-slippers-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -212,7 +212,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "ballet_slippers_white.png",
+            "image_uri": "ballet-slippers-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -224,7 +224,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "ballet_slippers_yellow.png",
+            "image_uri": "ballet-slippers-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -236,7 +236,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "ballet_slippers_red.png",
+            "image_uri": "ballet-slippers-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -247,10 +247,10 @@
             "sell-price": 550
         }
     ],
-    "basketball_shoes": [
+    "basketball-shoes": [
         {
             "variant": "Red",
-            "image_uri": "basketball_shoes_red.png",
+            "image_uri": "basketball-shoes-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -262,7 +262,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "basketball_shoes_pink.png",
+            "image_uri": "basketball-shoes-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -274,7 +274,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "basketball_shoes_orange.png",
+            "image_uri": "basketball-shoes-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -286,7 +286,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "basketball_shoes_green.png",
+            "image_uri": "basketball-shoes-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -298,7 +298,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "basketball_shoes_light_blue.png",
+            "image_uri": "basketball-shoes-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -310,7 +310,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "basketball_shoes_blue.png",
+            "image_uri": "basketball-shoes-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -322,7 +322,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "basketball_shoes_purple.png",
+            "image_uri": "basketball-shoes-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -334,7 +334,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "basketball_shoes_beige.png",
+            "image_uri": "basketball-shoes-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -345,10 +345,10 @@
             "sell-price": 375
         }
     ],
-    "beaded_sandals": [
+    "beaded-sandals": [
         {
             "variant": "Orange",
-            "image_uri": "beaded_sandals_orange.png",
+            "image_uri": "beaded-sandals-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "beaded sandals"
@@ -358,7 +358,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "beaded_sandals_purple.png",
+            "image_uri": "beaded-sandals-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "beaded sandals"
@@ -368,7 +368,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "beaded_sandals_yellow.png",
+            "image_uri": "beaded-sandals-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "beaded sandals"
@@ -378,7 +378,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "beaded_sandals_red.png",
+            "image_uri": "beaded-sandals-red.png",
             "sources": [],
             "name": {
                 "name-USen": "beaded sandals"
@@ -388,7 +388,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "beaded_sandals_green.png",
+            "image_uri": "beaded-sandals-green.png",
             "sources": [],
             "name": {
                 "name-USen": "beaded sandals"
@@ -398,7 +398,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "beaded_sandals_beige.png",
+            "image_uri": "beaded-sandals-beige.png",
             "sources": [],
             "name": {
                 "name-USen": "beaded sandals"
@@ -410,7 +410,7 @@
     "boots": [
         {
             "variant": "Green",
-            "image_uri": "boots_green.png",
+            "image_uri": "boots-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -422,7 +422,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "boots_black.png",
+            "image_uri": "boots-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -434,7 +434,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "boots_blue.png",
+            "image_uri": "boots-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -446,7 +446,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "boots_red.png",
+            "image_uri": "boots-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -458,7 +458,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "boots_olive.png",
+            "image_uri": "boots-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -469,10 +469,10 @@
             "sell-price": 140
         }
     ],
-    "business_shoes": [
+    "business-shoes": [
         {
             "variant": "Black",
-            "image_uri": "business_shoes_black.png",
+            "image_uri": "business-shoes-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -484,7 +484,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "business_shoes_brown.png",
+            "image_uri": "business-shoes-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -498,7 +498,7 @@
     "cleats": [
         {
             "variant": "Blue",
-            "image_uri": "cleats_blue.png",
+            "image_uri": "cleats-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -510,7 +510,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "cleats_light_blue.png",
+            "image_uri": "cleats-light-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -522,7 +522,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "cleats_red.png",
+            "image_uri": "cleats-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -534,7 +534,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "cleats_yellow.png",
+            "image_uri": "cleats-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -546,7 +546,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "cleats_black.png",
+            "image_uri": "cleats-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -558,7 +558,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "cleats_orange.png",
+            "image_uri": "cleats-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -570,7 +570,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "cleats_green.png",
+            "image_uri": "cleats-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -582,7 +582,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "cleats_purple.png",
+            "image_uri": "cleats-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -593,10 +593,10 @@
             "sell-price": 300
         }
     ],
-    "comfy_sandals": [
+    "comfy-sandals": [
         {
             "variant": "Brown",
-            "image_uri": "comfy_sandals_brown.png",
+            "image_uri": "comfy-sandals-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -608,7 +608,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "comfy_sandals_white.png",
+            "image_uri": "comfy-sandals-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -620,7 +620,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "comfy_sandals_green.png",
+            "image_uri": "comfy-sandals-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -632,7 +632,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "comfy_sandals_blue.png",
+            "image_uri": "comfy-sandals-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -644,7 +644,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "comfy_sandals_red.png",
+            "image_uri": "comfy-sandals-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -656,7 +656,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "comfy_sandals_orange.png",
+            "image_uri": "comfy-sandals-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -668,7 +668,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "comfy_sandals_yellow.png",
+            "image_uri": "comfy-sandals-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -680,7 +680,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "comfy_sandals_purple.png",
+            "image_uri": "comfy-sandals-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -691,10 +691,10 @@
             "sell-price": 260
         }
     ],
-    "cowboy_boots": [
+    "cowboy-boots": [
         {
             "variant": "Brown",
-            "image_uri": "cowboy_boots_brown.png",
+            "image_uri": "cowboy-boots-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -706,7 +706,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "cowboy_boots_black.png",
+            "image_uri": "cowboy-boots-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -718,7 +718,7 @@
         },
         {
             "variant": "Ivory",
-            "image_uri": "cowboy_boots_ivory.png",
+            "image_uri": "cowboy-boots-ivory.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -730,7 +730,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "cowboy_boots_pink.png",
+            "image_uri": "cowboy-boots-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -742,7 +742,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "cowboy_boots_blue.png",
+            "image_uri": "cowboy-boots-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -753,10 +753,10 @@
             "sell-price": 595
         }
     ],
-    "cross-belt_sandals": [
+    "cross-belt-sandals": [
         {
             "variant": "Green",
-            "image_uri": "cross-belt_sandals_green.png",
+            "image_uri": "cross-belt-sandals-green.png",
             "sources": [],
             "name": {
                 "name-USen": "cross-belt sandals"
@@ -766,7 +766,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "cross-belt_sandals_pink.png",
+            "image_uri": "cross-belt-sandals-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "cross-belt sandals"
@@ -776,7 +776,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "cross-belt_sandals_gray.png",
+            "image_uri": "cross-belt-sandals-gray.png",
             "sources": [],
             "name": {
                 "name-USen": "cross-belt sandals"
@@ -786,7 +786,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "cross-belt_sandals_brown.png",
+            "image_uri": "cross-belt-sandals-brown.png",
             "sources": [],
             "name": {
                 "name-USen": "cross-belt sandals"
@@ -796,7 +796,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "cross-belt_sandals_black.png",
+            "image_uri": "cross-belt-sandals-black.png",
             "sources": [],
             "name": {
                 "name-USen": "cross-belt sandals"
@@ -806,7 +806,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "cross-belt_sandals_purple.png",
+            "image_uri": "cross-belt-sandals-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "cross-belt sandals"
@@ -815,10 +815,10 @@
             "sell-price": 260
         }
     ],
-    "cute_sneakers": [
+    "cute-sneakers": [
         {
             "variant": "Light blue",
-            "image_uri": "cute_sneakers_light_blue.png",
+            "image_uri": "cute-sneakers-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -830,7 +830,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "cute_sneakers_green.png",
+            "image_uri": "cute-sneakers-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -842,7 +842,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "cute_sneakers_pink.png",
+            "image_uri": "cute-sneakers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -854,7 +854,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "cute_sneakers_yellow.png",
+            "image_uri": "cute-sneakers-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -866,7 +866,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "cute_sneakers_purple.png",
+            "image_uri": "cute-sneakers-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -878,7 +878,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "cute_sneakers_blue.png",
+            "image_uri": "cute-sneakers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -889,10 +889,10 @@
             "sell-price": 315
         }
     ],
-    "dal_slippers": [
+    "dal-slippers": [
         {
             "variant": null,
-            "image_uri": "dal_slippers.png",
+            "image_uri": "dal-slippers.png",
             "sources": [
                 "Mail from Dodo Airlines"
             ],
@@ -903,10 +903,10 @@
             "sell-price": 1010
         }
     ],
-    "earth-egg_shoes": [
+    "earth-egg-shoes": [
         {
             "variant": null,
-            "image_uri": "earth-egg_shoes.png",
+            "image_uri": "earth-egg-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -917,10 +917,10 @@
             "sell-price": 800
         }
     ],
-    "embroidered_shoes": [
+    "embroidered-shoes": [
         {
             "variant": "Red",
-            "image_uri": "embroidered_shoes_red.png",
+            "image_uri": "embroidered-shoes-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -932,7 +932,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "embroidered_shoes_white.png",
+            "image_uri": "embroidered-shoes-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -944,7 +944,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "embroidered_shoes_black.png",
+            "image_uri": "embroidered-shoes-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -956,7 +956,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "embroidered_shoes_blue.png",
+            "image_uri": "embroidered-shoes-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -967,10 +967,10 @@
             "sell-price": 525
         }
     ],
-    "faux-fur_ankle_booties": [
+    "faux-fur-ankle-booties": [
         {
             "variant": "Olive",
-            "image_uri": "faux-fur_ankle_booties_olive.png",
+            "image_uri": "faux-fur-ankle-booties-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -982,7 +982,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "faux-fur_ankle_booties_beige.png",
+            "image_uri": "faux-fur-ankle-booties-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -994,7 +994,7 @@
         },
         {
             "variant": "Ruby red",
-            "image_uri": "faux-fur_ankle_booties_ruby_red.png",
+            "image_uri": "faux-fur-ankle-booties-ruby-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1006,7 +1006,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "faux-fur_ankle_booties_navy_blue.png",
+            "image_uri": "faux-fur-ankle-booties-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1017,10 +1017,10 @@
             "sell-price": 362
         }
     ],
-    "faux-shearling_boots": [
+    "faux-shearling-boots": [
         {
             "variant": "Beige",
-            "image_uri": "faux-shearling_boots_beige.png",
+            "image_uri": "faux-shearling-boots-beige.png",
             "sources": [],
             "name": {
                 "name-USen": "faux-shearling boots"
@@ -1030,7 +1030,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "faux-shearling_boots_pink.png",
+            "image_uri": "faux-shearling-boots-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "faux-shearling boots"
@@ -1040,7 +1040,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "faux-shearling_boots_green.png",
+            "image_uri": "faux-shearling-boots-green.png",
             "sources": [],
             "name": {
                 "name-USen": "faux-shearling boots"
@@ -1050,7 +1050,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "faux-shearling_boots_black.png",
+            "image_uri": "faux-shearling-boots-black.png",
             "sources": [],
             "name": {
                 "name-USen": "faux-shearling boots"
@@ -1060,7 +1060,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "faux-shearling_boots_gray.png",
+            "image_uri": "faux-shearling-boots-gray.png",
             "sources": [],
             "name": {
                 "name-USen": "faux-shearling boots"
@@ -1069,10 +1069,10 @@
             "sell-price": 400
         }
     ],
-    "faux-suede_sneakers": [
+    "faux-suede-sneakers": [
         {
             "variant": "Berry red",
-            "image_uri": "faux-suede_sneakers_berry_red.png",
+            "image_uri": "faux-suede-sneakers-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1084,7 +1084,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "faux-suede_sneakers_pink.png",
+            "image_uri": "faux-suede-sneakers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1096,7 +1096,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "faux-suede_sneakers_orange.png",
+            "image_uri": "faux-suede-sneakers-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1108,7 +1108,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "faux-suede_sneakers_green.png",
+            "image_uri": "faux-suede-sneakers-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1120,7 +1120,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "faux-suede_sneakers_light_blue.png",
+            "image_uri": "faux-suede-sneakers-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1132,7 +1132,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "faux-suede_sneakers_navy_blue.png",
+            "image_uri": "faux-suede-sneakers-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1144,7 +1144,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "faux-suede_sneakers_purple.png",
+            "image_uri": "faux-suede-sneakers-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1156,7 +1156,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "faux-suede_sneakers_beige.png",
+            "image_uri": "faux-suede-sneakers-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1170,7 +1170,7 @@
     "flip-flops": [
         {
             "variant": "Blue",
-            "image_uri": "flip-flops_blue.png",
+            "image_uri": "flip-flops-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1180,7 +1180,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "flip-flops_green.png",
+            "image_uri": "flip-flops-green.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1190,7 +1190,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "flip-flops_yellow.png",
+            "image_uri": "flip-flops-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1200,7 +1200,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "flip-flops_white.png",
+            "image_uri": "flip-flops-white.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1210,7 +1210,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "flip-flops_orange.png",
+            "image_uri": "flip-flops-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1220,7 +1220,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "flip-flops_light_blue.png",
+            "image_uri": "flip-flops-light-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1230,7 +1230,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "flip-flops_pink.png",
+            "image_uri": "flip-flops-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1240,7 +1240,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "flip-flops_red.png",
+            "image_uri": "flip-flops-red.png",
             "sources": [],
             "name": {
                 "name-USen": "flip-flops"
@@ -1249,10 +1249,10 @@
             "sell-price": 87
         }
     ],
-    "flower_sandals": [
+    "flower-sandals": [
         {
             "variant": "Yellow",
-            "image_uri": "flower_sandals_yellow.png",
+            "image_uri": "flower-sandals-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1264,7 +1264,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "flower_sandals_pink.png",
+            "image_uri": "flower-sandals-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1276,7 +1276,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "flower_sandals_green.png",
+            "image_uri": "flower-sandals-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1288,7 +1288,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "flower_sandals_purple.png",
+            "image_uri": "flower-sandals-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1300,7 +1300,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "flower_sandals_blue.png",
+            "image_uri": "flower-sandals-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1312,7 +1312,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "flower_sandals_black.png",
+            "image_uri": "flower-sandals-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1324,7 +1324,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "flower_sandals_white.png",
+            "image_uri": "flower-sandals-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1335,10 +1335,10 @@
             "sell-price": 300
         }
     ],
-    "ghillie_brogues": [
+    "ghillie-brogues": [
         {
             "variant": "Brown",
-            "image_uri": "ghillie_brogues_brown.png",
+            "image_uri": "ghillie-brogues-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -1350,7 +1350,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ghillie_brogues_black.png",
+            "image_uri": "ghillie-brogues-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1362,7 +1362,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "ghillie_brogues_white.png",
+            "image_uri": "ghillie-brogues-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -1373,10 +1373,10 @@
             "sell-price": 585
         }
     ],
-    "gladiator_sandals": [
+    "gladiator-sandals": [
         {
             "variant": "Brown",
-            "image_uri": "gladiator_sandals_brown.png",
+            "image_uri": "gladiator-sandals-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1388,7 +1388,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "gladiator_sandals_black.png",
+            "image_uri": "gladiator-sandals-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1400,7 +1400,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "gladiator_sandals_red.png",
+            "image_uri": "gladiator-sandals-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1411,10 +1411,10 @@
             "sell-price": 450
         }
     ],
-    "gold-armor_shoes": [
+    "gold-armor-shoes": [
         {
             "variant": null,
-            "image_uri": "gold-armor_shoes.png",
+            "image_uri": "gold-armor-shoes.png",
             "sources": [],
             "name": {
                 "name-USen": "gold-armor shoes"
@@ -1423,10 +1423,10 @@
             "sell-price": 40000
         }
     ],
-    "hi-tech_sneakers": [
+    "hi-tech-sneakers": [
         {
             "variant": "Orange",
-            "image_uri": "hi-tech_sneakers_orange.png",
+            "image_uri": "hi-tech-sneakers-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1438,7 +1438,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "hi-tech_sneakers_pink.png",
+            "image_uri": "hi-tech-sneakers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1450,7 +1450,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "hi-tech_sneakers_green.png",
+            "image_uri": "hi-tech-sneakers-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1462,7 +1462,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "hi-tech_sneakers_light_blue.png",
+            "image_uri": "hi-tech-sneakers-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1474,7 +1474,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "hi-tech_sneakers_blue.png",
+            "image_uri": "hi-tech-sneakers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1488,7 +1488,7 @@
     "high-tops": [
         {
             "variant": "Gray",
-            "image_uri": "high-tops_gray.png",
+            "image_uri": "high-tops-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1500,7 +1500,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "high-tops_brown.png",
+            "image_uri": "high-tops-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1512,7 +1512,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "high-tops_green.png",
+            "image_uri": "high-tops-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1524,7 +1524,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "high-tops_blue.png",
+            "image_uri": "high-tops-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1536,7 +1536,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "high-tops_purple.png",
+            "image_uri": "high-tops-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1548,7 +1548,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "high-tops_red.png",
+            "image_uri": "high-tops-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1560,7 +1560,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "high-tops_yellow.png",
+            "image_uri": "high-tops-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1572,7 +1572,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "high-tops_white.png",
+            "image_uri": "high-tops-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1583,10 +1583,10 @@
             "sell-price": 270
         }
     ],
-    "house_slippers": [
+    "house-slippers": [
         {
             "variant": "Gray",
-            "image_uri": "house_slippers_gray.png",
+            "image_uri": "house-slippers-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1598,7 +1598,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "house_slippers_navy_blue.png",
+            "image_uri": "house-slippers-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1610,7 +1610,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "house_slippers_pink.png",
+            "image_uri": "house-slippers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1622,7 +1622,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "house_slippers_yellow.png",
+            "image_uri": "house-slippers-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1634,7 +1634,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "house_slippers_green.png",
+            "image_uri": "house-slippers-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1646,7 +1646,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "house_slippers_blue.png",
+            "image_uri": "house-slippers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1658,7 +1658,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "house_slippers_red.png",
+            "image_uri": "house-slippers-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1670,7 +1670,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "house_slippers_beige.png",
+            "image_uri": "house-slippers-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1681,10 +1681,10 @@
             "sell-price": 122
         }
     ],
-    "jester's_shoes": [
+    "jester's-shoes": [
         {
             "variant": "Purple",
-            "image_uri": "jester's_shoes_purple.png",
+            "image_uri": "jester's-shoes-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1696,7 +1696,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "jester's_shoes_black.png",
+            "image_uri": "jester's-shoes-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1708,7 +1708,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "jester's_shoes_red.png",
+            "image_uri": "jester's-shoes-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1720,7 +1720,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "jester's_shoes_green.png",
+            "image_uri": "jester's-shoes-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1731,10 +1731,10 @@
             "sell-price": 475
         }
     ],
-    "kiddie_sneakers": [
+    "kiddie-sneakers": [
         {
             "variant": "Red",
-            "image_uri": "kiddie_sneakers_red.png",
+            "image_uri": "kiddie-sneakers-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1746,7 +1746,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "kiddie_sneakers_blue.png",
+            "image_uri": "kiddie-sneakers-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -1758,7 +1758,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "kiddie_sneakers_green.png",
+            "image_uri": "kiddie-sneakers-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1770,7 +1770,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "kiddie_sneakers_purple.png",
+            "image_uri": "kiddie-sneakers-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1782,7 +1782,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "kiddie_sneakers_silver.png",
+            "image_uri": "kiddie-sneakers-silver.png",
             "sources": [
                 "Kicks"
             ],
@@ -1794,7 +1794,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "kiddie_sneakers_black.png",
+            "image_uri": "kiddie-sneakers-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1805,10 +1805,10 @@
             "sell-price": 175
         }
     ],
-    "kimono_sandals": [
+    "kimono-sandals": [
         {
             "variant": "Black",
-            "image_uri": "kimono_sandals_black.png",
+            "image_uri": "kimono-sandals-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1820,7 +1820,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "kimono_sandals_red.png",
+            "image_uri": "kimono-sandals-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1832,7 +1832,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "kimono_sandals_pink.png",
+            "image_uri": "kimono-sandals-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -1844,7 +1844,7 @@
         },
         {
             "variant": "Dark blue",
-            "image_uri": "kimono_sandals_dark_blue.png",
+            "image_uri": "kimono-sandals-dark-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -1856,7 +1856,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "kimono_sandals_gray.png",
+            "image_uri": "kimono-sandals-gray.png",
             "sources": [
                 "Kicks"
             ],
@@ -1868,7 +1868,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "kimono_sandals_purple.png",
+            "image_uri": "kimono-sandals-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1880,7 +1880,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "kimono_sandals_yellow.png",
+            "image_uri": "kimono-sandals-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -1892,7 +1892,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "kimono_sandals_green.png",
+            "image_uri": "kimono-sandals-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1903,10 +1903,10 @@
             "sell-price": 400
         }
     ],
-    "kung-fu_shoes": [
+    "kung-fu-shoes": [
         {
             "variant": null,
-            "image_uri": "kung-fu_shoes.png",
+            "image_uri": "kung-fu-shoes.png",
             "sources": [
                 "Kicks"
             ],
@@ -1917,10 +1917,10 @@
             "sell-price": 315
         }
     ],
-    "labelle_pumps": [
+    "labelle-pumps": [
         {
             "variant": "Twilight",
-            "image_uri": "labelle_pumps_twilight.png",
+            "image_uri": "labelle-pumps-twilight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1932,7 +1932,7 @@
         },
         {
             "variant": "Midnight",
-            "image_uri": "labelle_pumps_midnight.png",
+            "image_uri": "labelle-pumps-midnight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1944,7 +1944,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_pumps_passion.png",
+            "image_uri": "labelle-pumps-passion.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1956,7 +1956,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_pumps_ocean.png",
+            "image_uri": "labelle-pumps-ocean.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1968,7 +1968,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_pumps_sunset.png",
+            "image_uri": "labelle-pumps-sunset.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1980,7 +1980,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_pumps_love.png",
+            "image_uri": "labelle-pumps-love.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1991,10 +1991,10 @@
             "sell-price": 875
         }
     ],
-    "labelle_sneakers": [
+    "labelle-sneakers": [
         {
             "variant": "Twilight",
-            "image_uri": "labelle_sneakers_twilight.png",
+            "image_uri": "labelle-sneakers-twilight.png",
             "sources": [],
             "name": {
                 "name-USen": "labelle sneakers"
@@ -2004,7 +2004,7 @@
         },
         {
             "variant": "Midnight",
-            "image_uri": "labelle_sneakers_midnight.png",
+            "image_uri": "labelle-sneakers-midnight.png",
             "sources": [],
             "name": {
                 "name-USen": "labelle sneakers"
@@ -2014,7 +2014,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_sneakers_passion.png",
+            "image_uri": "labelle-sneakers-passion.png",
             "sources": [],
             "name": {
                 "name-USen": "labelle sneakers"
@@ -2024,7 +2024,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_sneakers_ocean.png",
+            "image_uri": "labelle-sneakers-ocean.png",
             "sources": [],
             "name": {
                 "name-USen": "labelle sneakers"
@@ -2034,7 +2034,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_sneakers_sunset.png",
+            "image_uri": "labelle-sneakers-sunset.png",
             "sources": [],
             "name": {
                 "name-USen": "labelle sneakers"
@@ -2044,7 +2044,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_sneakers_love.png",
+            "image_uri": "labelle-sneakers-love.png",
             "sources": [],
             "name": {
                 "name-USen": "labelle sneakers"
@@ -2053,10 +2053,10 @@
             "sell-price": 825
         }
     ],
-    "lace-up_boots": [
+    "lace-up-boots": [
         {
             "variant": "Black",
-            "image_uri": "lace-up_boots_black.png",
+            "image_uri": "lace-up-boots-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2068,7 +2068,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "lace-up_boots_white.png",
+            "image_uri": "lace-up-boots-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2080,7 +2080,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "lace-up_boots_brown.png",
+            "image_uri": "lace-up-boots-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2092,7 +2092,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "lace-up_boots_red.png",
+            "image_uri": "lace-up-boots-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2103,10 +2103,10 @@
             "sell-price": 480
         }
     ],
-    "leaf-egg_shoes": [
+    "leaf-egg-shoes": [
         {
             "variant": null,
-            "image_uri": "leaf-egg_shoes.png",
+            "image_uri": "leaf-egg-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -2117,10 +2117,10 @@
             "sell-price": 800
         }
     ],
-    "leopard_pumps": [
+    "leopard-pumps": [
         {
             "variant": "Beige",
-            "image_uri": "leopard_pumps_beige.png",
+            "image_uri": "leopard-pumps-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2132,7 +2132,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "leopard_pumps_gray.png",
+            "image_uri": "leopard-pumps-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2144,7 +2144,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "leopard_pumps_blue.png",
+            "image_uri": "leopard-pumps-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2156,7 +2156,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "leopard_pumps_green.png",
+            "image_uri": "leopard-pumps-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2168,7 +2168,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "leopard_pumps_purple.png",
+            "image_uri": "leopard-pumps-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2180,7 +2180,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "leopard_pumps_pink.png",
+            "image_uri": "leopard-pumps-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2194,7 +2194,7 @@
     "loafers": [
         {
             "variant": "Brown",
-            "image_uri": "loafers_brown.png",
+            "image_uri": "loafers-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2206,7 +2206,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "loafers_black.png",
+            "image_uri": "loafers-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2218,7 +2218,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "loafers_white.png",
+            "image_uri": "loafers-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2230,7 +2230,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "loafers_pink.png",
+            "image_uri": "loafers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2242,7 +2242,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "loafers_blue.png",
+            "image_uri": "loafers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2254,7 +2254,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "loafers_yellow.png",
+            "image_uri": "loafers-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2266,7 +2266,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "loafers_red.png",
+            "image_uri": "loafers-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2277,10 +2277,10 @@
             "sell-price": 325
         }
     ],
-    "mage's_booties": [
+    "mage's-booties": [
         {
             "variant": "Black",
-            "image_uri": "mage's_booties_black.png",
+            "image_uri": "mage's-booties-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -2292,7 +2292,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "mage's_booties_blue.png",
+            "image_uri": "mage's-booties-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -2304,7 +2304,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "mage's_booties_white.png",
+            "image_uri": "mage's-booties-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -2316,7 +2316,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "mage's_booties_red.png",
+            "image_uri": "mage's-booties-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -2327,10 +2327,10 @@
             "sell-price": 387
         }
     ],
-    "mary_janes": [
+    "mary-janes": [
         {
             "variant": "Black",
-            "image_uri": "mary_janes_black.png",
+            "image_uri": "mary-janes-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2342,7 +2342,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "mary_janes_red.png",
+            "image_uri": "mary-janes-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2354,7 +2354,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "mary_janes_white.png",
+            "image_uri": "mary-janes-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2366,7 +2366,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "mary_janes_light_blue.png",
+            "image_uri": "mary-janes-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2378,7 +2378,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "mary_janes_yellow.png",
+            "image_uri": "mary-janes-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2390,7 +2390,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "mary_janes_blue.png",
+            "image_uri": "mary-janes-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2402,7 +2402,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "mary_janes_green.png",
+            "image_uri": "mary-janes-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2414,7 +2414,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "mary_janes_pink.png",
+            "image_uri": "mary-janes-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2425,10 +2425,10 @@
             "sell-price": 450
         }
     ],
-    "moccasin_boots": [
+    "moccasin-boots": [
         {
             "variant": "Camel",
-            "image_uri": "moccasin_boots_camel.png",
+            "image_uri": "moccasin-boots-camel.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2438,7 +2438,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "moccasin_boots_olive.png",
+            "image_uri": "moccasin-boots-olive.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2448,7 +2448,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "moccasin_boots_beige.png",
+            "image_uri": "moccasin-boots-beige.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2458,7 +2458,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "moccasin_boots_pink.png",
+            "image_uri": "moccasin-boots-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2468,7 +2468,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "moccasin_boots_black.png",
+            "image_uri": "moccasin-boots-black.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2478,7 +2478,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "moccasin_boots_blue.png",
+            "image_uri": "moccasin-boots-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2488,7 +2488,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "moccasin_boots_orange.png",
+            "image_uri": "moccasin-boots-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "moccasin boots"
@@ -2500,7 +2500,7 @@
     "moccasins": [
         {
             "variant": "Camel",
-            "image_uri": "moccasins_camel.png",
+            "image_uri": "moccasins-camel.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2512,7 +2512,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "moccasins_red.png",
+            "image_uri": "moccasins-red.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2524,7 +2524,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "moccasins_light_blue.png",
+            "image_uri": "moccasins-light-blue.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2536,7 +2536,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "moccasins_white.png",
+            "image_uri": "moccasins-white.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2548,7 +2548,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "moccasins_pink.png",
+            "image_uri": "moccasins-pink.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2560,7 +2560,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "moccasins_gray.png",
+            "image_uri": "moccasins-gray.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2572,7 +2572,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "moccasins_black.png",
+            "image_uri": "moccasins-black.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -2583,10 +2583,10 @@
             "sell-price": 270
         }
     ],
-    "nook_inc._slippers": [
+    "nook-inc.-slippers": [
         {
             "variant": null,
-            "image_uri": "nook_inc._slippers.png",
+            "image_uri": "nook-inc.-slippers.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -2597,10 +2597,10 @@
             "sell-price": 2000
         }
     ],
-    "outdoor_sandals": [
+    "outdoor-sandals": [
         {
             "variant": "Green",
-            "image_uri": "outdoor_sandals_green.png",
+            "image_uri": "outdoor-sandals-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2612,7 +2612,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "outdoor_sandals_red.png",
+            "image_uri": "outdoor-sandals-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2624,7 +2624,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "outdoor_sandals_blue.png",
+            "image_uri": "outdoor-sandals-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2636,7 +2636,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "outdoor_sandals_purple.png",
+            "image_uri": "outdoor-sandals-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2648,7 +2648,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "outdoor_sandals_yellow.png",
+            "image_uri": "outdoor-sandals-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2660,7 +2660,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "outdoor_sandals_orange.png",
+            "image_uri": "outdoor-sandals-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2672,7 +2672,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "outdoor_sandals_white.png",
+            "image_uri": "outdoor-sandals-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2684,7 +2684,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "outdoor_sandals_black.png",
+            "image_uri": "outdoor-sandals-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2695,10 +2695,10 @@
             "sell-price": 157
         }
     ],
-    "paw_slippers": [
+    "paw-slippers": [
         {
             "variant": "Pink",
-            "image_uri": "paw_slippers_pink.png",
+            "image_uri": "paw-slippers-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -2710,7 +2710,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "paw_slippers_brown.png",
+            "image_uri": "paw-slippers-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -2722,7 +2722,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "paw_slippers_white.png",
+            "image_uri": "paw-slippers-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -2734,7 +2734,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "paw_slippers_blue.png",
+            "image_uri": "paw-slippers-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -2746,7 +2746,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "paw_slippers_black.png",
+            "image_uri": "paw-slippers-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -2757,10 +2757,10 @@
             "sell-price": 315
         }
     ],
-    "pleather_ankle_booties": [
+    "pleather-ankle-booties": [
         {
             "variant": "Brown",
-            "image_uri": "pleather_ankle_booties_brown.png",
+            "image_uri": "pleather-ankle-booties-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2772,7 +2772,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "pleather_ankle_booties_black.png",
+            "image_uri": "pleather-ankle-booties-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2784,7 +2784,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "pleather_ankle_booties_green.png",
+            "image_uri": "pleather-ankle-booties-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2796,7 +2796,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "pleather_ankle_booties_mustard.png",
+            "image_uri": "pleather-ankle-booties-mustard.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2807,10 +2807,10 @@
             "sell-price": 320
         }
     ],
-    "pleather_sneakers": [
+    "pleather-sneakers": [
         {
             "variant": "White",
-            "image_uri": "pleather_sneakers_white.png",
+            "image_uri": "pleather-sneakers-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2822,7 +2822,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "pleather_sneakers_black.png",
+            "image_uri": "pleather-sneakers-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2834,7 +2834,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "pleather_sneakers_red.png",
+            "image_uri": "pleather-sneakers-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2846,7 +2846,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "pleather_sneakers_orange.png",
+            "image_uri": "pleather-sneakers-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2858,7 +2858,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "pleather_sneakers_yellow.png",
+            "image_uri": "pleather-sneakers-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2870,7 +2870,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "pleather_sneakers_green.png",
+            "image_uri": "pleather-sneakers-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2882,7 +2882,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "pleather_sneakers_light_blue.png",
+            "image_uri": "pleather-sneakers-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2894,7 +2894,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "pleather_sneakers_blue.png",
+            "image_uri": "pleather-sneakers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2905,10 +2905,10 @@
             "sell-price": 175
         }
     ],
-    "pom-pom_boots": [
+    "pom-pom-boots": [
         {
             "variant": "Red",
-            "image_uri": "pom-pom_boots_red.png",
+            "image_uri": "pom-pom-boots-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2920,7 +2920,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "pom-pom_boots_yellow.png",
+            "image_uri": "pom-pom-boots-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2932,7 +2932,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "pom-pom_boots_black.png",
+            "image_uri": "pom-pom-boots-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2944,7 +2944,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "pom-pom_boots_blue.png",
+            "image_uri": "pom-pom-boots-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2956,7 +2956,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "pom-pom_boots_purple.png",
+            "image_uri": "pom-pom-boots-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2968,7 +2968,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "pom-pom_boots_pink.png",
+            "image_uri": "pom-pom-boots-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2980,7 +2980,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "pom-pom_boots_green.png",
+            "image_uri": "pom-pom-boots-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2991,10 +2991,10 @@
             "sell-price": 400
         }
     ],
-    "power_boots": [
+    "power-boots": [
         {
             "variant": "Red",
-            "image_uri": "power_boots_red.png",
+            "image_uri": "power-boots-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -3006,7 +3006,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "power_boots_blue.png",
+            "image_uri": "power-boots-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3018,7 +3018,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "power_boots_green.png",
+            "image_uri": "power-boots-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -3030,7 +3030,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "power_boots_black.png",
+            "image_uri": "power-boots-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -3041,10 +3041,10 @@
             "sell-price": 787
         }
     ],
-    "rain_boots": [
+    "rain-boots": [
         {
             "variant": "Black",
-            "image_uri": "rain_boots_black.png",
+            "image_uri": "rain-boots-black.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3056,7 +3056,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "rain_boots_red.png",
+            "image_uri": "rain-boots-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3068,7 +3068,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "rain_boots_pink.png",
+            "image_uri": "rain-boots-pink.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3080,7 +3080,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "rain_boots_yellow.png",
+            "image_uri": "rain-boots-yellow.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3092,7 +3092,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "rain_boots_green.png",
+            "image_uri": "rain-boots-green.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3104,7 +3104,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "rain_boots_blue.png",
+            "image_uri": "rain-boots-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3116,7 +3116,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "rain_boots_purple.png",
+            "image_uri": "rain-boots-purple.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3128,7 +3128,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "rain_boots_beige.png",
+            "image_uri": "rain-boots-beige.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3139,10 +3139,10 @@
             "sell-price": 122
         }
     ],
-    "recycled_boots": [
+    "recycled-boots": [
         {
             "variant": null,
-            "image_uri": "recycled_boots.png",
+            "image_uri": "recycled-boots.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3153,10 +3153,10 @@
             "sell-price": 40
         }
     ],
-    "restroom_slippers": [
+    "restroom-slippers": [
         {
             "variant": "Navy blue",
-            "image_uri": "restroom_slippers_navy_blue.png",
+            "image_uri": "restroom-slippers-navy-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3168,7 +3168,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "restroom_slippers_red.png",
+            "image_uri": "restroom-slippers-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -3180,7 +3180,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "restroom_slippers_green.png",
+            "image_uri": "restroom-slippers-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -3192,7 +3192,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "restroom_slippers_light_blue.png",
+            "image_uri": "restroom-slippers-light-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3204,7 +3204,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "restroom_slippers_pink.png",
+            "image_uri": "restroom-slippers-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -3215,10 +3215,10 @@
             "sell-price": 87
         }
     ],
-    "ribbon_sandals": [
+    "ribbon-sandals": [
         {
             "variant": "Blue",
-            "image_uri": "ribbon_sandals_blue.png",
+            "image_uri": "ribbon-sandals-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3228,7 +3228,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "ribbon_sandals_white.png",
+            "image_uri": "ribbon-sandals-white.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3238,7 +3238,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ribbon_sandals_pink.png",
+            "image_uri": "ribbon-sandals-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3248,7 +3248,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "ribbon_sandals_yellow.png",
+            "image_uri": "ribbon-sandals-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3258,7 +3258,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "ribbon_sandals_green.png",
+            "image_uri": "ribbon-sandals-green.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3268,7 +3268,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "ribbon_sandals_berry_red.png",
+            "image_uri": "ribbon-sandals-berry-red.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3278,7 +3278,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ribbon_sandals_black.png",
+            "image_uri": "ribbon-sandals-black.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3288,7 +3288,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "ribbon_sandals_beige.png",
+            "image_uri": "ribbon-sandals-beige.png",
             "sources": [],
             "name": {
                 "name-USen": "ribbon sandals"
@@ -3297,10 +3297,10 @@
             "sell-price": 325
         }
     ],
-    "rubber-toe_high_tops": [
+    "rubber-toe-high-tops": [
         {
             "variant": "Blue",
-            "image_uri": "rubber-toe_high_tops_blue.png",
+            "image_uri": "rubber-toe-high-tops-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3312,7 +3312,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "rubber-toe_high_tops_olive.png",
+            "image_uri": "rubber-toe-high-tops-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3324,7 +3324,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "rubber-toe_high_tops_beige.png",
+            "image_uri": "rubber-toe-high-tops-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3336,7 +3336,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "rubber-toe_high_tops_pink.png",
+            "image_uri": "rubber-toe-high-tops-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3348,7 +3348,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "rubber-toe_high_tops_berry_red.png",
+            "image_uri": "rubber-toe-high-tops-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3360,7 +3360,7 @@
         },
         {
             "variant": "Coral",
-            "image_uri": "rubber-toe_high_tops_coral.png",
+            "image_uri": "rubber-toe-high-tops-coral.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3372,7 +3372,7 @@
         },
         {
             "variant": "Ivory",
-            "image_uri": "rubber-toe_high_tops_ivory.png",
+            "image_uri": "rubber-toe-high-tops-ivory.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3384,7 +3384,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "rubber-toe_high_tops_black.png",
+            "image_uri": "rubber-toe-high-tops-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3395,10 +3395,10 @@
             "sell-price": 315
         }
     ],
-    "rubber-toe_sneakers": [
+    "rubber-toe-sneakers": [
         {
             "variant": "Purple",
-            "image_uri": "rubber-toe_sneakers_purple.png",
+            "image_uri": "rubber-toe-sneakers-purple.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3410,7 +3410,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "rubber-toe_sneakers_green.png",
+            "image_uri": "rubber-toe-sneakers-green.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3422,7 +3422,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "rubber-toe_sneakers_yellow.png",
+            "image_uri": "rubber-toe-sneakers-yellow.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3434,7 +3434,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "rubber-toe_sneakers_light_blue.png",
+            "image_uri": "rubber-toe-sneakers-light-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3446,7 +3446,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "rubber-toe_sneakers_red.png",
+            "image_uri": "rubber-toe-sneakers-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3458,7 +3458,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "rubber-toe_sneakers_pink.png",
+            "image_uri": "rubber-toe-sneakers-pink.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3470,7 +3470,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "rubber-toe_sneakers_blue.png",
+            "image_uri": "rubber-toe-sneakers-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3482,7 +3482,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "rubber-toe_sneakers_black.png",
+            "image_uri": "rubber-toe-sneakers-black.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3493,10 +3493,10 @@
             "sell-price": 270
         }
     ],
-    "samurai_greaves": [
+    "samurai-greaves": [
         {
             "variant": "Red",
-            "image_uri": "samurai_greaves_red.png",
+            "image_uri": "samurai-greaves-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -3508,7 +3508,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "samurai_greaves_black.png",
+            "image_uri": "samurai-greaves-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -3520,7 +3520,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "samurai_greaves_blue.png",
+            "image_uri": "samurai-greaves-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3532,7 +3532,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "samurai_greaves_white.png",
+            "image_uri": "samurai-greaves-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -3544,7 +3544,7 @@
         },
         {
             "variant": "Golden yellow",
-            "image_uri": "samurai_greaves_golden_yellow.png",
+            "image_uri": "samurai-greaves-golden-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -3555,10 +3555,10 @@
             "sell-price": 1075
         }
     ],
-    "shiny_bow_platform_shoes": [
+    "shiny-bow-platform-shoes": [
         {
             "variant": "Pink",
-            "image_uri": "shiny_bow_platform_shoes_pink.png",
+            "image_uri": "shiny-bow-platform-shoes-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -3570,7 +3570,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "shiny_bow_platform_shoes_black.png",
+            "image_uri": "shiny-bow-platform-shoes-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -3582,7 +3582,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "shiny_bow_platform_shoes_red.png",
+            "image_uri": "shiny-bow-platform-shoes-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -3594,7 +3594,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "shiny_bow_platform_shoes_purple.png",
+            "image_uri": "shiny-bow-platform-shoes-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -3606,7 +3606,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "shiny_bow_platform_shoes_light_blue.png",
+            "image_uri": "shiny-bow-platform-shoes-light-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3618,7 +3618,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "shiny_bow_platform_shoes_white.png",
+            "image_uri": "shiny-bow-platform-shoes-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -3630,7 +3630,7 @@
         },
         {
             "variant": "Light purple",
-            "image_uri": "shiny_bow_platform_shoes_light_purple.png",
+            "image_uri": "shiny-bow-platform-shoes-light-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -3641,10 +3641,10 @@
             "sell-price": 600
         }
     ],
-    "shower_sandals": [
+    "shower-sandals": [
         {
             "variant": "Black",
-            "image_uri": "shower_sandals_black.png",
+            "image_uri": "shower-sandals-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3656,7 +3656,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "shower_sandals_white.png",
+            "image_uri": "shower-sandals-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3668,7 +3668,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "shower_sandals_gold.png",
+            "image_uri": "shower-sandals-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3680,7 +3680,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "shower_sandals_red.png",
+            "image_uri": "shower-sandals-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3692,7 +3692,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "shower_sandals_blue.png",
+            "image_uri": "shower-sandals-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3703,10 +3703,10 @@
             "sell-price": 87
         }
     ],
-    "ski_boots": [
+    "ski-boots": [
         {
             "variant": "White",
-            "image_uri": "ski_boots_white.png",
+            "image_uri": "ski-boots-white.png",
             "sources": [],
             "name": {
                 "name-USen": "ski boots"
@@ -3716,7 +3716,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "ski_boots_orange.png",
+            "image_uri": "ski-boots-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "ski boots"
@@ -3726,7 +3726,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "ski_boots_red.png",
+            "image_uri": "ski-boots-red.png",
             "sources": [],
             "name": {
                 "name-USen": "ski boots"
@@ -3736,7 +3736,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "ski_boots_lime.png",
+            "image_uri": "ski-boots-lime.png",
             "sources": [],
             "name": {
                 "name-USen": "ski boots"
@@ -3746,7 +3746,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "ski_boots_light_blue.png",
+            "image_uri": "ski-boots-light-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "ski boots"
@@ -3756,7 +3756,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "ski_boots_purple.png",
+            "image_uri": "ski-boots-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "ski boots"
@@ -3765,10 +3765,10 @@
             "sell-price": 450
         }
     ],
-    "sky-egg_shoes": [
+    "sky-egg-shoes": [
         {
             "variant": null,
-            "image_uri": "sky-egg_shoes.png",
+            "image_uri": "sky-egg-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -3779,10 +3779,10 @@
             "sell-price": 800
         }
     ],
-    "slip-on_loafers": [
+    "slip-on-loafers": [
         {
             "variant": "Yellow",
-            "image_uri": "slip-on_loafers_yellow.png",
+            "image_uri": "slip-on-loafers-yellow.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3794,7 +3794,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "slip-on_loafers_red.png",
+            "image_uri": "slip-on-loafers-red.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3806,7 +3806,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "slip-on_loafers_blue.png",
+            "image_uri": "slip-on-loafers-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3818,7 +3818,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "slip-on_loafers_green.png",
+            "image_uri": "slip-on-loafers-green.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3830,7 +3830,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "slip-on_loafers_black.png",
+            "image_uri": "slip-on-loafers-black.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3842,7 +3842,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "slip-on_loafers_light_blue.png",
+            "image_uri": "slip-on-loafers-light-blue.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3854,7 +3854,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "slip-on_loafers_white.png",
+            "image_uri": "slip-on-loafers-white.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3866,7 +3866,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "slip-on_loafers_beige.png",
+            "image_uri": "slip-on-loafers-beige.png",
             "sources": [
                 "Able Sisters Nook Stop"
             ],
@@ -3877,10 +3877,10 @@
             "sell-price": 122
         }
     ],
-    "slip-on_sandals": [
+    "slip-on-sandals": [
         {
             "variant": "Light blue",
-            "image_uri": "slip-on_sandals_light_blue.png",
+            "image_uri": "slip-on-sandals-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3892,7 +3892,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "slip-on_sandals_lime.png",
+            "image_uri": "slip-on-sandals-lime.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3904,7 +3904,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "slip-on_sandals_black.png",
+            "image_uri": "slip-on-sandals-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3916,7 +3916,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "slip-on_sandals_pink.png",
+            "image_uri": "slip-on-sandals-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3928,7 +3928,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "slip-on_sandals_navy_blue.png",
+            "image_uri": "slip-on-sandals-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3940,7 +3940,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "slip-on_sandals_red.png",
+            "image_uri": "slip-on-sandals-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3952,7 +3952,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "slip-on_sandals_orange.png",
+            "image_uri": "slip-on-sandals-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3964,7 +3964,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "slip-on_sandals_purple.png",
+            "image_uri": "slip-on-sandals-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3975,10 +3975,10 @@
             "sell-price": 140
         }
     ],
-    "slip-on_school_shoes": [
+    "slip-on-school-shoes": [
         {
             "variant": "Red",
-            "image_uri": "slip-on_school_shoes_red.png",
+            "image_uri": "slip-on-school-shoes-red.png",
             "sources": [],
             "name": {
                 "name-USen": "slip-on school shoes"
@@ -3988,7 +3988,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "slip-on_school_shoes_blue.png",
+            "image_uri": "slip-on-school-shoes-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "slip-on school shoes"
@@ -3998,7 +3998,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "slip-on_school_shoes_green.png",
+            "image_uri": "slip-on-school-shoes-green.png",
             "sources": [],
             "name": {
                 "name-USen": "slip-on school shoes"
@@ -4008,7 +4008,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "slip-on_school_shoes_yellow.png",
+            "image_uri": "slip-on-school-shoes-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "slip-on school shoes"
@@ -4018,7 +4018,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "slip-on_school_shoes_pink.png",
+            "image_uri": "slip-on-school-shoes-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "slip-on school shoes"
@@ -4030,7 +4030,7 @@
     "slippers": [
         {
             "variant": "Gray",
-            "image_uri": "slippers_gray.png",
+            "image_uri": "slippers-gray.png",
             "sources": [
                 "Kicks"
             ],
@@ -4042,7 +4042,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "slippers_black.png",
+            "image_uri": "slippers-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -4054,7 +4054,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "slippers_white.png",
+            "image_uri": "slippers-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -4066,7 +4066,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "slippers_pink.png",
+            "image_uri": "slippers-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -4078,7 +4078,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "slippers_green.png",
+            "image_uri": "slippers-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -4090,7 +4090,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "slippers_blue.png",
+            "image_uri": "slippers-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -4102,7 +4102,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "slippers_red.png",
+            "image_uri": "slippers-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -4114,7 +4114,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "slippers_yellow.png",
+            "image_uri": "slippers-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -4125,10 +4125,10 @@
             "sell-price": 87
         }
     ],
-    "space_boots": [
+    "space-boots": [
         {
             "variant": null,
-            "image_uri": "space_boots.png",
+            "image_uri": "space-boots.png",
             "sources": [],
             "name": {
                 "name-USen": "space boots"
@@ -4137,10 +4137,10 @@
             "sell-price": 1075
         }
     ],
-    "sporty_sandals": [
+    "sporty-sandals": [
         {
             "variant": "Red",
-            "image_uri": "sporty_sandals_red.png",
+            "image_uri": "sporty-sandals-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4152,7 +4152,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "sporty_sandals_olive.png",
+            "image_uri": "sporty-sandals-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4164,7 +4164,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "sporty_sandals_blue.png",
+            "image_uri": "sporty-sandals-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4176,7 +4176,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "sporty_sandals_purple.png",
+            "image_uri": "sporty-sandals-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4188,7 +4188,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "sporty_sandals_green.png",
+            "image_uri": "sporty-sandals-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4200,7 +4200,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "sporty_sandals_pink.png",
+            "image_uri": "sporty-sandals-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4212,7 +4212,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "sporty_sandals_beige.png",
+            "image_uri": "sporty-sandals-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4224,7 +4224,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "sporty_sandals_gray.png",
+            "image_uri": "sporty-sandals-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4235,10 +4235,10 @@
             "sell-price": 325
         }
     ],
-    "steel-toed_boots": [
+    "steel-toed-boots": [
         {
             "variant": "Brown",
-            "image_uri": "steel-toed_boots_brown.png",
+            "image_uri": "steel-toed-boots-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4250,7 +4250,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "steel-toed_boots_beige.png",
+            "image_uri": "steel-toed-boots-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4262,7 +4262,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "steel-toed_boots_green.png",
+            "image_uri": "steel-toed-boots-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4274,7 +4274,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "steel-toed_boots_black.png",
+            "image_uri": "steel-toed-boots-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4286,7 +4286,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "steel-toed_boots_red.png",
+            "image_uri": "steel-toed-boots-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4298,7 +4298,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "steel-toed_boots_gray.png",
+            "image_uri": "steel-toed-boots-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4309,10 +4309,10 @@
             "sell-price": 660
         }
     ],
-    "stone-egg_shoes": [
+    "stone-egg-shoes": [
         {
             "variant": null,
-            "image_uri": "stone-egg_shoes.png",
+            "image_uri": "stone-egg-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4323,10 +4323,10 @@
             "sell-price": 800
         }
     ],
-    "strappy_heels": [
+    "strappy-heels": [
         {
             "variant": "Red",
-            "image_uri": "strappy_heels_red.png",
+            "image_uri": "strappy-heels-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4338,7 +4338,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "strappy_heels_blue.png",
+            "image_uri": "strappy-heels-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4350,7 +4350,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "strappy_heels_gold.png",
+            "image_uri": "strappy-heels-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4362,7 +4362,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "strappy_heels_silver.png",
+            "image_uri": "strappy-heels-silver.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4374,7 +4374,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "strappy_heels_black.png",
+            "image_uri": "strappy-heels-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4386,7 +4386,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "strappy_heels_pink.png",
+            "image_uri": "strappy-heels-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4398,7 +4398,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "strappy_heels_green.png",
+            "image_uri": "strappy-heels-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4410,7 +4410,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "strappy_heels_purple.png",
+            "image_uri": "strappy-heels-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4421,10 +4421,10 @@
             "sell-price": 390
         }
     ],
-    "traditional_flower_shoes": [
+    "traditional-flower-shoes": [
         {
             "variant": "Red",
-            "image_uri": "traditional_flower_shoes_red.png",
+            "image_uri": "traditional-flower-shoes-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -4436,7 +4436,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "traditional_flower_shoes_pink.png",
+            "image_uri": "traditional-flower-shoes-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -4448,7 +4448,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "traditional_flower_shoes_blue.png",
+            "image_uri": "traditional-flower-shoes-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -4460,7 +4460,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "traditional_flower_shoes_yellow.png",
+            "image_uri": "traditional-flower-shoes-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -4472,7 +4472,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "traditional_flower_shoes_lime.png",
+            "image_uri": "traditional-flower-shoes-lime.png",
             "sources": [
                 "Kicks"
             ],
@@ -4483,10 +4483,10 @@
             "sell-price": 450
         }
     ],
-    "trekking_shoes": [
+    "trekking-shoes": [
         {
             "variant": "Orange",
-            "image_uri": "trekking_shoes_orange.png",
+            "image_uri": "trekking-shoes-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4498,7 +4498,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "trekking_shoes_black.png",
+            "image_uri": "trekking-shoes-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4510,7 +4510,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "trekking_shoes_gray.png",
+            "image_uri": "trekking-shoes-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4522,7 +4522,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "trekking_shoes_light_blue.png",
+            "image_uri": "trekking-shoes-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4534,7 +4534,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "trekking_shoes_yellow.png",
+            "image_uri": "trekking-shoes-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4546,7 +4546,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "trekking_shoes_purple.png",
+            "image_uri": "trekking-shoes-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4558,7 +4558,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "trekking_shoes_white.png",
+            "image_uri": "trekking-shoes-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4570,7 +4570,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "trekking_shoes_brown.png",
+            "image_uri": "trekking-shoes-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4581,10 +4581,10 @@
             "sell-price": 375
         }
     ],
-    "vinyl_round-toed_pumps": [
+    "vinyl-round-toed-pumps": [
         {
             "variant": "Beige",
-            "image_uri": "vinyl_round-toed_pumps_beige.png",
+            "image_uri": "vinyl-round-toed-pumps-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4596,7 +4596,7 @@
         },
         {
             "variant": "Mint",
-            "image_uri": "vinyl_round-toed_pumps_mint.png",
+            "image_uri": "vinyl-round-toed-pumps-mint.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4608,7 +4608,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "vinyl_round-toed_pumps_brown.png",
+            "image_uri": "vinyl-round-toed-pumps-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4620,7 +4620,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "vinyl_round-toed_pumps_pink.png",
+            "image_uri": "vinyl-round-toed-pumps-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4632,7 +4632,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "vinyl_round-toed_pumps_white.png",
+            "image_uri": "vinyl-round-toed-pumps-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4644,7 +4644,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "vinyl_round-toed_pumps_black.png",
+            "image_uri": "vinyl-round-toed-pumps-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4655,10 +4655,10 @@
             "sell-price": 375
         }
     ],
-    "visual-punk_boots": [
+    "visual-punk-boots": [
         {
             "variant": null,
-            "image_uri": "visual-punk_boots.png",
+            "image_uri": "visual-punk-boots.png",
             "sources": [
                 "Kicks"
             ],
@@ -4669,10 +4669,10 @@
             "sell-price": 550
         }
     ],
-    "velour_boots": [
+    "velour-boots": [
         {
             "variant": "Ruby red",
-            "image_uri": "velour_boots_ruby_red.png",
+            "image_uri": "velour-boots-ruby-red.png",
             "sources": [],
             "name": {
                 "name-USen": "velour boots"
@@ -4682,7 +4682,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "velour_boots_gray.png",
+            "image_uri": "velour-boots-gray.png",
             "sources": [],
             "name": {
                 "name-USen": "velour boots"
@@ -4692,7 +4692,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "velour_boots_brown.png",
+            "image_uri": "velour-boots-brown.png",
             "sources": [],
             "name": {
                 "name-USen": "velour boots"
@@ -4702,7 +4702,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "velour_boots_blue.png",
+            "image_uri": "velour-boots-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "velour boots"
@@ -4712,7 +4712,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "velour_boots_mustard.png",
+            "image_uri": "velour-boots-mustard.png",
             "sources": [],
             "name": {
                 "name-USen": "velour boots"
@@ -4721,10 +4721,10 @@
             "sell-price": 480
         }
     ],
-    "walking_shoes": [
+    "walking-shoes": [
         {
             "variant": "Pink",
-            "image_uri": "walking_shoes_pink.png",
+            "image_uri": "walking-shoes-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4736,7 +4736,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "walking_shoes_beige.png",
+            "image_uri": "walking-shoes-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4748,7 +4748,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "walking_shoes_red.png",
+            "image_uri": "walking-shoes-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4759,10 +4759,10 @@
             "sell-price": 140
         }
     ],
-    "water-egg_shoes": [
+    "water-egg-shoes": [
         {
             "variant": null,
-            "image_uri": "water-egg_shoes.png",
+            "image_uri": "water-egg-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -4773,10 +4773,10 @@
             "sell-price": 800
         }
     ],
-    "water_sandals": [
+    "water-sandals": [
         {
             "variant": "Pink",
-            "image_uri": "water_sandals_pink.png",
+            "image_uri": "water-sandals-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4786,7 +4786,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "water_sandals_navy_blue.png",
+            "image_uri": "water-sandals-navy-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4796,7 +4796,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "water_sandals_red.png",
+            "image_uri": "water-sandals-red.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4806,7 +4806,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "water_sandals_light_blue.png",
+            "image_uri": "water-sandals-light-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4816,7 +4816,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "water_sandals_orange.png",
+            "image_uri": "water-sandals-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4826,7 +4826,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "water_sandals_purple.png",
+            "image_uri": "water-sandals-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4836,7 +4836,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "water_sandals_green.png",
+            "image_uri": "water-sandals-green.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4846,7 +4846,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "water_sandals_yellow.png",
+            "image_uri": "water-sandals-yellow.png",
             "sources": [],
             "name": {
                 "name-USen": "water sandals"
@@ -4855,10 +4855,10 @@
             "sell-price": 260
         }
     ],
-    "water_shoes": [
+    "water-shoes": [
         {
             "variant": "Pink",
-            "image_uri": "water_shoes_pink.png",
+            "image_uri": "water-shoes-pink.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4870,7 +4870,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "water_shoes_light_blue.png",
+            "image_uri": "water-shoes-light-blue.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4882,7 +4882,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "water_shoes_orange.png",
+            "image_uri": "water-shoes-orange.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4894,7 +4894,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "water_shoes_green.png",
+            "image_uri": "water-shoes-green.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4906,7 +4906,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "water_shoes_navy_blue.png",
+            "image_uri": "water-shoes-navy-blue.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4918,7 +4918,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "water_shoes_yellow.png",
+            "image_uri": "water-shoes-yellow.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4930,7 +4930,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "water_shoes_red.png",
+            "image_uri": "water-shoes-red.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4942,7 +4942,7 @@
         },
         {
             "variant": "Black,",
-            "image_uri": "water_shoes_black.png",
+            "image_uri": "water-shoes-black.png",
             "sources": [
                 "Nook StopAble Sisters"
             ],
@@ -4953,10 +4953,10 @@
             "sell-price": 225
         }
     ],
-    "wedding_pumps": [
+    "wedding-pumps": [
         {
             "variant": null,
-            "image_uri": "wedding_pumps.png",
+            "image_uri": "wedding-pumps.png",
             "sources": [
                 "Wedding Season"
             ],
@@ -4967,10 +4967,10 @@
             "sell-price": 750
         }
     ],
-    "wedding_shoes": [
+    "wedding-shoes": [
         {
             "variant": null,
-            "image_uri": "wedding_shoes.png",
+            "image_uri": "wedding-shoes.png",
             "sources": [
                 "Wedding Season"
             ],
@@ -4981,10 +4981,10 @@
             "sell-price": 750
         }
     ],
-    "wingtip_shoes": [
+    "wingtip-shoes": [
         {
             "variant": "Black & white",
-            "image_uri": "wingtip_shoes_black_&_white.png",
+            "image_uri": "wingtip-shoes-black-&-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4996,7 +4996,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "wingtip_shoes_brown.png",
+            "image_uri": "wingtip-shoes-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5008,7 +5008,7 @@
         },
         {
             "variant": "Greige",
-            "image_uri": "wingtip_shoes_greige.png",
+            "image_uri": "wingtip-shoes-greige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5020,7 +5020,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "wingtip_shoes_green.png",
+            "image_uri": "wingtip-shoes-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5032,7 +5032,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "wingtip_shoes_gray.png",
+            "image_uri": "wingtip-shoes-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5044,7 +5044,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "wingtip_shoes_berry_red.png",
+            "image_uri": "wingtip-shoes-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5056,7 +5056,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "wingtip_shoes_black.png",
+            "image_uri": "wingtip-shoes-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5070,7 +5070,7 @@
     "winklepickers": [
         {
             "variant": "Red",
-            "image_uri": "winklepickers_red.png",
+            "image_uri": "winklepickers-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5082,7 +5082,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "winklepickers_white.png",
+            "image_uri": "winklepickers-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5094,7 +5094,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "winklepickers_black.png",
+            "image_uri": "winklepickers-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5106,7 +5106,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "winklepickers_blue.png",
+            "image_uri": "winklepickers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5117,10 +5117,10 @@
             "sell-price": 227
         }
     ],
-    "wood-egg_shoes": [
+    "wood-egg-shoes": [
         {
             "variant": null,
-            "image_uri": "wood-egg_shoes.png",
+            "image_uri": "wood-egg-shoes.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -5131,10 +5131,10 @@
             "sell-price": 800
         }
     ],
-    "wooden_clogs": [
+    "wooden-clogs": [
         {
             "variant": "Yellow",
-            "image_uri": "wooden_clogs_yellow.png",
+            "image_uri": "wooden-clogs-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -5146,7 +5146,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "wooden_clogs_blue.png",
+            "image_uri": "wooden-clogs-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -5158,7 +5158,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "wooden_clogs_red.png",
+            "image_uri": "wooden-clogs-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -5170,7 +5170,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "wooden_clogs_green.png",
+            "image_uri": "wooden-clogs-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -5182,7 +5182,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "wooden_clogs_brown.png",
+            "image_uri": "wooden-clogs-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -5193,10 +5193,10 @@
             "sell-price": 325
         }
     ],
-    "work_boots": [
+    "work-boots": [
         {
             "variant": "Red",
-            "image_uri": "work_boots_red.png",
+            "image_uri": "work-boots-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5208,7 +5208,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "work_boots_purple.png",
+            "image_uri": "work-boots-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5220,7 +5220,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "work_boots_pink.png",
+            "image_uri": "work-boots-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5232,7 +5232,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "work_boots_yellow.png",
+            "image_uri": "work-boots-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5244,7 +5244,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "work_boots_white.png",
+            "image_uri": "work-boots-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5256,7 +5256,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "work_boots_blue.png",
+            "image_uri": "work-boots-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5268,7 +5268,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "work_boots_green.png",
+            "image_uri": "work-boots-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5280,7 +5280,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "work_boots_gray.png",
+            "image_uri": "work-boots-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5291,10 +5291,10 @@
             "sell-price": 480
         }
     ],
-    "wrestling_shoes": [
+    "wrestling-shoes": [
         {
             "variant": "Red",
-            "image_uri": "wrestling_shoes_red.png",
+            "image_uri": "wrestling-shoes-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -5306,7 +5306,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "wrestling_shoes_blue.png",
+            "image_uri": "wrestling-shoes-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -5318,7 +5318,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "wrestling_shoes_green.png",
+            "image_uri": "wrestling-shoes-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -5330,7 +5330,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "wrestling_shoes_pink.png",
+            "image_uri": "wrestling-shoes-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -5342,7 +5342,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "wrestling_shoes_black.png",
+            "image_uri": "wrestling-shoes-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -5354,7 +5354,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "wrestling_shoes_yellow.png",
+            "image_uri": "wrestling-shoes-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -5365,10 +5365,10 @@
             "sell-price": 270
         }
     ],
-    "zap_boots": [
+    "zap-boots": [
         {
             "variant": null,
-            "image_uri": "zap_boots.png",
+            "image_uri": "zap-boots.png",
             "sources": [],
             "name": {
                 "name-USen": "zap boots"
@@ -5380,7 +5380,7 @@
     "zori": [
         {
             "variant": "Black",
-            "image_uri": "zori_black.png",
+            "image_uri": "zori-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5392,7 +5392,7 @@
         },
         {
             "variant": "Gold",
-            "image_uri": "zori_gold.png",
+            "image_uri": "zori-gold.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5404,7 +5404,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "zori_pink.png",
+            "image_uri": "zori-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5416,7 +5416,7 @@
         },
         {
             "variant": "Light pink",
-            "image_uri": "zori_light_pink.png",
+            "image_uri": "zori-light-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5428,7 +5428,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "zori_green.png",
+            "image_uri": "zori-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5440,7 +5440,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "zori_white.png",
+            "image_uri": "zori-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5452,7 +5452,7 @@
         },
         {
             "variant": "Aqua",
-            "image_uri": "zori_aqua.png",
+            "image_uri": "zori-aqua.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -5464,7 +5464,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "zori_red.png",
+            "image_uri": "zori-red.png",
             "sources": [
                 "Able Sisters"
             ],

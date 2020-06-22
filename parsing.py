@@ -84,7 +84,7 @@ def main():
 
             cross_reference_data = cross_reference["games"]["nh"] if not error else {}
 
-            new_key = key.lower().replace(" ", "_")
+            new_key = key.lower().replace(" ", "-")
             new_value = []
 
             image_links = value["variationImageLinks"] if "variationImageLinks" in value else None
@@ -112,7 +112,7 @@ def main():
                 for index, item in enumerate(value["variations"]):
                     variant = {}
                     # set image name and dir to save in
-                    image_name = new_key + "_" + item.lower().replace(",", "").replace(" ", "_") + ".png"
+                    image_name = new_key + "-" + item.lower().replace(",", "").replace(" ", "-") + ".png"
 
                     # download images from the web
                     if not os.path.exists(clothing_category_image_dir):

@@ -1,8 +1,8 @@
 {
-    "aerobics_leggings": [
+    "aerobics-leggings": [
         {
             "variant": "Yellow & blue",
-            "image_uri": "aerobics_leggings_yellow_&_blue.png",
+            "image_uri": "aerobics-leggings-yellow-&-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -14,7 +14,7 @@
         },
         {
             "variant": "Light blue & salmon pink",
-            "image_uri": "aerobics_leggings_light_blue_&_salmon_pink.png",
+            "image_uri": "aerobics-leggings-light-blue-&-salmon-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -26,7 +26,7 @@
         },
         {
             "variant": "Purple & orange,Emerald & lime",
-            "image_uri": "aerobics_leggings_purple_&_orangeemerald_&_lime.png",
+            "image_uri": "aerobics-leggings-purple-&-orangeemerald-&-lime.png",
             "sources": [
                 "Kicks"
             ],
@@ -38,7 +38,7 @@
         },
         {
             "variant": "Red & pink",
-            "image_uri": "aerobics_leggings_red_&_pink.png",
+            "image_uri": "aerobics-leggings-red-&-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -49,10 +49,10 @@
             "sell-price": 175
         }
     ],
-    "aran-knit_socks": [
+    "aran-knit-socks": [
         {
             "variant": "White",
-            "image_uri": "aran-knit_socks_white.png",
+            "image_uri": "aran-knit-socks-white.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -64,7 +64,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "aran-knit_socks_beige.png",
+            "image_uri": "aran-knit-socks-beige.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -76,7 +76,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "aran-knit_socks_red.png",
+            "image_uri": "aran-knit-socks-red.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -88,7 +88,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "aran-knit_socks_green.png",
+            "image_uri": "aran-knit-socks-green.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -100,7 +100,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "aran-knit_socks_blue.png",
+            "image_uri": "aran-knit-socks-blue.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -112,7 +112,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "aran-knit_socks_black.png",
+            "image_uri": "aran-knit-socks-black.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -123,10 +123,10 @@
             "sell-price": 180
         }
     ],
-    "argyle_crew_socks": [
+    "argyle-crew-socks": [
         {
             "variant": "White",
-            "image_uri": "argyle_crew_socks_white.png",
+            "image_uri": "argyle-crew-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -138,7 +138,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "argyle_crew_socks_gray.png",
+            "image_uri": "argyle-crew-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -150,7 +150,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "argyle_crew_socks_red.png",
+            "image_uri": "argyle-crew-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -162,7 +162,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "argyle_crew_socks_pink.png",
+            "image_uri": "argyle-crew-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -174,7 +174,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "argyle_crew_socks_orange.png",
+            "image_uri": "argyle-crew-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -186,7 +186,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "argyle_crew_socks_green.png",
+            "image_uri": "argyle-crew-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -198,7 +198,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "argyle_crew_socks_blue.png",
+            "image_uri": "argyle-crew-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -210,7 +210,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "argyle_crew_socks_beige.png",
+            "image_uri": "argyle-crew-socks-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -221,10 +221,10 @@
             "sell-price": 180
         }
     ],
-    "back-bow_socks": [
+    "back-bow-socks": [
         {
             "variant": "Pink",
-            "image_uri": "back-bow_socks_pink.png",
+            "image_uri": "back-bow-socks-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -236,7 +236,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "back-bow_socks_yellow.png",
+            "image_uri": "back-bow-socks-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -248,7 +248,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "back-bow_socks_black.png",
+            "image_uri": "back-bow-socks-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -260,7 +260,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "back-bow_socks_white.png",
+            "image_uri": "back-bow-socks-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -272,7 +272,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "back-bow_socks_blue.png",
+            "image_uri": "back-bow-socks-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -284,7 +284,7 @@
         },
         {
             "variant": "Peacock blue",
-            "image_uri": "back-bow_socks_peacock_blue.png",
+            "image_uri": "back-bow-socks-peacock-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -295,10 +295,10 @@
             "sell-price": 150
         }
     ],
-    "bobby_socks": [
+    "bobby-socks": [
         {
             "variant": "White",
-            "image_uri": "bobby_socks_white.png",
+            "image_uri": "bobby-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -310,7 +310,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "bobby_socks_gray.png",
+            "image_uri": "bobby-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -322,7 +322,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "bobby_socks_black.png",
+            "image_uri": "bobby-socks-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -334,7 +334,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "bobby_socks_brown.png",
+            "image_uri": "bobby-socks-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -345,10 +345,10 @@
             "sell-price": 120
         }
     ],
-    "color-blocked_socks": [
+    "color-blocked-socks": [
         {
             "variant": "Purple",
-            "image_uri": "color-blocked_socks_purple.png",
+            "image_uri": "color-blocked-socks-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -360,7 +360,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "color-blocked_socks_green.png",
+            "image_uri": "color-blocked-socks-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -372,7 +372,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "color-blocked_socks_lime.png",
+            "image_uri": "color-blocked-socks-lime.png",
             "sources": [
                 "Kicks"
             ],
@@ -384,7 +384,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "color-blocked_socks_beige.png",
+            "image_uri": "color-blocked-socks-beige.png",
             "sources": [
                 "Kicks"
             ],
@@ -396,7 +396,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "color-blocked_socks_blue.png",
+            "image_uri": "color-blocked-socks-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -408,7 +408,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "color-blocked_socks_brown.png",
+            "image_uri": "color-blocked-socks-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -420,7 +420,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "color-blocked_socks_white.png",
+            "image_uri": "color-blocked-socks-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -432,7 +432,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "color-blocked_socks_pink.png",
+            "image_uri": "color-blocked-socks-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -443,10 +443,10 @@
             "sell-price": 210
         }
     ],
-    "compression_tights": [
+    "compression-tights": [
         {
             "variant": "Red",
-            "image_uri": "compression_tights_red.png",
+            "image_uri": "compression-tights-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -458,7 +458,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "compression_tights_yellow.png",
+            "image_uri": "compression-tights-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -470,7 +470,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "compression_tights_pink.png",
+            "image_uri": "compression-tights-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -482,7 +482,7 @@
         },
         {
             "variant": "Mint",
-            "image_uri": "compression_tights_mint.png",
+            "image_uri": "compression-tights-mint.png",
             "sources": [
                 "Kicks"
             ],
@@ -494,7 +494,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "compression_tights_blue.png",
+            "image_uri": "compression-tights-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -505,10 +505,10 @@
             "sell-price": 150
         }
     ],
-    "country_socks": [
+    "country-socks": [
         {
             "variant": "Black ribbons",
-            "image_uri": "country_socks_black_ribbons.png",
+            "image_uri": "country-socks-black-ribbons.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -520,7 +520,7 @@
         },
         {
             "variant": "Red ribbons",
-            "image_uri": "country_socks_red_ribbons.png",
+            "image_uri": "country-socks-red-ribbons.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -532,7 +532,7 @@
         },
         {
             "variant": "Green ribbons",
-            "image_uri": "country_socks_green_ribbons.png",
+            "image_uri": "country-socks-green-ribbons.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -544,7 +544,7 @@
         },
         {
             "variant": "Blue ribbons",
-            "image_uri": "country_socks_blue_ribbons.png",
+            "image_uri": "country-socks-blue-ribbons.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -555,10 +555,10 @@
             "sell-price": 180
         }
     ],
-    "crocheted_socks": [
+    "crocheted-socks": [
         {
             "variant": "Gray",
-            "image_uri": "crocheted_socks_gray.png",
+            "image_uri": "crocheted-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -570,7 +570,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "crocheted_socks_purple.png",
+            "image_uri": "crocheted-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -582,7 +582,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "crocheted_socks_blue.png",
+            "image_uri": "crocheted-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -594,7 +594,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "crocheted_socks_beige.png",
+            "image_uri": "crocheted-socks-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -605,10 +605,10 @@
             "sell-price": 150
         }
     ],
-    "denim_leggings": [
+    "denim-leggings": [
         {
             "variant": "Indigo blue",
-            "image_uri": "denim_leggings_indigo_blue.png",
+            "image_uri": "denim-leggings-indigo-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -620,7 +620,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "denim_leggings_light_blue.png",
+            "image_uri": "denim-leggings-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -632,7 +632,7 @@
         },
         {
             "variant": "Saxon blue",
-            "image_uri": "denim_leggings_saxon_blue.png",
+            "image_uri": "denim-leggings-saxon-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -644,7 +644,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "denim_leggings_blue.png",
+            "image_uri": "denim-leggings-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -655,10 +655,10 @@
             "sell-price": 135
         }
     ],
-    "dotted_knee-high_socks": [
+    "dotted-knee-high-socks": [
         {
             "variant": "Gray",
-            "image_uri": "dotted_knee-high_socks_gray.png",
+            "image_uri": "dotted-knee-high-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -670,7 +670,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "dotted_knee-high_socks_black.png",
+            "image_uri": "dotted-knee-high-socks-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -682,7 +682,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "dotted_knee-high_socks_yellow.png",
+            "image_uri": "dotted-knee-high-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -694,7 +694,7 @@
         },
         {
             "variant": "Cyan",
-            "image_uri": "dotted_knee-high_socks_cyan.png",
+            "image_uri": "dotted-knee-high-socks-cyan.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -705,10 +705,10 @@
             "sell-price": 120
         }
     ],
-    "embroidered-flower_tights": [
+    "embroidered-flower-tights": [
         {
             "variant": "Black",
-            "image_uri": "embroidered-flower_tights_black.png",
+            "image_uri": "embroidered-flower-tights-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -720,7 +720,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "embroidered-flower_tights_green.png",
+            "image_uri": "embroidered-flower-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -732,7 +732,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "embroidered-flower_tights_blue.png",
+            "image_uri": "embroidered-flower-tights-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -744,7 +744,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "embroidered-flower_tights_purple.png",
+            "image_uri": "embroidered-flower-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -756,7 +756,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "embroidered-flower_tights_brown.png",
+            "image_uri": "embroidered-flower-tights-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -768,7 +768,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "embroidered-flower_tights_beige.png",
+            "image_uri": "embroidered-flower-tights-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -779,10 +779,10 @@
             "sell-price": 250
         }
     ],
-    "everyday_socks": [
+    "everyday-socks": [
         {
             "variant": "White",
-            "image_uri": "everyday_socks_white.png",
+            "image_uri": "everyday-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -794,7 +794,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "everyday_socks_gray.png",
+            "image_uri": "everyday-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -806,7 +806,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "everyday_socks_black.png",
+            "image_uri": "everyday-socks-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -818,7 +818,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "everyday_socks_navy_blue.png",
+            "image_uri": "everyday-socks-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -830,7 +830,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "everyday_socks_brown.png",
+            "image_uri": "everyday-socks-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -842,7 +842,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "everyday_socks_beige.png",
+            "image_uri": "everyday-socks-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -853,10 +853,10 @@
             "sell-price": 150
         }
     ],
-    "everyday_tights": [
+    "everyday-tights": [
         {
             "variant": "White",
-            "image_uri": "everyday_tights_white.png",
+            "image_uri": "everyday-tights-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -868,7 +868,7 @@
         },
         {
             "variant": "Light gray",
-            "image_uri": "everyday_tights_light_gray.png",
+            "image_uri": "everyday-tights-light-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -880,7 +880,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "everyday_tights_gray.png",
+            "image_uri": "everyday-tights-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -892,7 +892,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "everyday_tights_black.png",
+            "image_uri": "everyday-tights-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -904,7 +904,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "everyday_tights_navy_blue.png",
+            "image_uri": "everyday-tights-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -916,7 +916,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "everyday_tights_beige.png",
+            "image_uri": "everyday-tights-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -927,10 +927,10 @@
             "sell-price": 180
         }
     ],
-    "fishnet_tights": [
+    "fishnet-tights": [
         {
             "variant": "White",
-            "image_uri": "fishnet_tights_white.png",
+            "image_uri": "fishnet-tights-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -942,7 +942,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "fishnet_tights_black.png",
+            "image_uri": "fishnet-tights-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -954,7 +954,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "fishnet_tights_red.png",
+            "image_uri": "fishnet-tights-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -965,10 +965,10 @@
             "sell-price": 120
         }
     ],
-    "flowery-dot_tights": [
+    "flowery-dot-tights": [
         {
             "variant": "White",
-            "image_uri": "flowery-dot_tights_white.png",
+            "image_uri": "flowery-dot-tights-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -980,7 +980,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "flowery-dot_tights_black.png",
+            "image_uri": "flowery-dot-tights-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -992,7 +992,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "flowery-dot_tights_pink.png",
+            "image_uri": "flowery-dot-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1004,7 +1004,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "flowery-dot_tights_yellow.png",
+            "image_uri": "flowery-dot-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1016,7 +1016,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "flowery-dot_tights_blue.png",
+            "image_uri": "flowery-dot-tights-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1027,10 +1027,10 @@
             "sell-price": 180
         }
     ],
-    "frilly_knee-high_socks": [
+    "frilly-knee-high-socks": [
         {
             "variant": "Red",
-            "image_uri": "frilly_knee-high_socks_red.png",
+            "image_uri": "frilly-knee-high-socks-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1042,7 +1042,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "frilly_knee-high_socks_pink.png",
+            "image_uri": "frilly-knee-high-socks-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -1054,7 +1054,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "frilly_knee-high_socks_yellow.png",
+            "image_uri": "frilly-knee-high-socks-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -1066,7 +1066,7 @@
         },
         {
             "variant": "Mint",
-            "image_uri": "frilly_knee-high_socks_mint.png",
+            "image_uri": "frilly-knee-high-socks-mint.png",
             "sources": [
                 "Kicks"
             ],
@@ -1078,7 +1078,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "frilly_knee-high_socks_green.png",
+            "image_uri": "frilly-knee-high-socks-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1090,7 +1090,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "frilly_knee-high_socks_purple.png",
+            "image_uri": "frilly-knee-high-socks-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1102,7 +1102,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "frilly_knee-high_socks_black.png",
+            "image_uri": "frilly-knee-high-socks-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1114,7 +1114,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "frilly_knee-high_socks_brown.png",
+            "image_uri": "frilly-knee-high-socks-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -1125,10 +1125,10 @@
             "sell-price": 210
         }
     ],
-    "frilly_socks": [
+    "frilly-socks": [
         {
             "variant": "Pink",
-            "image_uri": "frilly_socks_pink.png",
+            "image_uri": "frilly-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1140,7 +1140,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "frilly_socks_green.png",
+            "image_uri": "frilly-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1152,7 +1152,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "frilly_socks_blue.png",
+            "image_uri": "frilly-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1164,7 +1164,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "frilly_socks_purple.png",
+            "image_uri": "frilly-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1176,7 +1176,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "frilly_socks_white.png",
+            "image_uri": "frilly-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1188,7 +1188,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "frilly_socks_yellow.png",
+            "image_uri": "frilly-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1199,10 +1199,10 @@
             "sell-price": 180
         }
     ],
-    "funny-face_socks": [
+    "funny-face-socks": [
         {
             "variant": "Pink",
-            "image_uri": "funny-face_socks_pink.png",
+            "image_uri": "funny-face-socks-pink.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -1214,7 +1214,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "funny-face_socks_black.png",
+            "image_uri": "funny-face-socks-black.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -1226,7 +1226,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "funny-face_socks_green.png",
+            "image_uri": "funny-face-socks-green.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -1238,7 +1238,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "funny-face_socks_red.png",
+            "image_uri": "funny-face-socks-red.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -1250,7 +1250,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "funny-face_socks_blue.png",
+            "image_uri": "funny-face-socks-blue.png",
             "sources": [
                 "Able SistersKicks"
             ],
@@ -1261,10 +1261,10 @@
             "sell-price": 150
         }
     ],
-    "garter_socks": [
+    "garter-socks": [
         {
             "variant": "White",
-            "image_uri": "garter_socks_white.png",
+            "image_uri": "garter-socks-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -1276,7 +1276,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "garter_socks_black.png",
+            "image_uri": "garter-socks-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1288,7 +1288,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "garter_socks_red.png",
+            "image_uri": "garter-socks-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1300,7 +1300,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "garter_socks_purple.png",
+            "image_uri": "garter-socks-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1311,10 +1311,10 @@
             "sell-price": 245
         }
     ],
-    "geometric-print_socks": [
+    "geometric-print-socks": [
         {
             "variant": "Pink",
-            "image_uri": "geometric-print_socks_pink.png",
+            "image_uri": "geometric-print-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1326,7 +1326,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "geometric-print_socks_yellow.png",
+            "image_uri": "geometric-print-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1338,7 +1338,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "geometric-print_socks_green.png",
+            "image_uri": "geometric-print-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1350,7 +1350,7 @@
         },
         {
             "variant": "Peacock blue",
-            "image_uri": "geometric-print_socks_peacock_blue.png",
+            "image_uri": "geometric-print-socks-peacock-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1362,7 +1362,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "geometric-print_socks_purple.png",
+            "image_uri": "geometric-print-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1374,7 +1374,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "geometric-print_socks_beige.png",
+            "image_uri": "geometric-print-socks-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1385,10 +1385,10 @@
             "sell-price": 237
         }
     ],
-    "hand-knit_socks": [
+    "hand-knit-socks": [
         {
             "variant": "Green",
-            "image_uri": "hand-knit_socks_green.png",
+            "image_uri": "hand-knit-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1400,7 +1400,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "hand-knit_socks_purple.png",
+            "image_uri": "hand-knit-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1412,7 +1412,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "hand-knit_socks_orange.png",
+            "image_uri": "hand-knit-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1423,10 +1423,10 @@
             "sell-price": 175
         }
     ],
-    "holey_socks": [
+    "holey-socks": [
         {
             "variant": "Blue",
-            "image_uri": "holey_socks_blue.png",
+            "image_uri": "holey-socks-blue.png",
             "sources": [
                 "Lost & Found"
             ],
@@ -1438,7 +1438,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "holey_socks_navy_blue.png",
+            "image_uri": "holey-socks-navy-blue.png",
             "sources": [
                 "Lost & Found"
             ],
@@ -1450,7 +1450,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "holey_socks_white.png",
+            "image_uri": "holey-socks-white.png",
             "sources": [
                 "Lost & Found"
             ],
@@ -1461,10 +1461,10 @@
             "sell-price": 10
         }
     ],
-    "holey_tights": [
+    "holey-tights": [
         {
             "variant": "Black",
-            "image_uri": "holey_tights_black.png",
+            "image_uri": "holey-tights-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1476,7 +1476,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "holey_tights_pink.png",
+            "image_uri": "holey-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1488,7 +1488,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "holey_tights_light_blue.png",
+            "image_uri": "holey-tights-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1500,7 +1500,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "holey_tights_red.png",
+            "image_uri": "holey-tights-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1512,7 +1512,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "holey_tights_purple.png",
+            "image_uri": "holey-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1524,7 +1524,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "holey_tights_green.png",
+            "image_uri": "holey-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1536,7 +1536,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "holey_tights_blue.png",
+            "image_uri": "holey-tights-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1548,7 +1548,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "holey_tights_yellow.png",
+            "image_uri": "holey-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1559,10 +1559,10 @@
             "sell-price": 87
         }
     ],
-    "kiddie_socks": [
+    "kiddie-socks": [
         {
             "variant": "Black & gray",
-            "image_uri": "kiddie_socks_black_&_gray.png",
+            "image_uri": "kiddie-socks-black-&-gray.png",
             "sources": [
                 "Kicks"
             ],
@@ -1574,7 +1574,7 @@
         },
         {
             "variant": "Blue & orange",
-            "image_uri": "kiddie_socks_blue_&_orange.png",
+            "image_uri": "kiddie-socks-blue-&-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -1586,7 +1586,7 @@
         },
         {
             "variant": "Lime & pink",
-            "image_uri": "kiddie_socks_lime_&_pink.png",
+            "image_uri": "kiddie-socks-lime-&-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -1598,7 +1598,7 @@
         },
         {
             "variant": "Light blue & red",
-            "image_uri": "kiddie_socks_light_blue_&_red.png",
+            "image_uri": "kiddie-socks-light-blue-&-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1610,7 +1610,7 @@
         },
         {
             "variant": "Pink & yellow",
-            "image_uri": "kiddie_socks_pink_&_yellow.png",
+            "image_uri": "kiddie-socks-pink-&-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -1622,7 +1622,7 @@
         },
         {
             "variant": "Purple & green",
-            "image_uri": "kiddie_socks_purple_&_green.png",
+            "image_uri": "kiddie-socks-purple-&-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1634,7 +1634,7 @@
         },
         {
             "variant": "Red & light blue",
-            "image_uri": "kiddie_socks_red_&_light_blue.png",
+            "image_uri": "kiddie-socks-red-&-light-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -1646,7 +1646,7 @@
         },
         {
             "variant": "Yellow & purple",
-            "image_uri": "kiddie_socks_yellow_&_purple.png",
+            "image_uri": "kiddie-socks-yellow-&-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1657,10 +1657,10 @@
             "sell-price": 150
         }
     ],
-    "labelle_socks": [
+    "labelle-socks": [
         {
             "variant": "Midnight",
-            "image_uri": "labelle_socks_midnight.png",
+            "image_uri": "labelle-socks-midnight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1672,7 +1672,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_socks_passion.png",
+            "image_uri": "labelle-socks-passion.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1684,7 +1684,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_socks_love.png",
+            "image_uri": "labelle-socks-love.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1696,7 +1696,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_socks_sunset.png",
+            "image_uri": "labelle-socks-sunset.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1708,7 +1708,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_socks_ocean.png",
+            "image_uri": "labelle-socks-ocean.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1720,7 +1720,7 @@
         },
         {
             "variant": "Twilight",
-            "image_uri": "labelle_socks_twilight.png",
+            "image_uri": "labelle-socks-twilight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1731,10 +1731,10 @@
             "sell-price": 235
         }
     ],
-    "labelle_tights": [
+    "labelle-tights": [
         {
             "variant": "Midnight",
-            "image_uri": "labelle_tights_midnight.png",
+            "image_uri": "labelle-tights-midnight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1746,7 +1746,7 @@
         },
         {
             "variant": "Passion",
-            "image_uri": "labelle_tights_passion.png",
+            "image_uri": "labelle-tights-passion.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1758,7 +1758,7 @@
         },
         {
             "variant": "Love",
-            "image_uri": "labelle_tights_love.png",
+            "image_uri": "labelle-tights-love.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1770,7 +1770,7 @@
         },
         {
             "variant": "Sunset",
-            "image_uri": "labelle_tights_sunset.png",
+            "image_uri": "labelle-tights-sunset.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1782,7 +1782,7 @@
         },
         {
             "variant": "Ocean",
-            "image_uri": "labelle_tights_ocean.png",
+            "image_uri": "labelle-tights-ocean.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1794,7 +1794,7 @@
         },
         {
             "variant": "Twilight",
-            "image_uri": "labelle_tights_twilight.png",
+            "image_uri": "labelle-tights-twilight.png",
             "sources": [
                 "Able SistersLabel"
             ],
@@ -1805,10 +1805,10 @@
             "sell-price": 310
         }
     ],
-    "lace_socks": [
+    "lace-socks": [
         {
             "variant": "Pink",
-            "image_uri": "lace_socks_pink.png",
+            "image_uri": "lace-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1820,7 +1820,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "lace_socks_white.png",
+            "image_uri": "lace-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1832,7 +1832,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "lace_socks_green.png",
+            "image_uri": "lace-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1844,7 +1844,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "lace_socks_beige.png",
+            "image_uri": "lace-socks-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1856,7 +1856,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "lace_socks_black.png",
+            "image_uri": "lace-socks-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1867,10 +1867,10 @@
             "sell-price": 180
         }
     ],
-    "layered_socks": [
+    "layered-socks": [
         {
             "variant": "Purple",
-            "image_uri": "layered_socks_purple.png",
+            "image_uri": "layered-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1882,7 +1882,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "layered_socks_blue.png",
+            "image_uri": "layered-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1894,7 +1894,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "layered_socks_yellow.png",
+            "image_uri": "layered-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1906,7 +1906,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "layered_socks_green.png",
+            "image_uri": "layered-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1918,7 +1918,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "layered_socks_red.png",
+            "image_uri": "layered-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1930,7 +1930,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "layered_socks_orange.png",
+            "image_uri": "layered-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1941,10 +1941,10 @@
             "sell-price": 180
         }
     ],
-    "leg_warmers": [
+    "leg-warmers": [
         {
             "variant": "Purple",
-            "image_uri": "leg_warmers_purple.png",
+            "image_uri": "leg-warmers-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1956,7 +1956,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "leg_warmers_black.png",
+            "image_uri": "leg-warmers-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1968,7 +1968,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "leg_warmers_gray.png",
+            "image_uri": "leg-warmers-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1980,7 +1980,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "leg_warmers_pink.png",
+            "image_uri": "leg-warmers-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -1992,7 +1992,7 @@
         },
         {
             "variant": "Light purple",
-            "image_uri": "leg_warmers_light_purple.png",
+            "image_uri": "leg-warmers-light-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2004,7 +2004,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "leg_warmers_blue.png",
+            "image_uri": "leg-warmers-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2015,10 +2015,10 @@
             "sell-price": 110
         }
     ],
-    "mixed-tweed_socks": [
+    "mixed-tweed-socks": [
         {
             "variant": "Red",
-            "image_uri": "mixed-tweed_socks_red.png",
+            "image_uri": "mixed-tweed-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2030,7 +2030,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "mixed-tweed_socks_avocado.png",
+            "image_uri": "mixed-tweed-socks-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2042,7 +2042,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "mixed-tweed_socks_light_blue.png",
+            "image_uri": "mixed-tweed-socks-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2054,7 +2054,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "mixed-tweed_socks_purple.png",
+            "image_uri": "mixed-tweed-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2066,7 +2066,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "mixed-tweed_socks_blue.png",
+            "image_uri": "mixed-tweed-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2078,7 +2078,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "mixed-tweed_socks_orange.png",
+            "image_uri": "mixed-tweed-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2090,7 +2090,7 @@
         },
         {
             "variant": "Lime",
-            "image_uri": "mixed-tweed_socks_lime.png",
+            "image_uri": "mixed-tweed-socks-lime.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2102,7 +2102,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "mixed-tweed_socks_pink.png",
+            "image_uri": "mixed-tweed-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2113,10 +2113,10 @@
             "sell-price": 200
         }
     ],
-    "neon_leggings": [
+    "neon-leggings": [
         {
             "variant": "Yellow",
-            "image_uri": "neon_leggings_yellow.png",
+            "image_uri": "neon-leggings-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2128,7 +2128,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "neon_leggings_pink.png",
+            "image_uri": "neon-leggings-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2140,7 +2140,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "neon_leggings_orange.png",
+            "image_uri": "neon-leggings-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2152,7 +2152,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "neon_leggings_green.png",
+            "image_uri": "neon-leggings-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2164,7 +2164,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "neon_leggings_purple.png",
+            "image_uri": "neon-leggings-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2175,10 +2175,10 @@
             "sell-price": 135
         }
     ],
-    "neon_tights": [
+    "neon-tights": [
         {
             "variant": "Yellow",
-            "image_uri": "neon_tights_yellow.png",
+            "image_uri": "neon-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2190,7 +2190,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "neon_tights_pink.png",
+            "image_uri": "neon-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2202,7 +2202,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "neon_tights_orange.png",
+            "image_uri": "neon-tights-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2214,7 +2214,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "neon_tights_green.png",
+            "image_uri": "neon-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2226,7 +2226,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "neon_tights_purple.png",
+            "image_uri": "neon-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2237,10 +2237,10 @@
             "sell-price": 180
         }
     ],
-    "no-show_socks": [
+    "no-show-socks": [
         {
             "variant": "White",
-            "image_uri": "no-show_socks_white.png",
+            "image_uri": "no-show-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2252,7 +2252,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "no-show_socks_gray.png",
+            "image_uri": "no-show-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2264,7 +2264,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "no-show_socks_berry_red.png",
+            "image_uri": "no-show-socks-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2276,7 +2276,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "no-show_socks_orange.png",
+            "image_uri": "no-show-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2288,7 +2288,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "no-show_socks_yellow.png",
+            "image_uri": "no-show-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2300,7 +2300,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "no-show_socks_green.png",
+            "image_uri": "no-show-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2312,7 +2312,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "no-show_socks_light_blue.png",
+            "image_uri": "no-show-socks-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2324,7 +2324,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "no-show_socks_navy_blue.png",
+            "image_uri": "no-show-socks-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2335,10 +2335,10 @@
             "sell-price": 120
         }
     ],
-    "nook_inc._socks": [
+    "nook-inc.-socks": [
         {
             "variant": null,
-            "image_uri": "nook_inc._socks.png",
+            "image_uri": "nook-inc.-socks.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -2349,10 +2349,10 @@
             "sell-price": 2000
         }
     ],
-    "nordic_socks": [
+    "nordic-socks": [
         {
             "variant": "Navy blue",
-            "image_uri": "nordic_socks_navy_blue.png",
+            "image_uri": "nordic-socks-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2364,7 +2364,7 @@
         },
         {
             "variant": "Ivory",
-            "image_uri": "nordic_socks_ivory.png",
+            "image_uri": "nordic-socks-ivory.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2376,7 +2376,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "nordic_socks_red.png",
+            "image_uri": "nordic-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2388,7 +2388,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "nordic_socks_blue.png",
+            "image_uri": "nordic-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2400,7 +2400,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "nordic_socks_gray.png",
+            "image_uri": "nordic-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2412,7 +2412,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "nordic_socks_green.png",
+            "image_uri": "nordic-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2424,7 +2424,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "nordic_socks_light_blue.png",
+            "image_uri": "nordic-socks-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2435,10 +2435,10 @@
             "sell-price": 210
         }
     ],
-    "patterned_stockings": [
+    "patterned-stockings": [
         {
             "variant": "White",
-            "image_uri": "patterned_stockings_white.png",
+            "image_uri": "patterned-stockings-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2450,7 +2450,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "patterned_stockings_black.png",
+            "image_uri": "patterned-stockings-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2461,10 +2461,10 @@
             "sell-price": 235
         }
     ],
-    "pom-pom_socks": [
+    "pom-pom-socks": [
         {
             "variant": "Pink",
-            "image_uri": "pom-pom_socks_pink.png",
+            "image_uri": "pom-pom-socks-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "pom-pom socks"
@@ -2474,7 +2474,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "pom-pom_socks_blue.png",
+            "image_uri": "pom-pom-socks-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "pom-pom socks"
@@ -2484,7 +2484,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "pom-pom_socks_green.png",
+            "image_uri": "pom-pom-socks-green.png",
             "sources": [],
             "name": {
                 "name-USen": "pom-pom socks"
@@ -2494,7 +2494,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "pom-pom_socks_orange.png",
+            "image_uri": "pom-pom-socks-orange.png",
             "sources": [],
             "name": {
                 "name-USen": "pom-pom socks"
@@ -2504,7 +2504,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "pom-pom_socks_purple.png",
+            "image_uri": "pom-pom-socks-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "pom-pom socks"
@@ -2513,10 +2513,10 @@
             "sell-price": 180
         }
     ],
-    "puckered_socks": [
+    "puckered-socks": [
         {
             "variant": "Red",
-            "image_uri": "puckered_socks_red.png",
+            "image_uri": "puckered-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2528,7 +2528,7 @@
         },
         {
             "variant": "Mustard",
-            "image_uri": "puckered_socks_mustard.png",
+            "image_uri": "puckered-socks-mustard.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2540,7 +2540,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "puckered_socks_green.png",
+            "image_uri": "puckered-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2552,7 +2552,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "puckered_socks_blue.png",
+            "image_uri": "puckered-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2564,7 +2564,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "puckered_socks_purple.png",
+            "image_uri": "puckered-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2575,10 +2575,10 @@
             "sell-price": 150
         }
     ],
-    "running_tights": [
+    "running-tights": [
         {
             "variant": "Pink",
-            "image_uri": "running_tights_pink.png",
+            "image_uri": "running-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2590,7 +2590,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "running_tights_yellow.png",
+            "image_uri": "running-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2602,7 +2602,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "running_tights_blue.png",
+            "image_uri": "running-tights-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2614,7 +2614,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "running_tights_green.png",
+            "image_uri": "running-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2625,10 +2625,10 @@
             "sell-price": 137
         }
     ],
-    "semi-opaque_socks": [
+    "semi-opaque-socks": [
         {
             "variant": "Green",
-            "image_uri": "semi-opaque_socks_green.png",
+            "image_uri": "semi-opaque-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2640,7 +2640,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "semi-opaque_socks_red.png",
+            "image_uri": "semi-opaque-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2652,7 +2652,7 @@
         },
         {
             "variant": "Blue,\u00a0Navy blue",
-            "image_uri": "semi-opaque_socks_blue\u00a0navy_blue.png",
+            "image_uri": "semi-opaque-socks-blue\u00a0navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2664,7 +2664,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "semi-opaque_socks_purple.png",
+            "image_uri": "semi-opaque-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2676,7 +2676,7 @@
         },
         {
             "variant": "Camel",
-            "image_uri": "semi-opaque_socks_camel.png",
+            "image_uri": "semi-opaque-socks-camel.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2688,7 +2688,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "semi-opaque_socks_avocado.png",
+            "image_uri": "semi-opaque-socks-avocado.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2700,7 +2700,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "semi-opaque_socks_brown.png",
+            "image_uri": "semi-opaque-socks-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2711,10 +2711,10 @@
             "sell-price": 120
         }
     ],
-    "semi-opaque_tights": [
+    "semi-opaque-tights": [
         {
             "variant": "Brown",
-            "image_uri": "semi-opaque_tights_brown.png",
+            "image_uri": "semi-opaque-tights-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2726,7 +2726,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "semi-opaque_tights_yellow.png",
+            "image_uri": "semi-opaque-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2738,7 +2738,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "semi-opaque_tights_green.png",
+            "image_uri": "semi-opaque-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2750,7 +2750,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "semi-opaque_tights_purple.png",
+            "image_uri": "semi-opaque-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2762,7 +2762,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "semi-opaque_tights_blue.png",
+            "image_uri": "semi-opaque-tights-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2774,7 +2774,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "semi-opaque_tights_pink.png",
+            "image_uri": "semi-opaque-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2786,7 +2786,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "semi-opaque_tights_red.png",
+            "image_uri": "semi-opaque-tights-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2798,7 +2798,7 @@
         },
         {
             "variant": "Yellow-green",
-            "image_uri": "semi-opaque_tights_yellow-green.png",
+            "image_uri": "semi-opaque-tights-yellow-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2809,10 +2809,10 @@
             "sell-price": 180
         }
     ],
-    "sequin_leggings": [
+    "sequin-leggings": [
         {
             "variant": "Pink",
-            "image_uri": "sequin_leggings_pink.png",
+            "image_uri": "sequin-leggings-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -2824,7 +2824,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "sequin_leggings_red.png",
+            "image_uri": "sequin-leggings-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -2836,7 +2836,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "sequin_leggings_black.png",
+            "image_uri": "sequin-leggings-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -2848,7 +2848,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "sequin_leggings_yellow.png",
+            "image_uri": "sequin-leggings-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -2860,7 +2860,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "sequin_leggings_white.png",
+            "image_uri": "sequin-leggings-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -2872,7 +2872,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "sequin_leggings_blue.png",
+            "image_uri": "sequin-leggings-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -2884,7 +2884,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "sequin_leggings_purple.png",
+            "image_uri": "sequin-leggings-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -2896,7 +2896,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "sequin_leggings_green.png",
+            "image_uri": "sequin-leggings-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -2907,10 +2907,10 @@
             "sell-price": 235
         }
     ],
-    "sheer_socks": [
+    "sheer-socks": [
         {
             "variant": "Blue",
-            "image_uri": "sheer_socks_blue.png",
+            "image_uri": "sheer-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2922,7 +2922,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "sheer_socks_berry_red.png",
+            "image_uri": "sheer-socks-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2934,7 +2934,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "sheer_socks_brown.png",
+            "image_uri": "sheer-socks-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2946,7 +2946,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "sheer_socks_green.png",
+            "image_uri": "sheer-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2958,7 +2958,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "sheer_socks_olive.png",
+            "image_uri": "sheer-socks-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2970,7 +2970,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "sheer_socks_gray.png",
+            "image_uri": "sheer-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2981,10 +2981,10 @@
             "sell-price": 150
         }
     ],
-    "simple-accent_socks": [
+    "simple-accent-socks": [
         {
             "variant": "Navy blue",
-            "image_uri": "simple-accent_socks_navy_blue.png",
+            "image_uri": "simple-accent-socks-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -2996,7 +2996,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "simple-accent_socks_black.png",
+            "image_uri": "simple-accent-socks-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3008,7 +3008,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "simple-accent_socks_white.png",
+            "image_uri": "simple-accent-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3020,7 +3020,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "simple-accent_socks_gray.png",
+            "image_uri": "simple-accent-socks-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3032,7 +3032,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "simple-accent_socks_blue.png",
+            "image_uri": "simple-accent-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3044,7 +3044,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "simple-accent_socks_orange.png",
+            "image_uri": "simple-accent-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3056,7 +3056,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "simple-accent_socks_red.png",
+            "image_uri": "simple-accent-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3068,7 +3068,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "simple-accent_socks_pink.png",
+            "image_uri": "simple-accent-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3079,10 +3079,10 @@
             "sell-price": 180
         }
     ],
-    "simple_knee-high_socks": [
+    "simple-knee-high-socks": [
         {
             "variant": "Pink",
-            "image_uri": "simple_knee-high_socks_pink.png",
+            "image_uri": "simple-knee-high-socks-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -3094,7 +3094,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "simple_knee-high_socks_white.png",
+            "image_uri": "simple-knee-high-socks-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -3106,7 +3106,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "simple_knee-high_socks_red.png",
+            "image_uri": "simple-knee-high-socks-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -3118,7 +3118,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "simple_knee-high_socks_blue.png",
+            "image_uri": "simple-knee-high-socks-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3129,10 +3129,10 @@
             "sell-price": 150
         }
     ],
-    "soccer_socks": [
+    "soccer-socks": [
         {
             "variant": "Black",
-            "image_uri": "soccer_socks_black.png",
+            "image_uri": "soccer-socks-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -3144,7 +3144,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "soccer_socks_blue.png",
+            "image_uri": "soccer-socks-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3156,7 +3156,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "soccer_socks_light_blue.png",
+            "image_uri": "soccer-socks-light-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -3168,7 +3168,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "soccer_socks_green.png",
+            "image_uri": "soccer-socks-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -3180,7 +3180,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "soccer_socks_orange.png",
+            "image_uri": "soccer-socks-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -3192,7 +3192,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "soccer_socks_red.png",
+            "image_uri": "soccer-socks-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -3204,7 +3204,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "soccer_socks_white.png",
+            "image_uri": "soccer-socks-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -3215,10 +3215,10 @@
             "sell-price": 200
         }
     ],
-    "spider-web_tights": [
+    "spider-web-tights": [
         {
             "variant": "Black",
-            "image_uri": "spider-web_tights_black.png",
+            "image_uri": "spider-web-tights-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3230,7 +3230,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "spider-web_tights_white.png",
+            "image_uri": "spider-web-tights-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3242,7 +3242,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "spider-web_tights_orange.png",
+            "image_uri": "spider-web-tights-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3254,7 +3254,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "spider-web_tights_purple.png",
+            "image_uri": "spider-web-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3268,7 +3268,7 @@
     "stockings": [
         {
             "variant": "Black",
-            "image_uri": "stockings_black.png",
+            "image_uri": "stockings-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3280,7 +3280,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "stockings_gray.png",
+            "image_uri": "stockings-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3292,7 +3292,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "stockings_white.png",
+            "image_uri": "stockings-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3304,7 +3304,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "stockings_brown.png",
+            "image_uri": "stockings-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3316,7 +3316,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "stockings_beige.png",
+            "image_uri": "stockings-beige.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3327,10 +3327,10 @@
             "sell-price": 120
         }
     ],
-    "stretch_leggings": [
+    "stretch-leggings": [
         {
             "variant": "Navy blue",
-            "image_uri": "stretch_leggings_navy_blue.png",
+            "image_uri": "stretch-leggings-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3342,7 +3342,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "stretch_leggings_gray.png",
+            "image_uri": "stretch-leggings-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3354,7 +3354,7 @@
         },
         {
             "variant": "Dark gray",
-            "image_uri": "stretch_leggings_dark_gray.png",
+            "image_uri": "stretch-leggings-dark-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3366,7 +3366,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "stretch_leggings_white.png",
+            "image_uri": "stretch-leggings-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3378,7 +3378,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "stretch_leggings_black.png",
+            "image_uri": "stretch-leggings-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3390,7 +3390,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "stretch_leggings_brown.png",
+            "image_uri": "stretch-leggings-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3402,7 +3402,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "stretch_leggings_green.png",
+            "image_uri": "stretch-leggings-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3413,10 +3413,10 @@
             "sell-price": 112
         }
     ],
-    "striped_socks": [
+    "striped-socks": [
         {
             "variant": "Monotone",
-            "image_uri": "striped_socks_monotone.png",
+            "image_uri": "striped-socks-monotone.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3428,7 +3428,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "striped_socks_light_blue.png",
+            "image_uri": "striped-socks-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3440,7 +3440,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "striped_socks_green.png",
+            "image_uri": "striped-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3452,7 +3452,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "striped_socks_yellow.png",
+            "image_uri": "striped-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3464,7 +3464,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "striped_socks_orange.png",
+            "image_uri": "striped-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3476,7 +3476,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "striped_socks_red.png",
+            "image_uri": "striped-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3488,7 +3488,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "striped_socks_purple.png",
+            "image_uri": "striped-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3500,7 +3500,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "striped_socks_blue.png",
+            "image_uri": "striped-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3511,10 +3511,10 @@
             "sell-price": 150
         }
     ],
-    "striped_tights": [
+    "striped-tights": [
         {
             "variant": "Red",
-            "image_uri": "striped_tights_red.png",
+            "image_uri": "striped-tights-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3526,7 +3526,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "striped_tights_gray.png",
+            "image_uri": "striped-tights-gray.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3538,7 +3538,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "striped_tights_pink.png",
+            "image_uri": "striped-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3550,7 +3550,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "striped_tights_light_blue.png",
+            "image_uri": "striped-tights-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3562,7 +3562,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "striped_tights_yellow.png",
+            "image_uri": "striped-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3574,7 +3574,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "striped_tights_purple.png",
+            "image_uri": "striped-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3586,7 +3586,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "striped_tights_green.png",
+            "image_uri": "striped-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3598,7 +3598,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "striped_tights_orange.png",
+            "image_uri": "striped-tights-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3612,7 +3612,7 @@
     "tabi": [
         {
             "variant": "White",
-            "image_uri": "tabi_white.png",
+            "image_uri": "tabi-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3624,7 +3624,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "tabi_black.png",
+            "image_uri": "tabi-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3636,7 +3636,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "tabi_navy_blue.png",
+            "image_uri": "tabi-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3647,10 +3647,10 @@
             "sell-price": 300
         }
     ],
-    "terry-cloth_socks": [
+    "terry-cloth-socks": [
         {
             "variant": "Pink",
-            "image_uri": "terry-cloth_socks_pink.png",
+            "image_uri": "terry-cloth-socks-pink.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3660,7 +3660,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "terry-cloth_socks_purple.png",
+            "image_uri": "terry-cloth-socks-purple.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3670,7 +3670,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "terry-cloth_socks_blue.png",
+            "image_uri": "terry-cloth-socks-blue.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3680,7 +3680,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "terry-cloth_socks_green.png",
+            "image_uri": "terry-cloth-socks-green.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3690,7 +3690,7 @@
         },
         {
             "variant": "Beige",
-            "image_uri": "terry-cloth_socks_beige.png",
+            "image_uri": "terry-cloth-socks-beige.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3700,7 +3700,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "terry-cloth_socks_red.png",
+            "image_uri": "terry-cloth-socks-red.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3710,7 +3710,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "terry-cloth_socks_gray.png",
+            "image_uri": "terry-cloth-socks-gray.png",
             "sources": [],
             "name": {
                 "name-USen": "terry-cloth socks"
@@ -3719,10 +3719,10 @@
             "sell-price": 150
         }
     ],
-    "tube_socks": [
+    "tube-socks": [
         {
             "variant": "Blue",
-            "image_uri": "tube_socks_blue.png",
+            "image_uri": "tube-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3734,7 +3734,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "tube_socks_orange.png",
+            "image_uri": "tube-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3746,7 +3746,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "tube_socks_green.png",
+            "image_uri": "tube-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3758,7 +3758,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "tube_socks_red.png",
+            "image_uri": "tube-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3770,7 +3770,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "tube_socks_navy_blue.png",
+            "image_uri": "tube-socks-navy-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3782,7 +3782,7 @@
         },
         {
             "variant": "Berry red",
-            "image_uri": "tube_socks_berry_red.png",
+            "image_uri": "tube-socks-berry-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3794,7 +3794,7 @@
         },
         {
             "variant": "Dark green",
-            "image_uri": "tube_socks_dark_green.png",
+            "image_uri": "tube-socks-dark-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3806,7 +3806,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "tube_socks_purple.png",
+            "image_uri": "tube-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3817,10 +3817,10 @@
             "sell-price": 120
         }
     ],
-    "ultra_no-show_socks": [
+    "ultra-no-show-socks": [
         {
             "variant": "Blue",
-            "image_uri": "ultra_no-show_socks_blue.png",
+            "image_uri": "ultra-no-show-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3832,7 +3832,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "ultra_no-show_socks_pink.png",
+            "image_uri": "ultra-no-show-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3844,7 +3844,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "ultra_no-show_socks_brown.png",
+            "image_uri": "ultra-no-show-socks-brown.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3856,7 +3856,7 @@
         },
         {
             "variant": "Olive",
-            "image_uri": "ultra_no-show_socks_olive.png",
+            "image_uri": "ultra-no-show-socks-olive.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3868,7 +3868,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "ultra_no-show_socks_green.png",
+            "image_uri": "ultra-no-show-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3880,7 +3880,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "ultra_no-show_socks_purple.png",
+            "image_uri": "ultra-no-show-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3892,7 +3892,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "ultra_no-show_socks_black.png",
+            "image_uri": "ultra-no-show-socks-black.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3904,7 +3904,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "ultra_no-show_socks_white.png",
+            "image_uri": "ultra-no-show-socks-white.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3915,10 +3915,10 @@
             "sell-price": 120
         }
     ],
-    "vivid_leggings": [
+    "vivid-leggings": [
         {
             "variant": "Red",
-            "image_uri": "vivid_leggings_red.png",
+            "image_uri": "vivid-leggings-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3930,7 +3930,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "vivid_leggings_pink.png",
+            "image_uri": "vivid-leggings-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3942,7 +3942,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "vivid_leggings_orange.png",
+            "image_uri": "vivid-leggings-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3954,7 +3954,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "vivid_leggings_yellow.png",
+            "image_uri": "vivid-leggings-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3966,7 +3966,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "vivid_leggings_green.png",
+            "image_uri": "vivid-leggings-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3978,7 +3978,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "vivid_leggings_light_blue.png",
+            "image_uri": "vivid-leggings-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -3990,7 +3990,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "vivid_leggings_blue.png",
+            "image_uri": "vivid-leggings-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4002,7 +4002,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "vivid_leggings_purple.png",
+            "image_uri": "vivid-leggings-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4013,10 +4013,10 @@
             "sell-price": 112
         }
     ],
-    "vivid_socks": [
+    "vivid-socks": [
         {
             "variant": "Red",
-            "image_uri": "vivid_socks_red.png",
+            "image_uri": "vivid-socks-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4028,7 +4028,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "vivid_socks_pink.png",
+            "image_uri": "vivid-socks-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4040,7 +4040,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "vivid_socks_orange.png",
+            "image_uri": "vivid-socks-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4052,7 +4052,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "vivid_socks_yellow.png",
+            "image_uri": "vivid-socks-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4064,7 +4064,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "vivid_socks_green.png",
+            "image_uri": "vivid-socks-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4076,7 +4076,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "vivid_socks_light_blue.png",
+            "image_uri": "vivid-socks-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4088,7 +4088,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "vivid_socks_blue.png",
+            "image_uri": "vivid-socks-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4100,7 +4100,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "vivid_socks_purple.png",
+            "image_uri": "vivid-socks-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4111,10 +4111,10 @@
             "sell-price": 120
         }
     ],
-    "vivid_tights": [
+    "vivid-tights": [
         {
             "variant": "Red",
-            "image_uri": "vivid_tights_red.png",
+            "image_uri": "vivid-tights-red.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4126,7 +4126,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "vivid_tights_pink.png",
+            "image_uri": "vivid-tights-pink.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4138,7 +4138,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "vivid_tights_orange.png",
+            "image_uri": "vivid-tights-orange.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4150,7 +4150,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "vivid_tights_yellow.png",
+            "image_uri": "vivid-tights-yellow.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4162,7 +4162,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "vivid_tights_green.png",
+            "image_uri": "vivid-tights-green.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4174,7 +4174,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "vivid_tights_light_blue.png",
+            "image_uri": "vivid-tights-light-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4186,7 +4186,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "vivid_tights_blue.png",
+            "image_uri": "vivid-tights-blue.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4198,7 +4198,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "vivid_tights_purple.png",
+            "image_uri": "vivid-tights-purple.png",
             "sources": [
                 "Able Sisters"
             ],
@@ -4209,10 +4209,10 @@
             "sell-price": 180
         }
     ],
-    "wave-print_socks": [
+    "wave-print-socks": [
         {
             "variant": "Green",
-            "image_uri": "wave-print_socks_green.png",
+            "image_uri": "wave-print-socks-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -4224,7 +4224,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "wave-print_socks_purple.png",
+            "image_uri": "wave-print-socks-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -4236,7 +4236,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "wave-print_socks_blue.png",
+            "image_uri": "wave-print-socks-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -4248,7 +4248,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "wave-print_socks_brown.png",
+            "image_uri": "wave-print-socks-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -4260,7 +4260,7 @@
         },
         {
             "variant": "Gray",
-            "image_uri": "wave-print_socks_gray.png",
+            "image_uri": "wave-print-socks-gray.png",
             "sources": [
                 "Kicks"
             ],

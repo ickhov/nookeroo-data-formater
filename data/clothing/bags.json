@@ -1,8 +1,8 @@
 {
-    "acorn_pochette": [
+    "acorn-pochette": [
         {
             "variant": null,
-            "image_uri": "acorn_pochette.png",
+            "image_uri": "acorn-pochette.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -13,10 +13,10 @@
             "sell-price": 2400
         }
     ],
-    "basket_pack": [
+    "basket-pack": [
         {
             "variant": null,
-            "image_uri": "basket_pack.png",
+            "image_uri": "basket-pack.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -27,10 +27,10 @@
             "sell-price": 2400
         }
     ],
-    "bug_cage": [
+    "bug-cage": [
         {
             "variant": null,
-            "image_uri": "bug_cage.png",
+            "image_uri": "bug-cage.png",
             "sources": [
                 "Bug-off"
             ],
@@ -41,10 +41,10 @@
             "sell-price": 122
         }
     ],
-    "bunny_day_bag": [
+    "bunny-day-bag": [
         {
             "variant": null,
-            "image_uri": "bunny_day_bag.png",
+            "image_uri": "bunny-day-bag.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -55,10 +55,10 @@
             "sell-price": 2400
         }
     ],
-    "butterfly_backpack": [
+    "butterfly-backpack": [
         {
             "variant": null,
-            "image_uri": "butterfly_backpack.png",
+            "image_uri": "butterfly-backpack.png",
             "sources": [
                 "Bug-off"
             ],
@@ -69,10 +69,10 @@
             "sell-price": 210
         }
     ],
-    "canvas_backpack": [
+    "canvas-backpack": [
         {
             "variant": null,
-            "image_uri": "canvas_backpack.png",
+            "image_uri": "canvas-backpack.png",
             "sources": [
                 "Kicks"
             ],
@@ -83,10 +83,10 @@
             "sell-price": 325
         }
     ],
-    "cherry-blossom_pochette": [
+    "cherry-blossom-pochette": [
         {
             "variant": null,
-            "image_uri": "cherry-blossom_pochette.png",
+            "image_uri": "cherry-blossom-pochette.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -97,10 +97,10 @@
             "sell-price": 2400
         }
     ],
-    "cloth_shoulder_bag": [
+    "cloth-shoulder-bag": [
         {
             "variant": "Ivory",
-            "image_uri": "cloth_shoulder_bag_ivory.png",
+            "image_uri": "cloth-shoulder-bag-ivory.png",
             "sources": [
                 "Kicks"
             ],
@@ -112,7 +112,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "cloth_shoulder_bag_blue.png",
+            "image_uri": "cloth-shoulder-bag-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -124,7 +124,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "cloth_shoulder_bag_orange.png",
+            "image_uri": "cloth-shoulder-bag-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -135,10 +135,10 @@
             "sell-price": 350
         }
     ],
-    "crossbody_bag": [
+    "crossbody-bag": [
         {
             "variant": "Pink",
-            "image_uri": "crossbody_bag_pink.png",
+            "image_uri": "crossbody-bag-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -150,7 +150,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "crossbody_bag_green.png",
+            "image_uri": "crossbody-bag-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -162,7 +162,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "crossbody_bag_yellow.png",
+            "image_uri": "crossbody-bag-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -174,7 +174,7 @@
         },
         {
             "variant": "White",
-            "image_uri": "crossbody_bag_white.png",
+            "image_uri": "crossbody-bag-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -185,10 +185,10 @@
             "sell-price": 175
         }
     ],
-    "crossbody_boston_bag": [
+    "crossbody-boston-bag": [
         {
             "variant": "Red",
-            "image_uri": "crossbody_boston_bag_red.png",
+            "image_uri": "crossbody-boston-bag-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -200,7 +200,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "crossbody_boston_bag_blue.png",
+            "image_uri": "crossbody-boston-bag-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -211,10 +211,10 @@
             "sell-price": 420
         }
     ],
-    "dal_backpack": [
+    "dal-backpack": [
         {
             "variant": null,
-            "image_uri": "dal_backpack.png",
+            "image_uri": "dal-backpack.png",
             "sources": [
                 "Dodo Airlines"
             ],
@@ -225,10 +225,10 @@
             "sell-price": 1010
         }
     ],
-    "dry_bag": [
+    "dry-bag": [
         {
             "variant": "Yellow",
-            "image_uri": "dry_bag_yellow.png",
+            "image_uri": "dry-bag-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -240,7 +240,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "dry_bag_blue.png",
+            "image_uri": "dry-bag-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -251,10 +251,10 @@
             "sell-price": 260
         }
     ],
-    "evening_bag": [
+    "evening-bag": [
         {
             "variant": "Black",
-            "image_uri": "evening_bag_black.png",
+            "image_uri": "evening-bag-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -266,7 +266,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "evening_bag_pink.png",
+            "image_uri": "evening-bag-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -278,7 +278,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "evening_bag_blue.png",
+            "image_uri": "evening-bag-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -289,10 +289,10 @@
             "sell-price": 312
         }
     ],
-    "extra-large_backpack": [
+    "extra-large-backpack": [
         {
             "variant": "Black",
-            "image_uri": "extra-large_backpack_black.png",
+            "image_uri": "extra-large-backpack-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -304,7 +304,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "extra-large_backpack_blue.png",
+            "image_uri": "extra-large-backpack-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -316,7 +316,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "extra-large_backpack_green.png",
+            "image_uri": "extra-large-backpack-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -328,7 +328,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "extra-large_backpack_red.png",
+            "image_uri": "extra-large-backpack-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -339,10 +339,10 @@
             "sell-price": 525
         }
     ],
-    "faux-fur_bag": [
+    "faux-fur-bag": [
         {
             "variant": "Pink",
-            "image_uri": "faux-fur_bag_pink.png",
+            "image_uri": "faux-fur-bag-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -354,7 +354,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "faux-fur_bag_purple.png",
+            "image_uri": "faux-fur-bag-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -365,10 +365,10 @@
             "sell-price": 350
         }
     ],
-    "fish_pochette": [
+    "fish-pochette": [
         {
             "variant": null,
-            "image_uri": "fish_pochette.png",
+            "image_uri": "fish-pochette.png",
             "sources": [
                 "Fishing Tourney reward from C.J."
             ],
@@ -379,10 +379,10 @@
             "sell-price": 210
         }
     ],
-    "foldover-top_backpack": [
+    "foldover-top-backpack": [
         {
             "variant": "Gray",
-            "image_uri": "foldover-top_backpack_gray.png",
+            "image_uri": "foldover-top-backpack-gray.png",
             "sources": [
                 "Kicks"
             ],
@@ -394,7 +394,7 @@
         },
         {
             "variant": "Pink",
-            "image_uri": "foldover-top_backpack_pink.png",
+            "image_uri": "foldover-top-backpack-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -406,7 +406,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "foldover-top_backpack_green.png",
+            "image_uri": "foldover-top-backpack-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -418,7 +418,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "foldover-top_backpack_blue.png",
+            "image_uri": "foldover-top-backpack-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -429,10 +429,10 @@
             "sell-price": 325
         }
     ],
-    "gumdrop_shoulder_bag": [
+    "gumdrop-shoulder-bag": [
         {
             "variant": "Pop",
-            "image_uri": "gumdrop_shoulder_bag_pop.png",
+            "image_uri": "gumdrop-shoulder-bag-pop.png",
             "sources": [
                 "Kicks"
             ],
@@ -444,7 +444,7 @@
         },
         {
             "variant": "Cool",
-            "image_uri": "gumdrop_shoulder_bag_cool.png",
+            "image_uri": "gumdrop-shoulder-bag-cool.png",
             "sources": [
                 "Kicks"
             ],
@@ -455,10 +455,10 @@
             "sell-price": 500
         }
     ],
-    "hand-knit_pouch": [
+    "hand-knit-pouch": [
         {
             "variant": "Green",
-            "image_uri": "hand-knit_pouch_green.png",
+            "image_uri": "hand-knit-pouch-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -470,7 +470,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "hand-knit_pouch_purple.png",
+            "image_uri": "hand-knit-pouch-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -481,10 +481,10 @@
             "sell-price": 312
         }
     ],
-    "hard-shell_backpack": [
+    "hard-shell-backpack": [
         {
             "variant": "Red",
-            "image_uri": "hard-shell_backpack_red.png",
+            "image_uri": "hard-shell-backpack-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -496,7 +496,7 @@
         },
         {
             "variant": "Silver",
-            "image_uri": "hard-shell_backpack_silver.png",
+            "image_uri": "hard-shell-backpack-silver.png",
             "sources": [
                 "Kicks"
             ],
@@ -508,7 +508,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "hard-shell_backpack_blue.png",
+            "image_uri": "hard-shell-backpack-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -522,7 +522,7 @@
     "knapsack": [
         {
             "variant": "Black",
-            "image_uri": "knapsack_black.png",
+            "image_uri": "knapsack-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -534,7 +534,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "knapsack_blue.png",
+            "image_uri": "knapsack-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -545,10 +545,10 @@
             "sell-price": 157
         }
     ],
-    "knitted-grass_backpack": [
+    "knitted-grass-backpack": [
         {
             "variant": null,
-            "image_uri": "knitted-grass_backpack.png",
+            "image_uri": "knitted-grass-backpack.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -559,10 +559,10 @@
             "sell-price": 400
         }
     ],
-    "log_pack": [
+    "log-pack": [
         {
             "variant": null,
-            "image_uri": "log_pack.png",
+            "image_uri": "log-pack.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -573,10 +573,10 @@
             "sell-price": 960
         }
     ],
-    "maple-leaf_pochette": [
+    "maple-leaf-pochette": [
         {
             "variant": null,
-            "image_uri": "maple-leaf_pochette.png",
+            "image_uri": "maple-leaf-pochette.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -587,10 +587,10 @@
             "sell-price": 2400
         }
     ],
-    "messenger_bag": [
+    "messenger-bag": [
         {
             "variant": "Orange",
-            "image_uri": "messenger_bag_orange.png",
+            "image_uri": "messenger-bag-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -602,7 +602,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "messenger_bag_green.png",
+            "image_uri": "messenger-bag-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -614,7 +614,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "messenger_bag_black.png",
+            "image_uri": "messenger-bag-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -625,10 +625,10 @@
             "sell-price": 210
         }
     ],
-    "mini_pleather_bag": [
+    "mini-pleather-bag": [
         {
             "variant": "White",
-            "image_uri": "mini_pleather_bag_white.png",
+            "image_uri": "mini-pleather-bag-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -640,7 +640,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "mini_pleather_bag_black.png",
+            "image_uri": "mini-pleather-bag-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -651,10 +651,10 @@
             "sell-price": 400
         }
     ],
-    "mom's_knapsack": [
+    "mom's-knapsack": [
         {
             "variant": "M",
-            "image_uri": "mom's_knapsack_m.png",
+            "image_uri": "mom's-knapsack-m.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -666,7 +666,7 @@
         },
         {
             "variant": "Flowers",
-            "image_uri": "mom's_knapsack_flowers.png",
+            "image_uri": "mom's-knapsack-flowers.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -678,7 +678,7 @@
         },
         {
             "variant": "Polka dots",
-            "image_uri": "mom's_knapsack_polka_dots.png",
+            "image_uri": "mom's-knapsack-polka-dots.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -690,7 +690,7 @@
         },
         {
             "variant": "Colorful quilt design",
-            "image_uri": "mom's_knapsack_colorful_quilt_design.png",
+            "image_uri": "mom's-knapsack-colorful-quilt-design.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -702,7 +702,7 @@
         },
         {
             "variant": "Cherries",
-            "image_uri": "mom's_knapsack_cherries.png",
+            "image_uri": "mom's-knapsack-cherries.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -714,7 +714,7 @@
         },
         {
             "variant": "Denim with stripes",
-            "image_uri": "mom's_knapsack_denim_with_stripes.png",
+            "image_uri": "mom's-knapsack-denim-with-stripes.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -726,7 +726,7 @@
         },
         {
             "variant": "Forest print",
-            "image_uri": "mom's_knapsack_forest_print.png",
+            "image_uri": "mom's-knapsack-forest-print.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -738,7 +738,7 @@
         },
         {
             "variant": "Chick",
-            "image_uri": "mom's_knapsack_chick.png",
+            "image_uri": "mom's-knapsack-chick.png",
             "sources": [
                 "Mail from Mom"
             ],
@@ -749,10 +749,10 @@
             "sell-price": 175
         }
     ],
-    "nook_inc._knapsack": [
+    "nook-inc.-knapsack": [
         {
             "variant": null,
-            "image_uri": "nook_inc._knapsack.png",
+            "image_uri": "nook-inc.-knapsack.png",
             "sources": [
                 "Nook Stop"
             ],
@@ -763,10 +763,10 @@
             "sell-price": 4000
         }
     ],
-    "outdoor_backpack": [
+    "outdoor-backpack": [
         {
             "variant": "Orange",
-            "image_uri": "outdoor_backpack_orange.png",
+            "image_uri": "outdoor-backpack-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -778,7 +778,7 @@
         },
         {
             "variant": "Avocado",
-            "image_uri": "outdoor_backpack_avocado.png",
+            "image_uri": "outdoor-backpack-avocado.png",
             "sources": [
                 "Kicks"
             ],
@@ -790,7 +790,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "outdoor_backpack_navy_blue.png",
+            "image_uri": "outdoor-backpack-navy-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -801,10 +801,10 @@
             "sell-price": 390
         }
     ],
-    "pleather_crossbody_bag": [
+    "pleather-crossbody-bag": [
         {
             "variant": "Black",
-            "image_uri": "pleather_crossbody_bag_black.png",
+            "image_uri": "pleather-crossbody-bag-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -816,7 +816,7 @@
         },
         {
             "variant": "Navy blue",
-            "image_uri": "pleather_crossbody_bag_navy_blue.png",
+            "image_uri": "pleather-crossbody-bag-navy-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -827,10 +827,10 @@
             "sell-price": 280
         }
     ],
-    "pleather_fringe_bag": [
+    "pleather-fringe-bag": [
         {
             "variant": "White",
-            "image_uri": "pleather_fringe_bag_white.png",
+            "image_uri": "pleather-fringe-bag-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -842,7 +842,7 @@
         },
         {
             "variant": "Camel",
-            "image_uri": "pleather_fringe_bag_camel.png",
+            "image_uri": "pleather-fringe-bag-camel.png",
             "sources": [
                 "Kicks"
             ],
@@ -853,10 +853,10 @@
             "sell-price": 600
         }
     ],
-    "pleather_shoulder_bag": [
+    "pleather-shoulder-bag": [
         {
             "variant": "Navy blue",
-            "image_uri": "pleather_shoulder_bag_navy_blue.png",
+            "image_uri": "pleather-shoulder-bag-navy-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -868,7 +868,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "pleather_shoulder_bag_brown.png",
+            "image_uri": "pleather-shoulder-bag-brown.png",
             "sources": [
                 "Kicks"
             ],
@@ -879,10 +879,10 @@
             "sell-price": 600
         }
     ],
-    "retro_sports_bag": [
+    "retro-sports-bag": [
         {
             "variant": "Blue",
-            "image_uri": "retro_sports_bag_blue.png",
+            "image_uri": "retro-sports-bag-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -894,7 +894,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "retro_sports_bag_red.png",
+            "image_uri": "retro-sports-bag-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -906,7 +906,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "retro_sports_bag_black.png",
+            "image_uri": "retro-sports-bag-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -917,10 +917,10 @@
             "sell-price": 350
         }
     ],
-    "sacoche_bag": [
+    "sacoche-bag": [
         {
             "variant": "Blue",
-            "image_uri": "sacoche_bag_blue.png",
+            "image_uri": "sacoche-bag-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -932,7 +932,7 @@
         },
         {
             "variant": "Red",
-            "image_uri": "sacoche_bag_red.png",
+            "image_uri": "sacoche-bag-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -944,7 +944,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "sacoche_bag_black.png",
+            "image_uri": "sacoche-bag-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -955,10 +955,10 @@
             "sell-price": 245
         }
     ],
-    "shellfish_pochette": [
+    "shellfish-pochette": [
         {
             "variant": null,
-            "image_uri": "shellfish_pochette.png",
+            "image_uri": "shellfish-pochette.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -969,10 +969,10 @@
             "sell-price": 10800
         }
     ],
-    "snowflake_pochette": [
+    "snowflake-pochette": [
         {
             "variant": null,
-            "image_uri": "snowflake_pochette.png",
+            "image_uri": "snowflake-pochette.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -983,10 +983,10 @@
             "sell-price": 2400
         }
     ],
-    "square_backpack": [
+    "square-backpack": [
         {
             "variant": "Pink",
-            "image_uri": "square_backpack_pink.png",
+            "image_uri": "square-backpack-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -998,7 +998,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "square_backpack_green.png",
+            "image_uri": "square-backpack-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1010,7 +1010,7 @@
         },
         {
             "variant": "Yellow",
-            "image_uri": "square_backpack_yellow.png",
+            "image_uri": "square-backpack-yellow.png",
             "sources": [
                 "Kicks"
             ],
@@ -1021,10 +1021,10 @@
             "sell-price": 325
         }
     ],
-    "star_pochette": [
+    "star-pochette": [
         {
             "variant": null,
-            "image_uri": "star_pochette.png",
+            "image_uri": "star-pochette.png",
             "sources": [
                 "DIY Recipes"
             ],
@@ -1035,10 +1035,10 @@
             "sell-price": 3000
         }
     ],
-    "straw_pochette": [
+    "straw-pochette": [
         {
             "variant": null,
-            "image_uri": "straw_pochette.png",
+            "image_uri": "straw-pochette.png",
             "sources": [
                 "Kicks"
             ],
@@ -1049,10 +1049,10 @@
             "sell-price": 245
         }
     ],
-    "studded_backpack": [
+    "studded-backpack": [
         {
             "variant": "White",
-            "image_uri": "studded_backpack_white.png",
+            "image_uri": "studded-backpack-white.png",
             "sources": [
                 "Kicks"
             ],
@@ -1064,7 +1064,7 @@
         },
         {
             "variant": "Black",
-            "image_uri": "studded_backpack_black.png",
+            "image_uri": "studded-backpack-black.png",
             "sources": [
                 "Kicks"
             ],
@@ -1075,10 +1075,10 @@
             "sell-price": 390
         }
     ],
-    "tackle_bag": [
+    "tackle-bag": [
         {
             "variant": null,
-            "image_uri": "tackle_bag.png",
+            "image_uri": "tackle-bag.png",
             "sources": [
                 "Fishing Tourney reward from C.J."
             ],
@@ -1089,10 +1089,10 @@
             "sell-price": 175
         }
     ],
-    "tool_bag": [
+    "tool-bag": [
         {
             "variant": null,
-            "image_uri": "tool_bag.png",
+            "image_uri": "tool-bag.png",
             "sources": [
                 "Kicks"
             ],
@@ -1103,10 +1103,10 @@
             "sell-price": 227
         }
     ],
-    "town_backpack": [
+    "town-backpack": [
         {
             "variant": "Red",
-            "image_uri": "town_backpack_red.png",
+            "image_uri": "town-backpack-red.png",
             "sources": [
                 "Kicks"
             ],
@@ -1118,7 +1118,7 @@
         },
         {
             "variant": "Orange",
-            "image_uri": "town_backpack_orange.png",
+            "image_uri": "town-backpack-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -1130,7 +1130,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "town_backpack_green.png",
+            "image_uri": "town-backpack-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1142,7 +1142,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "town_backpack_blue.png",
+            "image_uri": "town-backpack-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -1153,10 +1153,10 @@
             "sell-price": 260
         }
     ],
-    "travel_pouch": [
+    "travel-pouch": [
         {
             "variant": "Pink",
-            "image_uri": "travel_pouch_pink.png",
+            "image_uri": "travel-pouch-pink.png",
             "sources": [
                 "Kicks"
             ],
@@ -1168,7 +1168,7 @@
         },
         {
             "variant": "Green",
-            "image_uri": "travel_pouch_green.png",
+            "image_uri": "travel-pouch-green.png",
             "sources": [
                 "Kicks"
             ],
@@ -1180,7 +1180,7 @@
         },
         {
             "variant": "Light blue",
-            "image_uri": "travel_pouch_light_blue.png",
+            "image_uri": "travel-pouch-light-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -1192,7 +1192,7 @@
         },
         {
             "variant": "Purple",
-            "image_uri": "travel_pouch_purple.png",
+            "image_uri": "travel-pouch-purple.png",
             "sources": [
                 "Kicks"
             ],
@@ -1203,10 +1203,10 @@
             "sell-price": 210
         }
     ],
-    "traveler's_backpack": [
+    "traveler's-backpack": [
         {
             "variant": "Orange",
-            "image_uri": "traveler's_backpack_orange.png",
+            "image_uri": "traveler's-backpack-orange.png",
             "sources": [
                 "Kicks"
             ],
@@ -1218,7 +1218,7 @@
         },
         {
             "variant": "Blue",
-            "image_uri": "traveler's_backpack_blue.png",
+            "image_uri": "traveler's-backpack-blue.png",
             "sources": [
                 "Kicks"
             ],
@@ -1230,7 +1230,7 @@
         },
         {
             "variant": "Brown",
-            "image_uri": "traveler's_backpack_brown.png",
+            "image_uri": "traveler's-backpack-brown.png",
             "sources": [
                 "Kicks"
             ],
