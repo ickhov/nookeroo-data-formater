@@ -1,4274 +1,1592 @@
 {
-    "aerobics-leggings": [
-        {
-            "variant": "Yellow & blue",
-            "image_uri": "aerobics-leggings-yellow-&-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "aerobics leggings"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        },
-        {
-            "variant": "Light blue & salmon pink",
-            "image_uri": "aerobics-leggings-light-blue-&-salmon-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "aerobics leggings"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        },
-        {
-            "variant": "Purple & orange,Emerald & lime",
-            "image_uri": "aerobics-leggings-purple-&-orangeemerald-&-lime.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "aerobics leggings"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        },
-        {
-            "variant": "Red & pink",
-            "image_uri": "aerobics-leggings-red-&-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "aerobics leggings"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        }
-    ],
-    "aran-knit-socks": [
-        {
-            "variant": "White",
-            "image_uri": "aran-knit-socks-white.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "aran-knit socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "aran-knit-socks-beige.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "aran-knit socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Red",
-            "image_uri": "aran-knit-socks-red.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "aran-knit socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "aran-knit-socks-green.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "aran-knit socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "aran-knit-socks-blue.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "aran-knit socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Black",
-            "image_uri": "aran-knit-socks-black.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "aran-knit socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "argyle-crew-socks": [
-        {
-            "variant": "White",
-            "image_uri": "argyle-crew-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "argyle-crew-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Red",
-            "image_uri": "argyle-crew-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "argyle-crew-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "argyle-crew-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "argyle-crew-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "argyle-crew-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "argyle-crew-socks-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "argyle crew socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "back-bow-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "back-bow-socks-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "back-bow socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "back-bow-socks-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "back-bow socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Black",
-            "image_uri": "back-bow-socks-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "back-bow socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "White",
-            "image_uri": "back-bow-socks-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "back-bow socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "back-bow-socks-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "back-bow socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Peacock blue",
-            "image_uri": "back-bow-socks-peacock-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "back-bow socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "bobby-socks": [
-        {
-            "variant": "White",
-            "image_uri": "bobby-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bobby socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "bobby-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bobby socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Black",
-            "image_uri": "bobby-socks-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bobby socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "bobby-socks-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bobby socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "color-blocked-socks": [
-        {
-            "variant": "Purple",
-            "image_uri": "color-blocked-socks-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Green",
-            "image_uri": "color-blocked-socks-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Lime",
-            "image_uri": "color-blocked-socks-lime.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "color-blocked-socks-beige.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "color-blocked-socks-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "color-blocked-socks-brown.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "White",
-            "image_uri": "color-blocked-socks-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "color-blocked-socks-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "color-blocked socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "compression-tights": [
-        {
-            "variant": "Red",
-            "image_uri": "compression-tights-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "compression tights"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "compression-tights-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "compression tights"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "compression-tights-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "compression tights"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Mint",
-            "image_uri": "compression-tights-mint.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "compression tights"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "compression-tights-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "compression tights"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "country-socks": [
-        {
-            "variant": "Black ribbons",
-            "image_uri": "country-socks-black-ribbons.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "country socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Red ribbons",
-            "image_uri": "country-socks-red-ribbons.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "country socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green ribbons",
-            "image_uri": "country-socks-green-ribbons.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "country socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue ribbons",
-            "image_uri": "country-socks-blue-ribbons.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "country socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "crocheted-socks": [
-        {
-            "variant": "Gray",
-            "image_uri": "crocheted-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "crocheted socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "crocheted-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "crocheted socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "crocheted-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "crocheted socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "crocheted-socks-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "crocheted socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "denim-leggings": [
-        {
-            "variant": "Indigo blue",
-            "image_uri": "denim-leggings-indigo-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "denim leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "denim-leggings-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "denim leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Saxon blue",
-            "image_uri": "denim-leggings-saxon-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "denim leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "denim-leggings-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "denim leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        }
-    ],
-    "dotted-knee-high-socks": [
-        {
-            "variant": "Gray",
-            "image_uri": "dotted-knee-high-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dotted knee-high socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Black",
-            "image_uri": "dotted-knee-high-socks-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dotted knee-high socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "dotted-knee-high-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dotted knee-high socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Cyan",
-            "image_uri": "dotted-knee-high-socks-cyan.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dotted knee-high socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "embroidered-flower-tights": [
-        {
-            "variant": "Black",
-            "image_uri": "embroidered-flower-tights-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "embroidered-flower tights"
-            },
-            "buy-price": 1000,
-            "sell-price": 250
-        },
-        {
-            "variant": "Green",
-            "image_uri": "embroidered-flower-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "embroidered-flower tights"
-            },
-            "buy-price": 1000,
-            "sell-price": 250
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "embroidered-flower-tights-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "embroidered-flower tights"
-            },
-            "buy-price": 1000,
-            "sell-price": 250
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "embroidered-flower-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "embroidered-flower tights"
-            },
-            "buy-price": 1000,
-            "sell-price": 250
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "embroidered-flower-tights-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "embroidered-flower tights"
-            },
-            "buy-price": 1000,
-            "sell-price": 250
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "embroidered-flower-tights-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "embroidered-flower tights"
-            },
-            "buy-price": 1000,
-            "sell-price": 250
-        }
-    ],
-    "everyday-socks": [
-        {
-            "variant": "White",
-            "image_uri": "everyday-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "everyday-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Black",
-            "image_uri": "everyday-socks-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "everyday-socks-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "everyday-socks-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "everyday-socks-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "everyday-tights": [
-        {
-            "variant": "White",
-            "image_uri": "everyday-tights-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Light gray",
-            "image_uri": "everyday-tights-light-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "everyday-tights-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Black",
-            "image_uri": "everyday-tights-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "everyday-tights-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "everyday-tights-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "everyday tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "fishnet-tights": [
-        {
-            "variant": "White",
-            "image_uri": "fishnet-tights-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "fishnet tights"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Black",
-            "image_uri": "fishnet-tights-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "fishnet tights"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Red",
-            "image_uri": "fishnet-tights-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "fishnet tights"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "flowery-dot-tights": [
-        {
-            "variant": "White",
-            "image_uri": "flowery-dot-tights-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flowery-dot tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Black",
-            "image_uri": "flowery-dot-tights-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flowery-dot tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "flowery-dot-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flowery-dot tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "flowery-dot-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flowery-dot tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "flowery-dot-tights-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flowery-dot tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "frilly-knee-high-socks": [
-        {
-            "variant": "Red",
-            "image_uri": "frilly-knee-high-socks-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "frilly-knee-high-socks-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "frilly-knee-high-socks-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Mint",
-            "image_uri": "frilly-knee-high-socks-mint.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Green",
-            "image_uri": "frilly-knee-high-socks-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "frilly-knee-high-socks-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Black",
-            "image_uri": "frilly-knee-high-socks-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "frilly-knee-high-socks-brown.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "frilly knee-high socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "frilly-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "frilly-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "frilly socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "frilly-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "frilly socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "frilly-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "frilly socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "frilly-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "frilly socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "White",
-            "image_uri": "frilly-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "frilly socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "frilly-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "frilly socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "funny-face-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "funny-face-socks-pink.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "funny-face socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Black",
-            "image_uri": "funny-face-socks-black.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "funny-face socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Green",
-            "image_uri": "funny-face-socks-green.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "funny-face socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Red",
-            "image_uri": "funny-face-socks-red.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "funny-face socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "funny-face-socks-blue.png",
-            "sources": [
-                "Able SistersKicks"
-            ],
-            "name": {
-                "name-USen": "funny-face socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "garter-socks": [
-        {
-            "variant": "White",
-            "image_uri": "garter-socks-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "garter socks"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Black",
-            "image_uri": "garter-socks-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "garter socks"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Red",
-            "image_uri": "garter-socks-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "garter socks"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "garter-socks-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "garter socks"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        }
-    ],
-    "geometric-print-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "geometric-print-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "geometric-print socks"
-            },
-            "buy-price": 950,
-            "sell-price": 237
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "geometric-print-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "geometric-print socks"
-            },
-            "buy-price": 950,
-            "sell-price": 237
-        },
-        {
-            "variant": "Green",
-            "image_uri": "geometric-print-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "geometric-print socks"
-            },
-            "buy-price": 950,
-            "sell-price": 237
-        },
-        {
-            "variant": "Peacock blue",
-            "image_uri": "geometric-print-socks-peacock-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "geometric-print socks"
-            },
-            "buy-price": 950,
-            "sell-price": 237
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "geometric-print-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "geometric-print socks"
-            },
-            "buy-price": 950,
-            "sell-price": 237
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "geometric-print-socks-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "geometric-print socks"
-            },
-            "buy-price": 950,
-            "sell-price": 237
-        }
-    ],
-    "hand-knit-socks": [
-        {
-            "variant": "Green",
-            "image_uri": "hand-knit-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "hand-knit socks"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "hand-knit-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "hand-knit socks"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "hand-knit-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "hand-knit socks"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        }
-    ],
-    "holey-socks": [
-        {
-            "variant": "Blue",
-            "image_uri": "holey-socks-blue.png",
-            "sources": [
-                "Lost & Found"
-            ],
-            "name": {
-                "name-USen": "holey socks"
-            },
-            "buy-price": 40,
-            "sell-price": 10
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "holey-socks-navy-blue.png",
-            "sources": [
-                "Lost & Found"
-            ],
-            "name": {
-                "name-USen": "holey socks"
-            },
-            "buy-price": 40,
-            "sell-price": 10
-        },
-        {
-            "variant": "White",
-            "image_uri": "holey-socks-white.png",
-            "sources": [
-                "Lost & Found"
-            ],
-            "name": {
-                "name-USen": "holey socks"
-            },
-            "buy-price": 40,
-            "sell-price": 10
-        }
-    ],
-    "holey-tights": [
-        {
-            "variant": "Black",
-            "image_uri": "holey-tights-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "holey-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "holey-tights-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Red",
-            "image_uri": "holey-tights-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "holey-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Green",
-            "image_uri": "holey-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "holey-tights-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "holey-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "holey tights"
-            },
-            "buy-price": 350,
-            "sell-price": 87
-        }
-    ],
-    "kiddie-socks": [
-        {
-            "variant": "Black & gray",
-            "image_uri": "kiddie-socks-black-&-gray.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue & orange",
-            "image_uri": "kiddie-socks-blue-&-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Lime & pink",
-            "image_uri": "kiddie-socks-lime-&-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Light blue & red",
-            "image_uri": "kiddie-socks-light-blue-&-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Pink & yellow",
-            "image_uri": "kiddie-socks-pink-&-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Purple & green",
-            "image_uri": "kiddie-socks-purple-&-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Red & light blue",
-            "image_uri": "kiddie-socks-red-&-light-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Yellow & purple",
-            "image_uri": "kiddie-socks-yellow-&-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "kiddie socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "labelle-socks": [
-        {
-            "variant": "Midnight",
-            "image_uri": "labelle-socks-midnight.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle socks"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Passion",
-            "image_uri": "labelle-socks-passion.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle socks"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Love",
-            "image_uri": "labelle-socks-love.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle socks"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Sunset",
-            "image_uri": "labelle-socks-sunset.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle socks"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Ocean",
-            "image_uri": "labelle-socks-ocean.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle socks"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Twilight",
-            "image_uri": "labelle-socks-twilight.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle socks"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        }
-    ],
-    "labelle-tights": [
-        {
-            "variant": "Midnight",
-            "image_uri": "labelle-tights-midnight.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle tights"
-            },
-            "buy-price": 1240,
-            "sell-price": 310
-        },
-        {
-            "variant": "Passion",
-            "image_uri": "labelle-tights-passion.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle tights"
-            },
-            "buy-price": 1240,
-            "sell-price": 310
-        },
-        {
-            "variant": "Love",
-            "image_uri": "labelle-tights-love.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle tights"
-            },
-            "buy-price": 1240,
-            "sell-price": 310
-        },
-        {
-            "variant": "Sunset",
-            "image_uri": "labelle-tights-sunset.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle tights"
-            },
-            "buy-price": 1240,
-            "sell-price": 310
-        },
-        {
-            "variant": "Ocean",
-            "image_uri": "labelle-tights-ocean.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle tights"
-            },
-            "buy-price": 1240,
-            "sell-price": 310
-        },
-        {
-            "variant": "Twilight",
-            "image_uri": "labelle-tights-twilight.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle tights"
-            },
-            "buy-price": 1240,
-            "sell-price": 310
-        }
-    ],
-    "lace-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "lace-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "lace socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "White",
-            "image_uri": "lace-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "lace socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "lace-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "lace socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "lace-socks-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "lace socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Black",
-            "image_uri": "lace-socks-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "lace socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "layered-socks": [
-        {
-            "variant": "Purple",
-            "image_uri": "layered-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "layered socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "layered-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "layered socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "layered-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "layered socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "layered-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "layered socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Red",
-            "image_uri": "layered-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "layered socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "layered-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "layered socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "leg-warmers": [
-        {
-            "variant": "Purple",
-            "image_uri": "leg-warmers-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "leg warmers"
-            },
-            "buy-price": 440,
-            "sell-price": 110
-        },
-        {
-            "variant": "Black",
-            "image_uri": "leg-warmers-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "leg warmers"
-            },
-            "buy-price": 440,
-            "sell-price": 110
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "leg-warmers-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "leg warmers"
-            },
-            "buy-price": 440,
-            "sell-price": 110
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "leg-warmers-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "leg warmers"
-            },
-            "buy-price": 440,
-            "sell-price": 110
-        },
-        {
-            "variant": "Light purple",
-            "image_uri": "leg-warmers-light-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "leg warmers"
-            },
-            "buy-price": 440,
-            "sell-price": 110
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "leg-warmers-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "leg warmers"
-            },
-            "buy-price": 440,
-            "sell-price": 110
-        }
-    ],
-    "mixed-tweed-socks": [
-        {
-            "variant": "Red",
-            "image_uri": "mixed-tweed-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Avocado",
-            "image_uri": "mixed-tweed-socks-avocado.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "mixed-tweed-socks-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "mixed-tweed-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "mixed-tweed-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "mixed-tweed-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Lime",
-            "image_uri": "mixed-tweed-socks-lime.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "mixed-tweed-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "mixed-tweed socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        }
-    ],
-    "neon-leggings": [
-        {
-            "variant": "Yellow",
-            "image_uri": "neon-leggings-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "neon-leggings-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "neon-leggings-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Green",
-            "image_uri": "neon-leggings-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "neon-leggings-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon leggings"
-            },
-            "buy-price": 540,
-            "sell-price": 135
-        }
-    ],
-    "neon-tights": [
-        {
-            "variant": "Yellow",
-            "image_uri": "neon-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "neon-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "neon-tights-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "neon-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "neon-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "neon tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "no-show-socks": [
-        {
-            "variant": "White",
-            "image_uri": "no-show-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "no-show-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Berry red",
-            "image_uri": "no-show-socks-berry-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "no-show-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "no-show-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Green",
-            "image_uri": "no-show-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "no-show-socks-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "no-show-socks-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "nook-inc.-socks": [
-        {
-            "variant": null,
-            "image_uri": "nook-inc.-socks.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "nook inc. socks"
-            },
-            "buy-price": 400,
-            "sell-price": 2000
-        }
-    ],
-    "nordic-socks": [
-        {
-            "variant": "Navy blue",
-            "image_uri": "nordic-socks-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Ivory",
-            "image_uri": "nordic-socks-ivory.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Red",
-            "image_uri": "nordic-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "nordic-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "nordic-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Green",
-            "image_uri": "nordic-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "nordic-socks-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nordic socks"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "patterned-stockings": [
-        {
-            "variant": "White",
-            "image_uri": "patterned-stockings-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "patterned stockings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Black",
-            "image_uri": "patterned-stockings-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "patterned stockings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        }
-    ],
-    "pom-pom-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "pom-pom-socks-pink.png",
-            "sources": [],
-            "name": {
-                "name-USen": "pom-pom socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "pom-pom-socks-blue.png",
-            "sources": [],
-            "name": {
-                "name-USen": "pom-pom socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "pom-pom-socks-green.png",
-            "sources": [],
-            "name": {
-                "name-USen": "pom-pom socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "pom-pom-socks-orange.png",
-            "sources": [],
-            "name": {
-                "name-USen": "pom-pom socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "pom-pom-socks-purple.png",
-            "sources": [],
-            "name": {
-                "name-USen": "pom-pom socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "puckered-socks": [
-        {
-            "variant": "Red",
-            "image_uri": "puckered-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "puckered socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Mustard",
-            "image_uri": "puckered-socks-mustard.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "puckered socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Green",
-            "image_uri": "puckered-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "puckered socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "puckered-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "puckered socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "puckered-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "puckered socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "running-tights": [
-        {
-            "variant": "Pink",
-            "image_uri": "running-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "running tights"
-            },
-            "buy-price": 550,
-            "sell-price": 137
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "running-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "running tights"
-            },
-            "buy-price": 550,
-            "sell-price": 137
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "running-tights-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "running tights"
-            },
-            "buy-price": 550,
-            "sell-price": 137
-        },
-        {
-            "variant": "Green",
-            "image_uri": "running-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "running tights"
-            },
-            "buy-price": 550,
-            "sell-price": 137
-        }
-    ],
-    "semi-opaque-socks": [
-        {
-            "variant": "Green",
-            "image_uri": "semi-opaque-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Red",
-            "image_uri": "semi-opaque-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Blue,\u00a0Navy blue",
-            "image_uri": "semi-opaque-socks-blue\u00a0navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "semi-opaque-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Camel",
-            "image_uri": "semi-opaque-socks-camel.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Avocado",
-            "image_uri": "semi-opaque-socks-avocado.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "semi-opaque-socks-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "semi-opaque-tights": [
-        {
-            "variant": "Brown",
-            "image_uri": "semi-opaque-tights-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "semi-opaque-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "semi-opaque-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "semi-opaque-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "semi-opaque-tights-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "semi-opaque-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Red",
-            "image_uri": "semi-opaque-tights-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow-green",
-            "image_uri": "semi-opaque-tights-yellow-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "semi-opaque tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "sequin-leggings": [
-        {
-            "variant": "Pink",
-            "image_uri": "sequin-leggings-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Red",
-            "image_uri": "sequin-leggings-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Black",
-            "image_uri": "sequin-leggings-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "sequin-leggings-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "White",
-            "image_uri": "sequin-leggings-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "sequin-leggings-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "sequin-leggings-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        },
-        {
-            "variant": "Green",
-            "image_uri": "sequin-leggings-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sequin leggings"
-            },
-            "buy-price": 940,
-            "sell-price": 235
-        }
-    ],
-    "sheer-socks": [
-        {
-            "variant": "Blue",
-            "image_uri": "sheer-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sheer socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Berry red",
-            "image_uri": "sheer-socks-berry-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sheer socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "sheer-socks-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sheer socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Green",
-            "image_uri": "sheer-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sheer socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Olive",
-            "image_uri": "sheer-socks-olive.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sheer socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "sheer-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sheer socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "simple-accent-socks": [
-        {
-            "variant": "Navy blue",
-            "image_uri": "simple-accent-socks-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Black",
-            "image_uri": "simple-accent-socks-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "White",
-            "image_uri": "simple-accent-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "simple-accent-socks-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "simple-accent-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "simple-accent-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Red",
-            "image_uri": "simple-accent-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "simple-accent-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "simple-accent socks"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "simple-knee-high-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "simple-knee-high-socks-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "simple knee-high socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "White",
-            "image_uri": "simple-knee-high-socks-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "simple knee-high socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Red",
-            "image_uri": "simple-knee-high-socks-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "simple knee-high socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "simple-knee-high-socks-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "simple knee-high socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "soccer-socks": [
-        {
-            "variant": "Black",
-            "image_uri": "soccer-socks-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "soccer-socks-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "soccer-socks-light-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Green",
-            "image_uri": "soccer-socks-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "soccer-socks-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "Red",
-            "image_uri": "soccer-socks-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        },
-        {
-            "variant": "White",
-            "image_uri": "soccer-socks-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "soccer socks"
-            },
-            "buy-price": 800,
-            "sell-price": 200
-        }
-    ],
-    "spider-web-tights": [
-        {
-            "variant": "Black",
-            "image_uri": "spider-web-tights-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "spider-web tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "White",
-            "image_uri": "spider-web-tights-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "spider-web tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "spider-web-tights-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "spider-web tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "spider-web-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "spider-web tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "stockings": [
-        {
-            "variant": "Black",
-            "image_uri": "stockings-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stockings"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "stockings-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stockings"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "White",
-            "image_uri": "stockings-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stockings"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "stockings-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stockings"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "stockings-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stockings"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "stretch-leggings": [
-        {
-            "variant": "Navy blue",
-            "image_uri": "stretch-leggings-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "stretch-leggings-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Dark gray",
-            "image_uri": "stretch-leggings-dark-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "White",
-            "image_uri": "stretch-leggings-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Black",
-            "image_uri": "stretch-leggings-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "stretch-leggings-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Green",
-            "image_uri": "stretch-leggings-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stretch leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        }
-    ],
-    "striped-socks": [
-        {
-            "variant": "Monotone",
-            "image_uri": "striped-socks-monotone.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "striped-socks-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Green",
-            "image_uri": "striped-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "striped-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "striped-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Red",
-            "image_uri": "striped-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "striped-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "striped-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "striped-tights": [
-        {
-            "variant": "Red",
-            "image_uri": "striped-tights-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "striped-tights-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "striped-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "striped-tights-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "striped-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "striped-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "striped-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "striped-tights-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "striped tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "tabi": [
-        {
-            "variant": "White",
-            "image_uri": "tabi-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tabi"
-            },
-            "buy-price": 1200,
-            "sell-price": 300
-        },
-        {
-            "variant": "Black",
-            "image_uri": "tabi-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tabi"
-            },
-            "buy-price": 1200,
-            "sell-price": 300
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "tabi-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tabi"
-            },
-            "buy-price": 1200,
-            "sell-price": 300
-        }
-    ],
-    "terry-cloth-socks": [
-        {
-            "variant": "Pink",
-            "image_uri": "terry-cloth-socks-pink.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "terry-cloth-socks-purple.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "terry-cloth-socks-blue.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Green",
-            "image_uri": "terry-cloth-socks-green.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "terry-cloth-socks-beige.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Red",
-            "image_uri": "terry-cloth-socks-red.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "terry-cloth-socks-gray.png",
-            "sources": [],
-            "name": {
-                "name-USen": "terry-cloth socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ],
-    "tube-socks": [
-        {
-            "variant": "Blue",
-            "image_uri": "tube-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "tube-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Green",
-            "image_uri": "tube-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Red",
-            "image_uri": "tube-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "tube-socks-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Berry red",
-            "image_uri": "tube-socks-berry-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Dark green",
-            "image_uri": "tube-socks-dark-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "tube-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tube socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "ultra-no-show-socks": [
-        {
-            "variant": "Blue",
-            "image_uri": "ultra-no-show-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "ultra-no-show-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "ultra-no-show-socks-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Olive",
-            "image_uri": "ultra-no-show-socks-olive.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Green",
-            "image_uri": "ultra-no-show-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "ultra-no-show-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Black",
-            "image_uri": "ultra-no-show-socks-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "White",
-            "image_uri": "ultra-no-show-socks-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ultra no-show socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "vivid-leggings": [
-        {
-            "variant": "Red",
-            "image_uri": "vivid-leggings-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "vivid-leggings-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "vivid-leggings-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "vivid-leggings-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Green",
-            "image_uri": "vivid-leggings-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "vivid-leggings-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "vivid-leggings-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "vivid-leggings-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid leggings"
-            },
-            "buy-price": 450,
-            "sell-price": 112
-        }
-    ],
-    "vivid-socks": [
-        {
-            "variant": "Red",
-            "image_uri": "vivid-socks-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "vivid-socks-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "vivid-socks-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "vivid-socks-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Green",
-            "image_uri": "vivid-socks-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "vivid-socks-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "vivid-socks-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "vivid-socks-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid socks"
-            },
-            "buy-price": 480,
-            "sell-price": 120
-        }
-    ],
-    "vivid-tights": [
-        {
-            "variant": "Red",
-            "image_uri": "vivid-tights-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "vivid-tights-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "vivid-tights-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "vivid-tights-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Green",
-            "image_uri": "vivid-tights-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "vivid-tights-light-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "vivid-tights-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "vivid-tights-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "vivid tights"
-            },
-            "buy-price": 720,
-            "sell-price": 180
-        }
-    ],
-    "wave-print-socks": [
-        {
-            "variant": "Green",
-            "image_uri": "wave-print-socks-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "wave-print socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "wave-print-socks-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "wave-print socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "wave-print-socks-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "wave-print socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "wave-print-socks-brown.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "wave-print socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "wave-print-socks-gray.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "wave-print socks"
-            },
-            "buy-price": 600,
-            "sell-price": 150
-        }
-    ]
+    "aerobics-leggings": {
+        "name": {
+            "name-USen": "aerobics leggings"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 700,
+        "sell-price": 175,
+        "variant": true,
+        "variation_names": [
+            "Yellow & blue",
+            "Light blue & salmon pink",
+            "Purple & orange,Emerald & lime",
+            "Red & pink"
+        ],
+        "variation_images": [
+            "aerobics-leggings-yellow-&-blue.png",
+            "aerobics-leggings-light-blue-&-salmon-pink.png",
+            "aerobics-leggings-purple-&-orangeemerald-&-lime.png",
+            "aerobics-leggings-red-&-pink.png"
+        ]
+    },
+    "aran-knit-socks": {
+        "name": {
+            "name-USen": "aran-knit socks"
+        },
+        "sources": [
+            "Able SistersKicks"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Beige",
+            "Red",
+            "Green",
+            "Blue",
+            "Black"
+        ],
+        "variation_images": [
+            "aran-knit-socks-white.png",
+            "aran-knit-socks-beige.png",
+            "aran-knit-socks-red.png",
+            "aran-knit-socks-green.png",
+            "aran-knit-socks-blue.png",
+            "aran-knit-socks-black.png"
+        ]
+    },
+    "argyle-crew-socks": {
+        "name": {
+            "name-USen": "argyle crew socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Gray",
+            "Red",
+            "Pink",
+            "Orange",
+            "Green",
+            "Blue",
+            "Beige"
+        ],
+        "variation_images": [
+            "argyle-crew-socks-white.png",
+            "argyle-crew-socks-gray.png",
+            "argyle-crew-socks-red.png",
+            "argyle-crew-socks-pink.png",
+            "argyle-crew-socks-orange.png",
+            "argyle-crew-socks-green.png",
+            "argyle-crew-socks-blue.png",
+            "argyle-crew-socks-beige.png"
+        ]
+    },
+    "back-bow-socks": {
+        "name": {
+            "name-USen": "back-bow socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Yellow",
+            "Black",
+            "White",
+            "Blue",
+            "Peacock blue"
+        ],
+        "variation_images": [
+            "back-bow-socks-pink.png",
+            "back-bow-socks-yellow.png",
+            "back-bow-socks-black.png",
+            "back-bow-socks-white.png",
+            "back-bow-socks-blue.png",
+            "back-bow-socks-peacock-blue.png"
+        ]
+    },
+    "bobby-socks": {
+        "name": {
+            "name-USen": "bobby socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Gray",
+            "Black",
+            "Brown"
+        ],
+        "variation_images": [
+            "bobby-socks-white.png",
+            "bobby-socks-gray.png",
+            "bobby-socks-black.png",
+            "bobby-socks-brown.png"
+        ]
+    },
+    "color-blocked-socks": {
+        "name": {
+            "name-USen": "color-blocked socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": true,
+        "variation_names": [
+            "Purple",
+            "Green",
+            "Lime",
+            "Beige",
+            "Blue",
+            "Brown",
+            "White",
+            "Pink"
+        ],
+        "variation_images": [
+            "color-blocked-socks-purple.png",
+            "color-blocked-socks-green.png",
+            "color-blocked-socks-lime.png",
+            "color-blocked-socks-beige.png",
+            "color-blocked-socks-blue.png",
+            "color-blocked-socks-brown.png",
+            "color-blocked-socks-white.png",
+            "color-blocked-socks-pink.png"
+        ]
+    },
+    "compression-tights": {
+        "name": {
+            "name-USen": "compression tights"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Yellow",
+            "Pink",
+            "Mint",
+            "Blue"
+        ],
+        "variation_images": [
+            "compression-tights-red.png",
+            "compression-tights-yellow.png",
+            "compression-tights-pink.png",
+            "compression-tights-mint.png",
+            "compression-tights-blue.png"
+        ]
+    },
+    "country-socks": {
+        "name": {
+            "name-USen": "country socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Black ribbons",
+            "Red ribbons",
+            "Green ribbons",
+            "Blue ribbons"
+        ],
+        "variation_images": [
+            "country-socks-black-ribbons.png",
+            "country-socks-red-ribbons.png",
+            "country-socks-green-ribbons.png",
+            "country-socks-blue-ribbons.png"
+        ]
+    },
+    "crocheted-socks": {
+        "name": {
+            "name-USen": "crocheted socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Gray",
+            "Purple",
+            "Blue",
+            "Beige"
+        ],
+        "variation_images": [
+            "crocheted-socks-gray.png",
+            "crocheted-socks-purple.png",
+            "crocheted-socks-blue.png",
+            "crocheted-socks-beige.png"
+        ]
+    },
+    "denim-leggings": {
+        "name": {
+            "name-USen": "denim leggings"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 540,
+        "sell-price": 135,
+        "variant": true,
+        "variation_names": [
+            "Indigo blue",
+            "Light blue",
+            "Saxon blue",
+            "Blue"
+        ],
+        "variation_images": [
+            "denim-leggings-indigo-blue.png",
+            "denim-leggings-light-blue.png",
+            "denim-leggings-saxon-blue.png",
+            "denim-leggings-blue.png"
+        ]
+    },
+    "dotted-knee-high-socks": {
+        "name": {
+            "name-USen": "dotted knee-high socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "Gray",
+            "Black",
+            "Yellow",
+            "Cyan"
+        ],
+        "variation_images": [
+            "dotted-knee-high-socks-gray.png",
+            "dotted-knee-high-socks-black.png",
+            "dotted-knee-high-socks-yellow.png",
+            "dotted-knee-high-socks-cyan.png"
+        ]
+    },
+    "embroidered-flower-tights": {
+        "name": {
+            "name-USen": "embroidered-flower tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Green",
+            "Blue",
+            "Purple",
+            "Brown",
+            "Beige"
+        ],
+        "variation_images": [
+            "embroidered-flower-tights-black.png",
+            "embroidered-flower-tights-green.png",
+            "embroidered-flower-tights-blue.png",
+            "embroidered-flower-tights-purple.png",
+            "embroidered-flower-tights-brown.png",
+            "embroidered-flower-tights-beige.png"
+        ]
+    },
+    "everyday-socks": {
+        "name": {
+            "name-USen": "everyday socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Gray",
+            "Black",
+            "Navy blue",
+            "Brown",
+            "Beige"
+        ],
+        "variation_images": [
+            "everyday-socks-white.png",
+            "everyday-socks-gray.png",
+            "everyday-socks-black.png",
+            "everyday-socks-navy-blue.png",
+            "everyday-socks-brown.png",
+            "everyday-socks-beige.png"
+        ]
+    },
+    "everyday-tights": {
+        "name": {
+            "name-USen": "everyday tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Light gray",
+            "Gray",
+            "Black",
+            "Navy blue",
+            "Beige"
+        ],
+        "variation_images": [
+            "everyday-tights-white.png",
+            "everyday-tights-light-gray.png",
+            "everyday-tights-gray.png",
+            "everyday-tights-black.png",
+            "everyday-tights-navy-blue.png",
+            "everyday-tights-beige.png"
+        ]
+    },
+    "fishnet-tights": {
+        "name": {
+            "name-USen": "fishnet tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black",
+            "Red"
+        ],
+        "variation_images": [
+            "fishnet-tights-white.png",
+            "fishnet-tights-black.png",
+            "fishnet-tights-red.png"
+        ]
+    },
+    "flowery-dot-tights": {
+        "name": {
+            "name-USen": "flowery-dot tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black",
+            "Pink",
+            "Yellow",
+            "Blue"
+        ],
+        "variation_images": [
+            "flowery-dot-tights-white.png",
+            "flowery-dot-tights-black.png",
+            "flowery-dot-tights-pink.png",
+            "flowery-dot-tights-yellow.png",
+            "flowery-dot-tights-blue.png"
+        ]
+    },
+    "frilly-knee-high-socks": {
+        "name": {
+            "name-USen": "frilly knee-high socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Pink",
+            "Yellow",
+            "Mint",
+            "Green",
+            "Purple",
+            "Black",
+            "Brown"
+        ],
+        "variation_images": [
+            "frilly-knee-high-socks-red.png",
+            "frilly-knee-high-socks-pink.png",
+            "frilly-knee-high-socks-yellow.png",
+            "frilly-knee-high-socks-mint.png",
+            "frilly-knee-high-socks-green.png",
+            "frilly-knee-high-socks-purple.png",
+            "frilly-knee-high-socks-black.png",
+            "frilly-knee-high-socks-brown.png"
+        ]
+    },
+    "frilly-socks": {
+        "name": {
+            "name-USen": "frilly socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Green",
+            "Blue",
+            "Purple",
+            "White",
+            "Yellow"
+        ],
+        "variation_images": [
+            "frilly-socks-pink.png",
+            "frilly-socks-green.png",
+            "frilly-socks-blue.png",
+            "frilly-socks-purple.png",
+            "frilly-socks-white.png",
+            "frilly-socks-yellow.png"
+        ]
+    },
+    "funny-face-socks": {
+        "name": {
+            "name-USen": "funny-face socks"
+        },
+        "sources": [
+            "Able SistersKicks"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Black",
+            "Green",
+            "Red",
+            "Blue"
+        ],
+        "variation_images": [
+            "funny-face-socks-pink.png",
+            "funny-face-socks-black.png",
+            "funny-face-socks-green.png",
+            "funny-face-socks-red.png",
+            "funny-face-socks-blue.png"
+        ]
+    },
+    "garter-socks": {
+        "name": {
+            "name-USen": "garter socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 980,
+        "sell-price": 245,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black",
+            "Red",
+            "Purple"
+        ],
+        "variation_images": [
+            "garter-socks-white.png",
+            "garter-socks-black.png",
+            "garter-socks-red.png",
+            "garter-socks-purple.png"
+        ]
+    },
+    "geometric-print-socks": {
+        "name": {
+            "name-USen": "geometric-print socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 950,
+        "sell-price": 237,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Yellow",
+            "Green",
+            "Peacock blue",
+            "Purple",
+            "Beige"
+        ],
+        "variation_images": [
+            "geometric-print-socks-pink.png",
+            "geometric-print-socks-yellow.png",
+            "geometric-print-socks-green.png",
+            "geometric-print-socks-peacock-blue.png",
+            "geometric-print-socks-purple.png",
+            "geometric-print-socks-beige.png"
+        ]
+    },
+    "hand-knit-socks": {
+        "name": {
+            "name-USen": "hand-knit socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 700,
+        "sell-price": 175,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Purple",
+            "Orange"
+        ],
+        "variation_images": [
+            "hand-knit-socks-green.png",
+            "hand-knit-socks-purple.png",
+            "hand-knit-socks-orange.png"
+        ]
+    },
+    "holey-socks": {
+        "name": {
+            "name-USen": "holey socks"
+        },
+        "sources": [
+            "Lost & Found"
+        ],
+        "buy-price": 40,
+        "sell-price": 10,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Navy blue",
+            "White"
+        ],
+        "variation_images": [
+            "holey-socks-blue.png",
+            "holey-socks-navy-blue.png",
+            "holey-socks-white.png"
+        ]
+    },
+    "holey-tights": {
+        "name": {
+            "name-USen": "holey tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 350,
+        "sell-price": 87,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Pink",
+            "Light blue",
+            "Red",
+            "Purple",
+            "Green",
+            "Blue",
+            "Yellow"
+        ],
+        "variation_images": [
+            "holey-tights-black.png",
+            "holey-tights-pink.png",
+            "holey-tights-light-blue.png",
+            "holey-tights-red.png",
+            "holey-tights-purple.png",
+            "holey-tights-green.png",
+            "holey-tights-blue.png",
+            "holey-tights-yellow.png"
+        ]
+    },
+    "kiddie-socks": {
+        "name": {
+            "name-USen": "kiddie socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Black & gray",
+            "Blue & orange",
+            "Lime & pink",
+            "Light blue & red",
+            "Pink & yellow",
+            "Purple & green",
+            "Red & light blue",
+            "Yellow & purple"
+        ],
+        "variation_images": [
+            "kiddie-socks-black-&-gray.png",
+            "kiddie-socks-blue-&-orange.png",
+            "kiddie-socks-lime-&-pink.png",
+            "kiddie-socks-light-blue-&-red.png",
+            "kiddie-socks-pink-&-yellow.png",
+            "kiddie-socks-purple-&-green.png",
+            "kiddie-socks-red-&-light-blue.png",
+            "kiddie-socks-yellow-&-purple.png"
+        ]
+    },
+    "labelle-socks": {
+        "name": {
+            "name-USen": "labelle socks"
+        },
+        "sources": [
+            "Able SistersLabel"
+        ],
+        "buy-price": 940,
+        "sell-price": 235,
+        "variant": true,
+        "variation_names": [
+            "Midnight",
+            "Passion",
+            "Love",
+            "Sunset",
+            "Ocean",
+            "Twilight"
+        ],
+        "variation_images": [
+            "labelle-socks-midnight.png",
+            "labelle-socks-passion.png",
+            "labelle-socks-love.png",
+            "labelle-socks-sunset.png",
+            "labelle-socks-ocean.png",
+            "labelle-socks-twilight.png"
+        ]
+    },
+    "labelle-tights": {
+        "name": {
+            "name-USen": "labelle tights"
+        },
+        "sources": [
+            "Able SistersLabel"
+        ],
+        "buy-price": 1240,
+        "sell-price": 310,
+        "variant": true,
+        "variation_names": [
+            "Midnight",
+            "Passion",
+            "Love",
+            "Sunset",
+            "Ocean",
+            "Twilight"
+        ],
+        "variation_images": [
+            "labelle-tights-midnight.png",
+            "labelle-tights-passion.png",
+            "labelle-tights-love.png",
+            "labelle-tights-sunset.png",
+            "labelle-tights-ocean.png",
+            "labelle-tights-twilight.png"
+        ]
+    },
+    "lace-socks": {
+        "name": {
+            "name-USen": "lace socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "White",
+            "Green",
+            "Beige",
+            "Black"
+        ],
+        "variation_images": [
+            "lace-socks-pink.png",
+            "lace-socks-white.png",
+            "lace-socks-green.png",
+            "lace-socks-beige.png",
+            "lace-socks-black.png"
+        ]
+    },
+    "layered-socks": {
+        "name": {
+            "name-USen": "layered socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Purple",
+            "Blue",
+            "Yellow",
+            "Green",
+            "Red",
+            "Orange"
+        ],
+        "variation_images": [
+            "layered-socks-purple.png",
+            "layered-socks-blue.png",
+            "layered-socks-yellow.png",
+            "layered-socks-green.png",
+            "layered-socks-red.png",
+            "layered-socks-orange.png"
+        ]
+    },
+    "leg-warmers": {
+        "name": {
+            "name-USen": "leg warmers"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 440,
+        "sell-price": 110,
+        "variant": true,
+        "variation_names": [
+            "Purple",
+            "Black",
+            "Gray",
+            "Pink",
+            "Light purple",
+            "Blue"
+        ],
+        "variation_images": [
+            "leg-warmers-purple.png",
+            "leg-warmers-black.png",
+            "leg-warmers-gray.png",
+            "leg-warmers-pink.png",
+            "leg-warmers-light-purple.png",
+            "leg-warmers-blue.png"
+        ]
+    },
+    "mixed-tweed-socks": {
+        "name": {
+            "name-USen": "mixed-tweed socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 800,
+        "sell-price": 200,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Avocado",
+            "Light blue",
+            "Purple",
+            "Blue",
+            "Orange",
+            "Lime",
+            "Pink"
+        ],
+        "variation_images": [
+            "mixed-tweed-socks-red.png",
+            "mixed-tweed-socks-avocado.png",
+            "mixed-tweed-socks-light-blue.png",
+            "mixed-tweed-socks-purple.png",
+            "mixed-tweed-socks-blue.png",
+            "mixed-tweed-socks-orange.png",
+            "mixed-tweed-socks-lime.png",
+            "mixed-tweed-socks-pink.png"
+        ]
+    },
+    "neon-leggings": {
+        "name": {
+            "name-USen": "neon leggings"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 540,
+        "sell-price": 135,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Pink",
+            "Orange",
+            "Green",
+            "Purple"
+        ],
+        "variation_images": [
+            "neon-leggings-yellow.png",
+            "neon-leggings-pink.png",
+            "neon-leggings-orange.png",
+            "neon-leggings-green.png",
+            "neon-leggings-purple.png"
+        ]
+    },
+    "neon-tights": {
+        "name": {
+            "name-USen": "neon tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Pink",
+            "Orange",
+            "Green",
+            "Purple"
+        ],
+        "variation_images": [
+            "neon-tights-yellow.png",
+            "neon-tights-pink.png",
+            "neon-tights-orange.png",
+            "neon-tights-green.png",
+            "neon-tights-purple.png"
+        ]
+    },
+    "no-show-socks": {
+        "name": {
+            "name-USen": "no-show socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Gray",
+            "Berry red",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Light blue",
+            "Navy blue"
+        ],
+        "variation_images": [
+            "no-show-socks-white.png",
+            "no-show-socks-gray.png",
+            "no-show-socks-berry-red.png",
+            "no-show-socks-orange.png",
+            "no-show-socks-yellow.png",
+            "no-show-socks-green.png",
+            "no-show-socks-light-blue.png",
+            "no-show-socks-navy-blue.png"
+        ]
+    },
+    "nook-inc.-socks": {
+        "name": {
+            "name-USen": "nook inc. socks"
+        },
+        "sources": [
+            "Nook Stop"
+        ],
+        "buy-price": 400,
+        "sell-price": 2000,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "nook-inc.-socks.png"
+        ]
+    },
+    "nordic-socks": {
+        "name": {
+            "name-USen": "nordic socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": true,
+        "variation_names": [
+            "Navy blue",
+            "Ivory",
+            "Red",
+            "Blue",
+            "Gray",
+            "Green",
+            "Light blue"
+        ],
+        "variation_images": [
+            "nordic-socks-navy-blue.png",
+            "nordic-socks-ivory.png",
+            "nordic-socks-red.png",
+            "nordic-socks-blue.png",
+            "nordic-socks-gray.png",
+            "nordic-socks-green.png",
+            "nordic-socks-light-blue.png"
+        ]
+    },
+    "patterned-stockings": {
+        "name": {
+            "name-USen": "patterned stockings"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 940,
+        "sell-price": 235,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black"
+        ],
+        "variation_images": [
+            "patterned-stockings-white.png",
+            "patterned-stockings-black.png"
+        ]
+    },
+    "pom-pom-socks": {
+        "name": {
+            "name-USen": "pom-pom socks"
+        },
+        "sources": [],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Blue",
+            "Green",
+            "Orange",
+            "Purple"
+        ],
+        "variation_images": [
+            "pom-pom-socks-pink.png",
+            "pom-pom-socks-blue.png",
+            "pom-pom-socks-green.png",
+            "pom-pom-socks-orange.png",
+            "pom-pom-socks-purple.png"
+        ]
+    },
+    "puckered-socks": {
+        "name": {
+            "name-USen": "puckered socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Mustard",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "puckered-socks-red.png",
+            "puckered-socks-mustard.png",
+            "puckered-socks-green.png",
+            "puckered-socks-blue.png",
+            "puckered-socks-purple.png"
+        ]
+    },
+    "running-tights": {
+        "name": {
+            "name-USen": "running tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 550,
+        "sell-price": 137,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Yellow",
+            "Blue",
+            "Green"
+        ],
+        "variation_images": [
+            "running-tights-pink.png",
+            "running-tights-yellow.png",
+            "running-tights-blue.png",
+            "running-tights-green.png"
+        ]
+    },
+    "semi-opaque-socks": {
+        "name": {
+            "name-USen": "semi-opaque socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Red",
+            "Blue,\u00a0Navy blue",
+            "Purple",
+            "Camel",
+            "Avocado",
+            "Brown"
+        ],
+        "variation_images": [
+            "semi-opaque-socks-green.png",
+            "semi-opaque-socks-red.png",
+            "semi-opaque-socks-blue\u00a0navy-blue.png",
+            "semi-opaque-socks-purple.png",
+            "semi-opaque-socks-camel.png",
+            "semi-opaque-socks-avocado.png",
+            "semi-opaque-socks-brown.png"
+        ]
+    },
+    "semi-opaque-tights": {
+        "name": {
+            "name-USen": "semi-opaque tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Brown",
+            "Yellow",
+            "Green",
+            "Purple",
+            "Blue",
+            "Pink",
+            "Red",
+            "Yellow-green"
+        ],
+        "variation_images": [
+            "semi-opaque-tights-brown.png",
+            "semi-opaque-tights-yellow.png",
+            "semi-opaque-tights-green.png",
+            "semi-opaque-tights-purple.png",
+            "semi-opaque-tights-blue.png",
+            "semi-opaque-tights-pink.png",
+            "semi-opaque-tights-red.png",
+            "semi-opaque-tights-yellow-green.png"
+        ]
+    },
+    "sequin-leggings": {
+        "name": {
+            "name-USen": "sequin leggings"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 940,
+        "sell-price": 235,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Red",
+            "Black",
+            "Yellow",
+            "White",
+            "Blue",
+            "Purple",
+            "Green"
+        ],
+        "variation_images": [
+            "sequin-leggings-pink.png",
+            "sequin-leggings-red.png",
+            "sequin-leggings-black.png",
+            "sequin-leggings-yellow.png",
+            "sequin-leggings-white.png",
+            "sequin-leggings-blue.png",
+            "sequin-leggings-purple.png",
+            "sequin-leggings-green.png"
+        ]
+    },
+    "sheer-socks": {
+        "name": {
+            "name-USen": "sheer socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Berry red",
+            "Brown",
+            "Green",
+            "Olive",
+            "Gray"
+        ],
+        "variation_images": [
+            "sheer-socks-blue.png",
+            "sheer-socks-berry-red.png",
+            "sheer-socks-brown.png",
+            "sheer-socks-green.png",
+            "sheer-socks-olive.png",
+            "sheer-socks-gray.png"
+        ]
+    },
+    "simple-accent-socks": {
+        "name": {
+            "name-USen": "simple-accent socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Navy blue",
+            "Black",
+            "White",
+            "Gray",
+            "Blue",
+            "Orange",
+            "Red",
+            "Pink"
+        ],
+        "variation_images": [
+            "simple-accent-socks-navy-blue.png",
+            "simple-accent-socks-black.png",
+            "simple-accent-socks-white.png",
+            "simple-accent-socks-gray.png",
+            "simple-accent-socks-blue.png",
+            "simple-accent-socks-orange.png",
+            "simple-accent-socks-red.png",
+            "simple-accent-socks-pink.png"
+        ]
+    },
+    "simple-knee-high-socks": {
+        "name": {
+            "name-USen": "simple knee-high socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "White",
+            "Red",
+            "Blue"
+        ],
+        "variation_images": [
+            "simple-knee-high-socks-pink.png",
+            "simple-knee-high-socks-white.png",
+            "simple-knee-high-socks-red.png",
+            "simple-knee-high-socks-blue.png"
+        ]
+    },
+    "soccer-socks": {
+        "name": {
+            "name-USen": "soccer socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 800,
+        "sell-price": 200,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Blue",
+            "Light blue",
+            "Green",
+            "Orange",
+            "Red",
+            "White"
+        ],
+        "variation_images": [
+            "soccer-socks-black.png",
+            "soccer-socks-blue.png",
+            "soccer-socks-light-blue.png",
+            "soccer-socks-green.png",
+            "soccer-socks-orange.png",
+            "soccer-socks-red.png",
+            "soccer-socks-white.png"
+        ]
+    },
+    "spider-web-tights": {
+        "name": {
+            "name-USen": "spider-web tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "White",
+            "Orange",
+            "Purple"
+        ],
+        "variation_images": [
+            "spider-web-tights-black.png",
+            "spider-web-tights-white.png",
+            "spider-web-tights-orange.png",
+            "spider-web-tights-purple.png"
+        ]
+    },
+    "stockings": {
+        "name": {
+            "name-USen": "stockings"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Gray",
+            "White",
+            "Brown",
+            "Beige"
+        ],
+        "variation_images": [
+            "stockings-black.png",
+            "stockings-gray.png",
+            "stockings-white.png",
+            "stockings-brown.png",
+            "stockings-beige.png"
+        ]
+    },
+    "stretch-leggings": {
+        "name": {
+            "name-USen": "stretch leggings"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 450,
+        "sell-price": 112,
+        "variant": true,
+        "variation_names": [
+            "Navy blue",
+            "Gray",
+            "Dark gray",
+            "White",
+            "Black",
+            "Brown",
+            "Green"
+        ],
+        "variation_images": [
+            "stretch-leggings-navy-blue.png",
+            "stretch-leggings-gray.png",
+            "stretch-leggings-dark-gray.png",
+            "stretch-leggings-white.png",
+            "stretch-leggings-black.png",
+            "stretch-leggings-brown.png",
+            "stretch-leggings-green.png"
+        ]
+    },
+    "striped-socks": {
+        "name": {
+            "name-USen": "striped socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Monotone",
+            "Light blue",
+            "Green",
+            "Yellow",
+            "Orange",
+            "Red",
+            "Purple",
+            "Blue"
+        ],
+        "variation_images": [
+            "striped-socks-monotone.png",
+            "striped-socks-light-blue.png",
+            "striped-socks-green.png",
+            "striped-socks-yellow.png",
+            "striped-socks-orange.png",
+            "striped-socks-red.png",
+            "striped-socks-purple.png",
+            "striped-socks-blue.png"
+        ]
+    },
+    "striped-tights": {
+        "name": {
+            "name-USen": "striped tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Gray",
+            "Pink",
+            "Light blue",
+            "Yellow",
+            "Purple",
+            "Green",
+            "Orange"
+        ],
+        "variation_images": [
+            "striped-tights-red.png",
+            "striped-tights-gray.png",
+            "striped-tights-pink.png",
+            "striped-tights-light-blue.png",
+            "striped-tights-yellow.png",
+            "striped-tights-purple.png",
+            "striped-tights-green.png",
+            "striped-tights-orange.png"
+        ]
+    },
+    "tabi": {
+        "name": {
+            "name-USen": "tabi"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1200,
+        "sell-price": 300,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black",
+            "Navy blue"
+        ],
+        "variation_images": [
+            "tabi-white.png",
+            "tabi-black.png",
+            "tabi-navy-blue.png"
+        ]
+    },
+    "terry-cloth-socks": {
+        "name": {
+            "name-USen": "terry-cloth socks"
+        },
+        "sources": [],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Purple",
+            "Blue",
+            "Green",
+            "Beige",
+            "Red",
+            "Gray"
+        ],
+        "variation_images": [
+            "terry-cloth-socks-pink.png",
+            "terry-cloth-socks-purple.png",
+            "terry-cloth-socks-blue.png",
+            "terry-cloth-socks-green.png",
+            "terry-cloth-socks-beige.png",
+            "terry-cloth-socks-red.png",
+            "terry-cloth-socks-gray.png"
+        ]
+    },
+    "tube-socks": {
+        "name": {
+            "name-USen": "tube socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Orange",
+            "Green",
+            "Red",
+            "Navy blue",
+            "Berry red",
+            "Dark green",
+            "Purple"
+        ],
+        "variation_images": [
+            "tube-socks-blue.png",
+            "tube-socks-orange.png",
+            "tube-socks-green.png",
+            "tube-socks-red.png",
+            "tube-socks-navy-blue.png",
+            "tube-socks-berry-red.png",
+            "tube-socks-dark-green.png",
+            "tube-socks-purple.png"
+        ]
+    },
+    "ultra-no-show-socks": {
+        "name": {
+            "name-USen": "ultra no-show socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Pink",
+            "Brown",
+            "Olive",
+            "Green",
+            "Purple",
+            "Black",
+            "White"
+        ],
+        "variation_images": [
+            "ultra-no-show-socks-blue.png",
+            "ultra-no-show-socks-pink.png",
+            "ultra-no-show-socks-brown.png",
+            "ultra-no-show-socks-olive.png",
+            "ultra-no-show-socks-green.png",
+            "ultra-no-show-socks-purple.png",
+            "ultra-no-show-socks-black.png",
+            "ultra-no-show-socks-white.png"
+        ]
+    },
+    "vivid-leggings": {
+        "name": {
+            "name-USen": "vivid leggings"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 450,
+        "sell-price": 112,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Pink",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Light blue",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "vivid-leggings-red.png",
+            "vivid-leggings-pink.png",
+            "vivid-leggings-orange.png",
+            "vivid-leggings-yellow.png",
+            "vivid-leggings-green.png",
+            "vivid-leggings-light-blue.png",
+            "vivid-leggings-blue.png",
+            "vivid-leggings-purple.png"
+        ]
+    },
+    "vivid-socks": {
+        "name": {
+            "name-USen": "vivid socks"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 480,
+        "sell-price": 120,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Pink",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Light blue",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "vivid-socks-red.png",
+            "vivid-socks-pink.png",
+            "vivid-socks-orange.png",
+            "vivid-socks-yellow.png",
+            "vivid-socks-green.png",
+            "vivid-socks-light-blue.png",
+            "vivid-socks-blue.png",
+            "vivid-socks-purple.png"
+        ]
+    },
+    "vivid-tights": {
+        "name": {
+            "name-USen": "vivid tights"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 720,
+        "sell-price": 180,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Pink",
+            "Orange",
+            "Yellow",
+            "Green",
+            "Light blue",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "vivid-tights-red.png",
+            "vivid-tights-pink.png",
+            "vivid-tights-orange.png",
+            "vivid-tights-yellow.png",
+            "vivid-tights-green.png",
+            "vivid-tights-light-blue.png",
+            "vivid-tights-blue.png",
+            "vivid-tights-purple.png"
+        ]
+    },
+    "wave-print-socks": {
+        "name": {
+            "name-USen": "wave-print socks"
+        },
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Purple",
+            "Blue",
+            "Brown",
+            "Gray"
+        ],
+        "variation_images": [
+            "wave-print-socks-green.png",
+            "wave-print-socks-purple.png",
+            "wave-print-socks-blue.png",
+            "wave-print-socks-brown.png",
+            "wave-print-socks-gray.png"
+        ]
+    }
 }

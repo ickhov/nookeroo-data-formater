@@ -1,2808 +1,1468 @@
 {
-    "3d-glasses": [
-        {
-            "variant": "White",
-            "image_uri": "3d-glasses-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "3d glasses"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        },
-        {
-            "variant": "Black",
-            "image_uri": "3d-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "3d glasses"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "bandage": [
-        {
-            "variant": null,
-            "image_uri": "bandage.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bandage"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        }
-    ],
-    "beak": [
-        {
-            "variant": null,
-            "image_uri": "beak.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "beak"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "birthday-shades": [
-        {
-            "variant": "Yellow",
-            "image_uri": "birthday-shades-yellow.png",
-            "sources": [
-                "Birthday"
-            ],
-            "name": {
-                "name-USen": "birthday shades"
-            },
-            "buy-price": 2480,
-            "sell-price": 620
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "birthday-shades-pink.png",
-            "sources": [
-                "Birthday"
-            ],
-            "name": {
-                "name-USen": "birthday shades"
-            },
-            "buy-price": 2480,
-            "sell-price": 620
-        },
-        {
-            "variant": "Red",
-            "image_uri": "birthday-shades-red.png",
-            "sources": [
-                "Birthday"
-            ],
-            "name": {
-                "name-USen": "birthday shades"
-            },
-            "buy-price": 2480,
-            "sell-price": 620
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "birthday-shades-blue.png",
-            "sources": [
-                "Birthday"
-            ],
-            "name": {
-                "name-USen": "birthday shades"
-            },
-            "buy-price": 2480,
-            "sell-price": 620
-        }
-    ],
-    "bottom-rimmed-glasses": [
-        {
-            "variant": "Black",
-            "image_uri": "bottom-rimmed-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Red",
-            "image_uri": "bottom-rimmed-glasses-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "bottom-rimmed-glasses-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "bottom-rimmed-glasses-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Green",
-            "image_uri": "bottom-rimmed-glasses-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "bottom-rimmed-glasses-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "bottom-rimmed-glasses-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bottom-rimmed glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "browline-glasses": [
-        {
-            "variant": "Black",
-            "image_uri": "browline-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "browline glasses"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "browline-glasses-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "browline glasses"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "browline-glasses-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "browline glasses"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Green",
-            "image_uri": "browline-glasses-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "browline glasses"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "bubblegum": [
-        {
-            "variant": "Pink",
-            "image_uri": "bubblegum-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bubblegum"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        },
-        {
-            "variant": "Green",
-            "image_uri": "bubblegum-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bubblegum"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "bubblegum-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bubblegum"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "bubblegum-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bubblegum"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        },
-        {
-            "variant": "White",
-            "image_uri": "bubblegum-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bubblegum"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        }
-    ],
-    "bunny-nose": [
-        {
-            "variant": "White",
-            "image_uri": "bunny-nose-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bunny nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "bunny-nose-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bunny nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "bunny-nose-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "bunny nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "butterfly-shades": [
-        {
-            "variant": "Blue",
-            "image_uri": "butterfly-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "butterfly shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "butterfly-shades-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "butterfly shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Red",
-            "image_uri": "butterfly-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "butterfly shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "candy-skull-mask": [
-        {
-            "variant": "Purple",
-            "image_uri": "candy-skull-mask-purple.png",
-            "sources": [
-                "Gulliver"
-            ],
-            "name": {
-                "name-USen": "candy-skull mask"
-            },
-            "buy-price": -1,
-            "sell-price": 800
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "candy-skull-mask-orange.png",
-            "sources": [
-                "Gulliver"
-            ],
-            "name": {
-                "name-USen": "candy-skull mask"
-            },
-            "buy-price": -1,
-            "sell-price": 800
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "candy-skull-mask-blue.png",
-            "sources": [
-                "Gulliver"
-            ],
-            "name": {
-                "name-USen": "candy-skull mask"
-            },
-            "buy-price": -1,
-            "sell-price": 800
-        }
-    ],
-    "cat-nose": [
-        {
-            "variant": "White",
-            "image_uri": "cat-nose-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cat nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Navy blue",
-            "image_uri": "cat-nose-navy-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cat nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "cat-nose-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cat nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "cucumber-pack": [
-        {
-            "variant": null,
-            "image_uri": "cucumber-pack.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cucumber pack"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "curly-mustache": [
-        {
-            "variant": null,
-            "image_uri": "curly-mustache.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "curly mustache"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        }
-    ],
-    "cyber-shades": [
-        {
-            "variant": "Red",
-            "image_uri": "cyber-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cyber shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "cyber-shades-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cyber shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Black",
-            "image_uri": "cyber-shades-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cyber shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Green",
-            "image_uri": "cyber-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cyber shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Silver",
-            "image_uri": "cyber-shades-silver.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cyber shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "cyber-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "cyber shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "dal-eye-mask": [
-        {
-            "variant": null,
-            "image_uri": "dal-eye-mask.png",
-            "sources": [
-                "Mail from Dodo Airlines"
-            ],
-            "name": {
-                "name-USen": "dal eye mask"
-            },
-            "buy-price": -1,
-            "sell-price": 1010
-        }
-    ],
-    "dal-sunglasses": [
-        {
-            "variant": null,
-            "image_uri": "dal-sunglasses.png",
-            "sources": [],
-            "name": {
-                "name-USen": "dal sunglasses"
-            },
-            "buy-price": -1,
-            "sell-price": 1010
-        }
-    ],
-    "doctor's-mask": [
-        {
-            "variant": null,
-            "image_uri": "doctor's-mask.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "doctor's mask"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        }
-    ],
-    "dog-nose": [
-        {
-            "variant": "Beige",
-            "image_uri": "dog-nose-beige.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dog nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "White",
-            "image_uri": "dog-nose-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dog nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Black",
-            "image_uri": "dog-nose-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "dog nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "double-bridge-glasses": [
-        {
-            "variant": "Gold",
-            "image_uri": "double-bridge-glasses-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "double-bridge glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Silver",
-            "image_uri": "double-bridge-glasses-silver.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "double-bridge glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "double-bridge-glasses-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "double-bridge glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "double-bridge-glasses-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "double-bridge glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "drinking-straw-glasses": [
-        {
-            "variant": "Green",
-            "image_uri": "drinking-straw-glasses-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "drinking-straw glasses"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "drinking-straw-glasses-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "drinking-straw glasses"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "White",
-            "image_uri": "drinking-straw-glasses-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "drinking-straw glasses"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "drinking-straw-glasses-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "drinking-straw glasses"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "eye-mask": [
-        {
-            "variant": "Gray",
-            "image_uri": "eye-mask-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Red",
-            "image_uri": "eye-mask-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "eye-mask-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "eye-mask-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Green",
-            "image_uri": "eye-mask-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "eye-mask-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "eye-patch": [
-        {
-            "variant": null,
-            "image_uri": "eye-patch.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "eye patch"
-            },
-            "buy-price": 140,
-            "sell-price": 35
-        }
-    ],
-    "facial-mask": [
-        {
-            "variant": null,
-            "image_uri": "facial-mask.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "facial mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "fake-nose": [
-        {
-            "variant": null,
-            "image_uri": "fake-nose.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "fake nose"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "flower-sunglasses": [
-        {
-            "variant": "Red",
-            "image_uri": "flower-sunglasses-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flower sunglasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "flower-sunglasses-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flower sunglasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        },
-        {
-            "variant": "Green",
-            "image_uri": "flower-sunglasses-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flower sunglasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "flower-sunglasses-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flower sunglasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "flower-sunglasses-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "flower sunglasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "food-mess": [
-        {
-            "variant": null,
-            "image_uri": "food-mess.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "food mess"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "funny-glasses": [
-        {
-            "variant": "Brown",
-            "image_uri": "funny-glasses-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "funny glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "funny-glasses-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "funny glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "funny-glasses-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "funny glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "gas-mask": [
-        {
-            "variant": "Black",
-            "image_uri": "gas-mask-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "gas mask"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Avocado",
-            "image_uri": "gas-mask-avocado.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "gas mask"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "glass-bottle-glasses": [
-        {
-            "variant": null,
-            "image_uri": "glass-bottle-glasses.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "glass-bottle glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "goatee": [
-        {
-            "variant": null,
-            "image_uri": "goatee.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goatee"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        }
-    ],
-    "goggles": [
-        {
-            "variant": "Red",
-            "image_uri": "goggles-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goggles"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Black",
-            "image_uri": "goggles-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goggles"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "goggles-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goggles"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Green",
-            "image_uri": "goggles-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goggles"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "goggles-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goggles"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "goggles-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "goggles"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "handlebar-mustache": [
-        {
-            "variant": null,
-            "image_uri": "handlebar-mustache.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "handlebar mustache"
-            },
-            "buy-price": 1120,
-            "sell-price": 280
-        }
-    ],
-    "heart-shades": [
-        {
-            "variant": "Pink",
-            "image_uri": "heart-shades-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "heart shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "heart-shades-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "heart shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "heart-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "heart shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Green",
-            "image_uri": "heart-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "heart shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "heart-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "heart shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "hmd": [
-        {
-            "variant": null,
-            "image_uri": "hmd.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "hmd"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        }
-    ],
-    "jester's-mask": [
-        {
-            "variant": "Black",
-            "image_uri": "jester's-mask-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "jester's mask"
-            },
-            "buy-price": 1760,
-            "sell-price": 440
-        },
-        {
-            "variant": "Red",
-            "image_uri": "jester's-mask-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "jester's mask"
-            },
-            "buy-price": 1760,
-            "sell-price": 440
-        },
-        {
-            "variant": "Green",
-            "image_uri": "jester's-mask-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "jester's mask"
-            },
-            "buy-price": 1760,
-            "sell-price": 440
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "jester's-mask-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "jester's mask"
-            },
-            "buy-price": 1760,
-            "sell-price": 440
-        }
-    ],
-    "labelle-sunglasses": [
-        {
-            "variant": "Twilight",
-            "image_uri": "labelle-sunglasses-twilight.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle sunglasses"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        },
-        {
-            "variant": "Ocean",
-            "image_uri": "labelle-sunglasses-ocean.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle sunglasses"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        },
-        {
-            "variant": "Sunset",
-            "image_uri": "labelle-sunglasses-sunset.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle sunglasses"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        },
-        {
-            "variant": "Passion",
-            "image_uri": "labelle-sunglasses-passion.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle sunglasses"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        },
-        {
-            "variant": "Love",
-            "image_uri": "labelle-sunglasses-love.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle sunglasses"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        },
-        {
-            "variant": "Midnight",
-            "image_uri": "labelle-sunglasses-midnight.png",
-            "sources": [
-                "Able SistersLabel"
-            ],
-            "name": {
-                "name-USen": "labelle sunglasses"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        }
-    ],
-    "ladder-shades": [
-        {
-            "variant": "Red",
-            "image_uri": "ladder-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ladder shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "ladder-shades-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ladder shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "ladder-shades-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ladder shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Green",
-            "image_uri": "ladder-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ladder shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "ladder-shades-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ladder shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "ladder-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ladder shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        }
-    ],
-    "leaf": [
-        {
-            "variant": null,
-            "image_uri": "leaf.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "leaf"
-            },
-            "buy-price": -1,
-            "sell-price": 100
-        }
-    ],
-    "masquerade-mask": [
-        {
-            "variant": "Black",
-            "image_uri": "masquerade-mask-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "masquerade mask"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        },
-        {
-            "variant": "Red",
-            "image_uri": "masquerade-mask-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "masquerade mask"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "masquerade-mask-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "masquerade mask"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "masquerade-mask-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "masquerade mask"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        },
-        {
-            "variant": "Green",
-            "image_uri": "masquerade-mask-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "masquerade mask"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "masquerade-mask-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "masquerade mask"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        }
-    ],
-    "monocle": [
-        {
-            "variant": "Black",
-            "image_uri": "monocle-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "monocle"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "monocle-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "monocle"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Silver",
-            "image_uri": "monocle-silver.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "monocle"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "night-vision-goggles": [
-        {
-            "variant": null,
-            "image_uri": "night-vision-goggles.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "night-vision goggles"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        }
-    ],
-    "nook-inc.-eye-mask": [
-        {
-            "variant": null,
-            "image_uri": "nook-inc.-eye-mask.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "nook inc. eye mask"
-            },
-            "buy-price": 400,
-            "sell-price": 2000
-        }
-    ],
-    "nose-drip": [
-        {
-            "variant": null,
-            "image_uri": "nose-drip.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "nose drip"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "octagonal-glasses": [
-        {
-            "variant": "Gray",
-            "image_uri": "octagonal-glasses-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "octagonal glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "octagonal-glasses-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "octagonal glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Green",
-            "image_uri": "octagonal-glasses-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "octagonal glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "octagonal-glasses-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "octagonal glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Black",
-            "image_uri": "octagonal-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "octagonal glasses"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "oval-glasses": [
-        {
-            "variant": "Green",
-            "image_uri": "oval-glasses-green.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "oval-glasses-purple.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "oval-glasses-blue.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Mustard",
-            "image_uri": "oval-glasses-mustard.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "oval-glasses-orange.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Magenta",
-            "image_uri": "oval-glasses-magenta.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Black",
-            "image_uri": "oval-glasses-black.png",
-            "sources": [
-                "Nook StopAble Sisters"
-            ],
-            "name": {
-                "name-USen": "oval glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        }
-    ],
-    "pacifier": [
-        {
-            "variant": "Baby mint",
-            "image_uri": "pacifier-baby-mint.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby gray",
-            "image_uri": "pacifier-baby-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby pink",
-            "image_uri": "pacifier-baby-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby yellow",
-            "image_uri": "pacifier-baby-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby orange",
-            "image_uri": "pacifier-baby-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby blue",
-            "image_uri": "pacifier-baby-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby green",
-            "image_uri": "pacifier-baby-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        },
-        {
-            "variant": "Baby purple",
-            "image_uri": "pacifier-baby-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pacifier"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "pig-nose": [
-        {
-            "variant": null,
-            "image_uri": "pig-nose.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pig nose"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "pilot-shades": [
-        {
-            "variant": "Black",
-            "image_uri": "pilot-shades-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pilot shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "pilot-shades-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pilot shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "pixel-shades": [
-        {
-            "variant": "Black",
-            "image_uri": "pixel-shades-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pixel shades"
-            },
-            "buy-price": 1320,
-            "sell-price": 330
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "pixel-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pixel shades"
-            },
-            "buy-price": 1320,
-            "sell-price": 330
-        },
-        {
-            "variant": "Green",
-            "image_uri": "pixel-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pixel shades"
-            },
-            "buy-price": 1320,
-            "sell-price": 330
-        },
-        {
-            "variant": "Red",
-            "image_uri": "pixel-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pixel shades"
-            },
-            "buy-price": 1320,
-            "sell-price": 330
-        }
-    ],
-    "pleather-mask": [
-        {
-            "variant": null,
-            "image_uri": "pleather-mask.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "pleather mask"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "post-op-patch": [
-        {
-            "variant": null,
-            "image_uri": "post-op-patch.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "post-op patch"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "privacy-mask": [
-        {
-            "variant": null,
-            "image_uri": "privacy-mask.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "privacy mask"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "reflector": [
-        {
-            "variant": null,
-            "image_uri": "reflector.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "reflector"
-            },
-            "buy-price": 560,
-            "sell-price": 140
-        }
-    ],
-    "retro-shades": [
-        {
-            "variant": "Yellow",
-            "image_uri": "retro-shades-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "retro shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "retro-shades-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "retro shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "retro-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "retro shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Green",
-            "image_uri": "retro-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "retro shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "retro-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "retro shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Red",
-            "image_uri": "retro-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "retro shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        }
-    ],
-    "rhinestone-shades": [
-        {
-            "variant": "Red",
-            "image_uri": "rhinestone-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rhinestone shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Ochre",
-            "image_uri": "rhinestone-shades-ochre.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rhinestone shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "rhinestone-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rhinestone shades"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "rimmed-glasses": [
-        {
-            "variant": "Black",
-            "image_uri": "rimmed-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rimmed glasses"
-            },
-            "buy-price": 630,
-            "sell-price": 157
-        },
-        {
-            "variant": "Gray",
-            "image_uri": "rimmed-glasses-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rimmed glasses"
-            },
-            "buy-price": 630,
-            "sell-price": 157
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "rimmed-glasses-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rimmed glasses"
-            },
-            "buy-price": 630,
-            "sell-price": 157
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "rimmed-glasses-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rimmed glasses"
-            },
-            "buy-price": 630,
-            "sell-price": 157
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "rimmed-glasses-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rimmed glasses"
-            },
-            "buy-price": 630,
-            "sell-price": 157
-        }
-    ],
-    "round-shades": [
-        {
-            "variant": "Black",
-            "image_uri": "round-shades-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Green",
-            "image_uri": "round-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "round-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Yellow",
-            "image_uri": "round-shades-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "round-shades-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Red",
-            "image_uri": "round-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "White",
-            "image_uri": "round-shades-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "round-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round shades"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        }
-    ],
-    "round-tinted-shades": [
-        {
-            "variant": "Brown",
-            "image_uri": "round-tinted-shades-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round tinted shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Dark brown",
-            "image_uri": "round-tinted-shades-dark-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round tinted shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Green",
-            "image_uri": "round-tinted-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round tinted shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Light brown",
-            "image_uri": "round-tinted-shades-light-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "round tinted shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        }
-    ],
-    "rounded-beard": [
-        {
-            "variant": null,
-            "image_uri": "rounded-beard.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "rounded beard"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        }
-    ],
-    "shattered-glasses": [
-        {
-            "variant": null,
-            "image_uri": "shattered-glasses.png",
-            "sources": [
-                "Recycle Box"
-            ],
-            "name": {
-                "name-USen": "shattered glasses"
-            },
-            "buy-price": 40,
-            "sell-price": 10
-        }
-    ],
-    "ski-goggles": [
-        {
-            "variant": "Yellow",
-            "image_uri": "ski-goggles-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ski goggles"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "ski-goggles-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ski goggles"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "ski-goggles-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ski goggles"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Green",
-            "image_uri": "ski-goggles-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ski goggles"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "ski-goggles-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ski goggles"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        },
-        {
-            "variant": "White",
-            "image_uri": "ski-goggles-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "ski goggles"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        }
-    ],
-    "sporty-shades": [
-        {
-            "variant": "Black",
-            "image_uri": "sporty-shades-black.png",
-            "sources": [
-                "Able Sisters Nook Stop"
-            ],
-            "name": {
-                "name-USen": "sporty shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "sporty-shades-pink.png",
-            "sources": [
-                "Able Sisters Nook Stop"
-            ],
-            "name": {
-                "name-USen": "sporty shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Lime",
-            "image_uri": "sporty-shades-lime.png",
-            "sources": [
-                "Able Sisters Nook Stop"
-            ],
-            "name": {
-                "name-USen": "sporty shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "sporty-shades-light-blue.png",
-            "sources": [
-                "Able Sisters Nook Stop"
-            ],
-            "name": {
-                "name-USen": "sporty shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "White",
-            "image_uri": "sporty-shades-white.png",
-            "sources": [
-                "Able Sisters Nook Stop"
-            ],
-            "name": {
-                "name-USen": "sporty shades"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "square-glasses": [
-        {
-            "variant": "Gray",
-            "image_uri": "square-glasses-gray.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "square glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Black",
-            "image_uri": "square-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "square glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "square-glasses-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "square glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "square-glasses-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "square glasses"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        }
-    ],
-    "stache-&-glasses": [
-        {
-            "variant": "Black",
-            "image_uri": "stache-&-glasses-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stache & glasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        },
-        {
-            "variant": "Red",
-            "image_uri": "stache-&-glasses-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "stache & glasses"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "star-shades": [
-        {
-            "variant": "Yellow",
-            "image_uri": "star-shades-yellow.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "star shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "star-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "star shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Green",
-            "image_uri": "star-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "star shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Pink",
-            "image_uri": "star-shades-pink.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "star shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "star-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "star shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        }
-    ],
-    "steampunk-glasses": [
-        {
-            "variant": "Green",
-            "image_uri": "steampunk-glasses-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "steampunk glasses"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "steampunk-glasses-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "steampunk glasses"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "sticky-rice": [
-        {
-            "variant": null,
-            "image_uri": "sticky-rice.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "sticky rice"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "superhero-mask": [
-        {
-            "variant": null,
-            "image_uri": "superhero-mask.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "superhero mask"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "tiny-shades": [
-        {
-            "variant": "Berry red",
-            "image_uri": "tiny-shades-berry-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tiny shades"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Gold",
-            "image_uri": "tiny-shades-gold.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tiny shades"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        },
-        {
-            "variant": "Black",
-            "image_uri": "tiny-shades-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "tiny shades"
-            },
-            "buy-price": 1100,
-            "sell-price": 275
-        }
-    ],
-    "tortoise-specs": [
-        {
-            "variant": "Black",
-            "image_uri": "tortoise-specs-black.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "tortoise specs"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "tortoise-specs-brown.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "tortoise specs"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Beige",
-            "image_uri": "tortoise-specs-beige.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "tortoise specs"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "triangle-shades": [
-        {
-            "variant": "Red",
-            "image_uri": "triangle-shades-red.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "White",
-            "image_uri": "triangle-shades-white.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Black",
-            "image_uri": "triangle-shades-black.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Orange",
-            "image_uri": "triangle-shades-orange.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Green",
-            "image_uri": "triangle-shades-green.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "triangle-shades-blue.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "triangle-shades-purple.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "triangle shades"
-            },
-            "buy-price": 880,
-            "sell-price": 220
-        }
-    ],
-    "wooden-frame-glasses": [
-        {
-            "variant": "Brown",
-            "image_uri": "wooden-frame-glasses-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "wooden-frame glasses"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        },
-        {
-            "variant": "Dark brown",
-            "image_uri": "wooden-frame-glasses-dark-brown.png",
-            "sources": [
-                "Able Sisters"
-            ],
-            "name": {
-                "name-USen": "wooden-frame glasses"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        }
-    ]
+    "3d-glasses": {
+        "name": {
+            "name-USen": "3d glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black"
+        ],
+        "variation_images": [
+            "3d-glasses-white.png",
+            "3d-glasses-black.png"
+        ]
+    },
+    "bandage": {
+        "name": {
+            "name-USen": "bandage"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 140,
+        "sell-price": 35,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "bandage.png"
+        ]
+    },
+    "beak": {
+        "name": {
+            "name-USen": "beak"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "beak.png"
+        ]
+    },
+    "birthday-shades": {
+        "name": {
+            "name-USen": "birthday shades"
+        },
+        "sources": [
+            "Birthday"
+        ],
+        "buy-price": 2480,
+        "sell-price": 620,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Pink",
+            "Red",
+            "Blue"
+        ],
+        "variation_images": [
+            "birthday-shades-yellow.png",
+            "birthday-shades-pink.png",
+            "birthday-shades-red.png",
+            "birthday-shades-blue.png"
+        ]
+    },
+    "bottom-rimmed-glasses": {
+        "name": {
+            "name-USen": "bottom-rimmed glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Red",
+            "Pink",
+            "Yellow",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "bottom-rimmed-glasses-black.png",
+            "bottom-rimmed-glasses-red.png",
+            "bottom-rimmed-glasses-pink.png",
+            "bottom-rimmed-glasses-yellow.png",
+            "bottom-rimmed-glasses-green.png",
+            "bottom-rimmed-glasses-blue.png",
+            "bottom-rimmed-glasses-purple.png"
+        ]
+    },
+    "browline-glasses": {
+        "name": {
+            "name-USen": "browline glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Gray",
+            "Brown",
+            "Green"
+        ],
+        "variation_images": [
+            "browline-glasses-black.png",
+            "browline-glasses-gray.png",
+            "browline-glasses-brown.png",
+            "browline-glasses-green.png"
+        ]
+    },
+    "bubblegum": {
+        "name": {
+            "name-USen": "bubblegum"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 140,
+        "sell-price": 35,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Green",
+            "Blue",
+            "Yellow",
+            "White"
+        ],
+        "variation_images": [
+            "bubblegum-pink.png",
+            "bubblegum-green.png",
+            "bubblegum-blue.png",
+            "bubblegum-yellow.png",
+            "bubblegum-white.png"
+        ]
+    },
+    "bunny-nose": {
+        "name": {
+            "name-USen": "bunny nose"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Pink",
+            "Yellow"
+        ],
+        "variation_images": [
+            "bunny-nose-white.png",
+            "bunny-nose-pink.png",
+            "bunny-nose-yellow.png"
+        ]
+    },
+    "butterfly-shades": {
+        "name": {
+            "name-USen": "butterfly shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Brown",
+            "Red"
+        ],
+        "variation_images": [
+            "butterfly-shades-blue.png",
+            "butterfly-shades-brown.png",
+            "butterfly-shades-red.png"
+        ]
+    },
+    "candy-skull-mask": {
+        "name": {
+            "name-USen": "candy-skull mask"
+        },
+        "sources": [
+            "Gulliver"
+        ],
+        "buy-price": -1,
+        "sell-price": 800,
+        "variant": true,
+        "variation_names": [
+            "Purple",
+            "Orange",
+            "Blue"
+        ],
+        "variation_images": [
+            "candy-skull-mask-purple.png",
+            "candy-skull-mask-orange.png",
+            "candy-skull-mask-blue.png"
+        ]
+    },
+    "cat-nose": {
+        "name": {
+            "name-USen": "cat nose"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Navy blue",
+            "Brown"
+        ],
+        "variation_images": [
+            "cat-nose-white.png",
+            "cat-nose-navy-blue.png",
+            "cat-nose-brown.png"
+        ]
+    },
+    "cucumber-pack": {
+        "name": {
+            "name-USen": "cucumber pack"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "cucumber-pack.png"
+        ]
+    },
+    "curly-mustache": {
+        "name": {
+            "name-USen": "curly mustache"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 700,
+        "sell-price": 175,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "curly-mustache.png"
+        ]
+    },
+    "cyber-shades": {
+        "name": {
+            "name-USen": "cyber shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Yellow",
+            "Black",
+            "Green",
+            "Silver",
+            "Purple"
+        ],
+        "variation_images": [
+            "cyber-shades-red.png",
+            "cyber-shades-yellow.png",
+            "cyber-shades-black.png",
+            "cyber-shades-green.png",
+            "cyber-shades-silver.png",
+            "cyber-shades-purple.png"
+        ]
+    },
+    "dal-eye-mask": {
+        "name": {
+            "name-USen": "dal eye mask"
+        },
+        "sources": [
+            "Mail from Dodo Airlines"
+        ],
+        "buy-price": -1,
+        "sell-price": 1010,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "dal-eye-mask.png"
+        ]
+    },
+    "dal-sunglasses": {
+        "name": {
+            "name-USen": "dal sunglasses"
+        },
+        "sources": [],
+        "buy-price": -1,
+        "sell-price": 1010,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "dal-sunglasses.png"
+        ]
+    },
+    "doctor's-mask": {
+        "name": {
+            "name-USen": "doctor's mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 140,
+        "sell-price": 35,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "doctor's-mask.png"
+        ]
+    },
+    "dog-nose": {
+        "name": {
+            "name-USen": "dog nose"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "Beige",
+            "White",
+            "Black"
+        ],
+        "variation_images": [
+            "dog-nose-beige.png",
+            "dog-nose-white.png",
+            "dog-nose-black.png"
+        ]
+    },
+    "double-bridge-glasses": {
+        "name": {
+            "name-USen": "double-bridge glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Gold",
+            "Silver",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "double-bridge-glasses-gold.png",
+            "double-bridge-glasses-silver.png",
+            "double-bridge-glasses-blue.png",
+            "double-bridge-glasses-purple.png"
+        ]
+    },
+    "drinking-straw-glasses": {
+        "name": {
+            "name-USen": "drinking-straw glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Pink",
+            "White",
+            "Blue"
+        ],
+        "variation_images": [
+            "drinking-straw-glasses-green.png",
+            "drinking-straw-glasses-pink.png",
+            "drinking-straw-glasses-white.png",
+            "drinking-straw-glasses-blue.png"
+        ]
+    },
+    "eye-mask": {
+        "name": {
+            "name-USen": "eye mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "Gray",
+            "Red",
+            "Pink",
+            "Orange",
+            "Green",
+            "Blue"
+        ],
+        "variation_images": [
+            "eye-mask-gray.png",
+            "eye-mask-red.png",
+            "eye-mask-pink.png",
+            "eye-mask-orange.png",
+            "eye-mask-green.png",
+            "eye-mask-blue.png"
+        ]
+    },
+    "eye-patch": {
+        "name": {
+            "name-USen": "eye patch"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 140,
+        "sell-price": 35,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "eye-patch.png"
+        ]
+    },
+    "facial-mask": {
+        "name": {
+            "name-USen": "facial mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "facial-mask.png"
+        ]
+    },
+    "fake-nose": {
+        "name": {
+            "name-USen": "fake nose"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "fake-nose.png"
+        ]
+    },
+    "flower-sunglasses": {
+        "name": {
+            "name-USen": "flower sunglasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Orange",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "flower-sunglasses-red.png",
+            "flower-sunglasses-orange.png",
+            "flower-sunglasses-green.png",
+            "flower-sunglasses-blue.png",
+            "flower-sunglasses-purple.png"
+        ]
+    },
+    "food-mess": {
+        "name": {
+            "name-USen": "food mess"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "food-mess.png"
+        ]
+    },
+    "funny-glasses": {
+        "name": {
+            "name-USen": "funny glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Brown",
+            "Blue",
+            "Pink"
+        ],
+        "variation_images": [
+            "funny-glasses-brown.png",
+            "funny-glasses-blue.png",
+            "funny-glasses-pink.png"
+        ]
+    },
+    "gas-mask": {
+        "name": {
+            "name-USen": "gas mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Avocado"
+        ],
+        "variation_images": [
+            "gas-mask-black.png",
+            "gas-mask-avocado.png"
+        ]
+    },
+    "glass-bottle-glasses": {
+        "name": {
+            "name-USen": "glass-bottle glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "glass-bottle-glasses.png"
+        ]
+    },
+    "goatee": {
+        "name": {
+            "name-USen": "goatee"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 980,
+        "sell-price": 245,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "goatee.png"
+        ]
+    },
+    "goggles": {
+        "name": {
+            "name-USen": "goggles"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Black",
+            "Blue",
+            "Green",
+            "Pink",
+            "Purple"
+        ],
+        "variation_images": [
+            "goggles-red.png",
+            "goggles-black.png",
+            "goggles-blue.png",
+            "goggles-green.png",
+            "goggles-pink.png",
+            "goggles-purple.png"
+        ]
+    },
+    "handlebar-mustache": {
+        "name": {
+            "name-USen": "handlebar mustache"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1120,
+        "sell-price": 280,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "handlebar-mustache.png"
+        ]
+    },
+    "heart-shades": {
+        "name": {
+            "name-USen": "heart shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Yellow",
+            "Purple",
+            "Green",
+            "Blue"
+        ],
+        "variation_images": [
+            "heart-shades-pink.png",
+            "heart-shades-yellow.png",
+            "heart-shades-purple.png",
+            "heart-shades-green.png",
+            "heart-shades-blue.png"
+        ]
+    },
+    "hmd": {
+        "name": {
+            "name-USen": "hmd"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "hmd.png"
+        ]
+    },
+    "jester's-mask": {
+        "name": {
+            "name-USen": "jester's mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1760,
+        "sell-price": 440,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Red",
+            "Green",
+            "Blue"
+        ],
+        "variation_images": [
+            "jester's-mask-black.png",
+            "jester's-mask-red.png",
+            "jester's-mask-green.png",
+            "jester's-mask-blue.png"
+        ]
+    },
+    "labelle-sunglasses": {
+        "name": {
+            "name-USen": "labelle sunglasses"
+        },
+        "sources": [
+            "Able SistersLabel"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "variant": true,
+        "variation_names": [
+            "Twilight",
+            "Ocean",
+            "Sunset",
+            "Passion",
+            "Love",
+            "Midnight"
+        ],
+        "variation_images": [
+            "labelle-sunglasses-twilight.png",
+            "labelle-sunglasses-ocean.png",
+            "labelle-sunglasses-sunset.png",
+            "labelle-sunglasses-passion.png",
+            "labelle-sunglasses-love.png",
+            "labelle-sunglasses-midnight.png"
+        ]
+    },
+    "ladder-shades": {
+        "name": {
+            "name-USen": "ladder shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 880,
+        "sell-price": 220,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Yellow",
+            "Pink",
+            "Green",
+            "Gold",
+            "Blue"
+        ],
+        "variation_images": [
+            "ladder-shades-red.png",
+            "ladder-shades-yellow.png",
+            "ladder-shades-pink.png",
+            "ladder-shades-green.png",
+            "ladder-shades-gold.png",
+            "ladder-shades-blue.png"
+        ]
+    },
+    "leaf": {
+        "name": {
+            "name-USen": "leaf"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 100,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "leaf.png"
+        ]
+    },
+    "masquerade-mask": {
+        "name": {
+            "name-USen": "masquerade mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 910,
+        "sell-price": 227,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Red",
+            "Purple",
+            "Gold",
+            "Green",
+            "Blue"
+        ],
+        "variation_images": [
+            "masquerade-mask-black.png",
+            "masquerade-mask-red.png",
+            "masquerade-mask-purple.png",
+            "masquerade-mask-gold.png",
+            "masquerade-mask-green.png",
+            "masquerade-mask-blue.png"
+        ]
+    },
+    "monocle": {
+        "name": {
+            "name-USen": "monocle"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Gold",
+            "Silver"
+        ],
+        "variation_images": [
+            "monocle-black.png",
+            "monocle-gold.png",
+            "monocle-silver.png"
+        ]
+    },
+    "night-vision-goggles": {
+        "name": {
+            "name-USen": "night-vision goggles"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "night-vision-goggles.png"
+        ]
+    },
+    "nook-inc.-eye-mask": {
+        "name": {
+            "name-USen": "nook inc. eye mask"
+        },
+        "sources": [
+            "Nook Stop"
+        ],
+        "buy-price": 400,
+        "sell-price": 2000,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "nook-inc.-eye-mask.png"
+        ]
+    },
+    "nose-drip": {
+        "name": {
+            "name-USen": "nose drip"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "nose-drip.png"
+        ]
+    },
+    "octagonal-glasses": {
+        "name": {
+            "name-USen": "octagonal glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Gray",
+            "Purple",
+            "Green",
+            "Gold",
+            "Black"
+        ],
+        "variation_images": [
+            "octagonal-glasses-gray.png",
+            "octagonal-glasses-purple.png",
+            "octagonal-glasses-green.png",
+            "octagonal-glasses-gold.png",
+            "octagonal-glasses-black.png"
+        ]
+    },
+    "oval-glasses": {
+        "name": {
+            "name-USen": "oval glasses"
+        },
+        "sources": [
+            "Nook StopAble Sisters"
+        ],
+        "buy-price": 880,
+        "sell-price": 220,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Purple",
+            "Blue",
+            "Mustard",
+            "Orange",
+            "Magenta",
+            "Black"
+        ],
+        "variation_images": [
+            "oval-glasses-green.png",
+            "oval-glasses-purple.png",
+            "oval-glasses-blue.png",
+            "oval-glasses-mustard.png",
+            "oval-glasses-orange.png",
+            "oval-glasses-magenta.png",
+            "oval-glasses-black.png"
+        ]
+    },
+    "pacifier": {
+        "name": {
+            "name-USen": "pacifier"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": true,
+        "variation_names": [
+            "Baby mint",
+            "Baby gray",
+            "Baby pink",
+            "Baby yellow",
+            "Baby orange",
+            "Baby blue",
+            "Baby green",
+            "Baby purple"
+        ],
+        "variation_images": [
+            "pacifier-baby-mint.png",
+            "pacifier-baby-gray.png",
+            "pacifier-baby-pink.png",
+            "pacifier-baby-yellow.png",
+            "pacifier-baby-orange.png",
+            "pacifier-baby-blue.png",
+            "pacifier-baby-green.png",
+            "pacifier-baby-purple.png"
+        ]
+    },
+    "pig-nose": {
+        "name": {
+            "name-USen": "pig nose"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "pig-nose.png"
+        ]
+    },
+    "pilot-shades": {
+        "name": {
+            "name-USen": "pilot shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Gold"
+        ],
+        "variation_images": [
+            "pilot-shades-black.png",
+            "pilot-shades-gold.png"
+        ]
+    },
+    "pixel-shades": {
+        "name": {
+            "name-USen": "pixel shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1320,
+        "sell-price": 330,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "variation_images": [
+            "pixel-shades-black.png",
+            "pixel-shades-blue.png",
+            "pixel-shades-green.png",
+            "pixel-shades-red.png"
+        ]
+    },
+    "pleather-mask": {
+        "name": {
+            "name-USen": "pleather mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "pleather-mask.png"
+        ]
+    },
+    "post-op-patch": {
+        "name": {
+            "name-USen": "post-op patch"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "post-op-patch.png"
+        ]
+    },
+    "privacy-mask": {
+        "name": {
+            "name-USen": "privacy mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "privacy-mask.png"
+        ]
+    },
+    "reflector": {
+        "name": {
+            "name-USen": "reflector"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 560,
+        "sell-price": 140,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "reflector.png"
+        ]
+    },
+    "retro-shades": {
+        "name": {
+            "name-USen": "retro shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Gray",
+            "Blue",
+            "Green",
+            "Purple",
+            "Red"
+        ],
+        "variation_images": [
+            "retro-shades-yellow.png",
+            "retro-shades-gray.png",
+            "retro-shades-blue.png",
+            "retro-shades-green.png",
+            "retro-shades-purple.png",
+            "retro-shades-red.png"
+        ]
+    },
+    "rhinestone-shades": {
+        "name": {
+            "name-USen": "rhinestone shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Ochre",
+            "Purple"
+        ],
+        "variation_images": [
+            "rhinestone-shades-red.png",
+            "rhinestone-shades-ochre.png",
+            "rhinestone-shades-purple.png"
+        ]
+    },
+    "rimmed-glasses": {
+        "name": {
+            "name-USen": "rimmed glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 630,
+        "sell-price": 157,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Gray",
+            "Brown",
+            "Gold",
+            "Purple"
+        ],
+        "variation_images": [
+            "rimmed-glasses-black.png",
+            "rimmed-glasses-gray.png",
+            "rimmed-glasses-brown.png",
+            "rimmed-glasses-gold.png",
+            "rimmed-glasses-purple.png"
+        ]
+    },
+    "round-shades": {
+        "name": {
+            "name-USen": "round shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Green",
+            "Blue",
+            "Yellow",
+            "Pink",
+            "Red",
+            "White",
+            "Purple"
+        ],
+        "variation_images": [
+            "round-shades-black.png",
+            "round-shades-green.png",
+            "round-shades-blue.png",
+            "round-shades-yellow.png",
+            "round-shades-pink.png",
+            "round-shades-red.png",
+            "round-shades-white.png",
+            "round-shades-purple.png"
+        ]
+    },
+    "round-tinted-shades": {
+        "name": {
+            "name-USen": "round tinted shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 880,
+        "sell-price": 220,
+        "variant": true,
+        "variation_names": [
+            "Brown",
+            "Dark brown",
+            "Green",
+            "Light brown"
+        ],
+        "variation_images": [
+            "round-tinted-shades-brown.png",
+            "round-tinted-shades-dark-brown.png",
+            "round-tinted-shades-green.png",
+            "round-tinted-shades-light-brown.png"
+        ]
+    },
+    "rounded-beard": {
+        "name": {
+            "name-USen": "rounded beard"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 980,
+        "sell-price": 245,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "rounded-beard.png"
+        ]
+    },
+    "shattered-glasses": {
+        "name": {
+            "name-USen": "shattered glasses"
+        },
+        "sources": [
+            "Recycle Box"
+        ],
+        "buy-price": 40,
+        "sell-price": 10,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "shattered-glasses.png"
+        ]
+    },
+    "ski-goggles": {
+        "name": {
+            "name-USen": "ski goggles"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 980,
+        "sell-price": 245,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Purple",
+            "Pink",
+            "Green",
+            "Orange",
+            "White"
+        ],
+        "variation_images": [
+            "ski-goggles-yellow.png",
+            "ski-goggles-purple.png",
+            "ski-goggles-pink.png",
+            "ski-goggles-green.png",
+            "ski-goggles-orange.png",
+            "ski-goggles-white.png"
+        ]
+    },
+    "sporty-shades": {
+        "name": {
+            "name-USen": "sporty shades"
+        },
+        "sources": [
+            "Able Sisters Nook Stop"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Pink",
+            "Lime",
+            "Light blue",
+            "White"
+        ],
+        "variation_images": [
+            "sporty-shades-black.png",
+            "sporty-shades-pink.png",
+            "sporty-shades-lime.png",
+            "sporty-shades-light-blue.png",
+            "sporty-shades-white.png"
+        ]
+    },
+    "square-glasses": {
+        "name": {
+            "name-USen": "square glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 880,
+        "sell-price": 220,
+        "variant": true,
+        "variation_names": [
+            "Gray",
+            "Black",
+            "Blue",
+            "Brown"
+        ],
+        "variation_images": [
+            "square-glasses-gray.png",
+            "square-glasses-black.png",
+            "square-glasses-blue.png",
+            "square-glasses-brown.png"
+        ]
+    },
+    "stache-&-glasses": {
+        "name": {
+            "name-USen": "stache & glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Red"
+        ],
+        "variation_images": [
+            "stache-&-glasses-black.png",
+            "stache-&-glasses-red.png"
+        ]
+    },
+    "star-shades": {
+        "name": {
+            "name-USen": "star shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 880,
+        "sell-price": 220,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Blue",
+            "Green",
+            "Pink",
+            "Purple"
+        ],
+        "variation_images": [
+            "star-shades-yellow.png",
+            "star-shades-blue.png",
+            "star-shades-green.png",
+            "star-shades-pink.png",
+            "star-shades-purple.png"
+        ]
+    },
+    "steampunk-glasses": {
+        "name": {
+            "name-USen": "steampunk glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Purple"
+        ],
+        "variation_images": [
+            "steampunk-glasses-green.png",
+            "steampunk-glasses-purple.png"
+        ]
+    },
+    "sticky-rice": {
+        "name": {
+            "name-USen": "sticky rice"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "sticky-rice.png"
+        ]
+    },
+    "superhero-mask": {
+        "name": {
+            "name-USen": "superhero mask"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "superhero-mask.png"
+        ]
+    },
+    "tiny-shades": {
+        "name": {
+            "name-USen": "tiny shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "variant": true,
+        "variation_names": [
+            "Berry red",
+            "Gold",
+            "Black"
+        ],
+        "variation_images": [
+            "tiny-shades-berry-red.png",
+            "tiny-shades-gold.png",
+            "tiny-shades-black.png"
+        ]
+    },
+    "tortoise-specs": {
+        "name": {
+            "name-USen": "tortoise specs"
+        },
+        "sources": [
+            "Nook Stop"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Brown",
+            "Beige"
+        ],
+        "variation_images": [
+            "tortoise-specs-black.png",
+            "tortoise-specs-brown.png",
+            "tortoise-specs-beige.png"
+        ]
+    },
+    "triangle-shades": {
+        "name": {
+            "name-USen": "triangle shades"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 880,
+        "sell-price": 220,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "White",
+            "Black",
+            "Orange",
+            "Green",
+            "Blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "triangle-shades-red.png",
+            "triangle-shades-white.png",
+            "triangle-shades-black.png",
+            "triangle-shades-orange.png",
+            "triangle-shades-green.png",
+            "triangle-shades-blue.png",
+            "triangle-shades-purple.png"
+        ]
+    },
+    "wooden-frame-glasses": {
+        "name": {
+            "name-USen": "wooden-frame glasses"
+        },
+        "sources": [
+            "Able Sisters"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "variant": true,
+        "variation_names": [
+            "Brown",
+            "Dark brown"
+        ],
+        "variation_images": [
+            "wooden-frame-glasses-brown.png",
+            "wooden-frame-glasses-dark-brown.png"
+        ]
+    }
 }

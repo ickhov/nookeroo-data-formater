@@ -85,12 +85,14 @@ def main():
             cross_reference_data = cross_reference["games"]["nh"] if not error else {}
 
             new_key = key.lower().replace(" ", "-")
-            new_value = []
 
             image_links = value["variationImageLinks"] if "variationImageLinks" in value else None
+
             buy_price = cross_reference_data["buyPrices"][0]["value"] if "buyPrices" in cross_reference_data else value["priceBuy"]
             sell_price = cross_reference_data["sellPrice"]["value"] if "sellPrice" in cross_reference_data else value["priceSell"]
             sources = []
+            variation_names = []
+            variation_images = []
 
             # get list of source name
             for source in value["source"]:
@@ -110,57 +112,50 @@ def main():
             
             if "variations" in value:
                 for index, item in enumerate(value["variations"]):
-                    variant = {}
                     # set image name and dir to save in
                     image_name = new_key + "-" + item.lower().replace(",", "").replace(" ", "-") + ".png"
 
-                    # download images from the web
-                    if not os.path.exists(clothing_category_image_dir):
-                        os.makedirs(clothing_category_image_dir)
-                    try:
-                        urllib.request.urlretrieve(image_links[index], clothing_category_image_dir + image_name)
-                    except HTTPError as err:
-                        print(image_links[index])
-                    except IndexError as err:
-                        print(new_key)
+                    # # download images from the web
+                    # if not os.path.exists(clothing_category_image_dir):
+                    #     os.makedirs(clothing_category_image_dir)
+                    # try:
+                    #     urllib.request.urlretrieve(image_links[index], clothing_category_image_dir + image_name)
+                    # except HTTPError as err:
+                    #     print(image_links[index])
+                    # except IndexError as err:
+                    #     print(new_key)
                         
-                    # set the variant name and image name in the new dictionary
-                    variant["variant"] = item
-                    variant["image_uri"] = image_name
-                    variant["sources"] = sources
-                    variant["name"] = {
-                            "name-USen": key.lower(),
-                        }
-                    variant["buy-price"] = buy_price
-                    variant["sell-price"] = sell_price
-                    new_value.append(variant)
+                    # add the variant name and image name to the list
+                    variation_names.append(item)
+                    variation_images.append(image_name)
 
-            if len(new_value) == 0:
-                variant = {}
+            if len(variation_names) == 0:
                 image_name = new_key + ".png"
 
-                # download images from the web
-                if not os.path.exists(clothing_category_image_dir):
-                    os.makedirs(clothing_category_image_dir)
+                # # download images from the web
+                # if not os.path.exists(clothing_category_image_dir):
+                #     os.makedirs(clothing_category_image_dir)
                 
-                try:
-                    urllib.request.urlretrieve(value["imageLink"], clothing_category_image_dir + image_name)
-                except HTTPError as err:
-                    print(image_links[index])
-                except IndexError as err:
-                    print(new_key)
+                # try:
+                #     urllib.request.urlretrieve(value["imageLink"], clothing_category_image_dir + image_name)
+                # except HTTPError as err:
+                #     print(image_links[index])
+                # except IndexError as err:
+                #     print(new_key)
 
-                variant["variant"] = None
-                variant["image_uri"] = image_name
-                variant["sources"] = sources
-                variant["name"] = {
-                        "name-USen": key.lower(),
-                    }
-                variant["buy-price"] = buy_price
-                variant["sell-price"] = sell_price
-                new_value.append(variant)
+                variation_images.append(image_name)
 
-            clothing_category[new_key] = new_value
+            clothing_category[new_key] = {
+                "name": {
+                    "name-USen": key.lower()
+                },
+                "sources": sources,
+                "buy-price": buy_price,
+                "sell-price": sell_price,
+                "variant": len(variation_names) > 0,
+                "variation_names": variation_names,
+                "variation_images": variation_images
+            }
 
         if not os.path.exists(clothing_json_dir):
             os.makedirs(clothing_json_dir)

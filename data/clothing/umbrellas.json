@@ -1,940 +1,1007 @@
 {
-    "apple-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "apple-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "apple umbrella"
-            },
-            "buy-price": 5600,
-            "sell-price": 1400
-        }
-    ],
-    "bat-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "bat-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "bat umbrella"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "beach-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "beach-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "beach umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "bear-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "bear-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "bear umbrella"
-            },
-            "buy-price": 1570,
-            "sell-price": 392
-        }
-    ],
-    "black-chic-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "black-chic-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "black chic umbrella"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "black-lace-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "black-lace-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "black lace umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "blue-dot-parasol": [
-        {
-            "variant": null,
-            "image_uri": "blue-dot-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "blue dot parasol"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "blue-shiny-bows-parasol": [
-        {
-            "variant": null,
-            "image_uri": "blue-shiny-bows-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "blue shiny-bows parasol"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "blue-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "blue-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "blue umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "busted-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "busted-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "busted umbrella"
-            },
-            "buy-price": 1570,
-            "sell-price": 392
-        }
-    ],
-    "camo-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "camo-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "camo umbrella"
-            },
-            "buy-price": 650,
-            "sell-price": 162
-        }
-    ],
-    "candy-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "candy-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "candy umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "cherry-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "cherry-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "cherry umbrella"
-            },
-            "buy-price": 5600,
-            "sell-price": 1400
-        }
-    ],
-    "cherry-blossom-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "cherry-blossom-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "cherry-blossom umbrella"
-            },
-            "buy-price": -1,
-            "sell-price": 2800
-        }
-    ],
-    "dal-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "dal-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "dal umbrella"
-            },
-            "buy-price": 4040,
-            "sell-price": 1010
-        }
-    ],
-    "eggy-parasol": [
-        {
-            "variant": null,
-            "image_uri": "eggy-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "eggy parasol"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "exquisite-parasol": [
-        {
-            "variant": null,
-            "image_uri": "exquisite-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "exquisite parasol"
-            },
-            "buy-price": 1670,
-            "sell-price": 417
-        }
-    ],
-    "fairy-tale-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "fairy-tale-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "fairy-tale umbrella"
-            },
-            "buy-price": 820,
-            "sell-price": 205
-        }
-    ],
-    "fish-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "fish-umbrella.png",
-            "sources": [
-                "Fishing Tourney reward from C.J."
-            ],
-            "name": {
-                "name-USen": "fish umbrella"
-            },
-            "buy-price": 320,
-            "sell-price": 80
-        }
-    ],
-    "frog-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "frog-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "frog umbrella"
-            },
-            "buy-price": 1570,
-            "sell-price": 392
-        }
-    ],
-    "gelato-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "gelato-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "gelato umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "ghost-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "ghost-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "ghost umbrella"
-            },
-            "buy-price": 1670,
-            "sell-price": 417
-        }
-    ],
-    "grape-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "grape-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "grape umbrella"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "green-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "green-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "green umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "green-chic-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "green-chic-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "green chic umbrella"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "hydrangea-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "hydrangea-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "hydrangea umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "kabuki-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "kabuki-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "kabuki umbrella"
-            },
-            "buy-price": 1670,
-            "sell-price": 417
-        }
-    ],
-    "kiwi-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "kiwi-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "kiwi umbrella"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "lacy-parasol": [
-        {
-            "variant": null,
-            "image_uri": "lacy-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "lacy parasol"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "ladybug-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "ladybug-umbrella.png",
-            "sources": [
-                "Bug-off reward"
-            ],
-            "name": {
-                "name-USen": "ladybug umbrella"
-            },
-            "buy-price": 320,
-            "sell-price": 80
-        }
-    ],
-    "leaf-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "leaf-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "leaf umbrella"
-            },
-            "buy-price": -1,
-            "sell-price": 300
-        }
-    ],
-    "lemon-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "lemon-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "lemon umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "logo-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "logo-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "logo umbrella"
-            },
-            "buy-price": 650,
-            "sell-price": 162
-        }
-    ],
-    "maple-leaf-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "maple-leaf-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "maple-leaf umbrella"
-            },
-            "buy-price": 11200,
-            "sell-price": 2800
-        }
-    ],
-    "melon-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "melon-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "melon umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "mini-flower-print-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "mini-flower-print-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "mini-flower-print umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "mint-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "mint-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "mint umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "mush-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "mush-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "mush umbrella"
-            },
-            "buy-price": 4800,
-            "sell-price": 1200
-        }
-    ],
-    "nook-inc.-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "nook-inc.-umbrella.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "nook inc. umbrella"
-            },
-            "buy-price": 700,
-            "sell-price": 3500
-        }
-    ],
-    "orange-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "orange-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "orange umbrella"
-            },
-            "buy-price": 5600,
-            "sell-price": 1400
-        }
-    ],
-    "panda-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "panda-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "panda umbrella"
-            },
-            "buy-price": 1570,
-            "sell-price": 392
-        }
-    ],
-    "paper-parasol": [
-        {
-            "variant": null,
-            "image_uri": "paper-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "paper parasol"
-            },
-            "buy-price": 870,
-            "sell-price": 217
-        }
-    ],
-    "patterned-vinyl-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "patterned-vinyl-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "patterned vinyl umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "peach-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "peach-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "peach umbrella"
-            },
-            "buy-price": -1,
-            "sell-price": 1400
-        }
-    ],
-    "pear-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "pear-umbrella.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "pear umbrella"
-            },
-            "buy-price": -1,
-            "sell-price": 1400
-        }
-    ],
-    "petal-parasol": [
-        {
-            "variant": null,
-            "image_uri": "petal-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "petal parasol"
-            },
-            "buy-price": 1590,
-            "sell-price": 397
-        }
-    ],
-    "picnic-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "picnic-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "picnic umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "pineapple-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "pineapple-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "pineapple umbrella"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "pink-shiny-bows-parasol": [
-        {
-            "variant": null,
-            "image_uri": "pink-shiny-bows-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "pink shiny-bows parasol"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "pink-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "pink-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "pink umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "purple-chic-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "purple-chic-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "purple chic umbrella"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "purple-shiny-bows-parasol": [
-        {
-            "variant": null,
-            "image_uri": "purple-shiny-bows-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "purple shiny-bows parasol"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "rainbow-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "rainbow-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "rainbow umbrella"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "raindrop-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "raindrop-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "raindrop umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "red-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "red-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "red umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "red-chic-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "red-chic-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "red chic umbrella"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ],
-    "snowflake-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "snowflake-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "snowflake umbrella"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "spider-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "spider-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "spider umbrella"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "strawberry-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "strawberry-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "strawberry umbrella"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "striped-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "striped-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "striped umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "sunny-parasol": [
-        {
-            "variant": null,
-            "image_uri": "sunny-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "sunny parasol"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "tartan-check-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "tartan-check-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "tartan-check umbrella"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "toad-parasol": [
-        {
-            "variant": null,
-            "image_uri": "toad-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "toad parasol"
-            },
-            "buy-price": 750,
-            "sell-price": 187
-        }
-    ],
-    "two-tone-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "two-tone-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "two-tone umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "vinyl-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "vinyl-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "vinyl umbrella"
-            },
-            "buy-price": 770,
-            "sell-price": 192
-        }
-    ],
-    "watermelon-umbrella": [
-        {
-            "variant": null,
-            "image_uri": "watermelon-umbrella.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "watermelon umbrella"
-            },
-            "buy-price": 1550,
-            "sell-price": 387
-        }
-    ],
-    "white-shiny-bows-parasol": [
-        {
-            "variant": null,
-            "image_uri": "white-shiny-bows-parasol.png",
-            "sources": [
-                "Nook's Cranny"
-            ],
-            "name": {
-                "name-USen": "white shiny-bows parasol"
-            },
-            "buy-price": 1620,
-            "sell-price": 405
-        }
-    ]
+    "apple-umbrella": {
+        "name": {
+            "name-USen": "apple umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 5600,
+        "sell-price": 1400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "apple-umbrella.png"
+        ]
+    },
+    "bat-umbrella": {
+        "name": {
+            "name-USen": "bat umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "bat-umbrella.png"
+        ]
+    },
+    "beach-umbrella": {
+        "name": {
+            "name-USen": "beach umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "beach-umbrella.png"
+        ]
+    },
+    "bear-umbrella": {
+        "name": {
+            "name-USen": "bear umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "bear-umbrella.png"
+        ]
+    },
+    "black-chic-umbrella": {
+        "name": {
+            "name-USen": "black chic umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "black-chic-umbrella.png"
+        ]
+    },
+    "black-lace-umbrella": {
+        "name": {
+            "name-USen": "black lace umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "black-lace-umbrella.png"
+        ]
+    },
+    "blue-dot-parasol": {
+        "name": {
+            "name-USen": "blue dot parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "blue-dot-parasol.png"
+        ]
+    },
+    "blue-shiny-bows-parasol": {
+        "name": {
+            "name-USen": "blue shiny-bows parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "blue-shiny-bows-parasol.png"
+        ]
+    },
+    "blue-umbrella": {
+        "name": {
+            "name-USen": "blue umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "blue-umbrella.png"
+        ]
+    },
+    "busted-umbrella": {
+        "name": {
+            "name-USen": "busted umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "busted-umbrella.png"
+        ]
+    },
+    "camo-umbrella": {
+        "name": {
+            "name-USen": "camo umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 650,
+        "sell-price": 162,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "camo-umbrella.png"
+        ]
+    },
+    "candy-umbrella": {
+        "name": {
+            "name-USen": "candy umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "candy-umbrella.png"
+        ]
+    },
+    "cherry-umbrella": {
+        "name": {
+            "name-USen": "cherry umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 5600,
+        "sell-price": 1400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "cherry-umbrella.png"
+        ]
+    },
+    "cherry-blossom-umbrella": {
+        "name": {
+            "name-USen": "cherry-blossom umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2800,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "cherry-blossom-umbrella.png"
+        ]
+    },
+    "dal-umbrella": {
+        "name": {
+            "name-USen": "dal umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 4040,
+        "sell-price": 1010,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "dal-umbrella.png"
+        ]
+    },
+    "eggy-parasol": {
+        "name": {
+            "name-USen": "eggy parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "eggy-parasol.png"
+        ]
+    },
+    "exquisite-parasol": {
+        "name": {
+            "name-USen": "exquisite parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1670,
+        "sell-price": 417,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "exquisite-parasol.png"
+        ]
+    },
+    "fairy-tale-umbrella": {
+        "name": {
+            "name-USen": "fairy-tale umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 820,
+        "sell-price": 205,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "fairy-tale-umbrella.png"
+        ]
+    },
+    "fish-umbrella": {
+        "name": {
+            "name-USen": "fish umbrella"
+        },
+        "sources": [
+            "Fishing Tourney reward from C.J."
+        ],
+        "buy-price": 320,
+        "sell-price": 80,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "fish-umbrella.png"
+        ]
+    },
+    "frog-umbrella": {
+        "name": {
+            "name-USen": "frog umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "frog-umbrella.png"
+        ]
+    },
+    "gelato-umbrella": {
+        "name": {
+            "name-USen": "gelato umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "gelato-umbrella.png"
+        ]
+    },
+    "ghost-umbrella": {
+        "name": {
+            "name-USen": "ghost umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1670,
+        "sell-price": 417,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "ghost-umbrella.png"
+        ]
+    },
+    "grape-umbrella": {
+        "name": {
+            "name-USen": "grape umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "grape-umbrella.png"
+        ]
+    },
+    "green-umbrella": {
+        "name": {
+            "name-USen": "green umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "green-umbrella.png"
+        ]
+    },
+    "green-chic-umbrella": {
+        "name": {
+            "name-USen": "green chic umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "green-chic-umbrella.png"
+        ]
+    },
+    "hydrangea-umbrella": {
+        "name": {
+            "name-USen": "hydrangea umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "hydrangea-umbrella.png"
+        ]
+    },
+    "kabuki-umbrella": {
+        "name": {
+            "name-USen": "kabuki umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1670,
+        "sell-price": 417,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "kabuki-umbrella.png"
+        ]
+    },
+    "kiwi-umbrella": {
+        "name": {
+            "name-USen": "kiwi umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "kiwi-umbrella.png"
+        ]
+    },
+    "lacy-parasol": {
+        "name": {
+            "name-USen": "lacy parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "lacy-parasol.png"
+        ]
+    },
+    "ladybug-umbrella": {
+        "name": {
+            "name-USen": "ladybug umbrella"
+        },
+        "sources": [
+            "Bug-off reward"
+        ],
+        "buy-price": 320,
+        "sell-price": 80,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "ladybug-umbrella.png"
+        ]
+    },
+    "leaf-umbrella": {
+        "name": {
+            "name-USen": "leaf umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 300,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "leaf-umbrella.png"
+        ]
+    },
+    "lemon-umbrella": {
+        "name": {
+            "name-USen": "lemon umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "lemon-umbrella.png"
+        ]
+    },
+    "logo-umbrella": {
+        "name": {
+            "name-USen": "logo umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 650,
+        "sell-price": 162,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "logo-umbrella.png"
+        ]
+    },
+    "maple-leaf-umbrella": {
+        "name": {
+            "name-USen": "maple-leaf umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 11200,
+        "sell-price": 2800,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "maple-leaf-umbrella.png"
+        ]
+    },
+    "melon-umbrella": {
+        "name": {
+            "name-USen": "melon umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "melon-umbrella.png"
+        ]
+    },
+    "mini-flower-print-umbrella": {
+        "name": {
+            "name-USen": "mini-flower-print umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "mini-flower-print-umbrella.png"
+        ]
+    },
+    "mint-umbrella": {
+        "name": {
+            "name-USen": "mint umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "mint-umbrella.png"
+        ]
+    },
+    "mush-umbrella": {
+        "name": {
+            "name-USen": "mush umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 4800,
+        "sell-price": 1200,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "mush-umbrella.png"
+        ]
+    },
+    "nook-inc.-umbrella": {
+        "name": {
+            "name-USen": "nook inc. umbrella"
+        },
+        "sources": [
+            "Nook Stop"
+        ],
+        "buy-price": 700,
+        "sell-price": 3500,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "nook-inc.-umbrella.png"
+        ]
+    },
+    "orange-umbrella": {
+        "name": {
+            "name-USen": "orange umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 5600,
+        "sell-price": 1400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "orange-umbrella.png"
+        ]
+    },
+    "panda-umbrella": {
+        "name": {
+            "name-USen": "panda umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "panda-umbrella.png"
+        ]
+    },
+    "paper-parasol": {
+        "name": {
+            "name-USen": "paper parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 870,
+        "sell-price": 217,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "paper-parasol.png"
+        ]
+    },
+    "patterned-vinyl-umbrella": {
+        "name": {
+            "name-USen": "patterned vinyl umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "patterned-vinyl-umbrella.png"
+        ]
+    },
+    "peach-umbrella": {
+        "name": {
+            "name-USen": "peach umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "peach-umbrella.png"
+        ]
+    },
+    "pear-umbrella": {
+        "name": {
+            "name-USen": "pear umbrella"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "pear-umbrella.png"
+        ]
+    },
+    "petal-parasol": {
+        "name": {
+            "name-USen": "petal parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1590,
+        "sell-price": 397,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "petal-parasol.png"
+        ]
+    },
+    "picnic-umbrella": {
+        "name": {
+            "name-USen": "picnic umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "picnic-umbrella.png"
+        ]
+    },
+    "pineapple-umbrella": {
+        "name": {
+            "name-USen": "pineapple umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "pineapple-umbrella.png"
+        ]
+    },
+    "pink-shiny-bows-parasol": {
+        "name": {
+            "name-USen": "pink shiny-bows parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "pink-shiny-bows-parasol.png"
+        ]
+    },
+    "pink-umbrella": {
+        "name": {
+            "name-USen": "pink umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "pink-umbrella.png"
+        ]
+    },
+    "purple-chic-umbrella": {
+        "name": {
+            "name-USen": "purple chic umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "purple-chic-umbrella.png"
+        ]
+    },
+    "purple-shiny-bows-parasol": {
+        "name": {
+            "name-USen": "purple shiny-bows parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "purple-shiny-bows-parasol.png"
+        ]
+    },
+    "rainbow-umbrella": {
+        "name": {
+            "name-USen": "rainbow umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "rainbow-umbrella.png"
+        ]
+    },
+    "raindrop-umbrella": {
+        "name": {
+            "name-USen": "raindrop umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "raindrop-umbrella.png"
+        ]
+    },
+    "red-umbrella": {
+        "name": {
+            "name-USen": "red umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "red-umbrella.png"
+        ]
+    },
+    "red-chic-umbrella": {
+        "name": {
+            "name-USen": "red chic umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "red-chic-umbrella.png"
+        ]
+    },
+    "snowflake-umbrella": {
+        "name": {
+            "name-USen": "snowflake umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "snowflake-umbrella.png"
+        ]
+    },
+    "spider-umbrella": {
+        "name": {
+            "name-USen": "spider umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "spider-umbrella.png"
+        ]
+    },
+    "strawberry-umbrella": {
+        "name": {
+            "name-USen": "strawberry umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "strawberry-umbrella.png"
+        ]
+    },
+    "striped-umbrella": {
+        "name": {
+            "name-USen": "striped umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "striped-umbrella.png"
+        ]
+    },
+    "sunny-parasol": {
+        "name": {
+            "name-USen": "sunny parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "sunny-parasol.png"
+        ]
+    },
+    "tartan-check-umbrella": {
+        "name": {
+            "name-USen": "tartan-check umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "tartan-check-umbrella.png"
+        ]
+    },
+    "toad-parasol": {
+        "name": {
+            "name-USen": "toad parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "toad-parasol.png"
+        ]
+    },
+    "two-tone-umbrella": {
+        "name": {
+            "name-USen": "two-tone umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "two-tone-umbrella.png"
+        ]
+    },
+    "vinyl-umbrella": {
+        "name": {
+            "name-USen": "vinyl umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 770,
+        "sell-price": 192,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "vinyl-umbrella.png"
+        ]
+    },
+    "watermelon-umbrella": {
+        "name": {
+            "name-USen": "watermelon umbrella"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "watermelon-umbrella.png"
+        ]
+    },
+    "white-shiny-bows-parasol": {
+        "name": {
+            "name-USen": "white shiny-bows parasol"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1620,
+        "sell-price": 405,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "white-shiny-bows-parasol.png"
+        ]
+    }
 }

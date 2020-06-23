@@ -1,1244 +1,831 @@
 {
-    "acorn-pochette": [
-        {
-            "variant": null,
-            "image_uri": "acorn-pochette.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "acorn pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 2400
-        }
-    ],
-    "basket-pack": [
-        {
-            "variant": null,
-            "image_uri": "basket-pack.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "basket pack"
-            },
-            "buy-price": -1,
-            "sell-price": 2400
-        }
-    ],
-    "bug-cage": [
-        {
-            "variant": null,
-            "image_uri": "bug-cage.png",
-            "sources": [
-                "Bug-off"
-            ],
-            "name": {
-                "name-USen": "bug cage"
-            },
-            "buy-price": 490,
-            "sell-price": 122
-        }
-    ],
-    "bunny-day-bag": [
-        {
-            "variant": null,
-            "image_uri": "bunny-day-bag.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "bunny day bag"
-            },
-            "buy-price": -1,
-            "sell-price": 2400
-        }
-    ],
-    "butterfly-backpack": [
-        {
-            "variant": null,
-            "image_uri": "butterfly-backpack.png",
-            "sources": [
-                "Bug-off"
-            ],
-            "name": {
-                "name-USen": "butterfly backpack"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "canvas-backpack": [
-        {
-            "variant": null,
-            "image_uri": "canvas-backpack.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "canvas backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "cherry-blossom-pochette": [
-        {
-            "variant": null,
-            "image_uri": "cherry-blossom-pochette.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "cherry-blossom pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 2400
-        }
-    ],
-    "cloth-shoulder-bag": [
-        {
-            "variant": "Ivory",
-            "image_uri": "cloth-shoulder-bag-ivory.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "cloth shoulder bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
+    "acorn-pochette": {
+        "name": {
+            "name-USen": "acorn pochette"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "cloth-shoulder-bag-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "cloth shoulder bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "acorn-pochette.png"
+        ]
+    },
+    "basket-pack": {
+        "name": {
+            "name-USen": "basket pack"
         },
-        {
-            "variant": "Orange",
-            "image_uri": "cloth-shoulder-bag-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "cloth shoulder bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
-        }
-    ],
-    "crossbody-bag": [
-        {
-            "variant": "Pink",
-            "image_uri": "crossbody-bag-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "crossbody bag"
-            },
-            "buy-price": 700,
-            "sell-price": 175
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "basket-pack.png"
+        ]
+    },
+    "bug-cage": {
+        "name": {
+            "name-USen": "bug cage"
         },
-        {
-            "variant": "Green",
-            "image_uri": "crossbody-bag-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "crossbody bag"
-            },
-            "buy-price": 700,
-            "sell-price": 175
+        "sources": [
+            "Bug-off"
+        ],
+        "buy-price": 490,
+        "sell-price": 122,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "bug-cage.png"
+        ]
+    },
+    "bunny-day-bag": {
+        "name": {
+            "name-USen": "bunny day bag"
         },
-        {
-            "variant": "Yellow",
-            "image_uri": "crossbody-bag-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "crossbody bag"
-            },
-            "buy-price": 700,
-            "sell-price": 175
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "bunny-day-bag.png"
+        ]
+    },
+    "butterfly-backpack": {
+        "name": {
+            "name-USen": "butterfly backpack"
         },
-        {
-            "variant": "White",
-            "image_uri": "crossbody-bag-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "crossbody bag"
-            },
-            "buy-price": 700,
-            "sell-price": 175
-        }
-    ],
-    "crossbody-boston-bag": [
-        {
-            "variant": "Red",
-            "image_uri": "crossbody-boston-bag-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "crossbody boston bag"
-            },
-            "buy-price": 1680,
-            "sell-price": 420
+        "sources": [
+            "Bug-off"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "butterfly-backpack.png"
+        ]
+    },
+    "canvas-backpack": {
+        "name": {
+            "name-USen": "canvas backpack"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "crossbody-boston-bag-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "crossbody boston bag"
-            },
-            "buy-price": 1680,
-            "sell-price": 420
-        }
-    ],
-    "dal-backpack": [
-        {
-            "variant": null,
-            "image_uri": "dal-backpack.png",
-            "sources": [
-                "Dodo Airlines"
-            ],
-            "name": {
-                "name-USen": "dal backpack"
-            },
-            "buy-price": -1,
-            "sell-price": 1010
-        }
-    ],
-    "dry-bag": [
-        {
-            "variant": "Yellow",
-            "image_uri": "dry-bag-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "dry bag"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "canvas-backpack.png"
+        ]
+    },
+    "cherry-blossom-pochette": {
+        "name": {
+            "name-USen": "cherry-blossom pochette"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "dry-bag-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "dry bag"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "evening-bag": [
-        {
-            "variant": "Black",
-            "image_uri": "evening-bag-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "evening bag"
-            },
-            "buy-price": 1250,
-            "sell-price": 312
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "cherry-blossom-pochette.png"
+        ]
+    },
+    "cloth-shoulder-bag": {
+        "name": {
+            "name-USen": "cloth shoulder bag"
         },
-        {
-            "variant": "Pink",
-            "image_uri": "evening-bag-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "evening bag"
-            },
-            "buy-price": 1250,
-            "sell-price": 312
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1400,
+        "sell-price": 350,
+        "variant": true,
+        "variation_names": [
+            "Ivory",
+            "Blue",
+            "Orange"
+        ],
+        "variation_images": [
+            "cloth-shoulder-bag-ivory.png",
+            "cloth-shoulder-bag-blue.png",
+            "cloth-shoulder-bag-orange.png"
+        ]
+    },
+    "crossbody-bag": {
+        "name": {
+            "name-USen": "crossbody bag"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "evening-bag-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "evening bag"
-            },
-            "buy-price": 1250,
-            "sell-price": 312
-        }
-    ],
-    "extra-large-backpack": [
-        {
-            "variant": "Black",
-            "image_uri": "extra-large-backpack-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "extra-large backpack"
-            },
-            "buy-price": 2100,
-            "sell-price": 525
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 700,
+        "sell-price": 175,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Green",
+            "Yellow",
+            "White"
+        ],
+        "variation_images": [
+            "crossbody-bag-pink.png",
+            "crossbody-bag-green.png",
+            "crossbody-bag-yellow.png",
+            "crossbody-bag-white.png"
+        ]
+    },
+    "crossbody-boston-bag": {
+        "name": {
+            "name-USen": "crossbody boston bag"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "extra-large-backpack-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "extra-large backpack"
-            },
-            "buy-price": 2100,
-            "sell-price": 525
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1680,
+        "sell-price": 420,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Blue"
+        ],
+        "variation_images": [
+            "crossbody-boston-bag-red.png",
+            "crossbody-boston-bag-blue.png"
+        ]
+    },
+    "dal-backpack": {
+        "name": {
+            "name-USen": "dal backpack"
         },
-        {
-            "variant": "Green",
-            "image_uri": "extra-large-backpack-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "extra-large backpack"
-            },
-            "buy-price": 2100,
-            "sell-price": 525
+        "sources": [
+            "Dodo Airlines"
+        ],
+        "buy-price": -1,
+        "sell-price": 1010,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "dal-backpack.png"
+        ]
+    },
+    "dry-bag": {
+        "name": {
+            "name-USen": "dry bag"
         },
-        {
-            "variant": "Red",
-            "image_uri": "extra-large-backpack-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "extra-large backpack"
-            },
-            "buy-price": 2100,
-            "sell-price": 525
-        }
-    ],
-    "faux-fur-bag": [
-        {
-            "variant": "Pink",
-            "image_uri": "faux-fur-bag-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "faux-fur bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Yellow",
+            "Blue"
+        ],
+        "variation_images": [
+            "dry-bag-yellow.png",
+            "dry-bag-blue.png"
+        ]
+    },
+    "evening-bag": {
+        "name": {
+            "name-USen": "evening bag"
         },
-        {
-            "variant": "Purple",
-            "image_uri": "faux-fur-bag-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "faux-fur bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
-        }
-    ],
-    "fish-pochette": [
-        {
-            "variant": null,
-            "image_uri": "fish-pochette.png",
-            "sources": [
-                "Fishing Tourney reward from C.J."
-            ],
-            "name": {
-                "name-USen": "fish pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 210
-        }
-    ],
-    "foldover-top-backpack": [
-        {
-            "variant": "Gray",
-            "image_uri": "foldover-top-backpack-gray.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "foldover-top backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1250,
+        "sell-price": 312,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Pink",
+            "Blue"
+        ],
+        "variation_images": [
+            "evening-bag-black.png",
+            "evening-bag-pink.png",
+            "evening-bag-blue.png"
+        ]
+    },
+    "extra-large-backpack": {
+        "name": {
+            "name-USen": "extra-large backpack"
         },
-        {
-            "variant": "Pink",
-            "image_uri": "foldover-top-backpack-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "foldover-top backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 2100,
+        "sell-price": 525,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Blue",
+            "Green",
+            "Red"
+        ],
+        "variation_images": [
+            "extra-large-backpack-black.png",
+            "extra-large-backpack-blue.png",
+            "extra-large-backpack-green.png",
+            "extra-large-backpack-red.png"
+        ]
+    },
+    "faux-fur-bag": {
+        "name": {
+            "name-USen": "faux-fur bag"
         },
-        {
-            "variant": "Green",
-            "image_uri": "foldover-top-backpack-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "foldover-top backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1400,
+        "sell-price": 350,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Purple"
+        ],
+        "variation_images": [
+            "faux-fur-bag-pink.png",
+            "faux-fur-bag-purple.png"
+        ]
+    },
+    "fish-pochette": {
+        "name": {
+            "name-USen": "fish pochette"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "foldover-top-backpack-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "foldover-top backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "gumdrop-shoulder-bag": [
-        {
-            "variant": "Pop",
-            "image_uri": "gumdrop-shoulder-bag-pop.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "gumdrop shoulder bag"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
+        "sources": [
+            "Fishing Tourney reward from C.J."
+        ],
+        "buy-price": -1,
+        "sell-price": 210,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "fish-pochette.png"
+        ]
+    },
+    "foldover-top-backpack": {
+        "name": {
+            "name-USen": "foldover-top backpack"
         },
-        {
-            "variant": "Cool",
-            "image_uri": "gumdrop-shoulder-bag-cool.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "gumdrop shoulder bag"
-            },
-            "buy-price": 2000,
-            "sell-price": 500
-        }
-    ],
-    "hand-knit-pouch": [
-        {
-            "variant": "Green",
-            "image_uri": "hand-knit-pouch-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "hand-knit pouch"
-            },
-            "buy-price": 1250,
-            "sell-price": 312
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": true,
+        "variation_names": [
+            "Gray",
+            "Pink",
+            "Green",
+            "Blue"
+        ],
+        "variation_images": [
+            "foldover-top-backpack-gray.png",
+            "foldover-top-backpack-pink.png",
+            "foldover-top-backpack-green.png",
+            "foldover-top-backpack-blue.png"
+        ]
+    },
+    "gumdrop-shoulder-bag": {
+        "name": {
+            "name-USen": "gumdrop shoulder bag"
         },
-        {
-            "variant": "Purple",
-            "image_uri": "hand-knit-pouch-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "hand-knit pouch"
-            },
-            "buy-price": 1250,
-            "sell-price": 312
-        }
-    ],
-    "hard-shell-backpack": [
-        {
-            "variant": "Red",
-            "image_uri": "hard-shell-backpack-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "hard-shell backpack"
-            },
-            "buy-price": 1680,
-            "sell-price": 420
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "variant": true,
+        "variation_names": [
+            "Pop",
+            "Cool"
+        ],
+        "variation_images": [
+            "gumdrop-shoulder-bag-pop.png",
+            "gumdrop-shoulder-bag-cool.png"
+        ]
+    },
+    "hand-knit-pouch": {
+        "name": {
+            "name-USen": "hand-knit pouch"
         },
-        {
-            "variant": "Silver",
-            "image_uri": "hard-shell-backpack-silver.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "hard-shell backpack"
-            },
-            "buy-price": 1680,
-            "sell-price": 420
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1250,
+        "sell-price": 312,
+        "variant": true,
+        "variation_names": [
+            "Green",
+            "Purple"
+        ],
+        "variation_images": [
+            "hand-knit-pouch-green.png",
+            "hand-knit-pouch-purple.png"
+        ]
+    },
+    "hard-shell-backpack": {
+        "name": {
+            "name-USen": "hard-shell backpack"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "hard-shell-backpack-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "hard-shell backpack"
-            },
-            "buy-price": 1680,
-            "sell-price": 420
-        }
-    ],
-    "knapsack": [
-        {
-            "variant": "Black",
-            "image_uri": "knapsack-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "knapsack"
-            },
-            "buy-price": 630,
-            "sell-price": 157
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1680,
+        "sell-price": 420,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Silver",
+            "Blue"
+        ],
+        "variation_images": [
+            "hard-shell-backpack-red.png",
+            "hard-shell-backpack-silver.png",
+            "hard-shell-backpack-blue.png"
+        ]
+    },
+    "knapsack": {
+        "name": {
+            "name-USen": "knapsack"
         },
-        {
-            "variant": "Blue",
-            "image_uri": "knapsack-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "knapsack"
-            },
-            "buy-price": 630,
-            "sell-price": 157
-        }
-    ],
-    "knitted-grass-backpack": [
-        {
-            "variant": null,
-            "image_uri": "knitted-grass-backpack.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "knitted-grass backpack"
-            },
-            "buy-price": -1,
-            "sell-price": 400
-        }
-    ],
-    "log-pack": [
-        {
-            "variant": null,
-            "image_uri": "log-pack.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "log pack"
-            },
-            "buy-price": -1,
-            "sell-price": 960
-        }
-    ],
-    "maple-leaf-pochette": [
-        {
-            "variant": null,
-            "image_uri": "maple-leaf-pochette.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "maple-leaf pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 2400
-        }
-    ],
-    "messenger-bag": [
-        {
-            "variant": "Orange",
-            "image_uri": "messenger-bag-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "messenger bag"
-            },
-            "buy-price": 840,
-            "sell-price": 210
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 630,
+        "sell-price": 157,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Blue"
+        ],
+        "variation_images": [
+            "knapsack-black.png",
+            "knapsack-blue.png"
+        ]
+    },
+    "knitted-grass-backpack": {
+        "name": {
+            "name-USen": "knitted-grass backpack"
         },
-        {
-            "variant": "Green",
-            "image_uri": "messenger-bag-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "messenger bag"
-            },
-            "buy-price": 840,
-            "sell-price": 210
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "knitted-grass-backpack.png"
+        ]
+    },
+    "log-pack": {
+        "name": {
+            "name-USen": "log pack"
         },
-        {
-            "variant": "Black",
-            "image_uri": "messenger-bag-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "messenger bag"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "mini-pleather-bag": [
-        {
-            "variant": "White",
-            "image_uri": "mini-pleather-bag-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "mini pleather bag"
-            },
-            "buy-price": 1600,
-            "sell-price": 400
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 960,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "log-pack.png"
+        ]
+    },
+    "maple-leaf-pochette": {
+        "name": {
+            "name-USen": "maple-leaf pochette"
         },
-        {
-            "variant": "Black",
-            "image_uri": "mini-pleather-bag-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "mini pleather bag"
-            },
-            "buy-price": 1600,
-            "sell-price": 400
-        }
-    ],
-    "mom's-knapsack": [
-        {
-            "variant": "M",
-            "image_uri": "mom's-knapsack-m.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "maple-leaf-pochette.png"
+        ]
+    },
+    "messenger-bag": {
+        "name": {
+            "name-USen": "messenger bag"
         },
-        {
-            "variant": "Flowers",
-            "image_uri": "mom's-knapsack-flowers.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": true,
+        "variation_names": [
+            "Orange",
+            "Green",
+            "Black"
+        ],
+        "variation_images": [
+            "messenger-bag-orange.png",
+            "messenger-bag-green.png",
+            "messenger-bag-black.png"
+        ]
+    },
+    "mini-pleather-bag": {
+        "name": {
+            "name-USen": "mini pleather bag"
         },
-        {
-            "variant": "Polka dots",
-            "image_uri": "mom's-knapsack-polka-dots.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1600,
+        "sell-price": 400,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black"
+        ],
+        "variation_images": [
+            "mini-pleather-bag-white.png",
+            "mini-pleather-bag-black.png"
+        ]
+    },
+    "mom's-knapsack": {
+        "name": {
+            "name-USen": "mom's knapsack"
         },
-        {
-            "variant": "Colorful quilt design",
-            "image_uri": "mom's-knapsack-colorful-quilt-design.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "Mail from Mom"
+        ],
+        "buy-price": -1,
+        "sell-price": 175,
+        "variant": true,
+        "variation_names": [
+            "M",
+            "Flowers",
+            "Polka dots",
+            "Colorful quilt design",
+            "Cherries",
+            "Denim with stripes",
+            "Forest print",
+            "Chick"
+        ],
+        "variation_images": [
+            "mom's-knapsack-m.png",
+            "mom's-knapsack-flowers.png",
+            "mom's-knapsack-polka-dots.png",
+            "mom's-knapsack-colorful-quilt-design.png",
+            "mom's-knapsack-cherries.png",
+            "mom's-knapsack-denim-with-stripes.png",
+            "mom's-knapsack-forest-print.png",
+            "mom's-knapsack-chick.png"
+        ]
+    },
+    "nook-inc.-knapsack": {
+        "name": {
+            "name-USen": "nook inc. knapsack"
         },
-        {
-            "variant": "Cherries",
-            "image_uri": "mom's-knapsack-cherries.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "Nook Stop"
+        ],
+        "buy-price": 800,
+        "sell-price": 4000,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "nook-inc.-knapsack.png"
+        ]
+    },
+    "outdoor-backpack": {
+        "name": {
+            "name-USen": "outdoor backpack"
         },
-        {
-            "variant": "Denim with stripes",
-            "image_uri": "mom's-knapsack-denim-with-stripes.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "variant": true,
+        "variation_names": [
+            "Orange",
+            "Avocado",
+            "Navy blue"
+        ],
+        "variation_images": [
+            "outdoor-backpack-orange.png",
+            "outdoor-backpack-avocado.png",
+            "outdoor-backpack-navy-blue.png"
+        ]
+    },
+    "pleather-crossbody-bag": {
+        "name": {
+            "name-USen": "pleather crossbody bag"
         },
-        {
-            "variant": "Forest print",
-            "image_uri": "mom's-knapsack-forest-print.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1120,
+        "sell-price": 280,
+        "variant": true,
+        "variation_names": [
+            "Black",
+            "Navy blue"
+        ],
+        "variation_images": [
+            "pleather-crossbody-bag-black.png",
+            "pleather-crossbody-bag-navy-blue.png"
+        ]
+    },
+    "pleather-fringe-bag": {
+        "name": {
+            "name-USen": "pleather fringe bag"
         },
-        {
-            "variant": "Chick",
-            "image_uri": "mom's-knapsack-chick.png",
-            "sources": [
-                "Mail from Mom"
-            ],
-            "name": {
-                "name-USen": "mom's knapsack"
-            },
-            "buy-price": -1,
-            "sell-price": 175
-        }
-    ],
-    "nook-inc.-knapsack": [
-        {
-            "variant": null,
-            "image_uri": "nook-inc.-knapsack.png",
-            "sources": [
-                "Nook Stop"
-            ],
-            "name": {
-                "name-USen": "nook inc. knapsack"
-            },
-            "buy-price": 800,
-            "sell-price": 4000
-        }
-    ],
-    "outdoor-backpack": [
-        {
-            "variant": "Orange",
-            "image_uri": "outdoor-backpack-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "outdoor backpack"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 2400,
+        "sell-price": 600,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Camel"
+        ],
+        "variation_images": [
+            "pleather-fringe-bag-white.png",
+            "pleather-fringe-bag-camel.png"
+        ]
+    },
+    "pleather-shoulder-bag": {
+        "name": {
+            "name-USen": "pleather shoulder bag"
         },
-        {
-            "variant": "Avocado",
-            "image_uri": "outdoor-backpack-avocado.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "outdoor backpack"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 2400,
+        "sell-price": 600,
+        "variant": true,
+        "variation_names": [
+            "Navy blue",
+            "Brown"
+        ],
+        "variation_images": [
+            "pleather-shoulder-bag-navy-blue.png",
+            "pleather-shoulder-bag-brown.png"
+        ]
+    },
+    "retro-sports-bag": {
+        "name": {
+            "name-USen": "retro sports bag"
         },
-        {
-            "variant": "Navy blue",
-            "image_uri": "outdoor-backpack-navy-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "outdoor backpack"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        }
-    ],
-    "pleather-crossbody-bag": [
-        {
-            "variant": "Black",
-            "image_uri": "pleather-crossbody-bag-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "pleather crossbody bag"
-            },
-            "buy-price": 1120,
-            "sell-price": 280
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1400,
+        "sell-price": 350,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Red",
+            "Black"
+        ],
+        "variation_images": [
+            "retro-sports-bag-blue.png",
+            "retro-sports-bag-red.png",
+            "retro-sports-bag-black.png"
+        ]
+    },
+    "sacoche-bag": {
+        "name": {
+            "name-USen": "sacoche bag"
         },
-        {
-            "variant": "Navy blue",
-            "image_uri": "pleather-crossbody-bag-navy-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "pleather crossbody bag"
-            },
-            "buy-price": 1120,
-            "sell-price": 280
-        }
-    ],
-    "pleather-fringe-bag": [
-        {
-            "variant": "White",
-            "image_uri": "pleather-fringe-bag-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "pleather fringe bag"
-            },
-            "buy-price": 2400,
-            "sell-price": 600
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 980,
+        "sell-price": 245,
+        "variant": true,
+        "variation_names": [
+            "Blue",
+            "Red",
+            "Black"
+        ],
+        "variation_images": [
+            "sacoche-bag-blue.png",
+            "sacoche-bag-red.png",
+            "sacoche-bag-black.png"
+        ]
+    },
+    "shellfish-pochette": {
+        "name": {
+            "name-USen": "shellfish pochette"
         },
-        {
-            "variant": "Camel",
-            "image_uri": "pleather-fringe-bag-camel.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "pleather fringe bag"
-            },
-            "buy-price": 2400,
-            "sell-price": 600
-        }
-    ],
-    "pleather-shoulder-bag": [
-        {
-            "variant": "Navy blue",
-            "image_uri": "pleather-shoulder-bag-navy-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "pleather shoulder bag"
-            },
-            "buy-price": 2400,
-            "sell-price": 600
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 10800,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "shellfish-pochette.png"
+        ]
+    },
+    "snowflake-pochette": {
+        "name": {
+            "name-USen": "snowflake pochette"
         },
-        {
-            "variant": "Brown",
-            "image_uri": "pleather-shoulder-bag-brown.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "pleather shoulder bag"
-            },
-            "buy-price": 2400,
-            "sell-price": 600
-        }
-    ],
-    "retro-sports-bag": [
-        {
-            "variant": "Blue",
-            "image_uri": "retro-sports-bag-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "retro sports bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "snowflake-pochette.png"
+        ]
+    },
+    "square-backpack": {
+        "name": {
+            "name-USen": "square backpack"
         },
-        {
-            "variant": "Red",
-            "image_uri": "retro-sports-bag-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "retro sports bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1300,
+        "sell-price": 325,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Green",
+            "Yellow"
+        ],
+        "variation_images": [
+            "square-backpack-pink.png",
+            "square-backpack-green.png",
+            "square-backpack-yellow.png"
+        ]
+    },
+    "star-pochette": {
+        "name": {
+            "name-USen": "star pochette"
         },
-        {
-            "variant": "Black",
-            "image_uri": "retro-sports-bag-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "retro sports bag"
-            },
-            "buy-price": 1400,
-            "sell-price": 350
-        }
-    ],
-    "sacoche-bag": [
-        {
-            "variant": "Blue",
-            "image_uri": "sacoche-bag-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sacoche bag"
-            },
-            "buy-price": 980,
-            "sell-price": 245
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 3000,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "star-pochette.png"
+        ]
+    },
+    "straw-pochette": {
+        "name": {
+            "name-USen": "straw pochette"
         },
-        {
-            "variant": "Red",
-            "image_uri": "sacoche-bag-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sacoche bag"
-            },
-            "buy-price": 980,
-            "sell-price": 245
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 980,
+        "sell-price": 245,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "straw-pochette.png"
+        ]
+    },
+    "studded-backpack": {
+        "name": {
+            "name-USen": "studded backpack"
         },
-        {
-            "variant": "Black",
-            "image_uri": "sacoche-bag-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "sacoche bag"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        }
-    ],
-    "shellfish-pochette": [
-        {
-            "variant": null,
-            "image_uri": "shellfish-pochette.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "shellfish pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 10800
-        }
-    ],
-    "snowflake-pochette": [
-        {
-            "variant": null,
-            "image_uri": "snowflake-pochette.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "snowflake pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 2400
-        }
-    ],
-    "square-backpack": [
-        {
-            "variant": "Pink",
-            "image_uri": "square-backpack-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "square backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "variant": true,
+        "variation_names": [
+            "White",
+            "Black"
+        ],
+        "variation_images": [
+            "studded-backpack-white.png",
+            "studded-backpack-black.png"
+        ]
+    },
+    "tackle-bag": {
+        "name": {
+            "name-USen": "tackle bag"
         },
-        {
-            "variant": "Green",
-            "image_uri": "square-backpack-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "square backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
+        "sources": [
+            "Fishing Tourney reward from C.J."
+        ],
+        "buy-price": -1,
+        "sell-price": 175,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "tackle-bag.png"
+        ]
+    },
+    "tool-bag": {
+        "name": {
+            "name-USen": "tool bag"
         },
-        {
-            "variant": "Yellow",
-            "image_uri": "square-backpack-yellow.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "square backpack"
-            },
-            "buy-price": 1300,
-            "sell-price": 325
-        }
-    ],
-    "star-pochette": [
-        {
-            "variant": null,
-            "image_uri": "star-pochette.png",
-            "sources": [
-                "DIY Recipes"
-            ],
-            "name": {
-                "name-USen": "star pochette"
-            },
-            "buy-price": -1,
-            "sell-price": 3000
-        }
-    ],
-    "straw-pochette": [
-        {
-            "variant": null,
-            "image_uri": "straw-pochette.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "straw pochette"
-            },
-            "buy-price": 980,
-            "sell-price": 245
-        }
-    ],
-    "studded-backpack": [
-        {
-            "variant": "White",
-            "image_uri": "studded-backpack-white.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "studded backpack"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 910,
+        "sell-price": 227,
+        "variant": false,
+        "variation_names": [],
+        "variation_images": [
+            "tool-bag.png"
+        ]
+    },
+    "town-backpack": {
+        "name": {
+            "name-USen": "town backpack"
         },
-        {
-            "variant": "Black",
-            "image_uri": "studded-backpack-black.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "studded backpack"
-            },
-            "buy-price": 1560,
-            "sell-price": 390
-        }
-    ],
-    "tackle-bag": [
-        {
-            "variant": null,
-            "image_uri": "tackle-bag.png",
-            "sources": [
-                "Fishing Tourney reward from C.J."
-            ],
-            "name": {
-                "name-USen": "tackle bag"
-            },
-            "buy-price": -1,
-            "sell-price": 175
-        }
-    ],
-    "tool-bag": [
-        {
-            "variant": null,
-            "image_uri": "tool-bag.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "tool bag"
-            },
-            "buy-price": 910,
-            "sell-price": 227
-        }
-    ],
-    "town-backpack": [
-        {
-            "variant": "Red",
-            "image_uri": "town-backpack-red.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "town backpack"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 1040,
+        "sell-price": 260,
+        "variant": true,
+        "variation_names": [
+            "Red",
+            "Orange",
+            "Green",
+            "Blue"
+        ],
+        "variation_images": [
+            "town-backpack-red.png",
+            "town-backpack-orange.png",
+            "town-backpack-green.png",
+            "town-backpack-blue.png"
+        ]
+    },
+    "travel-pouch": {
+        "name": {
+            "name-USen": "travel pouch"
         },
-        {
-            "variant": "Orange",
-            "image_uri": "town-backpack-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "town backpack"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 840,
+        "sell-price": 210,
+        "variant": true,
+        "variation_names": [
+            "Pink",
+            "Green",
+            "Light blue",
+            "Purple"
+        ],
+        "variation_images": [
+            "travel-pouch-pink.png",
+            "travel-pouch-green.png",
+            "travel-pouch-light-blue.png",
+            "travel-pouch-purple.png"
+        ]
+    },
+    "traveler's-backpack": {
+        "name": {
+            "name-USen": "traveler's backpack"
         },
-        {
-            "variant": "Green",
-            "image_uri": "town-backpack-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "town backpack"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "town-backpack-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "town backpack"
-            },
-            "buy-price": 1040,
-            "sell-price": 260
-        }
-    ],
-    "travel-pouch": [
-        {
-            "variant": "Pink",
-            "image_uri": "travel-pouch-pink.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "travel pouch"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Green",
-            "image_uri": "travel-pouch-green.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "travel pouch"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Light blue",
-            "image_uri": "travel-pouch-light-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "travel pouch"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        },
-        {
-            "variant": "Purple",
-            "image_uri": "travel-pouch-purple.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "travel pouch"
-            },
-            "buy-price": 840,
-            "sell-price": 210
-        }
-    ],
-    "traveler's-backpack": [
-        {
-            "variant": "Orange",
-            "image_uri": "traveler's-backpack-orange.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "traveler's backpack"
-            },
-            "buy-price": 2940,
-            "sell-price": 735
-        },
-        {
-            "variant": "Blue",
-            "image_uri": "traveler's-backpack-blue.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "traveler's backpack"
-            },
-            "buy-price": 2940,
-            "sell-price": 735
-        },
-        {
-            "variant": "Brown",
-            "image_uri": "traveler's-backpack-brown.png",
-            "sources": [
-                "Kicks"
-            ],
-            "name": {
-                "name-USen": "traveler's backpack"
-            },
-            "buy-price": 2940,
-            "sell-price": 735
-        }
-    ]
+        "sources": [
+            "Kicks"
+        ],
+        "buy-price": 2940,
+        "sell-price": 735,
+        "variant": true,
+        "variation_names": [
+            "Orange",
+            "Blue",
+            "Brown"
+        ],
+        "variation_images": [
+            "traveler's-backpack-orange.png",
+            "traveler's-backpack-blue.png",
+            "traveler's-backpack-brown.png"
+        ]
+    }
 }
