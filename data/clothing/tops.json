@@ -109,7 +109,7 @@
             "name-USen": "annyeong tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 640,
         "sell-price": 160,
@@ -313,7 +313,7 @@
             "name-USen": "baggy shirt"
         },
         "sources": [
-            "Lost & Found"
+            "Lost and Found"
         ],
         "buy-price": 40,
         "sell-price": 10,
@@ -407,7 +407,7 @@
             "name-USen": "big-star tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -1204,7 +1204,7 @@
             "name-USen": "coral nook inc. aloha shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles Rewards"
         ],
         "buy-price": 600,
         "sell-price": 3000,
@@ -1328,7 +1328,7 @@
             "name-USen": "dal tee"
         },
         "sources": [
-            "Mail from Dodo Airlines"
+            "Receive in mail"
         ],
         "buy-price": -1,
         "sell-price": 1010,
@@ -1881,7 +1881,7 @@
             "name-USen": "fish-print tee"
         },
         "sources": [
-            "Fishing Tourney reward from C.J."
+            "Fishing Tournament prize pool (January, April, July, October)"
         ],
         "buy-price": 640,
         "sell-price": 160,
@@ -2398,7 +2398,7 @@
             "name-USen": "green nook inc. aloha shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles Rewards"
         ],
         "buy-price": 600,
         "sell-price": 3000,
@@ -2709,7 +2709,7 @@
             "name-USen": "hello tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 640,
         "sell-price": 160,
@@ -2724,7 +2724,7 @@
             "name-USen": "henley shirt"
         },
         "sources": [
-            "Able SistersBalloon"
+            "Able Sisters"
         ],
         "buy-price": 960,
         "sell-price": 240,
@@ -2747,7 +2747,7 @@
             "name-USen": "hi tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 640,
         "sell-price": 160,
@@ -2922,7 +2922,7 @@
             "name-USen": "konnichiwa tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 640,
         "sell-price": 160,
@@ -2971,7 +2971,8 @@
             "name-USen": "labelle coat"
         },
         "sources": [
-            "Able Sisters\nLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 3900,
         "sell-price": 975,
@@ -2998,7 +2999,8 @@
             "name-USen": "labelle knit shirt"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 2270,
         "sell-price": 567,
@@ -3044,7 +3046,7 @@
             "name-USen": "lacy tank"
         },
         "sources": [
-            "Able Sisters"
+            "Able Sisters (Summer)"
         ],
         "buy-price": 850,
         "sell-price": 212,
@@ -3515,7 +3517,7 @@
             "name-USen": "no. 1 shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -3530,7 +3532,7 @@
             "name-USen": "no. 2 shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -3545,7 +3547,7 @@
             "name-USen": "no. 3 shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -3560,7 +3562,7 @@
             "name-USen": "no. 4 shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -3606,7 +3608,7 @@
             "name-USen": "nook inc. aloha shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 600,
         "sell-price": 3000,
@@ -3621,7 +3623,7 @@
             "name-USen": "nook inc. blouson"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 800,
         "sell-price": 4000,
@@ -3636,7 +3638,7 @@
             "name-USen": "nook inc. tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 600,
         "sell-price": 3000,
@@ -3907,7 +3909,7 @@
             "name-USen": "pineapple aloha shirt"
         },
         "sources": [
-            "Default Shirt"
+            "Able Sisters (Summer)"
         ],
         "buy-price": 960,
         "sell-price": 240,
@@ -4383,7 +4385,7 @@
             "name-USen": "rabbit tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 800,
         "sell-price": 200,
@@ -4776,7 +4778,7 @@
             "name-USen": "seven-ball tee"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -4970,7 +4972,7 @@
             "name-USen": "simple-dots tee"
         },
         "sources": [
-            "Default shirt"
+            "Able Sisters"
         ],
         "buy-price": 640,
         "sell-price": 160,
@@ -6089,7 +6091,7 @@
             "name-USen": "two-ball tee"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 560,
         "sell-price": 140,
@@ -6173,7 +6175,7 @@
             "name-USen": "vest with binoculars"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 1440,
         "sell-price": 360,
@@ -6435,7 +6437,7 @@
             "name-USen": "zigzag shirt"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping"
         ],
         "buy-price": 960,
         "sell-price": 240,

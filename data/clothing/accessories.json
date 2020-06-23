@@ -294,7 +294,7 @@
             "name-USen": "dal eye mask"
         },
         "sources": [
-            "Mail from Dodo Airlines"
+            "In the mail"
         ],
         "buy-price": -1,
         "sell-price": 1010,
@@ -308,7 +308,9 @@
         "name": {
             "name-USen": "dal sunglasses"
         },
-        "sources": [],
+        "sources": [
+            "In the mail"
+        ],
         "buy-price": -1,
         "sell-price": 1010,
         "variant": false,
@@ -322,7 +324,7 @@
             "name-USen": "doctor's mask"
         },
         "sources": [
-            "Able Sisters"
+            "Nook Shopping"
         ],
         "buy-price": 140,
         "sell-price": 35,
@@ -691,7 +693,8 @@
             "name-USen": "labelle sunglasses"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 2000,
         "sell-price": 500,
@@ -823,7 +826,7 @@
             "name-USen": "nook inc. eye mask"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 400,
         "sell-price": 2000,
@@ -878,7 +881,7 @@
             "name-USen": "oval glasses"
         },
         "sources": [
-            "Nook StopAble Sisters"
+            "Nook Shopping, Able Sisters"
         ],
         "buy-price": 880,
         "sell-price": 220,
@@ -1239,7 +1242,8 @@
             "name-USen": "sporty shades"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 1300,
         "sell-price": 325,
@@ -1401,7 +1405,7 @@
             "name-USen": "tortoise specs"
         },
         "sources": [
-            "Nook Stop"
+            "Able Sisters"
         ],
         "buy-price": 1040,
         "sell-price": 260,

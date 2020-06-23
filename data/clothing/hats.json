@@ -4,7 +4,7 @@
             "name-USen": "acorn knit cap"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Able Sisters"
         ],
         "buy-price": 880,
         "sell-price": 220,
@@ -31,7 +31,7 @@
             "name-USen": "alpinist hat"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": -1,
         "sell-price": 500,
@@ -52,7 +52,7 @@
             "name-USen": "ancient administrator hat"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 3200,
         "sell-price": 800,
@@ -581,7 +581,7 @@
             "name-USen": "coin headpiece"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 5400,
         "sell-price": 1350,
@@ -777,7 +777,7 @@
             "name-USen": "denim cap"
         },
         "sources": [
-            "Able Sisters"
+            "Nook Shopping, Able Sisters"
         ],
         "buy-price": 770,
         "sell-price": 192,
@@ -937,7 +937,7 @@
             "name-USen": "elder mask"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 6000,
         "sell-price": 1500,
@@ -1258,7 +1258,7 @@
             "name-USen": "geisha wig"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 5400,
         "sell-price": 1350,
@@ -1697,7 +1697,7 @@
             "name-USen": "kaffiyeh"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 3200,
         "sell-price": 800,
@@ -1827,7 +1827,8 @@
             "name-USen": "labelle cap"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 2400,
         "sell-price": 600,
@@ -1854,7 +1855,8 @@
             "name-USen": "labelle hat"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 2500,
         "sell-price": 625,
@@ -2012,6 +2014,7 @@
             "name-USen": "mesh cap"
         },
         "sources": [
+            "Nook Shopping",
             "Able Sisters"
         ],
         "buy-price": 560,
@@ -2041,7 +2044,7 @@
             "name-USen": "milkmaid hat"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 3200,
         "sell-price": 800,
@@ -2138,7 +2141,7 @@
             "name-USen": "new year's silk hat"
         },
         "sources": [
-            "New Years"
+            "Gulliver"
         ],
         "buy-price": -1,
         "sell-price": 125,
@@ -2215,7 +2218,7 @@
             "name-USen": "nook inc. bandanna"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 500,
         "sell-price": 2500,
@@ -2230,7 +2233,7 @@
             "name-USen": "nook inc. cap"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 500,
         "sell-price": 2500,
@@ -2321,7 +2324,8 @@
             "name-USen": "outdoor hat"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 1100,
         "sell-price": 275,
@@ -2375,7 +2379,8 @@
             "name-USen": "paisley bandanna"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 700,
         "sell-price": 175,
@@ -2518,7 +2523,7 @@
             "name-USen": "pigtail"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": -1,
         "sell-price": 800,
@@ -2726,7 +2731,8 @@
             "name-USen": "rain hat"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 880,
         "sell-price": 220,
@@ -2943,7 +2949,7 @@
             "name-USen": "samurai wig"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 3200,
         "sell-price": 800,
@@ -3215,7 +3221,9 @@
         "name": {
             "name-USen": "soft-serve hat"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 630,
         "sell-price": 157,
         "variant": true,
@@ -3245,7 +3253,7 @@
             "name-USen": "sombrero"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": -1,
         "sell-price": 500,
@@ -3384,7 +3392,7 @@
             "name-USen": "straw boater"
         },
         "sources": [
-            "Able Sisters"
+            "Able Sisters (Summer)"
         ],
         "buy-price": 700,
         "sell-price": 175,
@@ -3414,7 +3422,9 @@
         "name": {
             "name-USen": "straw hat"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 490,
         "sell-price": 122,
         "variant": true,
@@ -3505,7 +3515,9 @@
         "name": {
             "name-USen": "sushi chef hat"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 880,
         "sell-price": 220,
         "variant": true,
@@ -3554,7 +3566,7 @@
             "name-USen": "tam-o'-shanter"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 2000,
         "sell-price": 500,
@@ -3727,7 +3739,7 @@
             "name-USen": "tubeteika"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 2000,
         "sell-price": 500,
@@ -3771,7 +3783,7 @@
             "name-USen": "tulip hat"
         },
         "sources": [
-            "Able Sisters"
+            "Nook Shopping"
         ],
         "buy-price": 630,
         "sell-price": 157,
@@ -3792,7 +3804,7 @@
             "name-USen": "turban"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 3200,
         "sell-price": 800,
@@ -3836,7 +3848,7 @@
             "name-USen": "veil"
         },
         "sources": [
-            "Mail from Gulliver"
+            "Gulliver"
         ],
         "buy-price": 3200,
         "sell-price": 800,

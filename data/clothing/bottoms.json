@@ -116,7 +116,9 @@
         "name": {
             "name-USen": "basketball shorts"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 980,
         "sell-price": 245,
         "variant": true,
@@ -193,7 +195,9 @@
         "name": {
             "name-USen": "boa shorts"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1200,
         "sell-price": 300,
         "variant": true,
@@ -222,7 +226,9 @@
         "name": {
             "name-USen": "boa skirt"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1300,
         "sell-price": 325,
         "variant": true,
@@ -558,7 +564,7 @@
             "name-USen": "chino pants"
         },
         "sources": [
-            "Nook Stop\nAble Sisters"
+            "Able Sisters"
         ],
         "buy-price": 700,
         "sell-price": 175,
@@ -887,7 +893,7 @@
             "name-USen": "denim cutoffs"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping, Able Sisters"
         ],
         "buy-price": 1120,
         "sell-price": 280,
@@ -911,7 +917,9 @@
         "name": {
             "name-USen": "denim painter's pants"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1560,
         "sell-price": 390,
         "variant": true,
@@ -935,7 +943,7 @@
             "name-USen": "denim pants"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Able Sisters"
         ],
         "buy-price": 1120,
         "sell-price": 280,
@@ -960,7 +968,7 @@
             "name-USen": "denim skirt"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Able Sisters"
         ],
         "buy-price": 1120,
         "sell-price": 280,
@@ -1183,7 +1191,7 @@
             "name-USen": "embroidered floral skirt"
         },
         "sources": [
-            "Able Sisters"
+            "Able Sisters (Summer)"
         ],
         "buy-price": 1320,
         "sell-price": 330,
@@ -1401,7 +1409,9 @@
         "name": {
             "name-USen": "football pants"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 980,
         "sell-price": 245,
         "variant": true,
@@ -1613,7 +1623,9 @@
         "name": {
             "name-USen": "gingham picnic skirt"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 880,
         "sell-price": 220,
         "variant": true,
@@ -1824,7 +1836,10 @@
         "name": {
             "name-USen": "labelle shorts"
         },
-        "sources": [],
+        "sources": [
+            "Label",
+            "Able Sisters after unlocking from Label"
+        ],
         "buy-price": 2540,
         "sell-price": 635,
         "variant": true,
@@ -1849,7 +1864,10 @@
         "name": {
             "name-USen": "labelle skirt"
         },
-        "sources": [],
+        "sources": [
+            "Label",
+            "Able Sisters after unlocking from Label"
+        ],
         "buy-price": 3100,
         "sell-price": 775,
         "variant": true,
@@ -2225,7 +2243,8 @@
             "name-USen": "outdoor shorts"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 700,
         "sell-price": 175,
@@ -2279,7 +2298,7 @@
             "name-USen": "patchwork skirt"
         },
         "sources": [
-            "Able Sisters"
+            "Able Sisters (Summer)"
         ],
         "buy-price": 2100,
         "sell-price": 525,
@@ -2993,7 +3012,7 @@
             "name-USen": "sweatpants"
         },
         "sources": [
-            "Nook StopAble Sisters"
+            "Nook Shopping"
         ],
         "buy-price": 800,
         "sell-price": 200,
@@ -3223,7 +3242,9 @@
         "name": {
             "name-USen": "traditional suteteko pants"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 560,
         "sell-price": 140,
         "variant": true,
@@ -3320,7 +3341,7 @@
             "name-USen": "two-tone pants"
         },
         "sources": [
-            "Able Sisters"
+            "Nook Shipping"
         ],
         "buy-price": 880,
         "sell-price": 220,
@@ -3404,6 +3425,7 @@
             "name-USen": "wide chino pants"
         },
         "sources": [
+            "Nook Shopping",
             "Able Sisters"
         ],
         "buy-price": 1100,
@@ -3429,7 +3451,7 @@
             "name-USen": "workout pants"
         },
         "sources": [
-            ""
+            "Able Sisters"
         ],
         "buy-price": 880,
         "sell-price": 220,
@@ -3496,7 +3518,7 @@
             "name-USen": "yacht shorts"
         },
         "sources": [
-            "Able Sisters"
+            "Nook Shopping"
         ],
         "buy-price": 840,
         "sell-price": 210,

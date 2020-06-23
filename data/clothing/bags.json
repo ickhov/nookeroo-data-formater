@@ -172,7 +172,7 @@
             "name-USen": "dal backpack"
         },
         "sources": [
-            "Dodo Airlines"
+            "In the mail"
         ],
         "buy-price": -1,
         "sell-price": 1010,
@@ -269,7 +269,7 @@
             "name-USen": "fish pochette"
         },
         "sources": [
-            "Fishing Tourney reward from C.J."
+            "Fishing tournament prize pool (January, April, July, October)"
         ],
         "buy-price": -1,
         "sell-price": 210,
@@ -470,7 +470,7 @@
             "name-USen": "mom's knapsack"
         },
         "sources": [
-            "Mail from Mom"
+            "In the mail"
         ],
         "buy-price": -1,
         "sell-price": 175,
@@ -501,7 +501,7 @@
             "name-USen": "nook inc. knapsack"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 800,
         "sell-price": 4000,
@@ -736,7 +736,7 @@
             "name-USen": "tackle bag"
         },
         "sources": [
-            "Fishing Tourney reward from C.J."
+            "Fishing tournament prize pool (January, April, July, October)"
         ],
         "buy-price": -1,
         "sell-price": 175,

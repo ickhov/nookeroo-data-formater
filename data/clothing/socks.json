@@ -647,7 +647,8 @@
             "name-USen": "labelle socks"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 940,
         "sell-price": 235,
@@ -674,7 +675,8 @@
             "name-USen": "labelle tights"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 1240,
         "sell-price": 310,
@@ -892,7 +894,7 @@
             "name-USen": "nook inc. socks"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 400,
         "sell-price": 2000,

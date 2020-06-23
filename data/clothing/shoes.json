@@ -40,6 +40,7 @@
             "name-USen": "babouches"
         },
         "sources": [
+            "Able Sisters",
             "Kicks"
         ],
         "buy-price": 560,
@@ -71,7 +72,8 @@
             "name-USen": "ballet slippers"
         },
         "sources": [
-            "Able Sisters"
+            "Able Sisters",
+            "Kicks"
         ],
         "buy-price": 2200,
         "sell-price": 550,
@@ -341,7 +343,7 @@
             "name-USen": "dal slippers"
         },
         "sources": [
-            "Mail from Dodo Airlines"
+            "In the mail"
         ],
         "buy-price": -1,
         "sell-price": 1010,
@@ -767,7 +769,8 @@
             "name-USen": "labelle pumps"
         },
         "sources": [
-            "Able SistersLabel"
+            "Label",
+            "Able Sisters after unlocking from Label"
         ],
         "buy-price": 3500,
         "sell-price": 875,
@@ -793,7 +796,10 @@
         "name": {
             "name-USen": "labelle sneakers"
         },
-        "sources": [],
+        "sources": [
+            "Label",
+            "Able Sisters after unlocking from Label"
+        ],
         "buy-price": 3300,
         "sell-price": 825,
         "variant": true,
@@ -994,7 +1000,7 @@
             "name-USen": "moccasins"
         },
         "sources": [
-            "Able SistersKicks"
+            "Able Sisters"
         ],
         "buy-price": 1080,
         "sell-price": 270,
@@ -1023,7 +1029,7 @@
             "name-USen": "nook inc. slippers"
         },
         "sources": [
-            "Nook Stop"
+            "Nook Miles System"
         ],
         "buy-price": 400,
         "sell-price": 2000,
@@ -1200,7 +1206,8 @@
             "name-USen": "rain boots"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 490,
         "sell-price": 122,
@@ -1231,7 +1238,7 @@
             "name-USen": "recycled boots"
         },
         "sources": [
-            "DIY Recipes"
+            "DIY (Fishing up a boot)"
         ],
         "buy-price": -1,
         "sell-price": 40,
@@ -1331,7 +1338,8 @@
             "name-USen": "rubber-toe sneakers"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Able Sisters",
+            "Nook Shopping"
         ],
         "buy-price": 1080,
         "sell-price": 270,
@@ -1387,6 +1395,7 @@
             "name-USen": "shiny bow platform shoes"
         },
         "sources": [
+            "Able Sisters",
             "Kicks"
         ],
         "buy-price": 2400,
@@ -1481,7 +1490,8 @@
             "name-USen": "slip-on loafers"
         },
         "sources": [
-            "Able Sisters Nook Stop"
+            "Nook Shopping",
+            "Able Sisters"
         ],
         "buy-price": 490,
         "sell-price": 122,
@@ -1870,7 +1880,9 @@
         "name": {
             "name-USen": "water sandals"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters (Summer)"
+        ],
         "buy-price": 1040,
         "sell-price": 260,
         "variant": true,
@@ -1900,7 +1912,7 @@
             "name-USen": "water shoes"
         },
         "sources": [
-            "Nook StopAble Sisters"
+            "Able Sisters"
         ],
         "buy-price": 900,
         "sell-price": 225,
@@ -2028,6 +2040,7 @@
             "name-USen": "wooden clogs"
         },
         "sources": [
+            "Able Sisters",
             "Kicks"
         ],
         "buy-price": 1300,
@@ -2084,7 +2097,7 @@
             "name-USen": "wrestling shoes"
         },
         "sources": [
-            "Kicks"
+            "Able Sisters"
         ],
         "buy-price": 1080,
         "sell-price": 270,

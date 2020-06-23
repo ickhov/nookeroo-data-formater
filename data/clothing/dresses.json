@@ -667,7 +667,9 @@
         "name": {
             "name-USen": "bunny dress"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1800,
         "sell-price": 450,
         "variant": true,
@@ -832,7 +834,7 @@
             "name-USen": "checkered jumper dress"
         },
         "sources": [
-            "*Able Sisters"
+            "Able Sisters"
         ],
         "buy-price": 1840,
         "sell-price": 460,
@@ -1729,7 +1731,9 @@
         "name": {
             "name-USen": "flight-crew uniform"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 2800,
         "sell-price": 700,
         "variant": true,
@@ -2456,7 +2460,10 @@
         "name": {
             "name-USen": "labelle dress"
         },
-        "sources": [],
+        "sources": [
+            "Label",
+            "Able Sisters after unlocking from Label"
+        ],
         "buy-price": 3400,
         "sell-price": 850,
         "variant": true,
@@ -2542,7 +2549,9 @@
         "name": {
             "name-USen": "layered tank dress"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1200,
         "sell-price": 300,
         "variant": true,
@@ -3020,7 +3029,9 @@
         "name": {
             "name-USen": "nightgown"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 2100,
         "sell-price": 525,
         "variant": true,
@@ -3853,7 +3864,9 @@
         "name": {
             "name-USen": "rugby uniform"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1760,
         "sell-price": 440,
         "variant": true,
@@ -4411,7 +4424,7 @@
             "name-USen": "stellar jumpsuit"
         },
         "sources": [
-            "Able SistersGift from Villager"
+            "Able Sisters"
         ],
         "buy-price": 1600,
         "sell-price": 400,
@@ -4465,7 +4478,9 @@
         "name": {
             "name-USen": "striped dress"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1600,
         "sell-price": 400,
         "variant": true,
@@ -4562,7 +4577,7 @@
             "name-USen": "suit of lights"
         },
         "sources": [
-            "Able SistersGift from Villager"
+            "Able Sisters"
         ],
         "buy-price": 2520,
         "sell-price": 630,
@@ -4609,7 +4624,9 @@
         "name": {
             "name-USen": "sunflower dress"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1500,
         "sell-price": 375,
         "variant": true,
@@ -4793,7 +4810,9 @@
         "name": {
             "name-USen": "tiger-face tee dress"
         },
-        "sources": [],
+        "sources": [
+            "Able Sisters"
+        ],
         "buy-price": 1200,
         "sell-price": 300,
         "variant": true,
