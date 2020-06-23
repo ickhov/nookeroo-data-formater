@@ -1,0 +1,1521 @@
+{
+    "bamboo-wall-decoration": {
+        "name": {
+            "name-USen": "bamboo wall decoration"
+        },
+        "sources": [
+            "Jock island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 160,
+        "image-uri": "bamboo-wall-decoration.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 1,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "blue-rose-wreath": {
+        "name": {
+            "name-USen": "blue rose wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 20000,
+        "image-uri": "blue-rose-wreath.png",
+        "materials": [
+            {
+                "name": "blue-roses",
+                "count": 10,
+                "image-uri": "blue-roses.png"
+            }
+        ]
+    },
+    "bone-doorplate": {
+        "name": {
+            "name-USen": "bone doorplate"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 360,
+        "image-uri": "bone-doorplate.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 3,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "boomerang": {
+        "name": {
+            "name-USen": "boomerang"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 360,
+        "image-uri": "boomerang.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 3,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "bunny-day-glowy-garland": {
+        "name": {
+            "name-USen": "bunny day glowy garland"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bunny-day-glowy-garland.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 1,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 1,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 1,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 1,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 1,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 1,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "bunny-day-wall-clock": {
+        "name": {
+            "name-USen": "bunny day wall clock"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 1200,
+        "image-uri": "bunny-day-wall-clock.png",
+        "materials": [
+            {
+                "name": "sky-egg",
+                "count": 3,
+                "image-uri": "sky-egg.png"
+            }
+        ]
+    },
+    "bunny-day-wreath": {
+        "name": {
+            "name-USen": "bunny day wreath"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bunny-day-wreath.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 1,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 1,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 1,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 1,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 1,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 1,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "cherry-lamp": {
+        "name": {
+            "name-USen": "cherry lamp"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native fruit is cherries",
+            "Peppy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 2400,
+        "image-uri": "cherry-lamp.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 10,
+                "image-uri": "cherry.png"
+            },
+            {
+                "name": "clay",
+                "count": 2,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "cherry-blossom-clock": {
+        "name": {
+            "name-USen": "cherry-blossom clock"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 2750,
+        "image-uri": "cherry-blossom-clock.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 5,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "chic-cosmos-wreath": {
+        "name": {
+            "name-USen": "chic cosmos wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 4800,
+        "image-uri": "chic-cosmos-wreath.png",
+        "materials": [
+            {
+                "name": "black-cosmos",
+                "count": 10,
+                "image-uri": "black-cosmos.png"
+            }
+        ]
+    },
+    "chic-windflower-wreath": {
+        "name": {
+            "name-USen": "chic windflower wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 4800,
+        "image-uri": "chic-windflower-wreath.png",
+        "materials": [
+            {
+                "name": "purple-windflowers",
+                "count": 10,
+                "image-uri": "purple-windflowers.png"
+            }
+        ]
+    },
+    "coconut-wall-planter": {
+        "name": {
+            "name-USen": "coconut wall planter"
+        },
+        "sources": [
+            "Snooty island resident"
+        ],
+        "sell-price": 600,
+        "image-uri": "coconut-wall-planter.png",
+        "materials": [
+            {
+                "name": "coconut",
+                "count": 1,
+                "image-uri": "coconut.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 5,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "cool-hyacinth-wreath": {
+        "name": {
+            "name-USen": "cool hyacinth wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1440,
+        "image-uri": "cool-hyacinth-wreath.png",
+        "materials": [
+            {
+                "name": "orange-hyacinths",
+                "count": 3,
+                "image-uri": "orange-hyacinths.png"
+            },
+            {
+                "name": "blue-hyacinths",
+                "count": 3,
+                "image-uri": "blue-hyacinths.png"
+            },
+            {
+                "name": "pink-hyacinths",
+                "count": 3,
+                "image-uri": "pink-hyacinths.png"
+            }
+        ]
+    },
+    "cool-pansy-wreath": {
+        "name": {
+            "name-USen": "cool pansy wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 4800,
+        "image-uri": "cool-pansy-wreath.png",
+        "materials": [
+            {
+                "name": "purple-pansies",
+                "count": 10,
+                "image-uri": "purple-pansies.png"
+            }
+        ]
+    },
+    "cool-windflower-wreath": {
+        "name": {
+            "name-USen": "cool windflower wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "cool-windflower-wreath.png",
+        "materials": [
+            {
+                "name": "blue-windflowers",
+                "count": 3,
+                "image-uri": "blue-windflowers.png"
+            },
+            {
+                "name": "pink-windflowers",
+                "count": 3,
+                "image-uri": "pink-windflowers.png"
+            },
+            {
+                "name": "white-windflowers",
+                "count": 3,
+                "image-uri": "white-windflowers.png"
+            }
+        ]
+    },
+    "cosmos-wreath": {
+        "name": {
+            "name-USen": "cosmos wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is cosmos",
+            "Any island resident"
+        ],
+        "sell-price": 720,
+        "image-uri": "cosmos-wreath.png",
+        "materials": [
+            {
+                "name": "yellow-cosmos",
+                "count": 3,
+                "image-uri": "yellow-cosmos.png"
+            },
+            {
+                "name": "white-cosmos",
+                "count": 3,
+                "image-uri": "white-cosmos.png"
+            },
+            {
+                "name": "red-cosmos",
+                "count": 3,
+                "image-uri": "red-cosmos.png"
+            }
+        ]
+    },
+    "crest-doorplate": {
+        "name": {
+            "name-USen": "crest doorplate"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 3000,
+        "image-uri": "crest-doorplate.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 4,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "dark-lily-wreath": {
+        "name": {
+            "name-USen": "dark lily wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1600,
+        "image-uri": "dark-lily-wreath.png",
+        "materials": [
+            {
+                "name": "black-lilies",
+                "count": 10,
+                "image-uri": "black-lilies.png"
+            }
+        ]
+    },
+    "dark-rose-wreath": {
+        "name": {
+            "name-USen": "dark rose wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 4320,
+        "image-uri": "dark-rose-wreath.png",
+        "materials": [
+            {
+                "name": "black-roses",
+                "count": 3,
+                "image-uri": "black-roses.png"
+            },
+            {
+                "name": "purple-roses",
+                "count": 6,
+                "image-uri": "purple-roses.png"
+            }
+        ]
+    },
+    "dark-tulip-wreath": {
+        "name": {
+            "name-USen": "dark tulip wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1600,
+        "image-uri": "dark-tulip-wreath.png",
+        "materials": [
+            {
+                "name": "black-tulips",
+                "count": 10,
+                "image-uri": "black-tulips.png"
+            }
+        ]
+    },
+    "deer-decoration": {
+        "name": {
+            "name-USen": "deer decoration"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 960,
+        "image-uri": "deer-decoration.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 8,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "fancy-mum-wreath": {
+        "name": {
+            "name-USen": "fancy mum wreath"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1200,
+        "image-uri": "fancy-mum-wreath.png",
+        "materials": [
+            {
+                "name": "pink-mums",
+                "count": 3,
+                "image-uri": "pink-mums.png"
+            },
+            {
+                "name": "purple-mums",
+                "count": 3,
+                "image-uri": "purple-mums.png"
+            },
+            {
+                "name": "red-mums",
+                "count": 3,
+                "image-uri": "red-mums.png"
+            }
+        ]
+    },
+    "fancy-lily-wreath": {
+        "name": {
+            "name-USen": "fancy lily wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "fancy-lily-wreath.png",
+        "materials": [
+            {
+                "name": "orange-lilies",
+                "count": 3,
+                "image-uri": "orange-lilies.png"
+            },
+            {
+                "name": "pink-lilies",
+                "count": 3,
+                "image-uri": "pink-lilies.png"
+            },
+            {
+                "name": "yellow-lilies",
+                "count": 3,
+                "image-uri": "yellow-lilies.png"
+            }
+        ]
+    },
+    "fancy-rose-wreath": {
+        "name": {
+            "name-USen": "fancy rose wreath"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1200,
+        "image-uri": "fancy-rose-wreath.png",
+        "materials": [
+            {
+                "name": "orange-roses",
+                "count": 3,
+                "image-uri": "orange-roses.png"
+            },
+            {
+                "name": "pink-roses",
+                "count": 3,
+                "image-uri": "pink-roses.png"
+            },
+            {
+                "name": "yellow-roses",
+                "count": 3,
+                "image-uri": "yellow-roses.png"
+            }
+        ]
+    },
+    "floral-swag": {
+        "name": {
+            "name-USen": "floral swag"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 200,
+        "image-uri": "floral-swag.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "fossil-doorplate": {
+        "name": {
+            "name-USen": "fossil doorplate"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 500,
+        "image-uri": "fossil-doorplate.png",
+        "materials": [
+            {
+                "name": "fossil",
+                "count": 1,
+                "image-uri": "fossil.png"
+            },
+            {
+                "name": "stone",
+                "count": 2,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "fruit-wreath": {
+        "name": {
+            "name-USen": "fruit wreath"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 2000,
+        "image-uri": "fruit-wreath.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 2,
+                "image-uri": "apple.png"
+            },
+            {
+                "name": "pear",
+                "count": 1,
+                "image-uri": "pear.png"
+            },
+            {
+                "name": "cherry",
+                "count": 3,
+                "image-uri": "cherry.png"
+            },
+            {
+                "name": "orange",
+                "count": 3,
+                "image-uri": "orange.png"
+            },
+            {
+                "name": "peach",
+                "count": 1,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "gold-rose-wreath": {
+        "name": {
+            "name-USen": "gold rose wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 20000,
+        "image-uri": "gold-rose-wreath.png",
+        "materials": [
+            {
+                "name": "gold-roses",
+                "count": 10,
+                "image-uri": "gold-roses.png"
+            }
+        ]
+    },
+    "golden-gears": {
+        "name": {
+            "name-USen": "golden gears"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 11125,
+        "image-uri": "golden-gears.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 3,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "hanging-terrarium": {
+        "name": {
+            "name-USen": "hanging terrarium"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 3240,
+        "image-uri": "hanging-terrarium.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 12,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 4,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "hyacinth-wreath": {
+        "name": {
+            "name-USen": "hyacinth wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is hyacinths",
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 720,
+        "image-uri": "hyacinth-wreath.png",
+        "materials": [
+            {
+                "name": "white-hyacinths",
+                "count": 3,
+                "image-uri": "white-hyacinths.png"
+            },
+            {
+                "name": "red-hyacinths",
+                "count": 3,
+                "image-uri": "red-hyacinths.png"
+            },
+            {
+                "name": "yellow-hyacinths",
+                "count": 3,
+                "image-uri": "yellow-hyacinths.png"
+            }
+        ]
+    },
+    "iron-doorplate": {
+        "name": {
+            "name-USen": "iron doorplate"
+        },
+        "sources": [
+            "Uchi island resident",
+            "Balloon"
+        ],
+        "sell-price": 1500,
+        "image-uri": "iron-doorplate.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "iron-wall-lamp": {
+        "name": {
+            "name-USen": "iron wall lamp"
+        },
+        "sources": [
+            "Wildest Dreams DIY"
+        ],
+        "sell-price": 3400,
+        "image-uri": "iron-wall-lamp.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 4,
+                "image-uri": "iron-nugget.png"
+            },
+            {
+                "name": "clay",
+                "count": 2,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "iron-wall-rack": {
+        "name": {
+            "name-USen": "iron wall rack"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 2450,
+        "image-uri": "iron-wall-rack.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 3,
+                "image-uri": "iron-nugget.png"
+            },
+            {
+                "name": "clay",
+                "count": 1,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "ironwood-clock": {
+        "name": {
+            "name-USen": "ironwood clock"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1740,
+        "image-uri": "ironwood-clock.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 2,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "key-holder": {
+        "name": {
+            "name-USen": "key holder"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 1110,
+        "image-uri": "key-holder.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "leo-sculpture": {
+        "name": {
+            "name-USen": "leo sculpture"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 21975,
+        "image-uri": "leo-sculpture.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "leo-fragment",
+                "count": 2,
+                "image-uri": "leo-fragment.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            },
+            {
+                "name": "stone",
+                "count": 3,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "lily-wreath": {
+        "name": {
+            "name-USen": "lily wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is lilies",
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 720,
+        "image-uri": "lily-wreath.png",
+        "materials": [
+            {
+                "name": "white-lilies",
+                "count": 3,
+                "image-uri": "white-lilies.png"
+            },
+            {
+                "name": "red-lilies",
+                "count": 3,
+                "image-uri": "red-lilies.png"
+            },
+            {
+                "name": "yellow-lilies",
+                "count": 3,
+                "image-uri": "yellow-lilies.png"
+            }
+        ]
+    },
+    "log-wall-mounted-clock": {
+        "name": {
+            "name-USen": "log wall-mounted clock"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 990,
+        "image-uri": "log-wall-mounted-clock.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 2,
+                "image-uri": "hardwood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "mum-wreath": {
+        "name": {
+            "name-USen": "mum wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is mums",
+            "Any island resident"
+        ],
+        "sell-price": 720,
+        "image-uri": "mum-wreath.png",
+        "materials": [
+            {
+                "name": "white-mums",
+                "count": 3,
+                "image-uri": "white-mums.png"
+            },
+            {
+                "name": "yellow-mums",
+                "count": 3,
+                "image-uri": "yellow-mums.png"
+            },
+            {
+                "name": "red-mums",
+                "count": 3,
+                "image-uri": "red-mums.png"
+            }
+        ]
+    },
+    "mushroom-wreath": {
+        "name": {
+            "name-USen": "mushroom wreath"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 1500,
+        "image-uri": "mushroom-wreath.png",
+        "materials": [
+            {
+                "name": "tree-branch",
+                "count": 10,
+                "image-uri": "tree-branch.png"
+            },
+            {
+                "name": "round-mushroom",
+                "count": 1,
+                "image-uri": "round-mushroom.png"
+            },
+            {
+                "name": "skinny-mushroom",
+                "count": 1,
+                "image-uri": "skinny-mushroom.png"
+            },
+            {
+                "name": "flat-mushroom",
+                "count": 1,
+                "image-uri": "flat-mushroom.png"
+            }
+        ]
+    },
+    "natural-mum-wreath": {
+        "name": {
+            "name-USen": "natural mum wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 4800,
+        "image-uri": "natural-mum-wreath.png",
+        "materials": [
+            {
+                "name": "green-mums",
+                "count": 10,
+                "image-uri": "green-mums.png"
+            }
+        ]
+    },
+    "orange-wall-mounted-clock": {
+        "name": {
+            "name-USen": "orange wall-mounted clock"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native fruit is oranges",
+            "Lazy island resident"
+        ],
+        "sell-price": 2240,
+        "image-uri": "orange-wall-mounted-clock.png",
+        "materials": [
+            {
+                "name": "orange",
+                "count": 10,
+                "image-uri": "orange.png"
+            },
+            {
+                "name": "wood",
+                "count": 2,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "ornament-mobile": {
+        "name": {
+            "name-USen": "ornament mobile"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 340,
+        "image-uri": "ornament-mobile.png",
+        "materials": [
+            {
+                "name": "red-ornament",
+                "count": 1,
+                "image-uri": "red-ornament.png"
+            },
+            {
+                "name": "blue-ornament",
+                "count": 1,
+                "image-uri": "blue-ornament.png"
+            },
+            {
+                "name": "gold-ornament",
+                "count": 1,
+                "image-uri": "gold-ornament.png"
+            },
+            {
+                "name": "tree-branch",
+                "count": 4,
+                "image-uri": "tree-branch.png"
+            }
+        ]
+    },
+    "ornament-wreath": {
+        "name": {
+            "name-USen": "ornament wreath"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 800,
+        "image-uri": "ornament-wreath.png",
+        "materials": [
+            {
+                "name": "blue-ornament",
+                "count": 6,
+                "image-uri": "blue-ornament.png"
+            },
+            {
+                "name": "gold-ornament",
+                "count": 2,
+                "image-uri": "gold-ornament.png"
+            }
+        ]
+    },
+    "pansy-wreath": {
+        "name": {
+            "name-USen": "pansy wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is pansies",
+            "Any island resident"
+        ],
+        "sell-price": 720,
+        "image-uri": "pansy-wreath.png",
+        "materials": [
+            {
+                "name": "yellow-pansies",
+                "count": 3,
+                "image-uri": "yellow-pansies.png"
+            },
+            {
+                "name": "white-pansies",
+                "count": 3,
+                "image-uri": "white-pansies.png"
+            },
+            {
+                "name": "red-pansies",
+                "count": 3,
+                "image-uri": "red-pansies.png"
+            }
+        ]
+    },
+    "paw-print-doorplate": {
+        "name": {
+            "name-USen": "paw-print doorplate"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 360,
+        "image-uri": "paw-print-doorplate.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "potted-ivy": {
+        "name": {
+            "name-USen": "potted ivy"
+        },
+        "sources": [
+            "Test Your DIY Skills"
+        ],
+        "sell-price": 1100,
+        "image-uri": "potted-ivy.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 5,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "clay",
+                "count": 5,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "pretty-cosmos-wreath": {
+        "name": {
+            "name-USen": "pretty cosmos wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "pretty-cosmos-wreath.png",
+        "materials": [
+            {
+                "name": "orange-cosmos",
+                "count": 3,
+                "image-uri": "orange-cosmos.png"
+            },
+            {
+                "name": "pink-cosmos",
+                "count": 3,
+                "image-uri": "pink-cosmos.png"
+            },
+            {
+                "name": "red-cosmos",
+                "count": 3,
+                "image-uri": "red-cosmos.png"
+            }
+        ]
+    },
+    "pretty-tulip-wreath": {
+        "name": {
+            "name-USen": "pretty tulip wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 2400,
+        "image-uri": "pretty-tulip-wreath.png",
+        "materials": [
+            {
+                "name": "orange-tulips",
+                "count": 3,
+                "image-uri": "orange-tulips.png"
+            },
+            {
+                "name": "pink-tulips",
+                "count": 3,
+                "image-uri": "pink-tulips.png"
+            },
+            {
+                "name": "purple-tulips",
+                "count": 3,
+                "image-uri": "purple-tulips.png"
+            }
+        ]
+    },
+    "purple-hyacinth-wreath": {
+        "name": {
+            "name-USen": "purple hyacinth wreath"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 4800,
+        "image-uri": "purple-hyacinth-wreath.png",
+        "materials": [
+            {
+                "name": "purple-hyacinths",
+                "count": 10,
+                "image-uri": "purple-hyacinths.png"
+            }
+        ]
+    },
+    "rose-wreath": {
+        "name": {
+            "name-USen": "rose wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is roses",
+            "Any island resident"
+        ],
+        "sell-price": 720,
+        "image-uri": "rose-wreath.png",
+        "materials": [
+            {
+                "name": "red-roses",
+                "count": 3,
+                "image-uri": "red-roses.png"
+            },
+            {
+                "name": "white-roses",
+                "count": 3,
+                "image-uri": "white-roses.png"
+            },
+            {
+                "name": "yellow-roses",
+                "count": 3,
+                "image-uri": "yellow-roses.png"
+            }
+        ]
+    },
+    "sagittarius-arrow": {
+        "name": {
+            "name-USen": "sagittarius arrow"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 21750,
+        "image-uri": "sagittarius-arrow.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "sagittarius-fragment",
+                "count": 2,
+                "image-uri": "sagittarius-fragment.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "shell-wreath": {
+        "name": {
+            "name-USen": "shell wreath"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4720,
+        "image-uri": "shell-wreath.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 1,
+                "image-uri": "summer-shell.png"
+            },
+            {
+                "name": "sea-snail",
+                "count": 1,
+                "image-uri": "sea-snail.png"
+            },
+            {
+                "name": "sand-dollar",
+                "count": 1,
+                "image-uri": "sand-dollar.png"
+            },
+            {
+                "name": "coral",
+                "count": 1,
+                "image-uri": "coral.png"
+            },
+            {
+                "name": "giant-clam",
+                "count": 1,
+                "image-uri": "giant-clam.png"
+            }
+        ]
+    },
+    "snazzy-pansy-wreath": {
+        "name": {
+            "name-USen": "snazzy pansy wreath"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1200,
+        "image-uri": "snazzy-pansy-wreath.png",
+        "materials": [
+            {
+                "name": "yellow-pansies",
+                "count": 3,
+                "image-uri": "yellow-pansies.png"
+            },
+            {
+                "name": "orange-pansies",
+                "count": 3,
+                "image-uri": "orange-pansies.png"
+            },
+            {
+                "name": "blue-pansies",
+                "count": 3,
+                "image-uri": "blue-pansies.png"
+            }
+        ]
+    },
+    "snowflake-wreath": {
+        "name": {
+            "name-USen": "snowflake wreath"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 1600,
+        "image-uri": "snowflake-wreath.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 4,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "starry-garland": {
+        "name": {
+            "name-USen": "starry garland"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 5000,
+        "image-uri": "starry-garland.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 10,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "timber-doorplate": {
+        "name": {
+            "name-USen": "timber doorplate"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Balloon"
+        ],
+        "sell-price": 400,
+        "image-uri": "timber-doorplate.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 2,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "pink-roses",
+                "count": 1,
+                "image-uri": "pink-roses.png"
+            }
+        ]
+    },
+    "tree's-bounty-mobile": {
+        "name": {
+            "name-USen": "tree's bounty mobile"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 2030,
+        "image-uri": "tree's-bounty-mobile.png",
+        "materials": [
+            {
+                "name": "pine-cone",
+                "count": 2,
+                "image-uri": "pine-cone.png"
+            },
+            {
+                "name": "acorn",
+                "count": 3,
+                "image-uri": "acorn.png"
+            },
+            {
+                "name": "tree-branch",
+                "count": 3,
+                "image-uri": "tree-branch.png"
+            }
+        ]
+    },
+    "tree-branch-wreath": {
+        "name": {
+            "name-USen": "tree branch wreath"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 100,
+        "image-uri": "tree-branch-wreath.png",
+        "materials": [
+            {
+                "name": "tree-branch",
+                "count": 10,
+                "image-uri": "tree-branch.png"
+            }
+        ]
+    },
+    "tulip-wreath": {
+        "name": {
+            "name-USen": "tulip wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is tulips",
+            "Any island resident"
+        ],
+        "sell-price": 720,
+        "image-uri": "tulip-wreath.png",
+        "materials": [
+            {
+                "name": "red-tulips",
+                "count": 3,
+                "image-uri": "red-tulips.png"
+            },
+            {
+                "name": "yellow-tulips",
+                "count": 3,
+                "image-uri": "yellow-tulips.png"
+            },
+            {
+                "name": "white-tulips",
+                "count": 3,
+                "image-uri": "white-tulips.png"
+            }
+        ]
+    },
+    "windflower-wreath": {
+        "name": {
+            "name-USen": "windflower wreath"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native flower is windflowers",
+            "Any island resident"
+        ],
+        "sell-price": 720,
+        "image-uri": "windflower-wreath.png",
+        "materials": [
+            {
+                "name": "red-windflowers",
+                "count": 3,
+                "image-uri": "red-windflowers.png"
+            },
+            {
+                "name": "white-windflowers",
+                "count": 3,
+                "image-uri": "white-windflowers.png"
+            },
+            {
+                "name": "orange-windflowers",
+                "count": 3,
+                "image-uri": "orange-windflowers.png"
+            }
+        ]
+    },
+    "wooden-block-wall-clock": {
+        "name": {
+            "name-USen": "wooden-block wall clock"
+        },
+        "sources": [
+            "Peppy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1350,
+        "image-uri": "wooden-block-wall-clock.png",
+        "materials": [
+            {
+                "name": "wooden-block-toy",
+                "count": 1,
+                "image-uri": "wooden-block-toy.png"
+            },
+            {
+                "name": "softwood",
+                "count": 2,
+                "image-uri": "softwood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "wooden-plank-sign": {
+        "name": {
+            "name-USen": "wooden-plank sign"
+        },
+        "sources": [
+            "Cranky island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 600,
+        "image-uri": "wooden-plank-sign.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    }
+}

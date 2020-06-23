@@ -193,13 +193,13 @@ def generateFunitureData():
             if not os.path.exists(category_image_dir):
                 os.makedirs(category_image_dir)
             
-            # if image_link:
-            #     try:
-            #         urllib.request.urlretrieve(image_link, category_image_dir + image_name)
-            #     except HTTPError as err:
-            #         print(image_link)
-            #     except IndexError as err:
-            #         print(new_key)
+            if image_link:
+                try:
+                    urllib.request.urlretrieve(image_link, category_image_dir + image_name)
+                except HTTPError as err:
+                    print(image_link)
+                except IndexError as err:
+                    print(new_key)
 
             category[new_key] = {
                 "name": {
@@ -218,9 +218,114 @@ def generateFunitureData():
 
         print(len(data))
 
+def generateRecipeData():
+
+    images_dir = dir.image + dir.recipe
+    json_dir = dir.json + dir.recipe
+
+    # create a list of directories to loop through
+    dirs = [
+        dir.recipe_clothing,
+        dir.recipe_housewares,
+        dir.recipe_miscellaneous,
+        dir.recipe_others,
+        dir.recipe_tools,
+        dir.recipe_wallmounted,
+        dir.recipe_decorations
+    ]
+
+    for d in dirs:
+        category_image_dir = images_dir + d[0]
+        category = {}
+
+        with open(dir.cwd + dir.recipe + d[1]) as f:
+            data = json.load(f)
+
+        for k, value in data.items():
+            # get the cross reference data for better accuracy
+            key = unidecode.unidecode(k)
+            alter_key = key.lower().replace("-", "_").replace(" ", "_")
+            cross_reference_key = re.sub(r'[^\w]', '', alter_key).replace("_", "-").replace("--", "-")
+            
+            error = False
+            try:
+                with open(dir.cwd + "items/" + cross_reference_key + ".json") as f:
+                    cross_reference = json.load(f)
+            except FileNotFoundError as err:
+                error = True
+
+            cross_reference_data = cross_reference["games"]["nh"] if not error else {}
+
+            new_key = key.lower().replace(" ", "-")
+
+            image_link = value["image_url"] or None
+            sell_price = cross_reference_data["sellPrice"]["value"] if "sellPrice" in cross_reference_data else value["price"]
+            sources = value["obtained_from"]
+
+            image_name = new_key + ".png"
+
+            # download images from the web
+            if not os.path.exists(category_image_dir):
+                os.makedirs(category_image_dir)
+            
+            if image_link:
+                try:
+                    urllib.request.urlretrieve(image_link, category_image_dir + image_name)
+                except HTTPError as err:
+                    print(image_link)
+            else:
+                print("No image linnk for " + material_name)
+
+            materials = []
+
+            for m_key, m_value in value["materials"].items():
+                material_name = unidecode.unidecode(m_key).lower().replace(" ", "-")
+                material_count = m_value["amount"]
+                material_image_link = m_value["image_url"] or None
+                material_image_name = material_name + ".png"
+                material_image_dir = dir.image + "materials/"
+
+                if not os.path.exists(material_image_dir):
+                    os.makedirs(material_image_dir)
+
+                if material_image_link:
+                    try:
+                        urllib.request.urlretrieve(material_image_link, material_image_dir + material_image_name)
+                    except HTTPError as err:
+                        print(material_image_link)
+                else:
+                    print("No image link for " + material_name)
+
+                materials.append({
+                    "name": material_name,
+                    "count": material_count,
+                    "image-uri": material_image_name
+                })
+
+            if len(materials) == 0:
+                materials = None
+
+            category[new_key] = {
+                "name": {
+                    "name-USen": key.lower()
+                },
+                "sources": sources,
+                "sell-price": sell_price,
+                "image-uri": image_name,
+                "materials": materials
+            }
+
+        if not os.path.exists(json_dir):
+            os.makedirs(json_dir)
+        with open(json_dir + d[1], 'w') as json_file:
+            json.dump(category, json_file, indent = 4, sort_keys = False)
+
+        print(len(data))
+
 def main():
     #generateClothingData()
-    generateFunitureData()
+    #generateFunitureData()
+    generateRecipeData()
 
 
 if __name__ == "__main__": main()

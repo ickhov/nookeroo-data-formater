@@ -1,0 +1,857 @@
+{
+    "flimsy-axe": {
+        "name": {
+            "name-USen": "flimsy axe"
+        },
+        "sources": [
+            "Tom Nook"
+        ],
+        "sell-price": 200,
+        "image-uri": "flimsy-axe.png",
+        "materials": [
+            {
+                "name": "tree-branch",
+                "count": 5,
+                "image-uri": "tree-branch.png"
+            },
+            {
+                "name": "stone",
+                "count": 1,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "stone-axe": {
+        "name": {
+            "name-USen": "stone axe"
+        },
+        "sources": [
+            "Nook Stop (Pretty-Good Tools Recipes)"
+        ],
+        "sell-price": 560,
+        "image-uri": "stone-axe.png",
+        "materials": [
+            {
+                "name": "flimsy-axe",
+                "count": 1,
+                "image-uri": "flimsy-axe.png"
+            },
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "axe": {
+        "name": {
+            "name-USen": "axe"
+        },
+        "sources": [
+            "Nook Stop (Pretty-Good Tools Recipes)"
+        ],
+        "sell-price": 625,
+        "image-uri": "axe.png",
+        "materials": [
+            {
+                "name": "flimsy-axe",
+                "count": 1,
+                "image-uri": "flimsy-axe.png"
+            },
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "golden-axe": {
+        "name": {
+            "name-USen": "golden axe"
+        },
+        "sources": [
+            "Break axes 100 times"
+        ],
+        "sell-price": 10655,
+        "image-uri": "golden-axe.png",
+        "materials": [
+            {
+                "name": "axe",
+                "count": 1,
+                "image-uri": "axe.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "flimsy-shovel": {
+        "name": {
+            "name-USen": "flimsy shovel"
+        },
+        "sources": [
+            "Blathers"
+        ],
+        "sell-price": 200,
+        "image-uri": "flimsy-shovel.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "shovel": {
+        "name": {
+            "name-USen": "shovel"
+        },
+        "sources": [
+            "Nook Stop (Pretty-Good Tools Recipes)"
+        ],
+        "sell-price": 600,
+        "image-uri": "shovel.png",
+        "materials": [
+            {
+                "name": "flimsy-shovel",
+                "count": 1,
+                "image-uri": "flimsy-shovel.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "golden-shovel": {
+        "name": {
+            "name-USen": "golden shovel"
+        },
+        "sources": [
+            "Assist Gulliver 30 times"
+        ],
+        "sell-price": 10675,
+        "image-uri": "golden-shovel.png",
+        "materials": [
+            {
+                "name": "shovel",
+                "count": 1,
+                "image-uri": "shovel.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "flimsy-fishing-rod": {
+        "name": {
+            "name-USen": "flimsy fishing rod"
+        },
+        "sources": [
+            "Tom Nook (first DIY workshop)"
+        ],
+        "sell-price": 100,
+        "image-uri": "flimsy-fishing-rod.png",
+        "materials": [
+            {
+                "name": "tree-branch",
+                "count": 5,
+                "image-uri": "tree-branch.png"
+            }
+        ]
+    },
+    "fishing-rod": {
+        "name": {
+            "name-USen": "fishing rod"
+        },
+        "sources": [
+            "Nook Stop (Pretty-Good Tools Recipes)"
+        ],
+        "sell-price": 600,
+        "image-uri": "fishing-rod.png",
+        "materials": [
+            {
+                "name": "flimsy-fishing-rod",
+                "count": 1,
+                "image-uri": "flimsy-fishing-rod.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "golden-rod": {
+        "name": {
+            "name-USen": "golden rod"
+        },
+        "sources": [
+            "Complete the fish section of the critterpedia"
+        ],
+        "sell-price": 10400,
+        "image-uri": "golden-rod.png",
+        "materials": [
+            {
+                "name": "fishing-rod",
+                "count": 1,
+                "image-uri": "fishing-rod.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "flimsy-net": {
+        "name": {
+            "name-USen": "flimsy net"
+        },
+        "sources": [
+            "Tom Nook (first DIY workshop)"
+        ],
+        "sell-price": 100,
+        "image-uri": "flimsy-net.png",
+        "materials": [
+            {
+                "name": "tree-branch",
+                "count": 5,
+                "image-uri": "tree-branch.png"
+            }
+        ]
+    },
+    "net": {
+        "name": {
+            "name-USen": "net"
+        },
+        "sources": [
+            "Nook Stop (Pretty-Good Tools Recipes)"
+        ],
+        "sell-price": 600,
+        "image-uri": "net.png",
+        "materials": [
+            {
+                "name": "flimsy-net",
+                "count": 1,
+                "image-uri": "flimsy-net.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "golden-net": {
+        "name": {
+            "name-USen": "golden net"
+        },
+        "sources": [
+            "Complete the bug section of the Critterpedia"
+        ],
+        "sell-price": 10400,
+        "image-uri": "golden-net.png",
+        "materials": [
+            {
+                "name": "net",
+                "count": 1,
+                "image-uri": "net.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "flimsy-watering-can": {
+        "name": {
+            "name-USen": "flimsy watering can"
+        },
+        "sources": [
+            "Tom Nook"
+        ],
+        "sell-price": 200,
+        "image-uri": "flimsy-watering-can.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 5,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "watering-can": {
+        "name": {
+            "name-USen": "watering can"
+        },
+        "sources": [
+            "Nook Stop (Pretty-Good Tools Recipes)"
+        ],
+        "sell-price": 600,
+        "image-uri": "watering-can.png",
+        "materials": [
+            {
+                "name": "flimsy-watering-can",
+                "count": 1,
+                "image-uri": "flimsy-watering-can.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "golden-watering-can": {
+        "name": {
+            "name-USen": "golden watering can"
+        },
+        "sources": [
+            "Recipe obtained by Isabelle after attaining a 5-star town rating"
+        ],
+        "sell-price": 10675,
+        "image-uri": "golden-watering-can.png",
+        "materials": [
+            {
+                "name": "watering-can",
+                "count": 1,
+                "image-uri": "watering-can.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "slingshot": {
+        "name": {
+            "name-USen": "slingshot"
+        },
+        "sources": [
+            "Timmy"
+        ],
+        "sell-price": 225,
+        "image-uri": "slingshot.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "golden-slingshot": {
+        "name": {
+            "name-USen": "golden slingshot"
+        },
+        "sources": [
+            "Recipe obtainable from a golden balloon after shooting down 300 balloons"
+        ],
+        "sell-price": 10300,
+        "image-uri": "golden-slingshot.png",
+        "materials": [
+            {
+                "name": "slingshot",
+                "count": 1,
+                "image-uri": "slingshot.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "vaulting-pole": {
+        "name": {
+            "name-USen": "vaulting pole"
+        },
+        "sources": [
+            "Blathers"
+        ],
+        "sell-price": 600,
+        "image-uri": "vaulting-pole.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 5,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "ladder": {
+        "name": {
+            "name-USen": "ladder"
+        },
+        "sources": [
+            "Tom Nook after placing 2nd house plot"
+        ],
+        "sell-price": 1440,
+        "image-uri": "ladder.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 4,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 4,
+                "image-uri": "hardwood.png"
+            },
+            {
+                "name": "softwood",
+                "count": 4,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "star-wand": {
+        "name": {
+            "name-USen": "star wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 6500,
+        "image-uri": "star-wand.png",
+        "materials": [
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "bamboo-wand": {
+        "name": {
+            "name-USen": "bamboo wand"
+        },
+        "sources": [
+            "BalloonMessage in a bottle"
+        ],
+        "sell-price": 3900,
+        "image-uri": "bamboo-wand.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 6,
+                "image-uri": "young-spring-bamboo.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "mushroom-wand": {
+        "name": {
+            "name-USen": "mushroom wand"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 3300,
+        "image-uri": "mushroom-wand.png",
+        "materials": [
+            {
+                "name": "skinny-mushroom",
+                "count": 3,
+                "image-uri": "skinny-mushroom.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "cherry-blossom-wand": {
+        "name": {
+            "name-USen": "cherry-blossom wand"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 2700,
+        "image-uri": "cherry-blossom-wand.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 3,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "bunny-day-wand": {
+        "name": {
+            "name-USen": "bunny day wand"
+        },
+        "sources": [
+            "Recipe obtained from Zipper during the Bunny Day event"
+        ],
+        "sell-price": 11100,
+        "image-uri": "bunny-day-wand.png",
+        "materials": [
+            {
+                "name": "wobbling-zipper-toy",
+                "count": 1,
+                "image-uri": "wobbling-zipper-toy.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "cosmos-wand": {
+        "name": {
+            "name-USen": "cosmos wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1580,
+        "image-uri": "cosmos-wand.png",
+        "materials": [
+            {
+                "name": "white-cosmos",
+                "count": 1,
+                "image-uri": "white-cosmos.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "hyacinth-wand": {
+        "name": {
+            "name-USen": "hyacinth wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1660,
+        "image-uri": "hyacinth-wand.png",
+        "materials": [
+            {
+                "name": "pink-hyacinths",
+                "count": 1,
+                "image-uri": "pink-hyacinths.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "lily-wand": {
+        "name": {
+            "name-USen": "lily wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1580,
+        "image-uri": "lily-wand.png",
+        "materials": [
+            {
+                "name": "white-lilies",
+                "count": 1,
+                "image-uri": "white-lilies.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "mums-wand": {
+        "name": {
+            "name-USen": "mums wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1580,
+        "image-uri": "mums-wand.png",
+        "materials": [
+            {
+                "name": "yellow-mums",
+                "count": 1,
+                "image-uri": "yellow-mums.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "pansy-wand": {
+        "name": {
+            "name-USen": "pansy wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1580,
+        "image-uri": "pansy-wand.png",
+        "materials": [
+            {
+                "name": "yellow-pansies",
+                "count": 1,
+                "image-uri": "yellow-pansies.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "rose-wand": {
+        "name": {
+            "name-USen": "rose wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1580,
+        "image-uri": "rose-wand.png",
+        "materials": [
+            {
+                "name": "red-roses",
+                "count": 1,
+                "image-uri": "red-roses.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "tulip-wand": {
+        "name": {
+            "name-USen": "tulip wand"
+        },
+        "sources": [
+            "Recipe obtained from CelesteBalloon"
+        ],
+        "sell-price": 1580,
+        "image-uri": "tulip-wand.png",
+        "materials": [
+            {
+                "name": "red-tulips",
+                "count": 1,
+                "image-uri": "red-tulips.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "windflower-wand": {
+        "name": {
+            "name-USen": "windflower wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1580,
+        "image-uri": "windflower-wand.png",
+        "materials": [
+            {
+                "name": "orange-windflowers",
+                "count": 1,
+                "image-uri": "orange-windflowers.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "shell-wand": {
+        "name": {
+            "name-USen": "shell wand"
+        },
+        "sources": [
+            "*"
+        ],
+        "sell-price": 5100,
+        "image-uri": "shell-wand.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 3,
+                "image-uri": "summer-shell.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "ice-wand": {
+        "name": {
+            "name-USen": "ice wand"
+        },
+        "sources": [
+            "Recipe obtained from Snowboy"
+        ],
+        "sell-price": 6500,
+        "image-uri": "ice-wand.png",
+        "materials": [
+            {
+                "name": "large-snowflake",
+                "count": 1,
+                "image-uri": "large-snowflake.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "golden-wand": {
+        "name": {
+            "name-USen": "golden wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 20750,
+        "image-uri": "golden-wand.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "wand": {
+        "name": {
+            "name-USen": "wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1000,
+        "image-uri": "wand.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 2,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "tree-branch-wand": {
+        "name": {
+            "name-USen": "tree-branch wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 1550,
+        "image-uri": "tree-branch-wand.png",
+        "materials": [
+            {
+                "name": "tree-branch",
+                "count": 5,
+                "image-uri": "tree-branch.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "iron-wand": {
+        "name": {
+            "name-USen": "iron wand"
+        },
+        "sources": [
+            "Recipe obtained from Celeste"
+        ],
+        "sell-price": 3750,
+        "image-uri": "iron-wand.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 3,
+                "image-uri": "iron-nugget.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "wedding-wand": {
+        "name": {
+            "name-USen": "wedding wand"
+        },
+        "sources": [
+            "Wedding Season"
+        ],
+        "sell-price": 3500,
+        "image-uri": "wedding-wand.png",
+        "materials": [
+            {
+                "name": "wedding-flower-stand",
+                "count": 1,
+                "image-uri": "wedding-flower-stand.png"
+            },
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    }
+}

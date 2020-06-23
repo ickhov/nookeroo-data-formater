@@ -1,0 +1,1637 @@
+{
+    "apple-rug": {
+        "name": {
+            "name-USen": "apple rug"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "apple-rug.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 6,
+                "image-uri": "apple.png"
+            }
+        ]
+    },
+    "apple-wall": {
+        "name": {
+            "name-USen": "apple wall"
+        },
+        "sources": [
+            "Uchi island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 4000,
+        "image-uri": "apple-wall.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 20,
+                "image-uri": "apple.png"
+            }
+        ]
+    },
+    "autumn-wall": {
+        "name": {
+            "name-USen": "autumn wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4700,
+        "image-uri": "autumn-wall.png",
+        "materials": [
+            {
+                "name": "maple-leaf",
+                "count": 10,
+                "image-uri": "maple-leaf.png"
+            },
+            {
+                "name": "wood",
+                "count": 5,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 5,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "backyard-lawn": {
+        "name": {
+            "name-USen": "backyard lawn"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 600,
+        "image-uri": "backyard-lawn.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 30,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "bamboo-flooring": {
+        "name": {
+            "name-USen": "bamboo flooring"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bamboo-flooring.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 15,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "bamboo-wall": {
+        "name": {
+            "name-USen": "bamboo wall"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bamboo-wall.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 15,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "bamboo-grove-wall": {
+        "name": {
+            "name-USen": "bamboo-grove wall"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 4300,
+        "image-uri": "bamboo-grove-wall.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 7,
+                "image-uri": "young-spring-bamboo.png"
+            },
+            {
+                "name": "bamboo-shoot",
+                "count": 3,
+                "image-uri": "bamboo-shoot.png"
+            }
+        ]
+    },
+    "basement-flooring": {
+        "name": {
+            "name-USen": "basement flooring"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 1500,
+        "image-uri": "basement-flooring.png",
+        "materials": [
+            {
+                "name": "stone",
+                "count": 10,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "brown-herringbone-wall": {
+        "name": {
+            "name-USen": "brown herringbone wall"
+        },
+        "sources": [
+            "Uchi island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1800,
+        "image-uri": "brown-herringbone-wall.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 15,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "bunny-day-flooring": {
+        "name": {
+            "name-USen": "bunny day flooring"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 4800,
+        "image-uri": "bunny-day-flooring.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 2,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 2,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 2,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 2,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 2,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 2,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "bunny-day-rug": {
+        "name": {
+            "name-USen": "bunny day rug"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bunny-day-rug.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 1,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 1,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 1,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 1,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 1,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 1,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "bunny-day-wall": {
+        "name": {
+            "name-USen": "bunny day wall"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 4800,
+        "image-uri": "bunny-day-wall.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 2,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 2,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 2,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 2,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 2,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 2,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "cabin-wall": {
+        "name": {
+            "name-USen": "cabin wall"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 1800,
+        "image-uri": "cabin-wall.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 15,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "cherry-rug": {
+        "name": {
+            "name-USen": "cherry rug"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "cherry-rug.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 6,
+                "image-uri": "cherry.png"
+            }
+        ]
+    },
+    "cherry-wall": {
+        "name": {
+            "name-USen": "cherry wall"
+        },
+        "sources": [
+            "Peppy island resident",
+            "Balloon"
+        ],
+        "sell-price": 4000,
+        "image-uri": "cherry-wall.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 20,
+                "image-uri": "cherry.png"
+            }
+        ]
+    },
+    "cherry-blossom-flooring": {
+        "name": {
+            "name-USen": "cherry-blossom flooring"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 4400,
+        "image-uri": "cherry-blossom-flooring.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 10,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 20,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "cherry-blossom-trees-wall": {
+        "name": {
+            "name-USen": "cherry-blossom-trees wall"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 4600,
+        "image-uri": "cherry-blossom-trees-wall.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 10,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "chocolate-herringbone-wall": {
+        "name": {
+            "name-USen": "chocolate herringbone wall"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 1800,
+        "image-uri": "chocolate-herringbone-wall.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 15,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "classic-library-wall": {
+        "name": {
+            "name-USen": "classic-library wall"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1450,
+        "image-uri": "classic-library-wall.png",
+        "materials": [
+            {
+                "name": "book",
+                "count": 10,
+                "image-uri": "book.png"
+            }
+        ]
+    },
+    "colored-leaves-flooring": {
+        "name": {
+            "name-USen": "colored-leaves flooring"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4300,
+        "image-uri": "colored-leaves-flooring.png",
+        "materials": [
+            {
+                "name": "maple-leaf",
+                "count": 10,
+                "image-uri": "maple-leaf.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 15,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "dark-bamboo-rug": {
+        "name": {
+            "name-USen": "dark bamboo rug"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 960,
+        "image-uri": "dark-bamboo-rug.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 6,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "dark-wooden-mosaic-wall": {
+        "name": {
+            "name-USen": "dark wooden-mosaic wall"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 1800,
+        "image-uri": "dark-wooden-mosaic-wall.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 15,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "forest-flooring": {
+        "name": {
+            "name-USen": "forest flooring"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 35000,
+        "image-uri": "forest-flooring.png",
+        "materials": [
+            {
+                "name": "rare-mushroom",
+                "count": 1,
+                "image-uri": "rare-mushroom.png"
+            },
+            {
+                "name": "round-mushroom",
+                "count": 2,
+                "image-uri": "round-mushroom.png"
+            },
+            {
+                "name": "skinny-mushroom",
+                "count": 2,
+                "image-uri": "skinny-mushroom.png"
+            },
+            {
+                "name": "flat-mushroom",
+                "count": 2,
+                "image-uri": "flat-mushroom.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "forest-wall": {
+        "name": {
+            "name-USen": "forest wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 44000,
+        "image-uri": "forest-wall.png",
+        "materials": [
+            {
+                "name": "elegant-mushroom",
+                "count": 2,
+                "image-uri": "elegant-mushroom.png"
+            },
+            {
+                "name": "round-mushroom",
+                "count": 2,
+                "image-uri": "round-mushroom.png"
+            },
+            {
+                "name": "skinny-mushroom",
+                "count": 2,
+                "image-uri": "skinny-mushroom.png"
+            },
+            {
+                "name": "flat-mushroom",
+                "count": 2,
+                "image-uri": "flat-mushroom.png"
+            },
+            {
+                "name": "wood",
+                "count": 10,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "galaxy-flooring": {
+        "name": {
+            "name-USen": "galaxy flooring"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 7500,
+        "image-uri": "galaxy-flooring.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            }
+        ]
+    },
+    "garbage-heap-flooring": {
+        "name": {
+            "name-USen": "garbage-heap flooring"
+        },
+        "sources": [
+            "Fishing up trash"
+        ],
+        "sell-price": 120,
+        "image-uri": "garbage-heap-flooring.png",
+        "materials": [
+            {
+                "name": "empty-can",
+                "count": 2,
+                "image-uri": "empty-can.png"
+            },
+            {
+                "name": "boot",
+                "count": 2,
+                "image-uri": "boot.png"
+            },
+            {
+                "name": "old-tire",
+                "count": 2,
+                "image-uri": "old-tire.png"
+            }
+        ]
+    },
+    "garbage-heap-wall": {
+        "name": {
+            "name-USen": "garbage-heap wall"
+        },
+        "sources": [
+            "Fishing up trash"
+        ],
+        "sell-price": 120,
+        "image-uri": "garbage-heap-wall.png",
+        "materials": [
+            {
+                "name": "empty-can",
+                "count": 2,
+                "image-uri": "empty-can.png"
+            },
+            {
+                "name": "boot",
+                "count": 2,
+                "image-uri": "boot.png"
+            },
+            {
+                "name": "old-tire",
+                "count": 2,
+                "image-uri": "old-tire.png"
+            }
+        ]
+    },
+    "golden-flooring": {
+        "name": {
+            "name-USen": "golden flooring"
+        },
+        "sources": [
+            "Smug island resident",
+            "Balloon"
+        ],
+        "sell-price": 40000,
+        "image-uri": "golden-flooring.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 4,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "golden-wall": {
+        "name": {
+            "name-USen": "golden wall"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 40000,
+        "image-uri": "golden-wall.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 4,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "gold-screen-wall": {
+        "name": {
+            "name-USen": "gold-screen wall"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 20750,
+        "image-uri": "gold-screen-wall.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            },
+            {
+                "name": "screen-wall",
+                "count": 1,
+                "image-uri": "screen-wall.png"
+            }
+        ]
+    },
+    "honeycomb-flooring": {
+        "name": {
+            "name-USen": "honeycomb flooring"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 3000,
+        "image-uri": "honeycomb-flooring.png",
+        "materials": [
+            {
+                "name": "wasp-nest",
+                "count": 5,
+                "image-uri": "wasp-nest.png"
+            }
+        ]
+    },
+    "honeycomb-wall": {
+        "name": {
+            "name-USen": "honeycomb wall"
+        },
+        "sources": [
+            "Jock island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 3600,
+        "image-uri": "honeycomb-wall.png",
+        "materials": [
+            {
+                "name": "wasp-nest",
+                "count": 6,
+                "image-uri": "wasp-nest.png"
+            }
+        ]
+    },
+    "ice-flooring": {
+        "name": {
+            "name-USen": "ice flooring"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 8200,
+        "image-uri": "ice-flooring.png",
+        "materials": [
+            {
+                "name": "large-snowflake",
+                "count": 1,
+                "image-uri": "large-snowflake.png"
+            },
+            {
+                "name": "snowflake",
+                "count": 8,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "ice-wall": {
+        "name": {
+            "name-USen": "ice wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 8200,
+        "image-uri": "ice-wall.png",
+        "materials": [
+            {
+                "name": "large-snowflake",
+                "count": 1,
+                "image-uri": "large-snowflake.png"
+            },
+            {
+                "name": "snowflake",
+                "count": 8,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "iceberg-flooring": {
+        "name": {
+            "name-USen": "iceberg flooring"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4000,
+        "image-uri": "iceberg-flooring.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 10,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "iceberg-wall": {
+        "name": {
+            "name-USen": "iceberg wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4000,
+        "image-uri": "iceberg-wall.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 10,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "jingle-wall": {
+        "name": {
+            "name-USen": "jingle wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 2500,
+        "image-uri": "jingle-wall.png",
+        "materials": [
+            {
+                "name": "red-ornament",
+                "count": 5,
+                "image-uri": "red-ornament.png"
+            },
+            {
+                "name": "blue-ornament",
+                "count": 5,
+                "image-uri": "blue-ornament.png"
+            },
+            {
+                "name": "gold-ornament",
+                "count": 5,
+                "image-uri": "gold-ornament.png"
+            },
+            {
+                "name": "clay",
+                "count": 5,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "jungle-flooring": {
+        "name": {
+            "name-USen": "jungle flooring"
+        },
+        "sources": [
+            "Jock island residentBalloonMessage in a bottle"
+        ],
+        "sell-price": 2200,
+        "image-uri": "jungle-flooring.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "clay",
+                "count": 10,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "jungle-wall": {
+        "name": {
+            "name-USen": "jungle wall"
+        },
+        "sources": [
+            "Jock island resident",
+            "Balloon"
+        ],
+        "sell-price": 1380,
+        "image-uri": "jungle-wall.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 15,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 3,
+                "image-uri": "hardwood.png"
+            },
+            {
+                "name": "softwood",
+                "count": 3,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "light-bamboo-rug": {
+        "name": {
+            "name-USen": "light bamboo rug"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 2400,
+        "image-uri": "light-bamboo-rug.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 6,
+                "image-uri": "young-spring-bamboo.png"
+            }
+        ]
+    },
+    "lunar-surface": {
+        "name": {
+            "name-USen": "lunar surface"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 7500,
+        "image-uri": "lunar-surface.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            }
+        ]
+    },
+    "manga-library-wall": {
+        "name": {
+            "name-USen": "manga-library wall"
+        },
+        "sources": [
+            "Peppy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1050,
+        "image-uri": "manga-library-wall.png",
+        "materials": [
+            {
+                "name": "magazine",
+                "count": 10,
+                "image-uri": "magazine.png"
+            }
+        ]
+    },
+    "modern-wood-wall": {
+        "name": {
+            "name-USen": "modern wood wall"
+        },
+        "sources": [
+            "Snooty island resident"
+        ],
+        "sell-price": 1800,
+        "image-uri": "modern-wood-wall.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 5,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "softwood",
+                "count": 5,
+                "image-uri": "softwood.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "money-flooring": {
+        "name": {
+            "name-USen": "money flooring"
+        },
+        "sources": [
+            "Snooty island resident"
+        ],
+        "sell-price": 25000,
+        "image-uri": "money-flooring.png",
+        "materials": [
+            {
+                "name": "bag-of-50,000-bells",
+                "count": 1,
+                "image-uri": "bag-of-50,000-bells.png"
+            }
+        ]
+    },
+    "mush-wall": {
+        "name": {
+            "name-USen": "mush wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 21400,
+        "image-uri": "mush-wall.png",
+        "materials": [
+            {
+                "name": "elegant-mushroom",
+                "count": 1,
+                "image-uri": "elegant-mushroom.png"
+            },
+            {
+                "name": "round-mushroom",
+                "count": 1,
+                "image-uri": "round-mushroom.png"
+            },
+            {
+                "name": "skinny-mushroom",
+                "count": 1,
+                "image-uri": "skinny-mushroom.png"
+            },
+            {
+                "name": "flat-mushroom",
+                "count": 1,
+                "image-uri": "flat-mushroom.png"
+            }
+        ]
+    },
+    "orange-rug": {
+        "name": {
+            "name-USen": "orange rug"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "orange-rug.png",
+        "materials": [
+            {
+                "name": "orange",
+                "count": 6,
+                "image-uri": "orange.png"
+            }
+        ]
+    },
+    "orange-wall": {
+        "name": {
+            "name-USen": "orange wall"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 4000,
+        "image-uri": "orange-wall.png",
+        "materials": [
+            {
+                "name": "orange",
+                "count": 20,
+                "image-uri": "orange.png"
+            }
+        ]
+    },
+    "peach-rug": {
+        "name": {
+            "name-USen": "peach rug"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "peach-rug.png",
+        "materials": [
+            {
+                "name": "peach",
+                "count": 6,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "peach-wall": {
+        "name": {
+            "name-USen": "peach wall"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 4000,
+        "image-uri": "peach-wall.png",
+        "materials": [
+            {
+                "name": "peach",
+                "count": 20,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "pear-rug": {
+        "name": {
+            "name-USen": "pear rug"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 1200,
+        "image-uri": "pear-rug.png",
+        "materials": [
+            {
+                "name": "pear",
+                "count": 6,
+                "image-uri": "pear.png"
+            }
+        ]
+    },
+    "pear-wall": {
+        "name": {
+            "name-USen": "pear wall"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 4000,
+        "image-uri": "pear-wall.png",
+        "materials": [
+            {
+                "name": "pear",
+                "count": 20,
+                "image-uri": "pear.png"
+            }
+        ]
+    },
+    "rustic-stone-wall": {
+        "name": {
+            "name-USen": "rustic-stone wall"
+        },
+        "sources": [
+            "Snooty island resident"
+        ],
+        "sell-price": 1750,
+        "image-uri": "rustic-stone-wall.png",
+        "materials": [
+            {
+                "name": "stone",
+                "count": 5,
+                "image-uri": "stone.png"
+            },
+            {
+                "name": "clay",
+                "count": 5,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "sakura-wood-flooring": {
+        "name": {
+            "name-USen": "sakura-wood flooring"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 3200,
+        "image-uri": "sakura-wood-flooring.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 5,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "wood",
+                "count": 10,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "sakura-wood-wall": {
+        "name": {
+            "name-USen": "sakura-wood wall"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 3200,
+        "image-uri": "sakura-wood-wall.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 5,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "wood",
+                "count": 10,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "sandy-beach-flooring": {
+        "name": {
+            "name-USen": "sandy-beach flooring"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 4120,
+        "image-uri": "sandy-beach-flooring.png",
+        "materials": [
+            {
+                "name": "sea-snail",
+                "count": 1,
+                "image-uri": "sea-snail.png"
+            },
+            {
+                "name": "venus-comb",
+                "count": 1,
+                "image-uri": "venus-comb.png"
+            },
+            {
+                "name": "sand-dollar",
+                "count": 1,
+                "image-uri": "sand-dollar.png"
+            },
+            {
+                "name": "coral",
+                "count": 1,
+                "image-uri": "coral.png"
+            },
+            {
+                "name": "giant-clam",
+                "count": 1,
+                "image-uri": "giant-clam.png"
+            },
+            {
+                "name": "cowrie",
+                "count": 1,
+                "image-uri": "cowrie.png"
+            }
+        ]
+    },
+    "sci-fi-flooring": {
+        "name": {
+            "name-USen": "sci-fi flooring"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 7500,
+        "image-uri": "sci-fi-flooring.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            }
+        ]
+    },
+    "sci-fi-wall": {
+        "name": {
+            "name-USen": "sci-fi wall"
+        },
+        "sources": [
+            "Celeste",
+            "Balloon"
+        ],
+        "sell-price": 7500,
+        "image-uri": "sci-fi-wall.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            }
+        ]
+    },
+    "shell-rug": {
+        "name": {
+            "name-USen": "shell rug"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 5400,
+        "image-uri": "shell-rug.png",
+        "materials": [
+            {
+                "name": "giant-clam",
+                "count": 3,
+                "image-uri": "giant-clam.png"
+            }
+        ]
+    },
+    "ski-slope-flooring": {
+        "name": {
+            "name-USen": "ski-slope flooring"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 3200,
+        "image-uri": "ski-slope-flooring.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 8,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "ski-slope-wall": {
+        "name": {
+            "name-USen": "ski-slope wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 3200,
+        "image-uri": "ski-slope-wall.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 8,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "snowflake-wall": {
+        "name": {
+            "name-USen": "snowflake wall"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4800,
+        "image-uri": "snowflake-wall.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 12,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "stacked-wood-wall": {
+        "name": {
+            "name-USen": "stacked-wood wall"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 1800,
+        "image-uri": "stacked-wood-wall.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 15,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "starry-wall": {
+        "name": {
+            "name-USen": "starry wall"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 7500,
+        "image-uri": "starry-wall.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            }
+        ]
+    },
+    "starry-sands-flooring": {
+        "name": {
+            "name-USen": "starry-sands flooring"
+        },
+        "sources": [
+            "Message in a bottle"
+        ],
+        "sell-price": 7720,
+        "image-uri": "starry-sands-flooring.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 3,
+                "image-uri": "summer-shell.png"
+            },
+            {
+                "name": "sandy-beach-flooring",
+                "count": 1,
+                "image-uri": "sandy-beach-flooring.png"
+            }
+        ]
+    },
+    "starry-sky-wall": {
+        "name": {
+            "name-USen": "starry-sky wall"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 7500,
+        "image-uri": "starry-sky-wall.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "large-star-fragment",
+                "count": 1,
+                "image-uri": "large-star-fragment.png"
+            }
+        ]
+    },
+    "steel-flooring": {
+        "name": {
+            "name-USen": "steel flooring"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 5250,
+        "image-uri": "steel-flooring.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 7,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "steel-frame-wall": {
+        "name": {
+            "name-USen": "steel-frame wall"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 6000,
+        "image-uri": "steel-frame-wall.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 8,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "stone-wall": {
+        "name": {
+            "name-USen": "stone wall"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 1500,
+        "image-uri": "stone-wall.png",
+        "materials": [
+            {
+                "name": "stone",
+                "count": 10,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "tropical-vista": {
+        "name": {
+            "name-USen": "tropical vista"
+        },
+        "sources": [
+            "Message in a bottle"
+        ],
+        "sell-price": 6000,
+        "image-uri": "tropical-vista.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 5,
+                "image-uri": "summer-shell.png"
+            }
+        ]
+    },
+    "underwater-flooring": {
+        "name": {
+            "name-USen": "underwater flooring"
+        },
+        "sources": [
+            "Message in a bottle"
+        ],
+        "sell-price": 6600,
+        "image-uri": "underwater-flooring.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 3,
+                "image-uri": "summer-shell.png"
+            },
+            {
+                "name": "coral",
+                "count": 3,
+                "image-uri": "coral.png"
+            }
+        ]
+    },
+    "underwater-wall": {
+        "name": {
+            "name-USen": "underwater wall"
+        },
+        "sources": [
+            "Message in a bottle"
+        ],
+        "sell-price": 8600,
+        "image-uri": "underwater-wall.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 3,
+                "image-uri": "summer-shell.png"
+            },
+            {
+                "name": "coral",
+                "count": 5,
+                "image-uri": "coral.png"
+            }
+        ]
+    },
+    "water-flooring": {
+        "name": {
+            "name-USen": "water flooring"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 7200,
+        "image-uri": "water-flooring.png",
+        "materials": [
+            {
+                "name": "summer-shell",
+                "count": 6,
+                "image-uri": "summer-shell.png"
+            }
+        ]
+    },
+    "wild-wood-wall": {
+        "name": {
+            "name-USen": "wild-wood wall"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 1800,
+        "image-uri": "wild-wood-wall.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 15,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "wooden-knot-wall": {
+        "name": {
+            "name-USen": "wooden-knot wall"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1800,
+        "image-uri": "wooden-knot-wall.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 15,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "wooden-mosaic-wall": {
+        "name": {
+            "name-USen": "wooden-mosaic wall"
+        },
+        "sources": [
+            "Normal island residentMessage in a bottle"
+        ],
+        "sell-price": 1800,
+        "image-uri": "wooden-mosaic-wall.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 15,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "woodland-wall": {
+        "name": {
+            "name-USen": "woodland wall"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 1380,
+        "image-uri": "woodland-wall.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 15,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "softwood",
+                "count": 9,
+                "image-uri": "softwood.png"
+            }
+        ]
+    }
+}

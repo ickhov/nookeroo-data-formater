@@ -1,0 +1,1351 @@
+{
+    "aroma-pot": {
+        "name": {
+            "name-USen": "aroma pot"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 600,
+        "image-uri": "aroma-pot.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 4,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "bamboo-candleholder": {
+        "name": {
+            "name-USen": "bamboo candleholder"
+        },
+        "sources": [
+            "Snooty island resident"
+        ],
+        "sell-price": 880,
+        "image-uri": "bamboo-candleholder.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 3,
+                "image-uri": "bamboo-piece.png"
+            },
+            {
+                "name": "clay",
+                "count": 2,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "bamboo-drum": {
+        "name": {
+            "name-USen": "bamboo drum"
+        },
+        "sources": [
+            "Jock island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 720,
+        "image-uri": "bamboo-drum.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 3,
+                "image-uri": "bamboo-piece.png"
+            },
+            {
+                "name": "softwood",
+                "count": 2,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "bamboo-lunch-box": {
+        "name": {
+            "name-USen": "bamboo lunch box"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 640,
+        "image-uri": "bamboo-lunch-box.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 4,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "bamboo-shoot-lamp": {
+        "name": {
+            "name-USen": "bamboo-shoot lamp"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 4900,
+        "image-uri": "bamboo-shoot-lamp.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 4,
+                "image-uri": "young-spring-bamboo.png"
+            },
+            {
+                "name": "bamboo-shoot",
+                "count": 5,
+                "image-uri": "bamboo-shoot.png"
+            },
+            {
+                "name": "clay",
+                "count": 4,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "bamboo-sphere": {
+        "name": {
+            "name-USen": "bamboo sphere"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 480,
+        "image-uri": "bamboo-sphere.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 3,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "bunny-day-lamp": {
+        "name": {
+            "name-USen": "bunny day lamp"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 1600,
+        "image-uri": "bunny-day-lamp.png",
+        "materials": [
+            {
+                "name": "wood-egg",
+                "count": 4,
+                "image-uri": "wood-egg.png"
+            }
+        ]
+    },
+    "cherry-blossom-bonsai": {
+        "name": {
+            "name-USen": "cherry-blossom bonsai"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 3300,
+        "image-uri": "cherry-blossom-bonsai.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 6,
+                "image-uri": "cherry-blossom-petal.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 2,
+                "image-uri": "hardwood.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 3,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "clay",
+                "count": 3,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "cherry-speakers": {
+        "name": {
+            "name-USen": "cherry speakers"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native fruit is cherries",
+            "Peppy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 3500,
+        "image-uri": "cherry-speakers.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 10,
+                "image-uri": "cherry.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "classic-pitcher": {
+        "name": {
+            "name-USen": "classic pitcher"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits",
+            "Snooty island resident"
+        ],
+        "sell-price": 800,
+        "image-uri": "classic-pitcher.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 4,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "coconut-juice": {
+        "name": {
+            "name-USen": "coconut juice"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 500,
+        "image-uri": "coconut-juice.png",
+        "materials": [
+            {
+                "name": "coconut",
+                "count": 1,
+                "image-uri": "coconut.png"
+            }
+        ]
+    },
+    "cutting-board": {
+        "name": {
+            "name-USen": "cutting board"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 990,
+        "image-uri": "cutting-board.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 2,
+                "image-uri": "hardwood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "decoy-duck": {
+        "name": {
+            "name-USen": "decoy duck"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 480,
+        "image-uri": "decoy-duck.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 4,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "document-stack": {
+        "name": {
+            "name-USen": "document stack"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 400,
+        "image-uri": "document-stack.png",
+        "materials": [
+            {
+                "name": "scattered-papers",
+                "count": 1,
+                "image-uri": "scattered-papers.png"
+            }
+        ]
+    },
+    "festive-top-set": {
+        "name": {
+            "name-USen": "festive top set"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 320,
+        "image-uri": "festive-top-set.png",
+        "materials": [
+            {
+                "name": "gold-ornament",
+                "count": 2,
+                "image-uri": "gold-ornament.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 1,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "firewood": {
+        "name": {
+            "name-USen": "firewood"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 960,
+        "image-uri": "firewood.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 8,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "frozen-treat-set": {
+        "name": {
+            "name-USen": "frozen-treat set"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 5400,
+        "image-uri": "frozen-treat-set.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 1,
+                "image-uri": "snowflake.png"
+            },
+            {
+                "name": "large-snowflake",
+                "count": 1,
+                "image-uri": "large-snowflake.png"
+            }
+        ]
+    },
+    "fruit-basket": {
+        "name": {
+            "name-USen": "fruit basket"
+        },
+        "sources": [
+            "Cranky island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1000,
+        "image-uri": "fruit-basket.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 1,
+                "image-uri": "apple.png"
+            },
+            {
+                "name": "pear",
+                "count": 1,
+                "image-uri": "pear.png"
+            },
+            {
+                "name": "cherry",
+                "count": 1,
+                "image-uri": "cherry.png"
+            },
+            {
+                "name": "orange",
+                "count": 1,
+                "image-uri": "orange.png"
+            },
+            {
+                "name": "peach",
+                "count": 1,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "frying-pan": {
+        "name": {
+            "name-USen": "frying pan"
+        },
+        "sources": [
+            "DIY for Beginners"
+        ],
+        "sell-price": 1500,
+        "image-uri": "frying-pan.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "gold-bars": {
+        "name": {
+            "name-USen": "gold bars"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 30000,
+        "image-uri": "gold-bars.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 3,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "golden-arowana-model": {
+        "name": {
+            "name-USen": "golden arowana model"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 30000,
+        "image-uri": "golden-arowana-model.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 3,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "golden-candlestick": {
+        "name": {
+            "name-USen": "golden candlestick"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 20000,
+        "image-uri": "golden-candlestick.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "golden-dishes": {
+        "name": {
+            "name-USen": "golden dishes"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 10000,
+        "image-uri": "golden-dishes.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 1,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "golden-dung-beetle": {
+        "name": {
+            "name-USen": "golden dung beetle"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 30000,
+        "image-uri": "golden-dung-beetle.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 3,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "holiday-candle": {
+        "name": {
+            "name-USen": "holiday candle"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 600,
+        "image-uri": "holiday-candle.png",
+        "materials": [
+            {
+                "name": "red-ornament",
+                "count": 5,
+                "image-uri": "red-ornament.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 5,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "hyacinth-lamp": {
+        "name": {
+            "name-USen": "hyacinth lamp"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 3000,
+        "image-uri": "hyacinth-lamp.png",
+        "materials": [
+            {
+                "name": "purple-hyacinths",
+                "count": 5,
+                "image-uri": "purple-hyacinths.png"
+            },
+            {
+                "name": "clay",
+                "count": 3,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "infused-water-dispenser": {
+        "name": {
+            "name-USen": "infused-water dispenser"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 3000,
+        "image-uri": "infused-water-dispenser.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 2,
+                "image-uri": "apple.png"
+            },
+            {
+                "name": "pear",
+                "count": 2,
+                "image-uri": "pear.png"
+            },
+            {
+                "name": "cherry",
+                "count": 2,
+                "image-uri": "cherry.png"
+            },
+            {
+                "name": "orange",
+                "count": 2,
+                "image-uri": "orange.png"
+            },
+            {
+                "name": "peach",
+                "count": 2,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "kettlebell": {
+        "name": {
+            "name-USen": "kettlebell"
+        },
+        "sources": [
+            "Jock island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 3750,
+        "image-uri": "kettlebell.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 5,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "libra-scale": {
+        "name": {
+            "name-USen": "libra scale"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 21750,
+        "image-uri": "libra-scale.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "libra-fragment",
+                "count": 2,
+                "image-uri": "libra-fragment.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "lucky-gold-cat": {
+        "name": {
+            "name-USen": "lucky gold cat"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle",
+            "Balloon"
+        ],
+        "sell-price": 21675,
+        "image-uri": "lucky-gold-cat.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 3,
+                "image-uri": "gold-nugget.png"
+            },
+            {
+                "name": "lucky-cat",
+                "count": 1,
+                "image-uri": "lucky-cat.png"
+            }
+        ]
+    },
+    "magazine-rack": {
+        "name": {
+            "name-USen": "magazine rack"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 690,
+        "image-uri": "magazine-rack.png",
+        "materials": [
+            {
+                "name": "magazine",
+                "count": 2,
+                "image-uri": "magazine.png"
+            },
+            {
+                "name": "wood",
+                "count": 4,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "matryoshka": {
+        "name": {
+            "name-USen": "matryoshka"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 600,
+        "image-uri": "matryoshka.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 5,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "modeling-clay": {
+        "name": {
+            "name-USen": "modeling clay"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 400,
+        "image-uri": "modeling-clay.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 2,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "nova-light": {
+        "name": {
+            "name-USen": "nova light"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 2500,
+        "image-uri": "nova-light.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "old-fashioned-washtub": {
+        "name": {
+            "name-USen": "old-fashioned washtub"
+        },
+        "sources": [
+            "DIY for Beginners"
+        ],
+        "sell-price": 360,
+        "image-uri": "old-fashioned-washtub.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 3,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "peach-surprise-box": {
+        "name": {
+            "name-USen": "peach surprise box"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits, if the native fruit is peaches",
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 2480,
+        "image-uri": "peach-surprise-box.png",
+        "materials": [
+            {
+                "name": "peach",
+                "count": 10,
+                "image-uri": "peach.png"
+            },
+            {
+                "name": "softwood",
+                "count": 4,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "pine-bonsai-tree": {
+        "name": {
+            "name-USen": "pine bonsai tree"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 4200,
+        "image-uri": "pine-bonsai-tree.png",
+        "materials": [
+            {
+                "name": "pine-cone",
+                "count": 8,
+                "image-uri": "pine-cone.png"
+            },
+            {
+                "name": "clay",
+                "count": 5,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "pot": {
+        "name": {
+            "name-USen": "pot"
+        },
+        "sources": [
+            "Tom Nook after receiving first three housing kits",
+            "Cranky island resident"
+        ],
+        "sell-price": 1000,
+        "image-uri": "pot.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 5,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "recycled-can-thumb-piano": {
+        "name": {
+            "name-USen": "recycled-can thumb piano"
+        },
+        "sources": [
+            "Fishing up cans"
+        ],
+        "sell-price": 890,
+        "image-uri": "recycled-can-thumb-piano.png",
+        "materials": [
+            {
+                "name": "empty-can",
+                "count": 1,
+                "image-uri": "empty-can.png"
+            },
+            {
+                "name": "wood",
+                "count": 1,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "ringtoss": {
+        "name": {
+            "name-USen": "ringtoss"
+        },
+        "sources": [
+            "Test Your DIY Skills"
+        ],
+        "sell-price": 480,
+        "image-uri": "ringtoss.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 2,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "softwood",
+                "count": 2,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "scorpio-lamp": {
+        "name": {
+            "name-USen": "scorpio lamp"
+        },
+        "sources": [
+            "Celeste Scorpio dates: October 23 \u2013 November 21"
+        ],
+        "sell-price": 22125,
+        "image-uri": "scorpio-lamp.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "scorpius-fragment",
+                "count": 2,
+                "image-uri": "scorpius-fragment.png"
+            },
+            {
+                "name": "gold-nugget",
+                "count": 2,
+                "image-uri": "gold-nugget.png"
+            },
+            {
+                "name": "stone",
+                "count": 5,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "shell-lamp": {
+        "name": {
+            "name-USen": "shell lamp"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 4200,
+        "image-uri": "shell-lamp.png",
+        "materials": [
+            {
+                "name": "giant-clam",
+                "count": 2,
+                "image-uri": "giant-clam.png"
+            },
+            {
+                "name": "clay",
+                "count": 3,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "shell-speaker": {
+        "name": {
+            "name-USen": "shell speaker"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 5700,
+        "image-uri": "shell-speaker.png",
+        "materials": [
+            {
+                "name": "conch",
+                "count": 3,
+                "image-uri": "conch.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "stack-of-books": {
+        "name": {
+            "name-USen": "stack of books"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 725,
+        "image-uri": "stack-of-books.png",
+        "materials": [
+            {
+                "name": "book",
+                "count": 5,
+                "image-uri": "book.png"
+            }
+        ]
+    },
+    "stacked-magazines": {
+        "name": {
+            "name-USen": "stacked magazines"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 630,
+        "image-uri": "stacked-magazines.png",
+        "materials": [
+            {
+                "name": "magazine",
+                "count": 6,
+                "image-uri": "magazine.png"
+            }
+        ]
+    },
+    "star-clock": {
+        "name": {
+            "name-USen": "star clock"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 2250,
+        "image-uri": "star-clock.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 3,
+                "image-uri": "star-fragment.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "steamer-basket-set": {
+        "name": {
+            "name-USen": "steamer-basket set"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 2400,
+        "image-uri": "steamer-basket-set.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 6,
+                "image-uri": "young-spring-bamboo.png"
+            }
+        ]
+    },
+    "succulent-plant": {
+        "name": {
+            "name-USen": "succulent plant"
+        },
+        "sources": [
+            "Fishing up an empty can"
+        ],
+        "sell-price": 220,
+        "image-uri": "succulent-plant.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "empty-can",
+                "count": 1,
+                "image-uri": "empty-can.png"
+            }
+        ]
+    },
+    "tabletop-festive-tree": {
+        "name": {
+            "name-USen": "tabletop festive tree"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 930,
+        "image-uri": "tabletop-festive-tree.png",
+        "materials": [
+            {
+                "name": "gold-ornament",
+                "count": 5,
+                "image-uri": "gold-ornament.png"
+            },
+            {
+                "name": "tree-branch",
+                "count": 3,
+                "image-uri": "tree-branch.png"
+            },
+            {
+                "name": "clay",
+                "count": 2,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "terrarium": {
+        "name": {
+            "name-USen": "terrarium"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1740,
+        "image-uri": "terrarium.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 12,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "traditional-balancing-toy": {
+        "name": {
+            "name-USen": "traditional balancing toy"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 1840,
+        "image-uri": "traditional-balancing-toy.png",
+        "materials": [
+            {
+                "name": "acorn",
+                "count": 4,
+                "image-uri": "acorn.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 2,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "trash-bags": {
+        "name": {
+            "name-USen": "trash bags"
+        },
+        "sources": [
+            "Fishing up trash"
+        ],
+        "sell-price": 60,
+        "image-uri": "trash-bags.png",
+        "materials": [
+            {
+                "name": "empty-can",
+                "count": 1,
+                "image-uri": "empty-can.png"
+            },
+            {
+                "name": "boot",
+                "count": 1,
+                "image-uri": "boot.png"
+            },
+            {
+                "name": "old-tire",
+                "count": 1,
+                "image-uri": "old-tire.png"
+            }
+        ]
+    },
+    "tree's-bounty-lamp": {
+        "name": {
+            "name-USen": "tree's bounty lamp"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 3200,
+        "image-uri": "tree's-bounty-lamp.png",
+        "materials": [
+            {
+                "name": "acorn",
+                "count": 6,
+                "image-uri": "acorn.png"
+            },
+            {
+                "name": "clay",
+                "count": 4,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "tree's-bounty-little-tree": {
+        "name": {
+            "name-USen": "tree's bounty little tree"
+        },
+        "sources": [
+            "Isabelle"
+        ],
+        "sell-price": 4120,
+        "image-uri": "tree's-bounty-little-tree.png",
+        "materials": [
+            {
+                "name": "pine-cone",
+                "count": 6,
+                "image-uri": "pine-cone.png"
+            },
+            {
+                "name": "acorn",
+                "count": 4,
+                "image-uri": "acorn.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 1,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "ukulele": {
+        "name": {
+            "name-USen": "ukulele"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 600,
+        "image-uri": "ukulele.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "unglazed-dish-set": {
+        "name": {
+            "name-USen": "unglazed dish set"
+        },
+        "sources": [
+            "Snooty island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 600,
+        "image-uri": "unglazed-dish-set.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 3,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "windflower-fan": {
+        "name": {
+            "name-USen": "windflower fan"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1740,
+        "image-uri": "windflower-fan.png",
+        "materials": [
+            {
+                "name": "red-windflowers",
+                "count": 3,
+                "image-uri": "red-windflowers.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "wobbling-zipper-toy": {
+        "name": {
+            "name-USen": "wobbling zipper toy"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 9600,
+        "image-uri": "wobbling-zipper-toy.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 4,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 4,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 4,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 4,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 4,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 4,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "wooden-block-toy": {
+        "name": {
+            "name-USen": "wooden-block toy"
+        },
+        "sources": [
+            ""
+        ],
+        "sell-price": 360,
+        "image-uri": "wooden-block-toy.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 3,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "wooden-fish": {
+        "name": {
+            "name-USen": "wooden fish"
+        },
+        "sources": [
+            "Wildest Dreams DIY"
+        ],
+        "sell-price": 360,
+        "image-uri": "wooden-fish.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "wooden-table-mirror": {
+        "name": {
+            "name-USen": "wooden table mirror"
+        },
+        "sources": [
+            "Given when Tom Nook gives you your first recipes",
+            "Uchi island resident"
+        ],
+        "sell-price": 1100,
+        "image-uri": "wooden-table-mirror.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 1,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "wooden-toolbox": {
+        "name": {
+            "name-USen": "wooden toolbox"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1980,
+        "image-uri": "wooden-toolbox.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 4,
+                "image-uri": "softwood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    }
+}

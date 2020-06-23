@@ -1,0 +1,1837 @@
+{
+    "acorn-pochette": {
+        "name": {
+            "name-USen": "acorn pochette"
+        },
+        "sources": [
+            "Balloon during Autumn"
+        ],
+        "sell-price": 2400,
+        "image-uri": "acorn-pochette.png",
+        "materials": [
+            {
+                "name": "acorn",
+                "count": 6,
+                "image-uri": "acorn.png"
+            }
+        ]
+    },
+    "apple-dress": {
+        "name": {
+            "name-USen": "apple dress"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 1600,
+        "image-uri": "apple-dress.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 8,
+                "image-uri": "apple.png"
+            }
+        ]
+    },
+    "apple-hat": {
+        "name": {
+            "name-USen": "apple hat"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 1000,
+        "image-uri": "apple-hat.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 5,
+                "image-uri": "apple.png"
+            }
+        ]
+    },
+    "apple-umbrella": {
+        "name": {
+            "name-USen": "apple umbrella"
+        },
+        "sources": [
+            "Uchi island resident"
+        ],
+        "sell-price": 1400,
+        "image-uri": "apple-umbrella.png",
+        "materials": [
+            {
+                "name": "apple",
+                "count": 7,
+                "image-uri": "apple.png"
+            }
+        ]
+    },
+    "armor-shoes": {
+        "name": {
+            "name-USen": "armor shoes"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 3000,
+        "image-uri": "armor-shoes.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 4,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "bamboo-hat": {
+        "name": {
+            "name-USen": "bamboo hat"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 200,
+        "image-uri": "bamboo-hat.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "basket-pack": {
+        "name": {
+            "name-USen": "basket pack"
+        },
+        "sources": [
+            "Balloon during Spring"
+        ],
+        "sell-price": 2400,
+        "image-uri": "basket-pack.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 6,
+                "image-uri": "young-spring-bamboo.png"
+            }
+        ]
+    },
+    "blue-rose-crown": {
+        "name": {
+            "name-USen": "blue rose crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 12000,
+        "image-uri": "blue-rose-crown.png",
+        "materials": [
+            {
+                "name": "blue-roses",
+                "count": 6,
+                "image-uri": "blue-roses.png"
+            }
+        ]
+    },
+    "bunny-day-bag": {
+        "name": {
+            "name-USen": "bunny day bag"
+        },
+        "sources": [
+            "Any island resident during Bunny Day"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bunny-day-bag.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 1,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 1,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 1,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 1,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 1,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 1,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "bunny-day-crown": {
+        "name": {
+            "name-USen": "bunny day crown"
+        },
+        "sources": [
+            "Any island resident during Bunny Day"
+        ],
+        "sell-price": 2400,
+        "image-uri": "bunny-day-crown.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 1,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 1,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 1,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 1,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 1,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 1,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "cherry-blossom-pochette": {
+        "name": {
+            "name-USen": "cherry-blossom pochette"
+        },
+        "sources": [
+            "Balloon during Cherry Blossom Festival"
+        ],
+        "sell-price": 2400,
+        "image-uri": "cherry-blossom-pochette.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 6,
+                "image-uri": "cherry-blossom-petal.png"
+            }
+        ]
+    },
+    "cherry-blossom-umbrella": {
+        "name": {
+            "name-USen": "cherry-blossom umbrella"
+        },
+        "sources": [
+            "Balloon during Cherry Blossom Festival"
+        ],
+        "sell-price": 2800,
+        "image-uri": "cherry-blossom-umbrella.png",
+        "materials": [
+            {
+                "name": "cherry-blossom-petal",
+                "count": 7,
+                "image-uri": "cherry-blossom-petal.png"
+            }
+        ]
+    },
+    "cherry-dress": {
+        "name": {
+            "name-USen": "cherry dress"
+        },
+        "sources": [
+            "Peppy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1600,
+        "image-uri": "cherry-dress.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 8,
+                "image-uri": "cherry.png"
+            }
+        ]
+    },
+    "cherry-hat": {
+        "name": {
+            "name-USen": "cherry hat"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 1000,
+        "image-uri": "cherry-hat.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 5,
+                "image-uri": "cherry.png"
+            }
+        ]
+    },
+    "cherry-umbrella": {
+        "name": {
+            "name-USen": "cherry umbrella"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 1400,
+        "image-uri": "cherry-umbrella.png",
+        "materials": [
+            {
+                "name": "cherry",
+                "count": 7,
+                "image-uri": "cherry.png"
+            }
+        ]
+    },
+    "chic-mum-crown": {
+        "name": {
+            "name-USen": "chic mum crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 960,
+        "image-uri": "chic-mum-crown.png",
+        "materials": [
+            {
+                "name": "purple-mums",
+                "count": 3,
+                "image-uri": "purple-mums.png"
+            },
+            {
+                "name": "pink-mums",
+                "count": 3,
+                "image-uri": "pink-mums.png"
+            }
+        ]
+    },
+    "chic-rose-crown": {
+        "name": {
+            "name-USen": "chic rose crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 2880,
+        "image-uri": "chic-rose-crown.png",
+        "materials": [
+            {
+                "name": "purple-roses",
+                "count": 3,
+                "image-uri": "purple-roses.png"
+            },
+            {
+                "name": "black-roses",
+                "count": 3,
+                "image-uri": "black-roses.png"
+            }
+        ]
+    },
+    "chic-tulip-crown": {
+        "name": {
+            "name-USen": "chic tulip crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1440,
+        "image-uri": "chic-tulip-crown.png",
+        "materials": [
+            {
+                "name": "purple-tulips",
+                "count": 2,
+                "image-uri": "purple-tulips.png"
+            },
+            {
+                "name": "pink-tulips",
+                "count": 2,
+                "image-uri": "pink-tulips.png"
+            },
+            {
+                "name": "orange-tulips",
+                "count": 1,
+                "image-uri": "orange-tulips.png"
+            }
+        ]
+    },
+    "cool-pansy-crown": {
+        "name": {
+            "name-USen": "cool pansy crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 960,
+        "image-uri": "cool-pansy-crown.png",
+        "materials": [
+            {
+                "name": "orange-pansies",
+                "count": 3,
+                "image-uri": "orange-pansies.png"
+            },
+            {
+                "name": "blue-pansies",
+                "count": 3,
+                "image-uri": "blue-pansies.png"
+            }
+        ]
+    },
+    "cool-hyacinth-crown": {
+        "name": {
+            "name-USen": "cool hyacinth crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1280,
+        "image-uri": "cool-hyacinth-crown.png",
+        "materials": [
+            {
+                "name": "blue-hyacinths",
+                "count": 4,
+                "image-uri": "blue-hyacinths.png"
+            },
+            {
+                "name": "pink-hyacinths",
+                "count": 2,
+                "image-uri": "pink-hyacinths.png"
+            },
+            {
+                "name": "orange-hyacinths",
+                "count": 2,
+                "image-uri": "orange-hyacinths.png"
+            }
+        ]
+    },
+    "cool-windflower-crown": {
+        "name": {
+            "name-USen": "cool windflower crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 960,
+        "image-uri": "cool-windflower-crown.png",
+        "materials": [
+            {
+                "name": "blue-windflowers",
+                "count": 3,
+                "image-uri": "blue-windflowers.png"
+            },
+            {
+                "name": "pink-windflowers",
+                "count": 3,
+                "image-uri": "pink-windflowers.png"
+            }
+        ]
+    },
+    "cosmos-crown": {
+        "name": {
+            "name-USen": "cosmos crown"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 560,
+        "image-uri": "cosmos-crown.png",
+        "materials": [
+            {
+                "name": "red-cosmos",
+                "count": 2,
+                "image-uri": "red-cosmos.png"
+            },
+            {
+                "name": "yellow-cosmos",
+                "count": 2,
+                "image-uri": "yellow-cosmos.png"
+            },
+            {
+                "name": "white-cosmos",
+                "count": 3,
+                "image-uri": "white-cosmos.png"
+            }
+        ]
+    },
+    "cute-lily-crown": {
+        "name": {
+            "name-USen": "cute lily crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 800,
+        "image-uri": "cute-lily-crown.png",
+        "materials": [
+            {
+                "name": "red-lilies",
+                "count": 2,
+                "image-uri": "red-lilies.png"
+            },
+            {
+                "name": "orange-lilies",
+                "count": 2,
+                "image-uri": "orange-lilies.png"
+            },
+            {
+                "name": "white-lilies",
+                "count": 2,
+                "image-uri": "white-lilies.png"
+            }
+        ]
+    },
+    "cute-rose-crown": {
+        "name": {
+            "name-USen": "cute rose crown"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 960,
+        "image-uri": "cute-rose-crown.png",
+        "materials": [
+            {
+                "name": "pink-roses",
+                "count": 3,
+                "image-uri": "pink-roses.png"
+            },
+            {
+                "name": "orange-roses",
+                "count": 3,
+                "image-uri": "orange-roses.png"
+            }
+        ]
+    },
+    "dark-cosmos-crown": {
+        "name": {
+            "name-USen": "dark cosmos crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 3360,
+        "image-uri": "dark-cosmos-crown.png",
+        "materials": [
+            {
+                "name": "black-cosmos",
+                "count": 7,
+                "image-uri": "black-cosmos.png"
+            }
+        ]
+    },
+    "dark-lily-crown": {
+        "name": {
+            "name-USen": "dark lily crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 960,
+        "image-uri": "dark-lily-crown.png",
+        "materials": [
+            {
+                "name": "black-lilies",
+                "count": 6,
+                "image-uri": "black-lilies.png"
+            }
+        ]
+    },
+    "dark-tulip-crown": {
+        "name": {
+            "name-USen": "dark tulip crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 800,
+        "image-uri": "dark-tulip-crown.png",
+        "materials": [
+            {
+                "name": "black-tulips",
+                "count": 5,
+                "image-uri": "black-tulips.png"
+            }
+        ]
+    },
+    "earth-egg-outfit": {
+        "name": {
+            "name-USen": "earth-egg outfit"
+        },
+        "sources": [
+            "Digging up earth eggs"
+        ],
+        "sell-price": 1200,
+        "image-uri": "earth-egg-outfit.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 3,
+                "image-uri": "earth-egg.png"
+            }
+        ]
+    },
+    "earth-egg-shell": {
+        "name": {
+            "name-USen": "earth-egg shell"
+        },
+        "sources": [
+            "Digging up earth eggs"
+        ],
+        "sell-price": 800,
+        "image-uri": "earth-egg-shell.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 2,
+                "image-uri": "earth-egg.png"
+            }
+        ]
+    },
+    "earth-egg-shoes": {
+        "name": {
+            "name-USen": "earth-egg shoes"
+        },
+        "sources": [
+            "Digging up earth eggs"
+        ],
+        "sell-price": 800,
+        "image-uri": "earth-egg-shoes.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 2,
+                "image-uri": "earth-egg.png"
+            }
+        ]
+    },
+    "egg-party-dress": {
+        "name": {
+            "name-USen": "egg party dress"
+        },
+        "sources": [
+            "Unlock recipes for all six Bunny Day egg outfits"
+        ],
+        "sell-price": 7200,
+        "image-uri": "egg-party-dress.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 3,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 3,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 3,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 3,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 3,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 3,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "egg-party-hat": {
+        "name": {
+            "name-USen": "egg party hat"
+        },
+        "sources": [
+            "Unlock recipes for all six Bunny Day egg outfits"
+        ],
+        "sell-price": 4800,
+        "image-uri": "egg-party-hat.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 2,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 2,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 2,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 2,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 2,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 2,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "gold-armor": {
+        "name": {
+            "name-USen": "gold armor"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 80000,
+        "image-uri": "gold-armor.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 8,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "gold-armor-shoes": {
+        "name": {
+            "name-USen": "gold-armor shoes"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 40000,
+        "image-uri": "gold-armor-shoes.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 4,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "gold-helmet": {
+        "name": {
+            "name-USen": "gold helmet"
+        },
+        "sources": [
+            "Smug island resident"
+        ],
+        "sell-price": 50000,
+        "image-uri": "gold-helmet.png",
+        "materials": [
+            {
+                "name": "gold-nugget",
+                "count": 5,
+                "image-uri": "gold-nugget.png"
+            }
+        ]
+    },
+    "gold-rose-crown": {
+        "name": {
+            "name-USen": "gold rose crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 12000,
+        "image-uri": "gold-rose-crown.png",
+        "materials": [
+            {
+                "name": "gold-roses",
+                "count": 6,
+                "image-uri": "gold-roses.png"
+            }
+        ]
+    },
+    "grass-skirt": {
+        "name": {
+            "name-USen": "grass skirt"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 140,
+        "image-uri": "grass-skirt.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 7,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "green-grass-skirt": {
+        "name": {
+            "name-USen": "green grass skirt"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 140,
+        "image-uri": "green-grass-skirt.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 7,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "hyacinth-crown": {
+        "name": {
+            "name-USen": "hyacinth crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 640,
+        "image-uri": "hyacinth-crown.png",
+        "materials": [
+            {
+                "name": "red-hyacinths",
+                "count": 4,
+                "image-uri": "red-hyacinths.png"
+            },
+            {
+                "name": "yellow-hyacinths",
+                "count": 2,
+                "image-uri": "yellow-hyacinths.png"
+            },
+            {
+                "name": "white-hyacinths",
+                "count": 2,
+                "image-uri": "white-hyacinths.png"
+            }
+        ]
+    },
+    "iron-armor": {
+        "name": {
+            "name-USen": "iron armor"
+        },
+        "sources": [
+            "Cranky island resident"
+        ],
+        "sell-price": 6000,
+        "image-uri": "iron-armor.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 8,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "knight's-helmet": {
+        "name": {
+            "name-USen": "knight's helmet"
+        },
+        "sources": [
+            "Cranky island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 3750,
+        "image-uri": "knight's-helmet.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 5,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "knitted-grass-backpack": {
+        "name": {
+            "name-USen": "knitted-grass backpack"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 400,
+        "image-uri": "knitted-grass-backpack.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 20,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "leaf": {
+        "name": {
+            "name-USen": "leaf"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 100,
+        "image-uri": "leaf.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 5,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "leaf-mask": {
+        "name": {
+            "name-USen": "leaf mask"
+        },
+        "sources": [
+            "Peppy island resident"
+        ],
+        "sell-price": 200,
+        "image-uri": "leaf-mask.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "leaf-umbrella": {
+        "name": {
+            "name-USen": "leaf umbrella"
+        },
+        "sources": [
+            "Uchi island resident Message in a bottle"
+        ],
+        "sell-price": 300,
+        "image-uri": "leaf-umbrella.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 15,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "leaf-egg-outfit": {
+        "name": {
+            "name-USen": "leaf-egg outfit"
+        },
+        "sources": [
+            "Gather leaf eggs by shaking trees"
+        ],
+        "sell-price": 1200,
+        "image-uri": "leaf-egg-outfit.png",
+        "materials": [
+            {
+                "name": "leaf-egg",
+                "count": 3,
+                "image-uri": "leaf-egg.png"
+            }
+        ]
+    },
+    "leaf-egg-shell": {
+        "name": {
+            "name-USen": "leaf-egg shell"
+        },
+        "sources": [
+            "Gather leaf eggs by shaking trees"
+        ],
+        "sell-price": 800,
+        "image-uri": "leaf-egg-shell.png",
+        "materials": [
+            {
+                "name": "leaf-egg",
+                "count": 2,
+                "image-uri": "leaf-egg.png"
+            }
+        ]
+    },
+    "leaf-egg-shoes": {
+        "name": {
+            "name-USen": "leaf-egg shoes"
+        },
+        "sources": [
+            "Gather leaf eggs by shaking trees"
+        ],
+        "sell-price": 800,
+        "image-uri": "leaf-egg-shoes.png",
+        "materials": [
+            {
+                "name": "leaf-egg",
+                "count": 2,
+                "image-uri": "leaf-egg.png"
+            }
+        ]
+    },
+    "lily-crown": {
+        "name": {
+            "name-USen": "lily crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 480,
+        "image-uri": "lily-crown.png",
+        "materials": [
+            {
+                "name": "red-lilies",
+                "count": 2,
+                "image-uri": "red-lilies.png"
+            },
+            {
+                "name": "yellow-lilies",
+                "count": 2,
+                "image-uri": "yellow-lilies.png"
+            },
+            {
+                "name": "white-lilies",
+                "count": 2,
+                "image-uri": "white-lilies.png"
+            }
+        ]
+    },
+    "log-pack": {
+        "name": {
+            "name-USen": "log pack"
+        },
+        "sources": [
+            "Jock island resident",
+            "Balloon"
+        ],
+        "sell-price": 960,
+        "image-uri": "log-pack.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "hardwood",
+                "count": 5,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "lovely-cosmos-crown": {
+        "name": {
+            "name-USen": "lovely cosmos crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 1120,
+        "image-uri": "lovely-cosmos-crown.png",
+        "materials": [
+            {
+                "name": "pink-cosmos",
+                "count": 4,
+                "image-uri": "pink-cosmos.png"
+            },
+            {
+                "name": "orange-cosmos",
+                "count": 3,
+                "image-uri": "orange-cosmos.png"
+            }
+        ]
+    },
+    "maple-leaf-pochette": {
+        "name": {
+            "name-USen": "maple-leaf pochette"
+        },
+        "sources": [
+            "Balloon during Maple Leaf Season"
+        ],
+        "sell-price": 2400,
+        "image-uri": "maple-leaf-pochette.png",
+        "materials": [
+            {
+                "name": "maple-leaf",
+                "count": 6,
+                "image-uri": "maple-leaf.png"
+            }
+        ]
+    },
+    "maple-leaf-umbrella": {
+        "name": {
+            "name-USen": "maple-leaf umbrella"
+        },
+        "sources": [
+            "Balloon during Maple Leaf Season"
+        ],
+        "sell-price": 2800,
+        "image-uri": "maple-leaf-umbrella.png",
+        "materials": [
+            {
+                "name": "maple-leaf",
+                "count": 7,
+                "image-uri": "maple-leaf.png"
+            }
+        ]
+    },
+    "mum-crown": {
+        "name": {
+            "name-USen": "mum crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 480,
+        "image-uri": "mum-crown.png",
+        "materials": [
+            {
+                "name": "red-mums",
+                "count": 2,
+                "image-uri": "red-mums.png"
+            },
+            {
+                "name": "yellow-mums",
+                "count": 2,
+                "image-uri": "yellow-mums.png"
+            },
+            {
+                "name": "white-mums",
+                "count": 2,
+                "image-uri": "white-mums.png"
+            }
+        ]
+    },
+    "mush-umbrella": {
+        "name": {
+            "name-USen": "mush umbrella"
+        },
+        "sources": [
+            "Balloon during Mushrooming Season"
+        ],
+        "sell-price": 1200,
+        "image-uri": "mush-umbrella.png",
+        "materials": [
+            {
+                "name": "flat-mushroom",
+                "count": 3,
+                "image-uri": "flat-mushroom.png"
+            }
+        ]
+    },
+    "orange-dress": {
+        "name": {
+            "name-USen": "orange dress"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 1600,
+        "image-uri": "orange-dress.png",
+        "materials": [
+            {
+                "name": "orange",
+                "count": 8,
+                "image-uri": "orange.png"
+            }
+        ]
+    },
+    "orange-hat": {
+        "name": {
+            "name-USen": "orange hat"
+        },
+        "sources": [
+            "Lazy island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1000,
+        "image-uri": "orange-hat.png",
+        "materials": [
+            {
+                "name": "orange",
+                "count": 5,
+                "image-uri": "orange.png"
+            }
+        ]
+    },
+    "orange-umbrella": {
+        "name": {
+            "name-USen": "orange umbrella"
+        },
+        "sources": [
+            "Lazy island resident"
+        ],
+        "sell-price": 1400,
+        "image-uri": "orange-umbrella.png",
+        "materials": [
+            {
+                "name": "orange",
+                "count": 7,
+                "image-uri": "orange.png"
+            }
+        ]
+    },
+    "pansy-crown": {
+        "name": {
+            "name-USen": "pansy crown"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 480,
+        "image-uri": "pansy-crown.png",
+        "materials": [
+            {
+                "name": "red-pansies",
+                "count": 2,
+                "image-uri": "red-pansies.png"
+            },
+            {
+                "name": "yellow-pansies",
+                "count": 2,
+                "image-uri": "yellow-pansies.png"
+            },
+            {
+                "name": "white-pansies",
+                "count": 2,
+                "image-uri": "white-pansies.png"
+            }
+        ]
+    },
+    "peach-dress": {
+        "name": {
+            "name-USen": "peach dress"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1600,
+        "image-uri": "peach-dress.png",
+        "materials": [
+            {
+                "name": "peach",
+                "count": 8,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "peach-hat": {
+        "name": {
+            "name-USen": "peach hat"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1000,
+        "image-uri": "peach-hat.png",
+        "materials": [
+            {
+                "name": "peach",
+                "count": 5,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "peach-umbrella": {
+        "name": {
+            "name-USen": "peach umbrella"
+        },
+        "sources": [
+            "Normal island resident"
+        ],
+        "sell-price": 1400,
+        "image-uri": "peach-umbrella.png",
+        "materials": [
+            {
+                "name": "peach",
+                "count": 7,
+                "image-uri": "peach.png"
+            }
+        ]
+    },
+    "pear-dress": {
+        "name": {
+            "name-USen": "pear dress"
+        },
+        "sources": [
+            "Jock island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 1600,
+        "image-uri": "pear-dress.png",
+        "materials": [
+            {
+                "name": "pear",
+                "count": 8,
+                "image-uri": "pear.png"
+            }
+        ]
+    },
+    "pear-hat": {
+        "name": {
+            "name-USen": "pear hat"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 1000,
+        "image-uri": "pear-hat.png",
+        "materials": [
+            {
+                "name": "pear",
+                "count": 5,
+                "image-uri": "pear.png"
+            }
+        ]
+    },
+    "pear-umbrella": {
+        "name": {
+            "name-USen": "pear umbrella"
+        },
+        "sources": [
+            "Jock island resident"
+        ],
+        "sell-price": 1400,
+        "image-uri": "pear-umbrella.png",
+        "materials": [
+            {
+                "name": "pear",
+                "count": 7,
+                "image-uri": "pear.png"
+            }
+        ]
+    },
+    "purple-hyacinth-crown": {
+        "name": {
+            "name-USen": "purple hyacinth crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 2880,
+        "image-uri": "purple-hyacinth-crown.png",
+        "materials": [
+            {
+                "name": "purple-hyacinths",
+                "count": 6,
+                "image-uri": "purple-hyacinths.png"
+            }
+        ]
+    },
+    "purple-pansy-crown": {
+        "name": {
+            "name-USen": "purple pansy crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 2880,
+        "image-uri": "purple-pansy-crown.png",
+        "materials": [
+            {
+                "name": "purple-pansies",
+                "count": 6,
+                "image-uri": "purple-pansies.png"
+            }
+        ]
+    },
+    "purple-windflower-crown": {
+        "name": {
+            "name-USen": "purple windflower crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 2880,
+        "image-uri": "purple-windflower-crown.png",
+        "materials": [
+            {
+                "name": "purple-windflowers",
+                "count": 6,
+                "image-uri": "purple-windflowers.png"
+            }
+        ]
+    },
+    "recycled-boots": {
+        "name": {
+            "name-USen": "recycled boots"
+        },
+        "sources": [
+            "Fishing up a boot"
+        ],
+        "sell-price": 40,
+        "image-uri": "recycled-boots.png",
+        "materials": [
+            {
+                "name": "boot",
+                "count": 2,
+                "image-uri": "boot.png"
+            }
+        ]
+    },
+    "rose-crown": {
+        "name": {
+            "name-USen": "rose crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 480,
+        "image-uri": "rose-crown.png",
+        "materials": [
+            {
+                "name": "red-roses",
+                "count": 2,
+                "image-uri": "red-roses.png"
+            },
+            {
+                "name": "yellow-roses",
+                "count": 2,
+                "image-uri": "yellow-roses.png"
+            },
+            {
+                "name": "white-roses",
+                "count": 2,
+                "image-uri": "white-roses.png"
+            }
+        ]
+    },
+    "shellfish-pochette": {
+        "name": {
+            "name-USen": "shellfish pochette"
+        },
+        "sources": [
+            "Balloon during Summer",
+            "Message in a bottle"
+        ],
+        "sell-price": 10800,
+        "image-uri": "shellfish-pochette.png",
+        "materials": [
+            {
+                "name": "giant-clam",
+                "count": 2,
+                "image-uri": "giant-clam.png"
+            },
+            {
+                "name": "summer-shell",
+                "count": 6,
+                "image-uri": "summer-shell.png"
+            }
+        ]
+    },
+    "simple-mum-crown": {
+        "name": {
+            "name-USen": "simple mum crown"
+        },
+        "sources": [
+            "Any island resident"
+        ],
+        "sell-price": 2880,
+        "image-uri": "simple-mum-crown.png",
+        "materials": [
+            {
+                "name": "green-mums",
+                "count": 6,
+                "image-uri": "green-mums.png"
+            }
+        ]
+    },
+    "sky-egg-outfit": {
+        "name": {
+            "name-USen": "sky-egg outfit"
+        },
+        "sources": [
+            "Shooting down sky eggs"
+        ],
+        "sell-price": 1200,
+        "image-uri": "sky-egg-outfit.png",
+        "materials": [
+            {
+                "name": "sky-egg",
+                "count": 3,
+                "image-uri": "sky-egg.png"
+            }
+        ]
+    },
+    "sky-egg-shell": {
+        "name": {
+            "name-USen": "sky-egg shell"
+        },
+        "sources": [
+            "Shooting down sky eggs"
+        ],
+        "sell-price": 800,
+        "image-uri": "sky-egg-shell.png",
+        "materials": [
+            {
+                "name": "sky-egg",
+                "count": 2,
+                "image-uri": "sky-egg.png"
+            }
+        ]
+    },
+    "sky-egg-shoes": {
+        "name": {
+            "name-USen": "sky-egg shoes"
+        },
+        "sources": [
+            "Shooting down sky eggs"
+        ],
+        "sell-price": 800,
+        "image-uri": "sky-egg-shoes.png",
+        "materials": [
+            {
+                "name": "sky-egg",
+                "count": 2,
+                "image-uri": "sky-egg.png"
+            }
+        ]
+    },
+    "snowflake-pochette": {
+        "name": {
+            "name-USen": "snowflake pochette"
+        },
+        "sources": [
+            "Balloon during Winter"
+        ],
+        "sell-price": 2400,
+        "image-uri": "snowflake-pochette.png",
+        "materials": [
+            {
+                "name": "snowflake",
+                "count": 6,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "snowperson-head": {
+        "name": {
+            "name-USen": "snowperson head"
+        },
+        "sources": [
+            "Make a perfect Snowboy"
+        ],
+        "sell-price": 7000,
+        "image-uri": "snowperson-head.png",
+        "materials": [
+            {
+                "name": "large-snowflake",
+                "count": 1,
+                "image-uri": "large-snowflake.png"
+            },
+            {
+                "name": "snowflake",
+                "count": 5,
+                "image-uri": "snowflake.png"
+            }
+        ]
+    },
+    "star-head": {
+        "name": {
+            "name-USen": "star head"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 2500,
+        "image-uri": "star-head.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 5,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "star-pochette": {
+        "name": {
+            "name-USen": "star pochette"
+        },
+        "sources": [
+            "Celeste"
+        ],
+        "sell-price": 3000,
+        "image-uri": "star-pochette.png",
+        "materials": [
+            {
+                "name": "star-fragment",
+                "count": 6,
+                "image-uri": "star-fragment.png"
+            }
+        ]
+    },
+    "stone-egg-outfit": {
+        "name": {
+            "name-USen": "stone-egg outfit"
+        },
+        "sources": [
+            "Gather stone eggs by hitting rocks"
+        ],
+        "sell-price": 1200,
+        "image-uri": "stone-egg-outfit.png",
+        "materials": [
+            {
+                "name": "stone-egg",
+                "count": 3,
+                "image-uri": "stone-egg.png"
+            }
+        ]
+    },
+    "stone-egg-shell": {
+        "name": {
+            "name-USen": "stone-egg shell"
+        },
+        "sources": [
+            "Gather stone eggs by hitting rocks"
+        ],
+        "sell-price": 800,
+        "image-uri": "stone-egg-shell.png",
+        "materials": [
+            {
+                "name": "stone-egg",
+                "count": 2,
+                "image-uri": "stone-egg.png"
+            }
+        ]
+    },
+    "stone-egg-shoes": {
+        "name": {
+            "name-USen": "stone-egg shoes"
+        },
+        "sources": [
+            "Gather stone eggs by hitting rocks"
+        ],
+        "sell-price": 800,
+        "image-uri": "stone-egg-shoes.png",
+        "materials": [
+            {
+                "name": "stone-egg",
+                "count": 2,
+                "image-uri": "stone-egg.png"
+            }
+        ]
+    },
+    "straw-umbrella-hat": {
+        "name": {
+            "name-USen": "straw umbrella hat"
+        },
+        "sources": [
+            "Smug island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 200,
+        "image-uri": "straw-umbrella-hat.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "traditional-straw-coat": {
+        "name": {
+            "name-USen": "traditional straw coat"
+        },
+        "sources": [
+            "Normal island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 160,
+        "image-uri": "traditional-straw-coat.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 8,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "tulip-crown": {
+        "name": {
+            "name-USen": "tulip crown"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 400,
+        "image-uri": "tulip-crown.png",
+        "materials": [
+            {
+                "name": "red-tulips",
+                "count": 2,
+                "image-uri": "red-tulips.png"
+            },
+            {
+                "name": "yellow-tulips",
+                "count": 2,
+                "image-uri": "yellow-tulips.png"
+            },
+            {
+                "name": "white-tulips",
+                "count": 1,
+                "image-uri": "white-tulips.png"
+            }
+        ]
+    },
+    "water-egg-outfit": {
+        "name": {
+            "name-USen": "water-egg outfit"
+        },
+        "sources": [
+            "Fishing up water Eggs"
+        ],
+        "sell-price": 1200,
+        "image-uri": "water-egg-outfit.png",
+        "materials": [
+            {
+                "name": "water-egg",
+                "count": 3,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "water-egg-shell": {
+        "name": {
+            "name-USen": "water-egg shell"
+        },
+        "sources": [
+            "Fishing up water Eggs"
+        ],
+        "sell-price": 800,
+        "image-uri": "water-egg-shell.png",
+        "materials": [
+            {
+                "name": "water-egg",
+                "count": 2,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "water-egg-shoes": {
+        "name": {
+            "name-USen": "water-egg shoes"
+        },
+        "sources": [
+            "Fishing up water Eggs"
+        ],
+        "sell-price": 800,
+        "image-uri": "water-egg-shoes.png",
+        "materials": [
+            {
+                "name": "water-egg",
+                "count": 2,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "windflower-crown": {
+        "name": {
+            "name-USen": "windflower crown"
+        },
+        "sources": [
+            "Any island resident",
+            "Message in a bottle"
+        ],
+        "sell-price": 480,
+        "image-uri": "windflower-crown.png",
+        "materials": [
+            {
+                "name": "red-windflowers",
+                "count": 2,
+                "image-uri": "red-windflowers.png"
+            },
+            {
+                "name": "orange-windflowers",
+                "count": 2,
+                "image-uri": "orange-windflowers.png"
+            },
+            {
+                "name": "white-windflowers",
+                "count": 2,
+                "image-uri": "white-windflowers.png"
+            }
+        ]
+    },
+    "wood-egg-outfit": {
+        "name": {
+            "name-USen": "wood-egg outfit"
+        },
+        "sources": [
+            "Gather wood eggs by hitting trees with an axe"
+        ],
+        "sell-price": 1200,
+        "image-uri": "wood-egg-outfit.png",
+        "materials": [
+            {
+                "name": "wood-egg",
+                "count": 3,
+                "image-uri": "wood-egg.png"
+            }
+        ]
+    },
+    "wood-egg-shell": {
+        "name": {
+            "name-USen": "wood-egg shell"
+        },
+        "sources": [
+            "Gather wood eggs by hitting trees with an axe"
+        ],
+        "sell-price": 800,
+        "image-uri": "wood-egg-shell.png",
+        "materials": [
+            {
+                "name": "wood-egg",
+                "count": 2,
+                "image-uri": "wood-egg.png"
+            }
+        ]
+    },
+    "wood-egg-shoes": {
+        "name": {
+            "name-USen": "wood-egg shoes"
+        },
+        "sources": [
+            "Gather wood eggs by hitting trees with an axe"
+        ],
+        "sell-price": 800,
+        "image-uri": "wood-egg-shoes.png",
+        "materials": [
+            {
+                "name": "wood-egg",
+                "count": 2,
+                "image-uri": "wood-egg.png"
+            }
+        ]
+    }
+}

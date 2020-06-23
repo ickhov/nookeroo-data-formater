@@ -1,0 +1,488 @@
+{
+    "bamboo-lattice-fence": {
+        "name": {
+            "name-USen": "bamboo lattice fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 96,
+        "image-uri": "bamboo-lattice-fence.png",
+        "materials": [
+            {
+                "name": "bamboo-piece",
+                "count": 6,
+                "image-uri": "bamboo-piece.png"
+            }
+        ]
+    },
+    "barbed-wire-fence": {
+        "name": {
+            "name-USen": "barbed-wire fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 198,
+        "image-uri": "barbed-wire-fence.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 4,
+                "image-uri": "hardwood.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 2,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "brick-fence": {
+        "name": {
+            "name-USen": "brick fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 120,
+        "image-uri": "brick-fence.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 6,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "bunny-day-fence": {
+        "name": {
+            "name-USen": "bunny day fence"
+        },
+        "sources": [
+            "Bunny Day"
+        ],
+        "sell-price": 240,
+        "image-uri": "bunny-day-fence.png",
+        "materials": [
+            {
+                "name": "earth-egg",
+                "count": 1,
+                "image-uri": "earth-egg.png"
+            },
+            {
+                "name": "stone-egg",
+                "count": 1,
+                "image-uri": "stone-egg.png"
+            },
+            {
+                "name": "leaf-egg",
+                "count": 1,
+                "image-uri": "leaf-egg.png"
+            },
+            {
+                "name": "wood-egg",
+                "count": 1,
+                "image-uri": "wood-egg.png"
+            },
+            {
+                "name": "sky-egg",
+                "count": 1,
+                "image-uri": "sky-egg.png"
+            },
+            {
+                "name": "water-egg",
+                "count": 1,
+                "image-uri": "water-egg.png"
+            }
+        ]
+    },
+    "corral-fence": {
+        "name": {
+            "name-USen": "corral fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 72,
+        "image-uri": "corral-fence.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 6,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "country-fence": {
+        "name": {
+            "name-USen": "country fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 72,
+        "image-uri": "country-fence.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 6,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "hedge": {
+        "name": {
+            "name-USen": "hedge"
+        },
+        "sources": [
+            "Nature Day"
+        ],
+        "sell-price": 55,
+        "image-uri": "hedge.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 6,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "tree-branch",
+                "count": 5,
+                "image-uri": "tree-branch.png"
+            },
+            {
+                "name": "stone",
+                "count": 2,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "imperial-fence": {
+        "name": {
+            "name-USen": "imperial fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 120,
+        "image-uri": "imperial-fence.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 6,
+                "image-uri": "wood.png"
+            },
+            {
+                "name": "softwood",
+                "count": 4,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "iron-and-stone-fence": {
+        "name": {
+            "name-USen": "iron-and-stone fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 315,
+        "image-uri": "iron-and-stone-fence.png",
+        "materials": [
+            {
+                "name": "stone",
+                "count": 6,
+                "image-uri": "stone.png"
+            },
+            {
+                "name": "iron-nugget",
+                "count": 3,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "iron-fence": {
+        "name": {
+            "name-USen": "iron fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 450,
+        "image-uri": "iron-fence.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 6,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "fish-bait": {
+        "name": {
+            "name-USen": "fish bait"
+        },
+        "sources": [
+            "Digging up a manila clam"
+        ],
+        "sell-price": 200,
+        "image-uri": "fish-bait.png",
+        "materials": [
+            {
+                "name": "manila-clam",
+                "count": 1,
+                "image-uri": "manila-clam.png"
+            }
+        ]
+    },
+    "lattice-fence": {
+        "name": {
+            "name-USen": "lattice fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 96,
+        "image-uri": "lattice-fence.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 8,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "medicine": {
+        "name": {
+            "name-USen": "medicine"
+        },
+        "sources": [
+            "An island resident after being stung"
+        ],
+        "sell-price": 100,
+        "image-uri": "medicine.png",
+        "materials": [
+            {
+                "name": "wasp-nest",
+                "count": 1,
+                "image-uri": "wasp-nest.png"
+            },
+            {
+                "name": "clump-of-weeds",
+                "count": 3,
+                "image-uri": "clump-of-weeds.png"
+            }
+        ]
+    },
+    "ocarina": {
+        "name": {
+            "name-USen": "ocarina"
+        },
+        "sources": [
+            "DIY for Beginners (480 Bells from Timmy)"
+        ],
+        "sell-price": 1000,
+        "image-uri": "ocarina.png",
+        "materials": [
+            {
+                "name": "clay",
+                "count": 5,
+                "image-uri": "clay.png"
+            }
+        ]
+    },
+    "pan-flute": {
+        "name": {
+            "name-USen": "pan flute"
+        },
+        "sources": [
+            "Balloon"
+        ],
+        "sell-price": 2800,
+        "image-uri": "pan-flute.png",
+        "materials": [
+            {
+                "name": "young-spring-bamboo",
+                "count": 7,
+                "image-uri": "young-spring-bamboo.png"
+            }
+        ]
+    },
+    "pitfall-seed": {
+        "name": {
+            "name-USen": "pitfall seed"
+        },
+        "sources": [
+            "Jock island resident, Balloon, Message in a bottle"
+        ],
+        "sell-price": 140,
+        "image-uri": "pitfall-seed.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 4,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "tree-branch",
+                "count": 6,
+                "image-uri": "tree-branch.png"
+            }
+        ]
+    },
+    "rope-fence": {
+        "name": {
+            "name-USen": "rope fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 300,
+        "image-uri": "rope-fence.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 4,
+                "image-uri": "iron-nugget.png"
+            }
+        ]
+    },
+    "simple-wooden-fence": {
+        "name": {
+            "name-USen": "simple wooden fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 72,
+        "image-uri": "simple-wooden-fence.png",
+        "materials": [
+            {
+                "name": "softwood",
+                "count": 6,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "spiky-fence": {
+        "name": {
+            "name-USen": "spiky fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 96,
+        "image-uri": "spiky-fence.png",
+        "materials": [
+            {
+                "name": "hardwood",
+                "count": 8,
+                "image-uri": "hardwood.png"
+            }
+        ]
+    },
+    "stone-fence": {
+        "name": {
+            "name-USen": "stone fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 60,
+        "image-uri": "stone-fence.png",
+        "materials": [
+            {
+                "name": "stone",
+                "count": 4,
+                "image-uri": "stone.png"
+            }
+        ]
+    },
+    "straw-fence": {
+        "name": {
+            "name-USen": "straw fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 56,
+        "image-uri": "straw-fence.png",
+        "materials": [
+            {
+                "name": "clump-of-weeds",
+                "count": 10,
+                "image-uri": "clump-of-weeds.png"
+            },
+            {
+                "name": "wood",
+                "count": 3,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "vertical-board-fence": {
+        "name": {
+            "name-USen": "vertical-board fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 96,
+        "image-uri": "vertical-board-fence.png",
+        "materials": [
+            {
+                "name": "wood",
+                "count": 8,
+                "image-uri": "wood.png"
+            }
+        ]
+    },
+    "wedding-fence": {
+        "name": {
+            "name-USen": "wedding fence"
+        },
+        "sources": [],
+        "sell-price": 411,
+        "image-uri": "wedding-fence.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 5,
+                "image-uri": "iron-nugget.png"
+            },
+            {
+                "name": "softwood",
+                "count": 3,
+                "image-uri": "softwood.png"
+            }
+        ]
+    },
+    "zen-fence": {
+        "name": {
+            "name-USen": "zen fence"
+        },
+        "sources": [
+            "Nook Stop (1,000 Nook Miles)"
+        ],
+        "sell-price": 330,
+        "image-uri": "zen-fence.png",
+        "materials": [
+            {
+                "name": "iron-nugget",
+                "count": 3,
+                "image-uri": "iron-nugget.png"
+            },
+            {
+                "name": "clay",
+                "count": 3,
+                "image-uri": "clay.png"
+            },
+            {
+                "name": "stone",
+                "count": 3,
+                "image-uri": "stone.png"
+            }
+        ]
+    }
+}
