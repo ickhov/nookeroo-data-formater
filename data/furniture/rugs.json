@@ -1,0 +1,1448 @@
+{
+    "aluminum-rug": {
+        "name": {
+            "name-USen": "aluminum rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "aluminum-rug.png"
+    },
+    "apple-rug": {
+        "name": {
+            "name-USen": "apple rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1200,
+        "image-uri": "apple-rug.png"
+    },
+    "bell-bag-rug": {
+        "name": {
+            "name-USen": "bell-bag rug"
+        },
+        "sources": [
+            "Nook Stop"
+        ],
+        "buy-price": 1200,
+        "sell-price": 6000,
+        "image-uri": "bell-bag-rug.png"
+    },
+    "black-blocks-rug": {
+        "name": {
+            "name-USen": "black blocks rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "black-blocks-rug.png"
+    },
+    "black-design-kitchen-mat": {
+        "name": {
+            "name-USen": "black-design kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "black-design-kitchen-mat.png"
+    },
+    "black-wooden-deck-rug": {
+        "name": {
+            "name-USen": "black wooden-deck rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "black-wooden-deck-rug.png"
+    },
+    "blue-argyle-rug": {
+        "name": {
+            "name-USen": "blue argyle rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-argyle-rug.png"
+    },
+    "blue-blocks-rug": {
+        "name": {
+            "name-USen": "blue blocks rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "blue-blocks-rug.png"
+    },
+    "blue-design-kitchen-mat": {
+        "name": {
+            "name-USen": "blue-design kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "blue-design-kitchen-mat.png"
+    },
+    "blue-dotted-rug": {
+        "name": {
+            "name-USen": "blue dotted rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-dotted-rug.png"
+    },
+    "blue-kilim-style-carpet": {
+        "name": {
+            "name-USen": "blue kilim-style carpet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-kilim-style-carpet.png"
+    },
+    "blue-kitchen-mat": {
+        "name": {
+            "name-USen": "blue kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "blue-kitchen-mat.png"
+    },
+    "blue-medium-round-mat": {
+        "name": {
+            "name-USen": "blue medium round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "blue-medium-round-mat.png"
+    },
+    "blue-message-mat": {
+        "name": {
+            "name-USen": "blue message mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "blue-message-mat.png"
+    },
+    "blue-persian-rug": {
+        "name": {
+            "name-USen": "blue persian rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-persian-rug.png"
+    },
+    "blue-shaggy-rug": {
+        "name": {
+            "name-USen": "blue shaggy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-shaggy-rug.png"
+    },
+    "blue-small-round-mat": {
+        "name": {
+            "name-USen": "blue small round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "blue-small-round-mat.png"
+    },
+    "blue-stripes-rug": {
+        "name": {
+            "name-USen": "blue stripes rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-stripes-rug.png"
+    },
+    "blue-vinyl-sheet": {
+        "name": {
+            "name-USen": "blue vinyl sheet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "blue-vinyl-sheet.png"
+    },
+    "blue-wavy-rug": {
+        "name": {
+            "name-USen": "blue wavy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "blue-wavy-rug.png"
+    },
+    "blue-wedding-rug": {
+        "name": {
+            "name-USen": "blue wedding rug"
+        },
+        "sources": [],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "blue-wedding-rug.png"
+    },
+    "botanical-rug": {
+        "name": {
+            "name-USen": "botanical rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "botanical-rug.png"
+    },
+    "brown-argyle-rug": {
+        "name": {
+            "name-USen": "brown argyle rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "brown-argyle-rug.png"
+    },
+    "brown-kitchen-mat": {
+        "name": {
+            "name-USen": "brown kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "brown-kitchen-mat.png"
+    },
+    "brown-shaggy-rug": {
+        "name": {
+            "name-USen": "brown shaggy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "brown-shaggy-rug.png"
+    },
+    "brown-wooden-deck-rug": {
+        "name": {
+            "name-USen": "brown wooden-deck rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "brown-wooden-deck-rug.png"
+    },
+    "bunny-day-rug": {
+        "name": {
+            "name-USen": "bunny day rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "image-uri": "bunny-day-rug.png"
+    },
+    "cherry-rug": {
+        "name": {
+            "name-USen": "cherry rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1200,
+        "image-uri": "cherry-rug.png"
+    },
+    "colorful-vinyl-sheet": {
+        "name": {
+            "name-USen": "colorful vinyl sheet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "colorful-vinyl-sheet.png"
+    },
+    "dark-bamboo-rug": {
+        "name": {
+            "name-USen": "dark bamboo rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 960,
+        "image-uri": "dark-bamboo-rug.png"
+    },
+    "earth-rug": {
+        "name": {
+            "name-USen": "earth rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "earth-rug.png"
+    },
+    "fish-rug": {
+        "name": {
+            "name-USen": "fish rug"
+        },
+        "sources": [
+            "Fishing tournament prize pool (January, April, July, October)"
+        ],
+        "buy-price": -1,
+        "sell-price": 375,
+        "image-uri": "fish-rug.png"
+    },
+    "fluffy-rug": {
+        "name": {
+            "name-USen": "fluffy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "fluffy-rug.png"
+    },
+    "fossil-rug": {
+        "name": {
+            "name-USen": "fossil rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "fossil-rug.png"
+    },
+    "green-checked-rug": {
+        "name": {
+            "name-USen": "green checked rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "green-checked-rug.png"
+    },
+    "green-kilim-style-carpet": {
+        "name": {
+            "name-USen": "green kilim-style carpet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "green-kilim-style-carpet.png"
+    },
+    "green-kitchen-mat": {
+        "name": {
+            "name-USen": "green kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "green-kitchen-mat.png"
+    },
+    "green-shaggy-rug": {
+        "name": {
+            "name-USen": "green shaggy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "green-shaggy-rug.png"
+    },
+    "green-stripes-rug": {
+        "name": {
+            "name-USen": "green stripes rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "green-stripes-rug.png"
+    },
+    "iron-entrance-mat": {
+        "name": {
+            "name-USen": "iron entrance mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "iron-entrance-mat.png"
+    },
+    "ivory-medium-round-mat": {
+        "name": {
+            "name-USen": "ivory medium round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "ivory-medium-round-mat.png"
+    },
+    "ivory-simple-bath-mat": {
+        "name": {
+            "name-USen": "ivory simple bath mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "ivory-simple-bath-mat.png"
+    },
+    "ivory-small-round-mat": {
+        "name": {
+            "name-USen": "ivory small round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "ivory-small-round-mat.png"
+    },
+    "lacy-rug": {
+        "name": {
+            "name-USen": "lacy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "lacy-rug.png"
+    },
+    "ladybug-rug": {
+        "name": {
+            "name-USen": "ladybug rug"
+        },
+        "sources": [
+            "Bug-Off"
+        ],
+        "buy-price": -1,
+        "sell-price": 375,
+        "image-uri": "ladybug-rug.png"
+    },
+    "light-bamboo-rug": {
+        "name": {
+            "name-USen": "light bamboo rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "image-uri": "light-bamboo-rug.png"
+    },
+    "magic-circle-rug": {
+        "name": {
+            "name-USen": "magic-circle rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "magic-circle-rug.png"
+    },
+    "modern-wavy-rug": {
+        "name": {
+            "name-USen": "modern wavy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "modern-wavy-rug.png"
+    },
+    "mom's-cool-kitchen-mat": {
+        "name": {
+            "name-USen": "mom's cool kitchen mat"
+        },
+        "sources": [
+            "In the mail"
+        ],
+        "buy-price": 352,
+        "sell-price": 88,
+        "image-uri": "mom's-cool-kitchen-mat.png"
+    },
+    "mom's-lively-kitchen-mat": {
+        "name": {
+            "name-USen": "mom's lively kitchen mat"
+        },
+        "sources": [
+            "In the mail"
+        ],
+        "buy-price": 352,
+        "sell-price": 88,
+        "image-uri": "mom's-lively-kitchen-mat.png"
+    },
+    "mom's-playful-kitchen-mat": {
+        "name": {
+            "name-USen": "mom's playful kitchen mat"
+        },
+        "sources": [
+            "In the mail"
+        ],
+        "buy-price": 352,
+        "sell-price": 88,
+        "image-uri": "mom's-playful-kitchen-mat.png"
+    },
+    "mom's-reliable-kitchen-mat": {
+        "name": {
+            "name-USen": "mom's reliable kitchen mat"
+        },
+        "sources": [
+            "In the mail"
+        ],
+        "buy-price": 352,
+        "sell-price": 88,
+        "image-uri": "mom's-reliable-kitchen-mat.png"
+    },
+    "monochromatic-dotted-rug": {
+        "name": {
+            "name-USen": "monochromatic dotted rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "monochromatic-dotted-rug.png"
+    },
+    "monochromatic-wavy-rug": {
+        "name": {
+            "name-USen": "monochromatic wavy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "monochromatic-wavy-rug.png"
+    },
+    "mush-rug": {
+        "name": {
+            "name-USen": "mush rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "mush-rug.png"
+    },
+    "natural-wooden-deck-rug": {
+        "name": {
+            "name-USen": "natural wooden-deck rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "natural-wooden-deck-rug.png"
+    },
+    "nook-inc.-botanical-rug": {
+        "name": {
+            "name-USen": "nook inc. botanical rug"
+        },
+        "sources": [
+            "Nook Miles System"
+        ],
+        "buy-price": 1000,
+        "sell-price": 5000,
+        "image-uri": "nook-inc.-botanical-rug.png"
+    },
+    "nook-inc.-rug": {
+        "name": {
+            "name-USen": "nook inc. rug"
+        },
+        "sources": [
+            "Nook Miles System"
+        ],
+        "buy-price": 1000,
+        "sell-price": 5000,
+        "image-uri": "nook-inc.-rug.png"
+    },
+    "nook-inc.-silk-rug": {
+        "name": {
+            "name-USen": "nook inc. silk rug"
+        },
+        "sources": [
+            "Nook Miles System (Nintendo Online members)"
+        ],
+        "buy-price": 600,
+        "sell-price": 3000,
+        "image-uri": "nook-inc.-silk-rug.png"
+    },
+    "orange-rug": {
+        "name": {
+            "name-USen": "orange rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1200,
+        "image-uri": "orange-rug.png"
+    },
+    "oval-entrance-mat": {
+        "name": {
+            "name-USen": "oval entrance mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "oval-entrance-mat.png"
+    },
+    "peach-checked-rug": {
+        "name": {
+            "name-USen": "peach checked rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "peach-checked-rug.png"
+    },
+    "peach-rug": {
+        "name": {
+            "name-USen": "peach rug"
+        },
+        "sources": [
+            "Villagers (recipe)"
+        ],
+        "buy-price": -1,
+        "sell-price": 1200,
+        "image-uri": "peach-rug.png"
+    },
+    "peach-stripes-rug": {
+        "name": {
+            "name-USen": "peach stripes rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "peach-stripes-rug.png"
+    },
+    "pear-rug": {
+        "name": {
+            "name-USen": "pear rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1200,
+        "image-uri": "pear-rug.png"
+    },
+    "pink-heart-rug": {
+        "name": {
+            "name-USen": "pink heart rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "pink-heart-rug.png"
+    },
+    "pink-rose-rug": {
+        "name": {
+            "name-USen": "pink rose rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "pink-rose-rug.png"
+    },
+    "purple-heart-rug": {
+        "name": {
+            "name-USen": "purple heart rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "purple-heart-rug.png"
+    },
+    "purple-persian-rug": {
+        "name": {
+            "name-USen": "purple persian rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "purple-persian-rug.png"
+    },
+    "purple-shaggy-rug": {
+        "name": {
+            "name-USen": "purple shaggy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "purple-shaggy-rug.png"
+    },
+    "red-and-blue-checked-rug": {
+        "name": {
+            "name-USen": "red-and-blue checked rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "red-and-blue-checked-rug.png"
+    },
+    "red-argyle-rug": {
+        "name": {
+            "name-USen": "red argyle rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "red-argyle-rug.png"
+    },
+    "red-blocks-rug": {
+        "name": {
+            "name-USen": "red blocks rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "red-blocks-rug.png"
+    },
+    "red-carpet": {
+        "name": {
+            "name-USen": "red carpet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "red-carpet.png"
+    },
+    "red-design-kitchen-mat": {
+        "name": {
+            "name-USen": "red-design kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "red-design-kitchen-mat.png"
+    },
+    "red-dotted-rug": {
+        "name": {
+            "name-USen": "red dotted rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "red-dotted-rug.png"
+    },
+    "red-kilim-style-carpet": {
+        "name": {
+            "name-USen": "red kilim-style carpet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "red-kilim-style-carpet.png"
+    },
+    "red-medium-round-mat": {
+        "name": {
+            "name-USen": "red medium round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "red-medium-round-mat.png"
+    },
+    "red-message-mat": {
+        "name": {
+            "name-USen": "red message mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "red-message-mat.png"
+    },
+    "red-persian-rug": {
+        "name": {
+            "name-USen": "red persian rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "red-persian-rug.png"
+    },
+    "red-rose-rug": {
+        "name": {
+            "name-USen": "red rose rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "red-rose-rug.png"
+    },
+    "red-small-round-mat": {
+        "name": {
+            "name-USen": "red small round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "red-small-round-mat.png"
+    },
+    "red-vinyl-sheet": {
+        "name": {
+            "name-USen": "red vinyl sheet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "red-vinyl-sheet.png"
+    },
+    "red-wavy-rug": {
+        "name": {
+            "name-USen": "red wavy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "red-wavy-rug.png"
+    },
+    "red-wedding-rug": {
+        "name": {
+            "name-USen": "red wedding rug"
+        },
+        "sources": [],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "red-wedding-rug.png"
+    },
+    "retro-dotted-rug": {
+        "name": {
+            "name-USen": "retro dotted rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "retro-dotted-rug.png"
+    },
+    "rough-rug": {
+        "name": {
+            "name-USen": "rough rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "rough-rug.png"
+    },
+    "rubber-mud-mat": {
+        "name": {
+            "name-USen": "rubber mud mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "rubber-mud-mat.png"
+    },
+    "shanty-mat": {
+        "name": {
+            "name-USen": "shanty mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "shanty-mat.png"
+    },
+    "shell-rug": {
+        "name": {
+            "name-USen": "shell rug"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 5400,
+        "image-uri": "shell-rug.png"
+    },
+    "simple-green-bath-mat": {
+        "name": {
+            "name-USen": "simple green bath mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-green-bath-mat.png"
+    },
+    "simple-medium-avocado-mat": {
+        "name": {
+            "name-USen": "simple medium avocado mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-avocado-mat.png"
+    },
+    "simple-medium-black-mat": {
+        "name": {
+            "name-USen": "simple medium black mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-black-mat.png"
+    },
+    "simple-medium-blue-mat": {
+        "name": {
+            "name-USen": "simple medium blue mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-blue-mat.png"
+    },
+    "simple-medium-brown-mat": {
+        "name": {
+            "name-USen": "simple medium brown mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-brown-mat.png"
+    },
+    "simple-medium-orange-mat": {
+        "name": {
+            "name-USen": "simple medium orange mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-orange-mat.png"
+    },
+    "simple-medium-purple-mat": {
+        "name": {
+            "name-USen": "simple medium purple mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-purple-mat.png"
+    },
+    "simple-medium-red-mat": {
+        "name": {
+            "name-USen": "simple medium red mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "simple-medium-red-mat.png"
+    },
+    "simple-navy-bath-mat": {
+        "name": {
+            "name-USen": "simple navy bath mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-navy-bath-mat.png"
+    },
+    "simple-pink-bath-mat": {
+        "name": {
+            "name-USen": "simple pink bath mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-pink-bath-mat.png"
+    },
+    "simple-small-avocado-mat": {
+        "name": {
+            "name-USen": "simple small avocado mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-avocado-mat.png"
+    },
+    "simple-small-black-mat": {
+        "name": {
+            "name-USen": "simple small black mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-black-mat.png"
+    },
+    "simple-small-blue-mat": {
+        "name": {
+            "name-USen": "simple small blue mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-blue-mat.png"
+    },
+    "simple-small-brown-mat": {
+        "name": {
+            "name-USen": "simple small brown mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-brown-mat.png"
+    },
+    "simple-small-orange-mat": {
+        "name": {
+            "name-USen": "simple small orange mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-orange-mat.png"
+    },
+    "simple-small-purple-mat": {
+        "name": {
+            "name-USen": "simple small purple mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-purple-mat.png"
+    },
+    "simple-small-red-mat": {
+        "name": {
+            "name-USen": "simple small red mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "simple-small-red-mat.png"
+    },
+    "sloppy-rug": {
+        "name": {
+            "name-USen": "sloppy rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "sloppy-rug.png"
+    },
+    "snowflake-rug": {
+        "name": {
+            "name-USen": "snowflake rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "snowflake-rug.png"
+    },
+    "tatami-mat": {
+        "name": {
+            "name-USen": "tatami mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "tatami-mat.png"
+    },
+    "tropical-rug": {
+        "name": {
+            "name-USen": "tropical rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "tropical-rug.png"
+    },
+    "turquoise-heart-rug": {
+        "name": {
+            "name-USen": "turquoise heart rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "turquoise-heart-rug.png"
+    },
+    "white-heart-rug": {
+        "name": {
+            "name-USen": "white heart rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "white-heart-rug.png"
+    },
+    "white-message-mat": {
+        "name": {
+            "name-USen": "white message mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "white-message-mat.png"
+    },
+    "white-rose-rug": {
+        "name": {
+            "name-USen": "white rose rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "white-rose-rug.png"
+    },
+    "white-simple-medium-mat": {
+        "name": {
+            "name-USen": "white simple medium mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "white-simple-medium-mat.png"
+    },
+    "white-simple-small-mat": {
+        "name": {
+            "name-USen": "white simple small mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "white-simple-small-mat.png"
+    },
+    "white-wedding-rug": {
+        "name": {
+            "name-USen": "white wedding rug"
+        },
+        "sources": [],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "white-wedding-rug.png"
+    },
+    "white-wooden-deck-rug": {
+        "name": {
+            "name-USen": "white wooden-deck rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "white-wooden-deck-rug.png"
+    },
+    "yellow-argyle-rug": {
+        "name": {
+            "name-USen": "yellow argyle rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "yellow-argyle-rug.png"
+    },
+    "yellow-blocks-rug": {
+        "name": {
+            "name-USen": "yellow blocks rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "yellow-blocks-rug.png"
+    },
+    "yellow-checked-rug": {
+        "name": {
+            "name-USen": "yellow checked rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "yellow-checked-rug.png"
+    },
+    "yellow-design-kitchen-mat": {
+        "name": {
+            "name-USen": "yellow-design kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "yellow-design-kitchen-mat.png"
+    },
+    "yellow-kilim-style-carpet": {
+        "name": {
+            "name-USen": "yellow kilim-style carpet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "yellow-kilim-style-carpet.png"
+    },
+    "yellow-kitchen-mat": {
+        "name": {
+            "name-USen": "yellow kitchen mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "yellow-kitchen-mat.png"
+    },
+    "yellow-medium-round-mat": {
+        "name": {
+            "name-USen": "yellow medium round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "yellow-medium-round-mat.png"
+    },
+    "yellow-message-mat": {
+        "name": {
+            "name-USen": "yellow message mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "yellow-message-mat.png"
+    },
+    "yellow-persian-rug": {
+        "name": {
+            "name-USen": "yellow persian rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "yellow-persian-rug.png"
+    },
+    "yellow-rose-rug": {
+        "name": {
+            "name-USen": "yellow rose rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "yellow-rose-rug.png"
+    },
+    "yellow-small-round-mat": {
+        "name": {
+            "name-USen": "yellow small round mat"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "yellow-small-round-mat.png"
+    },
+    "yellow-stripes-rug": {
+        "name": {
+            "name-USen": "yellow stripes rug"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "yellow-stripes-rug.png"
+    },
+    "yellow-vinyl-sheet": {
+        "name": {
+            "name-USen": "yellow vinyl sheet"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 1500,
+        "sell-price": 375,
+        "image-uri": "yellow-vinyl-sheet.png"
+    }
+}

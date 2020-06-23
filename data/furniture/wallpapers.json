@@ -1,0 +1,2709 @@
+{
+    "abstract-wall": {
+        "name": {
+            "name-USen": "abstract wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1560,
+        "sell-price": 390,
+        "image-uri": "abstract-wall.png"
+    },
+    "ancient-wall": {
+        "name": {
+            "name-USen": "ancient wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "ancient-wall.png"
+    },
+    "apple-wall": {
+        "name": {
+            "name-USen": "apple wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 16000,
+        "sell-price": 4000,
+        "image-uri": "apple-wall.png"
+    },
+    "aqua-tile-wall": {
+        "name": {
+            "name-USen": "aqua tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1420,
+        "sell-price": 355,
+        "image-uri": "aqua-tile-wall.png"
+    },
+    "arched-window-wall": {
+        "name": {
+            "name-USen": "arched-window wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2150,
+        "sell-price": 537,
+        "image-uri": "arched-window-wall.png"
+    },
+    "autumn-wall": {
+        "name": {
+            "name-USen": "autumn wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 18800,
+        "sell-price": 4700,
+        "image-uri": "autumn-wall.png"
+    },
+    "backyard-fence-wall": {
+        "name": {
+            "name-USen": "backyard-fence wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "backyard-fence-wall.png"
+    },
+    "bamboo-grove-wall": {
+        "name": {
+            "name-USen": "bamboo-grove wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 4300,
+        "image-uri": "bamboo-grove-wall.png"
+    },
+    "bamboo-screen-wall": {
+        "name": {
+            "name-USen": "bamboo-screen wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1770,
+        "sell-price": 442,
+        "image-uri": "bamboo-screen-wall.png"
+    },
+    "bamboo-wall": {
+        "name": {
+            "name-USen": "bamboo wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 2400,
+        "image-uri": "bamboo-wall.png"
+    },
+    "bank-vault-wall": {
+        "name": {
+            "name-USen": "bank-vault wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "bank-vault-wall.png"
+    },
+    "basic-wall": {
+        "name": {
+            "name-USen": "basic wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 600,
+        "sell-price": 150,
+        "image-uri": "basic-wall.png"
+    },
+    "beaded-curtain-wall": {
+        "name": {
+            "name-USen": "beaded-curtain wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1720,
+        "sell-price": 430,
+        "image-uri": "beaded-curtain-wall.png"
+    },
+    "beige-art-deco-wall": {
+        "name": {
+            "name-USen": "beige art-deco wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2780,
+        "sell-price": 695,
+        "image-uri": "beige-art-deco-wall.png"
+    },
+    "beige-blossoming-wall": {
+        "name": {
+            "name-USen": "beige blossoming wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1760,
+        "sell-price": 440,
+        "image-uri": "beige-blossoming-wall.png"
+    },
+    "beige-desert-tile-wall": {
+        "name": {
+            "name-USen": "beige desert-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2440,
+        "sell-price": 610,
+        "image-uri": "beige-desert-tile-wall.png"
+    },
+    "black-botanical-tile-wall": {
+        "name": {
+            "name-USen": "black botanical-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1240,
+        "sell-price": 310,
+        "image-uri": "black-botanical-tile-wall.png"
+    },
+    "black-brick-wall": {
+        "name": {
+            "name-USen": "black-brick wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "black-brick-wall.png"
+    },
+    "black-crown-wall": {
+        "name": {
+            "name-USen": "black-crown wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2350,
+        "sell-price": 587,
+        "image-uri": "black-crown-wall.png"
+    },
+    "black-hallway-wall": {
+        "name": {
+            "name-USen": "black hallway wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "black-hallway-wall.png"
+    },
+    "black-perforated-board-wall": {
+        "name": {
+            "name-USen": "black perforated-board wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1180,
+        "sell-price": 295,
+        "image-uri": "black-perforated-board-wall.png"
+    },
+    "black-two-toned-tile-wall": {
+        "name": {
+            "name-USen": "black two-toned tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1850,
+        "sell-price": 462,
+        "image-uri": "black-two-toned-tile-wall.png"
+    },
+    "blackboard-wall": {
+        "name": {
+            "name-USen": "blackboard wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "blackboard-wall.png"
+    },
+    "blue-blossoming-wall": {
+        "name": {
+            "name-USen": "blue blossoming wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1760,
+        "sell-price": 440,
+        "image-uri": "blue-blossoming-wall.png"
+    },
+    "blue-camo-wall": {
+        "name": {
+            "name-USen": "blue camo wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1150,
+        "sell-price": 287,
+        "image-uri": "blue-camo-wall.png"
+    },
+    "blue-crown-wall": {
+        "name": {
+            "name-USen": "blue-crown wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2350,
+        "sell-price": 587,
+        "image-uri": "blue-crown-wall.png"
+    },
+    "blue-delicate-blooms-wall": {
+        "name": {
+            "name-USen": "blue delicate-blooms wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1900,
+        "sell-price": 475,
+        "image-uri": "blue-delicate-blooms-wall.png"
+    },
+    "blue-desert-tile-wall": {
+        "name": {
+            "name-USen": "blue desert-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2440,
+        "sell-price": 610,
+        "image-uri": "blue-desert-tile-wall.png"
+    },
+    "blue-diner-wall": {
+        "name": {
+            "name-USen": "blue diner wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2420,
+        "sell-price": 605,
+        "image-uri": "blue-diner-wall.png"
+    },
+    "blue-flower-print-wall": {
+        "name": {
+            "name-USen": "blue flower-print wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1780,
+        "sell-price": 445,
+        "image-uri": "blue-flower-print-wall.png"
+    },
+    "blue-heart-pattern-wall": {
+        "name": {
+            "name-USen": "blue heart-pattern wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1280,
+        "sell-price": 320,
+        "image-uri": "blue-heart-pattern-wall.png"
+    },
+    "blue-honeycomb-tile-wall": {
+        "name": {
+            "name-USen": "blue honeycomb-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1680,
+        "sell-price": 420,
+        "image-uri": "blue-honeycomb-tile-wall.png"
+    },
+    "blue-intricate-wall": {
+        "name": {
+            "name-USen": "blue intricate wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "image-uri": "blue-intricate-wall.png"
+    },
+    "blue-molded-panel-wall": {
+        "name": {
+            "name-USen": "blue molded-panel wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1980,
+        "sell-price": 495,
+        "image-uri": "blue-molded-panel-wall.png"
+    },
+    "blue-paint-wall": {
+        "name": {
+            "name-USen": "blue-paint wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1600,
+        "sell-price": 400,
+        "image-uri": "blue-paint-wall.png"
+    },
+    "blue-painted-wood-wall": {
+        "name": {
+            "name-USen": "blue painted-wood wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1650,
+        "sell-price": 412,
+        "image-uri": "blue-painted-wood-wall.png"
+    },
+    "blue-playroom-wall": {
+        "name": {
+            "name-USen": "blue playroom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2540,
+        "sell-price": 635,
+        "image-uri": "blue-playroom-wall.png"
+    },
+    "blue-quilt-wall": {
+        "name": {
+            "name-USen": "blue quilt wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2150,
+        "sell-price": 537,
+        "image-uri": "blue-quilt-wall.png"
+    },
+    "blue-rose-wall": {
+        "name": {
+            "name-USen": "blue-rose wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1720,
+        "sell-price": 430,
+        "image-uri": "blue-rose-wall.png"
+    },
+    "blue-shanty-wall": {
+        "name": {
+            "name-USen": "blue shanty wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 620,
+        "sell-price": 155,
+        "image-uri": "blue-shanty-wall.png"
+    },
+    "blue-simple-cloth-wall": {
+        "name": {
+            "name-USen": "blue simple-cloth wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "image-uri": "blue-simple-cloth-wall.png"
+    },
+    "blue-striped-wall": {
+        "name": {
+            "name-USen": "blue-striped wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1520,
+        "sell-price": 380,
+        "image-uri": "blue-striped-wall.png"
+    },
+    "blue-subway-tile-wall": {
+        "name": {
+            "name-USen": "blue subway-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1340,
+        "sell-price": 335,
+        "image-uri": "blue-subway-tile-wall.png"
+    },
+    "blue-tile-wall": {
+        "name": {
+            "name-USen": "blue tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1420,
+        "sell-price": 355,
+        "image-uri": "blue-tile-wall.png"
+    },
+    "blue-two-toned-tile-wall": {
+        "name": {
+            "name-USen": "blue two-toned tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1850,
+        "sell-price": 462,
+        "image-uri": "blue-two-toned-tile-wall.png"
+    },
+    "botanical-tile-wall": {
+        "name": {
+            "name-USen": "botanical-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1240,
+        "sell-price": 310,
+        "image-uri": "botanical-tile-wall.png"
+    },
+    "brown-botanical-tile-wall": {
+        "name": {
+            "name-USen": "brown botanical-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1240,
+        "sell-price": 310,
+        "image-uri": "brown-botanical-tile-wall.png"
+    },
+    "brown-brick-wall": {
+        "name": {
+            "name-USen": "brown-brick wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "brown-brick-wall.png"
+    },
+    "brown-crown-wall": {
+        "name": {
+            "name-USen": "brown-crown wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2350,
+        "sell-price": 587,
+        "image-uri": "brown-crown-wall.png"
+    },
+    "brown-diner-wall": {
+        "name": {
+            "name-USen": "brown diner wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2420,
+        "sell-price": 605,
+        "image-uri": "brown-diner-wall.png"
+    },
+    "brown-hallway-wall": {
+        "name": {
+            "name-USen": "brown hallway wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "brown-hallway-wall.png"
+    },
+    "brown-herringbone-wall": {
+        "name": {
+            "name-USen": "brown herringbone wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 7200,
+        "sell-price": 1800,
+        "image-uri": "brown-herringbone-wall.png"
+    },
+    "brown-shanty-wall": {
+        "name": {
+            "name-USen": "brown shanty wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 620,
+        "sell-price": 155,
+        "image-uri": "brown-shanty-wall.png"
+    },
+    "brown-wedding-wall": {
+        "name": {
+            "name-USen": "brown wedding wall"
+        },
+        "sources": [],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "brown-wedding-wall.png"
+    },
+    "bunny-day-wall": {
+        "name": {
+            "name-USen": "bunny day wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 4800,
+        "image-uri": "bunny-day-wall.png"
+    },
+    "butterflies-wall": {
+        "name": {
+            "name-USen": "butterflies wall"
+        },
+        "sources": [
+            "Bug Off"
+        ],
+        "buy-price": 3360,
+        "sell-price": 840,
+        "image-uri": "butterflies-wall.png"
+    },
+    "cabin-wall": {
+        "name": {
+            "name-USen": "cabin wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 7200,
+        "sell-price": 1800,
+        "image-uri": "cabin-wall.png"
+    },
+    "cafe-curtain-wall": {
+        "name": {
+            "name-USen": "cafe-curtain wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "cafe-curtain-wall.png"
+    },
+    "camo-wall": {
+        "name": {
+            "name-USen": "camo wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1150,
+        "sell-price": 287,
+        "image-uri": "camo-wall.png"
+    },
+    "chain-link-fence": {
+        "name": {
+            "name-USen": "chain-link fence"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "chain-link-fence.png"
+    },
+    "cherry-blossom-trees-wall": {
+        "name": {
+            "name-USen": "cherry-blossom-trees wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 18400,
+        "sell-price": 4600,
+        "image-uri": "cherry-blossom-trees-wall.png"
+    },
+    "cherry-wall": {
+        "name": {
+            "name-USen": "cherry wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 16000,
+        "sell-price": 4000,
+        "image-uri": "cherry-wall.png"
+    },
+    "chic-tearoom-wall": {
+        "name": {
+            "name-USen": "chic tearoom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1750,
+        "sell-price": 437,
+        "image-uri": "chic-tearoom-wall.png"
+    },
+    "chic-wall": {
+        "name": {
+            "name-USen": "chic wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1960,
+        "sell-price": 490,
+        "image-uri": "chic-wall.png"
+    },
+    "chocolate-hallway-wall": {
+        "name": {
+            "name-USen": "chocolate hallway wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "chocolate-hallway-wall.png"
+    },
+    "chocolate-herringbone-wall": {
+        "name": {
+            "name-USen": "chocolate herringbone wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 7200,
+        "sell-price": 1800,
+        "image-uri": "chocolate-herringbone-wall.png"
+    },
+    "circuit-board-wall": {
+        "name": {
+            "name-USen": "circuit-board wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "circuit-board-wall.png"
+    },
+    "cityscape-wall": {
+        "name": {
+            "name-USen": "cityscape wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "cityscape-wall.png"
+    },
+    "classic-library-wall": {
+        "name": {
+            "name-USen": "classic-library wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1450,
+        "image-uri": "classic-library-wall.png"
+    },
+    "colorful-puzzle-wall": {
+        "name": {
+            "name-USen": "colorful puzzle wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1540,
+        "sell-price": 385,
+        "image-uri": "colorful-puzzle-wall.png"
+    },
+    "colorful-tile-wall": {
+        "name": {
+            "name-USen": "colorful-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1420,
+        "sell-price": 355,
+        "image-uri": "colorful-tile-wall.png"
+    },
+    "common-wall": {
+        "name": {
+            "name-USen": "common wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 800,
+        "sell-price": 200,
+        "image-uri": "common-wall.png"
+    },
+    "concrete-wall": {
+        "name": {
+            "name-USen": "concrete wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 940,
+        "sell-price": 235,
+        "image-uri": "concrete-wall.png"
+    },
+    "construction-site-wall": {
+        "name": {
+            "name-USen": "construction-site wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "construction-site-wall.png"
+    },
+    "crepe-design-wall": {
+        "name": {
+            "name-USen": "crepe-design wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1550,
+        "sell-price": 387,
+        "image-uri": "crepe-design-wall.png"
+    },
+    "cute-blue-wall": {
+        "name": {
+            "name-USen": "cute blue wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1880,
+        "sell-price": 470,
+        "image-uri": "cute-blue-wall.png"
+    },
+    "cute-red-wall": {
+        "name": {
+            "name-USen": "cute red wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1880,
+        "sell-price": 470,
+        "image-uri": "cute-red-wall.png"
+    },
+    "cute-white-wall": {
+        "name": {
+            "name-USen": "cute white wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1880,
+        "sell-price": 470,
+        "image-uri": "cute-white-wall.png"
+    },
+    "cute-yellow-wall": {
+        "name": {
+            "name-USen": "cute yellow wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1880,
+        "sell-price": 470,
+        "image-uri": "cute-yellow-wall.png"
+    },
+    "dark-chocolate-wall": {
+        "name": {
+            "name-USen": "dark-chocolate wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "dark-chocolate-wall.png"
+    },
+    "dark-wooden-mosaic-wall": {
+        "name": {
+            "name-USen": "dark wooden-mosaic wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1800,
+        "image-uri": "dark-wooden-mosaic-wall.png"
+    },
+    "desert-vista": {
+        "name": {
+            "name-USen": "desert vista"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "desert-vista.png"
+    },
+    "dig-site-wall": {
+        "name": {
+            "name-USen": "dig-site wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "dig-site-wall.png"
+    },
+    "dirt-clod-wall": {
+        "name": {
+            "name-USen": "dirt-clod wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 200,
+        "sell-price": 50,
+        "image-uri": "dirt-clod-wall.png"
+    },
+    "dojo-wall": {
+        "name": {
+            "name-USen": "dojo wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "dojo-wall.png"
+    },
+    "dungeon-wall": {
+        "name": {
+            "name-USen": "dungeon wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "dungeon-wall.png"
+    },
+    "exquisite-wall": {
+        "name": {
+            "name-USen": "exquisite wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "exquisite-wall.png"
+    },
+    "forest-wall": {
+        "name": {
+            "name-USen": "forest wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 176000,
+        "sell-price": 44000,
+        "image-uri": "forest-wall.png"
+    },
+    "future-tech-wall": {
+        "name": {
+            "name-USen": "future-tech wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "future-tech-wall.png"
+    },
+    "garbage-heap-wall": {
+        "name": {
+            "name-USen": "garbage-heap wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 120,
+        "image-uri": "garbage-heap-wall.png"
+    },
+    "gold-screen-wall": {
+        "name": {
+            "name-USen": "gold-screen wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 20750,
+        "image-uri": "gold-screen-wall.png"
+    },
+    "golden-wall": {
+        "name": {
+            "name-USen": "golden wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 40000,
+        "image-uri": "golden-wall.png"
+    },
+    "gray-diner-wall": {
+        "name": {
+            "name-USen": "gray diner wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2420,
+        "sell-price": 605,
+        "image-uri": "gray-diner-wall.png"
+    },
+    "gray-molded-panel-wall": {
+        "name": {
+            "name-USen": "gray molded-panel wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1980,
+        "sell-price": 495,
+        "image-uri": "gray-molded-panel-wall.png"
+    },
+    "gray-shanty-wall": {
+        "name": {
+            "name-USen": "gray shanty wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 620,
+        "sell-price": 155,
+        "image-uri": "gray-shanty-wall.png"
+    },
+    "gray-striped-wall": {
+        "name": {
+            "name-USen": "gray-striped wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1520,
+        "sell-price": 380,
+        "image-uri": "gray-striped-wall.png"
+    },
+    "green-blossoming-wall": {
+        "name": {
+            "name-USen": "green blossoming wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1760,
+        "sell-price": 440,
+        "image-uri": "green-blossoming-wall.png"
+    },
+    "green-delicate-blooms-wall": {
+        "name": {
+            "name-USen": "green delicate-blooms wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1900,
+        "sell-price": 475,
+        "image-uri": "green-delicate-blooms-wall.png"
+    },
+    "green-flower-print-wall": {
+        "name": {
+            "name-USen": "green flower-print wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1780,
+        "sell-price": 445,
+        "image-uri": "green-flower-print-wall.png"
+    },
+    "green-honeycomb-tile-wall": {
+        "name": {
+            "name-USen": "green honeycomb-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1680,
+        "sell-price": 420,
+        "image-uri": "green-honeycomb-tile-wall.png"
+    },
+    "green-intricate-wall": {
+        "name": {
+            "name-USen": "green intricate wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "image-uri": "green-intricate-wall.png"
+    },
+    "green-molded-panel-wall": {
+        "name": {
+            "name-USen": "green molded-panel wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1980,
+        "sell-price": 495,
+        "image-uri": "green-molded-panel-wall.png"
+    },
+    "green-paint-wall": {
+        "name": {
+            "name-USen": "green-paint wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1600,
+        "sell-price": 400,
+        "image-uri": "green-paint-wall.png"
+    },
+    "green-painted-wood-wall": {
+        "name": {
+            "name-USen": "green painted-wood wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1650,
+        "sell-price": 412,
+        "image-uri": "green-painted-wood-wall.png"
+    },
+    "green-playroom-wall": {
+        "name": {
+            "name-USen": "green playroom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2540,
+        "sell-price": 635,
+        "image-uri": "green-playroom-wall.png"
+    },
+    "green-wedding-wall": {
+        "name": {
+            "name-USen": "green wedding wall"
+        },
+        "sources": [],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "green-wedding-wall.png"
+    },
+    "groovy-wall": {
+        "name": {
+            "name-USen": "groovy wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1280,
+        "sell-price": 320,
+        "image-uri": "groovy-wall.png"
+    },
+    "harmonious-wall": {
+        "name": {
+            "name-USen": "harmonious wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1780,
+        "sell-price": 445,
+        "image-uri": "harmonious-wall.png"
+    },
+    "heavy-curtain-wall": {
+        "name": {
+            "name-USen": "heavy-curtain wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "heavy-curtain-wall.png"
+    },
+    "honeycomb-tile-wall": {
+        "name": {
+            "name-USen": "honeycomb-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1680,
+        "sell-price": 420,
+        "image-uri": "honeycomb-tile-wall.png"
+    },
+    "honeycomb-wall": {
+        "name": {
+            "name-USen": "honeycomb wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 3600,
+        "image-uri": "honeycomb-wall.png"
+    },
+    "ice-wall": {
+        "name": {
+            "name-USen": "ice wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 32800,
+        "sell-price": 8200,
+        "image-uri": "ice-wall.png"
+    },
+    "iceberg-wall": {
+        "name": {
+            "name-USen": "iceberg wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 16000,
+        "sell-price": 4000,
+        "image-uri": "iceberg-wall.png"
+    },
+    "imperial-wall": {
+        "name": {
+            "name-USen": "imperial wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "imperial-wall.png"
+    },
+    "industrial-wall": {
+        "name": {
+            "name-USen": "industrial wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "industrial-wall.png"
+    },
+    "ivy-wall": {
+        "name": {
+            "name-USen": "ivy wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "ivy-wall.png"
+    },
+    "jingle-wall": {
+        "name": {
+            "name-USen": "jingle wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 10000,
+        "sell-price": 2500,
+        "image-uri": "jingle-wall.png"
+    },
+    "jungle-wall": {
+        "name": {
+            "name-USen": "jungle wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1380,
+        "image-uri": "jungle-wall.png"
+    },
+    "kisses-wall": {
+        "name": {
+            "name-USen": "kisses wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "kisses-wall.png"
+    },
+    "laboratory-wall": {
+        "name": {
+            "name-USen": "laboratory wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "laboratory-wall.png"
+    },
+    "lattice-wall": {
+        "name": {
+            "name-USen": "lattice wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1780,
+        "sell-price": 445,
+        "image-uri": "lattice-wall.png"
+    },
+    "magma-cavern-wall": {
+        "name": {
+            "name-USen": "magma-cavern wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "magma-cavern-wall.png"
+    },
+    "manga-library-wall": {
+        "name": {
+            "name-USen": "manga-library wall"
+        },
+        "sources": [
+            "Balloon (recipe)"
+        ],
+        "buy-price": -1,
+        "sell-price": 1050,
+        "image-uri": "manga-library-wall.png"
+    },
+    "mangrove-wall": {
+        "name": {
+            "name-USen": "mangrove wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "mangrove-wall.png"
+    },
+    "marine-pop-wall": {
+        "name": {
+            "name-USen": "marine pop wall"
+        },
+        "sources": [
+            "Fishing tournament prize pool (January, April, July, October)"
+        ],
+        "buy-price": 3220,
+        "sell-price": 805,
+        "image-uri": "marine-pop-wall.png"
+    },
+    "meadow-vista": {
+        "name": {
+            "name-USen": "meadow vista"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "meadow-vista.png"
+    },
+    "misty-garden-wall": {
+        "name": {
+            "name-USen": "misty-garden wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "misty-garden-wall.png"
+    },
+    "mod-wall": {
+        "name": {
+            "name-USen": "mod wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1220,
+        "sell-price": 305,
+        "image-uri": "mod-wall.png"
+    },
+    "modern-shoji-screen-wall": {
+        "name": {
+            "name-USen": "modern shoji-screen wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1150,
+        "sell-price": 287,
+        "image-uri": "modern-shoji-screen-wall.png"
+    },
+    "modern-tearoom-wall": {
+        "name": {
+            "name-USen": "modern tearoom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1750,
+        "sell-price": 437,
+        "image-uri": "modern-tearoom-wall.png"
+    },
+    "modern-wood-wall": {
+        "name": {
+            "name-USen": "modern wood wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1800,
+        "image-uri": "modern-wood-wall.png"
+    },
+    "monochromatic-dotted-wall": {
+        "name": {
+            "name-USen": "monochromatic dotted wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "image-uri": "monochromatic-dotted-wall.png"
+    },
+    "monochromatic-tile-wall": {
+        "name": {
+            "name-USen": "monochromatic-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1420,
+        "sell-price": 355,
+        "image-uri": "monochromatic-tile-wall.png"
+    },
+    "mortar-wall": {
+        "name": {
+            "name-USen": "mortar wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "mortar-wall.png"
+    },
+    "mosaic-tile-wall": {
+        "name": {
+            "name-USen": "mosaic-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1450,
+        "sell-price": 362,
+        "image-uri": "mosaic-tile-wall.png"
+    },
+    "mossy-garden-wall": {
+        "name": {
+            "name-USen": "mossy-garden wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "mossy-garden-wall.png"
+    },
+    "mush-wall": {
+        "name": {
+            "name-USen": "mush wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 85600,
+        "sell-price": 21400,
+        "image-uri": "mush-wall.png"
+    },
+    "nook-inc.-wall": {
+        "name": {
+            "name-USen": "nook inc. wall"
+        },
+        "sources": [
+            "Nook Miles System"
+        ],
+        "buy-price": 1200,
+        "sell-price": 6000,
+        "image-uri": "nook-inc.-wall.png"
+    },
+    "ocean-horizon-wall": {
+        "name": {
+            "name-USen": "ocean-horizon wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "ocean-horizon-wall.png"
+    },
+    "office-wall": {
+        "name": {
+            "name-USen": "office wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "office-wall.png"
+    },
+    "old-wallpaper": {
+        "name": {
+            "name-USen": "old wallpaper"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 200,
+        "sell-price": 50,
+        "image-uri": "old-wallpaper.png"
+    },
+    "olive-desert-tile-wall": {
+        "name": {
+            "name-USen": "olive desert-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2440,
+        "sell-price": 610,
+        "image-uri": "olive-desert-tile-wall.png"
+    },
+    "orange-camo-wall": {
+        "name": {
+            "name-USen": "orange camo wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1150,
+        "sell-price": 287,
+        "image-uri": "orange-camo-wall.png"
+    },
+    "orange-molded-panel-wall": {
+        "name": {
+            "name-USen": "orange molded-panel wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1980,
+        "sell-price": 495,
+        "image-uri": "orange-molded-panel-wall.png"
+    },
+    "orange-paint-wall": {
+        "name": {
+            "name-USen": "orange-paint wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1600,
+        "sell-price": 400,
+        "image-uri": "orange-paint-wall.png"
+    },
+    "orange-wall": {
+        "name": {
+            "name-USen": "orange wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 16000,
+        "sell-price": 4000,
+        "image-uri": "orange-wall.png"
+    },
+    "paintball-wall": {
+        "name": {
+            "name-USen": "paintball wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "paintball-wall.png"
+    },
+    "palace-wall": {
+        "name": {
+            "name-USen": "palace wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "palace-wall.png"
+    },
+    "party-wall": {
+        "name": {
+            "name-USen": "party wall"
+        },
+        "sources": [],
+        "buy-price": 1480,
+        "sell-price": 370,
+        "image-uri": "party-wall.png"
+    },
+    "pastel-dotted-wall": {
+        "name": {
+            "name-USen": "pastel dotted wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "image-uri": "pastel-dotted-wall.png"
+    },
+    "pastel-puzzle-wall": {
+        "name": {
+            "name-USen": "pastel puzzle wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1540,
+        "sell-price": 385,
+        "image-uri": "pastel-puzzle-wall.png"
+    },
+    "peach-two-toned-tile-wall": {
+        "name": {
+            "name-USen": "peach two-toned tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1850,
+        "sell-price": 462,
+        "image-uri": "peach-two-toned-tile-wall.png"
+    },
+    "peach-wall": {
+        "name": {
+            "name-USen": "peach wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 4000,
+        "image-uri": "peach-wall.png"
+    },
+    "pear-wall": {
+        "name": {
+            "name-USen": "pear wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 4000,
+        "image-uri": "pear-wall.png"
+    },
+    "perforated-board-wall": {
+        "name": {
+            "name-USen": "perforated-board wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1180,
+        "sell-price": 295,
+        "image-uri": "perforated-board-wall.png"
+    },
+    "pink-blossoming-wall": {
+        "name": {
+            "name-USen": "pink blossoming wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1760,
+        "sell-price": 440,
+        "image-uri": "pink-blossoming-wall.png"
+    },
+    "pink-crown-wall": {
+        "name": {
+            "name-USen": "pink-crown wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2350,
+        "sell-price": 587,
+        "image-uri": "pink-crown-wall.png"
+    },
+    "pink-diner-wall": {
+        "name": {
+            "name-USen": "pink diner wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2420,
+        "sell-price": 605,
+        "image-uri": "pink-diner-wall.png"
+    },
+    "pink-flower-print-wall": {
+        "name": {
+            "name-USen": "pink flower-print wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1780,
+        "sell-price": 445,
+        "image-uri": "pink-flower-print-wall.png"
+    },
+    "pink-heart-pattern-wall": {
+        "name": {
+            "name-USen": "pink heart-pattern wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1280,
+        "sell-price": 320,
+        "image-uri": "pink-heart-pattern-wall.png"
+    },
+    "pink-painted-wood-wall": {
+        "name": {
+            "name-USen": "pink painted-wood wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1650,
+        "sell-price": 412,
+        "image-uri": "pink-painted-wood-wall.png"
+    },
+    "pink-playroom-wall": {
+        "name": {
+            "name-USen": "pink playroom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2540,
+        "sell-price": 635,
+        "image-uri": "pink-playroom-wall.png"
+    },
+    "pink-quilt-wall": {
+        "name": {
+            "name-USen": "pink quilt wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2150,
+        "sell-price": 537,
+        "image-uri": "pink-quilt-wall.png"
+    },
+    "pink-shanty-wall": {
+        "name": {
+            "name-USen": "pink shanty wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 620,
+        "sell-price": 155,
+        "image-uri": "pink-shanty-wall.png"
+    },
+    "pink-simple-cloth-wall": {
+        "name": {
+            "name-USen": "pink simple-cloth wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "image-uri": "pink-simple-cloth-wall.png"
+    },
+    "pink-striped-wall": {
+        "name": {
+            "name-USen": "pink-striped wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1520,
+        "sell-price": 380,
+        "image-uri": "pink-striped-wall.png"
+    },
+    "purple-camo-wall": {
+        "name": {
+            "name-USen": "purple camo wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1150,
+        "sell-price": 287,
+        "image-uri": "purple-camo-wall.png"
+    },
+    "purple-desert-tile-wall": {
+        "name": {
+            "name-USen": "purple desert-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2440,
+        "sell-price": 610,
+        "image-uri": "purple-desert-tile-wall.png"
+    },
+    "purple-dotted-wall": {
+        "name": {
+            "name-USen": "purple dotted wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "image-uri": "purple-dotted-wall.png"
+    },
+    "purple-puzzle-wall": {
+        "name": {
+            "name-USen": "purple puzzle wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1540,
+        "sell-price": 385,
+        "image-uri": "purple-puzzle-wall.png"
+    },
+    "purple-quilt-wall": {
+        "name": {
+            "name-USen": "purple quilt wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2150,
+        "sell-price": 537,
+        "image-uri": "purple-quilt-wall.png"
+    },
+    "purple-rose-wall": {
+        "name": {
+            "name-USen": "purple-rose wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1720,
+        "sell-price": 430,
+        "image-uri": "purple-rose-wall.png"
+    },
+    "rammed-earth-wall": {
+        "name": {
+            "name-USen": "rammed-earth wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1800,
+        "sell-price": 450,
+        "image-uri": "rammed-earth-wall.png"
+    },
+    "ramshackle-wall": {
+        "name": {
+            "name-USen": "ramshackle wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "ramshackle-wall.png"
+    },
+    "red-art-deco-wall": {
+        "name": {
+            "name-USen": "red art-deco wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2780,
+        "sell-price": 695,
+        "image-uri": "red-art-deco-wall.png"
+    },
+    "red-brick-wall": {
+        "name": {
+            "name-USen": "red-brick wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "red-brick-wall.png"
+    },
+    "red-delicate-blooms-wall": {
+        "name": {
+            "name-USen": "red delicate-blooms wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1900,
+        "sell-price": 475,
+        "image-uri": "red-delicate-blooms-wall.png"
+    },
+    "red-dotted-wall": {
+        "name": {
+            "name-USen": "red dotted wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1100,
+        "sell-price": 275,
+        "image-uri": "red-dotted-wall.png"
+    },
+    "red-heart-pattern-wall": {
+        "name": {
+            "name-USen": "red heart-pattern wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1280,
+        "sell-price": 320,
+        "image-uri": "red-heart-pattern-wall.png"
+    },
+    "red-intricate-wall": {
+        "name": {
+            "name-USen": "red intricate wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "image-uri": "red-intricate-wall.png"
+    },
+    "red-perforated-board-wall": {
+        "name": {
+            "name-USen": "red perforated-board wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1180,
+        "sell-price": 295,
+        "image-uri": "red-perforated-board-wall.png"
+    },
+    "red-two-toned-tile-wall": {
+        "name": {
+            "name-USen": "red two-toned tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1850,
+        "sell-price": 462,
+        "image-uri": "red-two-toned-tile-wall.png"
+    },
+    "retro-flower-print-wall": {
+        "name": {
+            "name-USen": "retro flower-print wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1660,
+        "sell-price": 415,
+        "image-uri": "retro-flower-print-wall.png"
+    },
+    "rice-paddy-wall": {
+        "name": {
+            "name-USen": "rice-paddy wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "rice-paddy-wall.png"
+    },
+    "ringside-seating": {
+        "name": {
+            "name-USen": "ringside seating"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "ringside-seating.png"
+    },
+    "rock-climbing-wall": {
+        "name": {
+            "name-USen": "rock-climbing wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "rock-climbing-wall.png"
+    },
+    "rose-wall": {
+        "name": {
+            "name-USen": "rose wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1720,
+        "sell-price": 430,
+        "image-uri": "rose-wall.png"
+    },
+    "ruins-wall": {
+        "name": {
+            "name-USen": "ruins wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "ruins-wall.png"
+    },
+    "rustic-stone-wall": {
+        "name": {
+            "name-USen": "rustic-stone wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1750,
+        "image-uri": "rustic-stone-wall.png"
+    },
+    "sakura-wood-wall": {
+        "name": {
+            "name-USen": "sakura-wood wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 12800,
+        "sell-price": 3200,
+        "image-uri": "sakura-wood-wall.png"
+    },
+    "sci-fi-wall": {
+        "name": {
+            "name-USen": "sci-fi wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 30000,
+        "sell-price": 7500,
+        "image-uri": "sci-fi-wall.png"
+    },
+    "screen-wall": {
+        "name": {
+            "name-USen": "screen wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "screen-wall.png"
+    },
+    "sea-view": {
+        "name": {
+            "name-USen": "sea view"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "sea-view.png"
+    },
+    "security-monitors-wall": {
+        "name": {
+            "name-USen": "security-monitors wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "security-monitors-wall.png"
+    },
+    "sepia-puzzle-wall": {
+        "name": {
+            "name-USen": "sepia puzzle wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1540,
+        "sell-price": 385,
+        "image-uri": "sepia-puzzle-wall.png"
+    },
+    "server-room-wall": {
+        "name": {
+            "name-USen": "server-room wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "server-room-wall.png"
+    },
+    "shoji-screen": {
+        "name": {
+            "name-USen": "shoji screen"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1880,
+        "sell-price": 470,
+        "image-uri": "shoji-screen.png"
+    },
+    "shutter-wall": {
+        "name": {
+            "name-USen": "shutter wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "shutter-wall.png"
+    },
+    "ski-slope-wall": {
+        "name": {
+            "name-USen": "ski-slope wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 12800,
+        "sell-price": 3200,
+        "image-uri": "ski-slope-wall.png"
+    },
+    "skull-wall": {
+        "name": {
+            "name-USen": "skull wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "skull-wall.png"
+    },
+    "sky-wall": {
+        "name": {
+            "name-USen": "sky wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "sky-wall.png"
+    },
+    "skyscraper-wall": {
+        "name": {
+            "name-USen": "skyscraper wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "skyscraper-wall.png"
+    },
+    "snowflake-wall": {
+        "name": {
+            "name-USen": "snowflake wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 19200,
+        "sell-price": 4800,
+        "image-uri": "snowflake-wall.png"
+    },
+    "soothing-tearoom-wall": {
+        "name": {
+            "name-USen": "soothing tearoom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1750,
+        "sell-price": 437,
+        "image-uri": "soothing-tearoom-wall.png"
+    },
+    "stacked-wood-wall": {
+        "name": {
+            "name-USen": "stacked-wood wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1800,
+        "image-uri": "stacked-wood-wall.png"
+    },
+    "stadium-wall": {
+        "name": {
+            "name-USen": "stadium wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "stadium-wall.png"
+    },
+    "standard-tearoom-wall": {
+        "name": {
+            "name-USen": "standard tearoom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1750,
+        "sell-price": 437,
+        "image-uri": "standard-tearoom-wall.png"
+    },
+    "starry-sky-wall": {
+        "name": {
+            "name-USen": "starry-sky wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 30000,
+        "sell-price": 7500,
+        "image-uri": "starry-sky-wall.png"
+    },
+    "starry-wall": {
+        "name": {
+            "name-USen": "starry wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 30000,
+        "sell-price": 7500,
+        "image-uri": "starry-wall.png"
+    },
+    "stately-wall": {
+        "name": {
+            "name-USen": "stately wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2450,
+        "sell-price": 612,
+        "image-uri": "stately-wall.png"
+    },
+    "steel-frame-wall": {
+        "name": {
+            "name-USen": "steel-frame wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 6000,
+        "image-uri": "steel-frame-wall.png"
+    },
+    "stone-wall": {
+        "name": {
+            "name-USen": "stone wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 6000,
+        "sell-price": 1500,
+        "image-uri": "stone-wall.png"
+    },
+    "stormy-night-wall": {
+        "name": {
+            "name-USen": "stormy-night wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "stormy-night-wall.png"
+    },
+    "straw-wall": {
+        "name": {
+            "name-USen": "straw wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "straw-wall.png"
+    },
+    "strawberry-chocolate-wall": {
+        "name": {
+            "name-USen": "strawberry-chocolate wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "strawberry-chocolate-wall.png"
+    },
+    "street-art-wall": {
+        "name": {
+            "name-USen": "street-art wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "street-art-wall.png"
+    },
+    "summit-wall": {
+        "name": {
+            "name-USen": "summit wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "summit-wall.png"
+    },
+    "tree-lined-wall": {
+        "name": {
+            "name-USen": "tree-lined wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "tree-lined-wall.png"
+    },
+    "tropical-vista": {
+        "name": {
+            "name-USen": "tropical vista"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 24000,
+        "sell-price": 6000,
+        "image-uri": "tropical-vista.png"
+    },
+    "underwater-wall": {
+        "name": {
+            "name-USen": "underwater wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 34400,
+        "sell-price": 8600,
+        "image-uri": "underwater-wall.png"
+    },
+    "wavy-tile-wall": {
+        "name": {
+            "name-USen": "wavy-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1740,
+        "sell-price": 435,
+        "image-uri": "wavy-tile-wall.png"
+    },
+    "wedding-party-wall": {
+        "name": {
+            "name-USen": "wedding-party wall"
+        },
+        "sources": [],
+        "buy-price": 1750,
+        "sell-price": 437,
+        "image-uri": "wedding-party-wall.png"
+    },
+    "western-vista": {
+        "name": {
+            "name-USen": "western vista"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "western-vista.png"
+    },
+    "white-botanical-tile-wall": {
+        "name": {
+            "name-USen": "white botanical-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1240,
+        "sell-price": 310,
+        "image-uri": "white-botanical-tile-wall.png"
+    },
+    "white-brick-wall": {
+        "name": {
+            "name-USen": "white-brick wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1000,
+        "sell-price": 250,
+        "image-uri": "white-brick-wall.png"
+    },
+    "white-chocolate-wall": {
+        "name": {
+            "name-USen": "white-chocolate wall"
+        },
+        "sources": [
+            "Saharah"
+        ],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "white-chocolate-wall.png"
+    },
+    "white-delicate-blooms-wall": {
+        "name": {
+            "name-USen": "white delicate-blooms wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1900,
+        "sell-price": 475,
+        "image-uri": "white-delicate-blooms-wall.png"
+    },
+    "white-hallway-wall": {
+        "name": {
+            "name-USen": "white hallway wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2000,
+        "sell-price": 500,
+        "image-uri": "white-hallway-wall.png"
+    },
+    "white-honeycomb-tile-wall": {
+        "name": {
+            "name-USen": "white honeycomb-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1680,
+        "sell-price": 420,
+        "image-uri": "white-honeycomb-tile-wall.png"
+    },
+    "white-painted-wood-wall": {
+        "name": {
+            "name-USen": "white painted-wood wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1650,
+        "sell-price": 412,
+        "image-uri": "white-painted-wood-wall.png"
+    },
+    "white-perforated-board-wall": {
+        "name": {
+            "name-USen": "white perforated-board wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1180,
+        "sell-price": 295,
+        "image-uri": "white-perforated-board-wall.png"
+    },
+    "white-rose-wall": {
+        "name": {
+            "name-USen": "white-rose wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1720,
+        "sell-price": 430,
+        "image-uri": "white-rose-wall.png"
+    },
+    "white-simple-cloth-wall": {
+        "name": {
+            "name-USen": "white simple-cloth wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "image-uri": "white-simple-cloth-wall.png"
+    },
+    "white-subway-tile-wall": {
+        "name": {
+            "name-USen": "white subway-tile wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1340,
+        "sell-price": 335,
+        "image-uri": "white-subway-tile-wall.png"
+    },
+    "white-wedding-wall": {
+        "name": {
+            "name-USen": "white wedding wall"
+        },
+        "sources": [],
+        "buy-price": 3000,
+        "sell-price": 750,
+        "image-uri": "white-wedding-wall.png"
+    },
+    "wild-wood-wall": {
+        "name": {
+            "name-USen": "wild-wood wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1800,
+        "image-uri": "wild-wood-wall.png"
+    },
+    "wooden-knot-wall": {
+        "name": {
+            "name-USen": "wooden-knot wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": 7200,
+        "sell-price": 1800,
+        "image-uri": "wooden-knot-wall.png"
+    },
+    "wooden-mosaic-wall": {
+        "name": {
+            "name-USen": "wooden-mosaic wall"
+        },
+        "sources": [
+            "DIY Recipes"
+        ],
+        "buy-price": -1,
+        "sell-price": 1800,
+        "image-uri": "wooden-mosaic-wall.png"
+    },
+    "woodland-wall": {
+        "name": {
+            "name-USen": "woodland wall"
+        },
+        "sources": [
+            "Villagers (recipe)"
+        ],
+        "buy-price": -1,
+        "sell-price": 1380,
+        "image-uri": "woodland-wall.png"
+    },
+    "yellow-flower-print-wall": {
+        "name": {
+            "name-USen": "yellow flower-print wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1780,
+        "sell-price": 445,
+        "image-uri": "yellow-flower-print-wall.png"
+    },
+    "yellow-heart-pattern-wall": {
+        "name": {
+            "name-USen": "yellow heart-pattern wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1280,
+        "sell-price": 320,
+        "image-uri": "yellow-heart-pattern-wall.png"
+    },
+    "yellow-intricate-wall": {
+        "name": {
+            "name-USen": "yellow intricate wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1570,
+        "sell-price": 392,
+        "image-uri": "yellow-intricate-wall.png"
+    },
+    "yellow-paint-wall": {
+        "name": {
+            "name-USen": "yellow-paint wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1600,
+        "sell-price": 400,
+        "image-uri": "yellow-paint-wall.png"
+    },
+    "yellow-playroom-wall": {
+        "name": {
+            "name-USen": "yellow playroom wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2540,
+        "sell-price": 635,
+        "image-uri": "yellow-playroom-wall.png"
+    },
+    "yellow-quilt-wall": {
+        "name": {
+            "name-USen": "yellow quilt wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 2150,
+        "sell-price": 537,
+        "image-uri": "yellow-quilt-wall.png"
+    },
+    "yellow-simple-cloth-wall": {
+        "name": {
+            "name-USen": "yellow simple-cloth wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 750,
+        "sell-price": 187,
+        "image-uri": "yellow-simple-cloth-wall.png"
+    },
+    "yellow-striped-wall": {
+        "name": {
+            "name-USen": "yellow-striped wall"
+        },
+        "sources": [
+            "Nook's Cranny"
+        ],
+        "buy-price": 1520,
+        "sell-price": 380,
+        "image-uri": "yellow-striped-wall.png"
+    }
+}

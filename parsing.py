@@ -120,7 +120,7 @@ def generateClothingData():
                 try:
                     urllib.request.urlretrieve(value["imageLink"], category_image_dir + image_name)
                 except HTTPError as err:
-                    print(image_links[index])
+                    print(value["imageLink"])
                 except IndexError as err:
                     print(new_key)
 
@@ -153,18 +153,15 @@ def generateFunitureData():
     # create a list of directories to loop through
     dirs = [
         dir.furniture_rugs,
-        dir.furniture_wallmounted,
+        dir.furniture_floorings,
         dir.furniture_wallpapers
     ]
-
-    sources = ["sister", "label", "kick"]
-    sources_full = ["Able Sisters", "Label", "Kicks"]
 
     for d in dirs:
         category_image_dir = images_dir + d[0]
         category = {}
 
-        with open(dir.cwd + dir.clothing + d[1]) as f:
+        with open(dir.cwd + dir.furniture + d[1]) as f:
             data = json.load(f)
 
         for k, value in data.items():
@@ -184,64 +181,25 @@ def generateFunitureData():
 
             new_key = key.lower().replace(" ", "-")
 
-            image_links = value["variationImageLinks"] if "variationImageLinks" in value else None
+            image_link = value["image_url"] or None
 
-            buy_price = cross_reference_data["buyPrices"][0]["value"] if "buyPrices" in cross_reference_data else value["priceBuy"]
-            sell_price = cross_reference_data["sellPrice"]["value"] if "sellPrice" in cross_reference_data else value["priceSell"]
-            sources = []
-            variation_names = []
-            variation_images = []
+            buy_price = cross_reference_data["buyPrices"][0]["value"] if "buyPrices" in cross_reference_data else value["price"]["buy"]
+            sell_price = cross_reference_data["sellPrice"]["value"] if "sellPrice" in cross_reference_data else value["price"]["sell"]
+            sources = cross_reference_data["sources"] if "sources" in cross_reference_data else value["source"]
 
-            # get list of source name
-            for source in value["source"]:
-                is_designer = False
-                # check if the source contains "sister", "label", or "kick"
-                for index, source_name in enumerate(sources):
-                    # if so, add appropriate name to list
-                    if source_name in source:
-                        is_designer = True
-                        # ensure we don't have duplicates
-                        if sources_full[index] not in sources:
-                            sources.append(sources_full[index])
+            image_name = new_key + ".png"
 
-                if not is_designer:
-                    sources.append(source)
-
+            # download images from the web
+            if not os.path.exists(category_image_dir):
+                os.makedirs(category_image_dir)
             
-            if "variations" in value:
-                for index, item in enumerate(value["variations"]):
-                    # set image name and dir to save in
-                    image_name = new_key + "-" + item.lower().replace(",", "").replace(" ", "-") + ".png"
-
-                    # download images from the web
-                    if not os.path.exists(category_image_dir):
-                        os.makedirs(category_image_dir)
-                    try:
-                        urllib.request.urlretrieve(image_links[index], category_image_dir + image_name)
-                    except HTTPError as err:
-                        print(image_links[index])
-                    except IndexError as err:
-                        print(new_key)
-                        
-                    # add the variant name and image name to the list
-                    variation_names.append(item)
-                    variation_images.append(image_name)
-
-            if len(variation_names) == 0:
-                image_name = new_key + ".png"
-
-                # download images from the web
-                if not os.path.exists(category_image_dir):
-                    os.makedirs(category_image_dir)
-                
-                try:
-                    urllib.request.urlretrieve(value["imageLink"], category_image_dir + image_name)
-                except HTTPError as err:
-                    print(image_links[index])
-                except IndexError as err:
-                    print(new_key)
-
-                variation_images.append(image_name)
+            # if image_link:
+            #     try:
+            #         urllib.request.urlretrieve(image_link, category_image_dir + image_name)
+            #     except HTTPError as err:
+            #         print(image_link)
+            #     except IndexError as err:
+            #         print(new_key)
 
             category[new_key] = {
                 "name": {
@@ -250,9 +208,7 @@ def generateFunitureData():
                 "sources": sources,
                 "buy-price": buy_price,
                 "sell-price": sell_price,
-                "variant": len(variation_names) > 0,
-                "variation_names": variation_names,
-                "variation_images": variation_images
+                "image-uri": image_name
             }
 
         if not os.path.exists(json_dir):
